@@ -11,11 +11,11 @@ Summer 2016
 
 Eduard Braun[^1]
 
-#### INTRODUCTION
+###### INTRODUCTION
 
 Howden (2016) dedicates a large part of his response to criticizing my way of dealing with and classifying the concept of opportunity costs in my book (Braun, 2014). I must start by saying that the main arguments in my book do not depend on my approach to the cost problem. The main reason why I considered it necessary to abandon the opportunity cost concept is that I found it impossible to apply it to the analysis of human action in the passing of time. For this purpose, the concept of costs as employed in business life, where profits are traditionally not calculated on the basis of opportunity costs but as historically incurred monetary expenses,[^2] are much more useful. It appeared to me that if “the interest rate expresses itself in the difference between income and costs at each stage” (Huerta de Soto, 2012, p. 557), the costs must not be understood as foregone opportunities but as historical outlays.
 
-#### CRITICAL REFLECTIONS ON THE OPPORTUNITY COST DOCTRINE
+###### CRITICAL REFLECTIONS ON THE OPPORTUNITY COST DOCTRINE
 
 Most Austrians agree that costs are a praxeological phenomenon. Each action implies the incurrence of costs. In the terminology of Rothbard (1962, p. 104; see also Mises, 1949, p. 97), the objective of human action, i.e., psychic profit, can be expressed as follows:
 
@@ -47,7 +47,7 @@ Reisman’s and my criticism of the said doctrine does not imply that we questio
 
 Alternative uses do matter, of course, and it is important to any decision-maker to be aware of the options he has before choosing a certain alternative and rejecting others. But it leads to confusion if these alternative uses are called _costs_. Particularly, as I said above, it becomes difficult to discuss the role of time in human action if costs are supposed to relate to choices. _Choices_ are instantaneous, timeless. Only _actions_ have a time dimension; and in action, costs must be understood as historical costs. As I show in my book, this approach to costs and action allows for a praxeological explanation of originary interest that avoids the shortcomings of the traditional Austrian analysis of this topic pointed out by Hülsmann (2002).
 
-#### REFERENCES
+###### REFERENCES
 
 Braun, Eduard. 2014. _Finance behind the Veil of Money: An Essay on the Economics of Capital, Interest, and the Financial Market_. Liberty.Me.
 

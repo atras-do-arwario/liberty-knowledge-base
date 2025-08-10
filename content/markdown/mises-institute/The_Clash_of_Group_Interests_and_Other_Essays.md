@@ -28,7 +28,7 @@ Mises’ notable theory of classes has been curiously neglected by most of his f
 
 ## The Clash of Group Interests (1945)
 
-## I
+#### I
 
 To apply the term “group tensions” to denote contemporary antagonisms is certainly a euphemism. What we have to face are conflicts considered as irreconcilable and resulting in almost continual wars, civil wars, and revolutions. As far as there is peace, the reason is not, to be sure, love of peace based on philosophical principles, but the fact that the groups concerned have not yet finished their preparations for the fight and, for considerations of expediency, are waiting for a more propitious moment to strike the first blow.
 
@@ -44,7 +44,7 @@ The very way in which social scientists, historians, editors, and politicians ap
 
 Our wars and civil wars are not contrary to the social doctrines generally accepted today. They are precisely the logical outcome of these doctrines.
 
-## II
+#### II
 
 The first question we must answer is: What integrates those groups whose conflicts we are discussing?
 
@@ -72,7 +72,7 @@ The root causes of present-day group antagonisms must be seen in the fact that w
 
 We do not have to discuss the problem whether or not it is true that the preservation and the further development of occidental civilization require the maintenance of the geographical segregation of various racial groups. The task of this paper is to deal with the economic aspects of group conflicts. If it is true that racial considerations make it inexpedient to provide an outlet for the colored inhabitants of comparatively overpopulated areas, this would not contradict the statement that in an unhampered capitalist society there are no irreconcilable conflicts of group interests. It would only demonstrate that racial factors make it inexpedient to carry the principle of capitalism and market economy in its utmost consequences and that the conflict among various races is, for reasons commonly called noneconomic, irreconcilable. It would certainly not disprove the statement of the liberals that within a society of free enterprise and free mobility of men, commodities, and capital, there are no irreconcilable conflicts of the rightly understood interests of various individuals and groups of individuals.
 
-## III
+#### III
 
 The belief that there prevails an irreconcilable conflict of group interests is age-old. It was the essential proposition of Mercantilist doctrine. The Mercantilists were consistent enough to deduce from this principle that war is an inherent and eternal pattern of human relations. Mercantilism was a philosophy of war.
 
@@ -98,7 +98,7 @@ There is no social doctrine other than that of the “orthodox” and “reactio
 
 This is meager consolation indeed. At any rate, such statements do not invalidate the proposition that nationalists and Marxians consider the violent conflict of group interests as a necessary phenomenon of our time and that they attach a moral value either to international war or to class war.
 
-## IV
+#### IV
 
 The most remarkable fact in the history of our age is the revolt against rationalism, economics, and utilitarian social philosophy; it is at the same^tiine a revert against freedom, democracy, and representative government. It is usual to distinguish within this movement a left wing and a right wing. The distinction is spurious. The proof is that it is impossible to classify in either of these groups the great leaders of the movement. Was Hegel a man of the Left or of the Right? Both the left wing and the right wing Hegelians were undoubtedly correct in referring to Hegel as their master. Was George Sorel a Leftist or a Rightist? Both Lenin and Mussolini were his intellectual disciples. Bismarck is commonly regarded as a reactionary. But his social-security scheme is the acme of present-day progressivism. If Ferdinand Lassalle had not been the son of Jewish parents, the Nazis would call him the first German labor leader and the founder of the German socialist party, one of their greatest men. From the point of view of true liberalism, all the supporters of the conflict doctrine form one homogenous party.
 
@@ -116,7 +116,7 @@ One of the objections raised against the liberal philosophy recom-mendeding a fr
 
 However, what these would-be progressives are supporting is tantamount to a return to the social organization of the ages preceding the “industrial revolution.” The various measures of economic nationalism are a replica of the policies of Mercantilism. The jurisdictional conflicts between labor unions do not essentially differ from the struggles between mediaeval guilds and inns. Like the absolute princes of seventeenth- and eighteenth-century Europe, these moderns are aiming at a system under which the government undertakes the direction of all economic activities of its citizens. It is not consistent to exclude beforehand the return to the policies of Cobden and Bright if one does not find any fault in returning to the policies of Louis XIV and Colbert.
 
-## V
+#### V
 
 It is a fact that the living philosophy of our age is a philosophy of irreconcilable conflict and dissociation. People value their party, class, linguistic group, or nation as supreme, believe that their own group cannot thrive but at the expense of other groups, and are not prepared to tolerate any measures which in their opinion would have to be considered as an abandonment of vital group interests. Thus a peaceful arrangement with other groups is out of the question. Take for instance the implacable intransigence of Leninism or of the French _nationalisme integral_ or of the Nazis. It is the same with regard to domestic affairs. No pressure group is ready to renounce the least of its pretensions for considerations of national unity.
 
@@ -136,7 +136,7 @@ The nearly universal opinion expressed these days is that the economic crisis of
 
 This is hardly a new idea. The socialists have always maintained that economic crises are the inevitable result of the capitalistic method of production and that there is no other means of eliminating economic crises than the transition to socialism. If these assertions are expressed more forcefully these days and evoke greater public response, it is not because the present crisis is greater or longer than its predecessors, but rather primarily because today public opinion is much more strongly influenced by socialist views than it was in previous decades.
 
-## I
+#### I
 
 When there was no economic theory, the belief was that whoever had power and was determined to use it could accomplish anything. In the interest of their spiritual welfare and with a view toward their reward in Heaven, rulers were admonished by their priests to exercise moderation in their use of power. Also, it was not a question of what limits the inherent conditions of human life and production set for this power, but rather that they were considered boundless and omnipotent in the sphere of social affairs.
 
@@ -152,7 +152,7 @@ Now, because indeed that which economic theory predicted has happened, because t
 
 Liberalism cannot be deemed responsible for any of the institutions which give today’s economic policies their character. It was against the nationalization and the bringing under municipal control of projects which now show themselves to be catastrophes for the public sector and a source of filthy corruption; it was against the denial of protection for those willing to work and against placing state power at the disposal of the trade unions, against unemployment compensation, which has made unemployment a permanent and universal phenomenon, against social insurance, which has made those insured into grumblers, malingers, and neurasthenics, against tariffs (and thereby implicitly against cartels), against the limitation of freedom to live, to travel, or study where one likes, against excessive taxation and against inflation, against armaments, against colonial acquisitions, against the oppression of minorities, against imperialism and against war. It put up stubborn resistance against the politics of capital consumption. And liberalism did not create the armed party troops who are just waiting for the convenient opportunity to start a civil war.
 
-## II
+#### II
 
 The line of argument that leads to blaming capitalism for at least some of these things is based on the notion that entrepreneurs and capitalists are no longer liberal but interventionist and statist. The fact is correct, but the conclusions people want to draw from it are wrong-headed. These deductions stem from the entirely untenable Marxist view that entrepreneurs and capitalists protected their special class interests through liberalism during the time when capitalism flourished but now, in the late and declining period of capitalism, protect them through interventionism. This is supposed to be proof that the “hampered economy” of interventionism is the historically necessary economics of the phase of capitalism in which we find ourselves today. But the concept of classical political economy and of liberalism as the ideology (in the Marxist sense of the word) of the bourgeoisie is one of the many distorted techniques of Marxism. If entrepreneurs and capitalists were liberal thinkers around 1800 in England and interventionist, statist, and socialist thinkers around 1930 in Germany, the reason is that entrepreneurs and capitalists were also captivated by the prevailing ideas of the times. In 1800 no less than in 1930 entrepreneurs had special interests which were protected by interventionism and hurt by liberalism.
 
@@ -166,7 +166,7 @@ Powers working toward the independence of the directors of the large banks, indu
 
 With the influence of the state behind them and supported by a thoroughly interventionist public opinion, the leaders of big enterprises today feel so strong in relation to the stockholders that they believe they need not take their interests into account. In their conduct of the businesses of society in those countries in which statism has most strongly come to rule—for example in the successor states of the old Austro-Hungarian Empire—they are as unconcerned about profitability as the directors of public utilities. The result is ruin. The theory which has been advanced says that these ventures are too large to be run simply with a view toward profit. This concept is extraordinarily opportune whenever the result of conducting business while fundamentally renouncing profitability is the bankruptcy of the enterprise. It is opportune, because at this moment the same theory demands the intervention of the state for support of enterprises which are too big to be allowed to fail.
 
-## III
+#### III
 
 It is true that socialism and interventionism have not yet succeeded in completely eliminating capitalism. If they had, we Europeans, after centuries of prosperity, would rediscover the meaning of hunger on a massive scale. Capitalism is still prominent enough that new industries are coming into existence, and those already established are improving and expanding their equipment and operations. All the economic advances which have been and will be made stem from the persistant remnant of capitalism in our society. But capitalism is always harrassed by the intervention of the government and must pay as taxes a considerable part of its profits in order to defray the inferior productivity of public enterprise.
 
@@ -213,7 +213,7 @@ On the day of the dedication of the memorial to Carl Menger in the arcade of the
 
 No other place is better suited for an attempt to provide a short overview for the general audience on the works of the Austrian School of economics than in the columns of the _Neue Freie Presse._ This is because Carl Menger himself and all the others who can be counted among the older Austrian school in the narrower or broader sense (Eugen v. Böhm-Bawerk, Friedrich Wieser, Robert Zuckerkandl, Emil Sax, Robert Meyer, Johann Komorzynski, Rudolf Auspitz, Richard Lieben), have spoken out again and again in the _Neue Freie Presse_ in order to discuss economic issues of the day or to report about the results of the theoretical research.
 
-## I
+#### I
 
 The historical starting point of scientific economics is the idea suggested by the Physiocrats in France and the Scotsmen David Hume and Adam Smith, that prices, wages, and interest rates are clearly determined by the market situation or at least within certain limits and that the market price functions as the regulator of production. Where earlier men saw only randomness and arbitrariness, they recognized a process of regularity. The classical school of economics whose contributions culminated in the work of David Ricardo, made it its task to develop catallactics, the science of exchange and income, into a complete system.
 
@@ -227,7 +227,7 @@ After Walter Bagehot, whose reputation as an economist is based on the famous bo
 
 The practice of economic theory entails constant sharp criticism of all statements of an economic nature with all means at the disposal of the human mind.
 
-## II
+#### II
 
 The system of classical economics was unable to provide a satisfactory solution to the problem of price determination. It should have been obvious to derive the evaluation of goods which represents the basis of the price determination process, from their usefulness (usefulness in satisfying human wants). But there was a special difficulty, which the classical economists with all their ingenuity could not overcome. Some of the most useful goods are assigned a low value such as iron, coal or bread or are given no value at all such as water or air, whereas doubtless less useful ones such as gems are valued very highly. In view of the failure of all efforts to explain this paradox, it was decided to look for other explanations of value which however could not be thought out without artificial aids and without contradiction. Something was obviously wrong.
 
@@ -235,7 +235,7 @@ Menger succeeded in his ingenuous first work to overcome this seeming paradox of
 
 On these new foundations Menger and his followers built, by using principles established by the classical economists, a complete system for the explanation of economic phenomena.
 
-## III
+#### III
 
 At about the same time and independently of Menger, the British economist William Stanley Jevons and the Frenchman Leon Walras, working in Lausanne, taught similar theories. After the time had passed which each new idea needs to prove itself, the subjective marginal utility theory began its victorious march through the world. Menger was more fortunate than his most significant forerunner, the Prussian government employee Gossen, and could witness the recognition of his teachings by economists throughout the world.
 
@@ -245,7 +245,7 @@ Menger never formed a school of thought in the ordinary sense. He was too great 
 
 Both of them have since brought their work and their lives to a close. However a new generation has moved up and the series of excellent scientific inquiries which have been published in the past few years by men under thirty shows that Austria is not willing to relinquish its position as the home of rigorous economic research.
 
-## IV
+#### IV
 
 Originally, the historical school of the “Economic Science of the State” (wirtschafliche Staatswissenshaften) was bothered very little by the critical and positive work of the Austrian school and in this respect was very similar to the schools of interventionism abroad. They continued to look down upon serious theoretical work and to spread without inhibition the teachings of the omnipotence of the State over the economy in the knowledge that their position of power was guaranteed by governments and political parties.
 

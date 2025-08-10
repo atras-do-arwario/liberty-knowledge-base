@@ -55,7 +55,7 @@ Animals are driven by instinctive urges. They yield to the impulse which prevail
 
 Man’s eminence is to be seen in the fact that he chooses between alternatives. He regulates his behavior deliberatively. He can master his impulses and desires; he has the power to suppress wishes the satisfaction of which would force him to renounce the attainment of more important goals. In short: man acts; he purposively aims at ends chosen. This is what we have in mind in stating that man is a moral person, responsible for his conduct.
 
-### Freedom as a Postulate of Morality
+###### Freedom as a Postulate of Morality
 
 All the teachings and precepts of ethics, whether based upon a religious creed or whether based upon a secular doctrine like that of the Stoic philosophers, presuppose this moral autonomy of the individual and therefore appeal to the individual’s conscience. They presuppose that the individual is free to choose among various modes of conduct and require him to behave in compliance with definite rules, the rules of morality. Do the right things, shun the bad things.
 
@@ -63,25 +63,25 @@ It is obvious that the exhortations and admonishments of morality make sense onl
 
 This is why freedom is not only a political postulate, but no less a postulate of every religious or secular morality.
 
-### The Struggle for Freedom
+###### The Struggle for Freedom
 
 Yet for thousands of years a considerable part of mankind was either entirely or at least in many regards deprived of the faculty to choose between what is right and what is wrong. In the status society of days gone by the freedom to act according to their own choice was, for the lower strata of society, the great majority of the population, seriously restricted by a rigid system of controls. An outspoken formulation of this principle was the statute of the Holy Roman Empire that conferred upon the princes and counts of the Reich (Empire) the power and the right to determine the religious allegiance of their subjects.
 
 The Orientals meekly acquiesced in this state of affairs. But the Christian peoples of Europe and their scions that settled in overseas territories never tired in their struggle for liberty. Step by step they abolished all status and caste privileges and disabilities until they finally succeeded in establishing the system that the harbingers of totalitarianism try to smear by calling it the bourgeois system.
 
-### The Supremacy of the Consumers
+###### The Supremacy of the Consumers
 
 The economic foundation of this bourgeois system is the market economy in which the consumer is sovereign. The consumer, i.e., everybody, determines by his buying or abstention from buying what should be produced, in what quantity and of what quality. The businessmen are forced by the instrumentality of profit and loss to obey the orders of the consumers, Only those enterprises can flourish that supply in the best possible and cheapest way those commodities and services which the buyers are most anxious to acquire. Those who fail to satisfy the public suffer losses and are finally forced to go out of business.
 
 In the precapitalistic ages the rich were the owners of large landed estates. They or their ancestors had acquired their property as gifts?feuds or fiefs?from the sovereign who?with their aid?had conquered the country and subjugated its inhabitants. These aristocratic landowners were real lords as they did not depend on the patronage of buyers. But the rich of a capitalistic industrial society are subject to the supremacy of the market. They acquire their wealth by serving the consumers better than other people do and they forfeit their wealth when other people satisfy the wishes of the consumers better or cheaper than they do. In the free market economy the owners of capital are forced to invest it in those lines in which it best serves the public. Thus ownership of capital goods is continually shifted into the hands of those who have best succeeded in serving the consumers. In the market economy private property is in this sense a public service imposing upon the owners the responsibility of employing it in the best interests of the sovereign consumers. This is what economists mean when they call the market economy a democracy in which every penny gives a right to vote.
 
-### The Political Aspects of Freedom
+###### The Political Aspects of Freedom
 
 Representative government is the political corollary of the market economy. The same spiritual movement that created modern capitalism substituted elected officeholders for the authoritarian rule of absolute kings and hereditary aristocracies. It was this much-decried bourgeois liberalism that brought freedom of conscience, of thought, of speech, and of the press and put an end to the intolerant persecution of dissenters.
 
 A free country is one in which every citizen is free to fashion his life according to his own plans. He is free to compete on the market for the most desirable jobs and on the political scene for the highest offices. He does not depend more on other people’s favor than these others depend on his favor. If he wants to succeed on the market, he has to satisfy the consumers; if he wants to succeed in public affairs he has to satisfy the voters. This system has brought to the capitalistic countries of Western Europe, America, and Australia an unprecedented increase in population figures and the highest standard of living ever known in history. The much talked-about common man has at his disposal amenities of which the richest men in precapitalistic ages did not even dream. He is in a position to enjoy the spiritual and intellectual achievements of science, poetry, and art that in earlier days were accessible only to a small elite of well-to-do people. And he is free to worship as his conscience tells him.
 
-### The Socialist Misrepresentation of the Market Economy
+###### The Socialist Misrepresentation of the Market Economy
 
 All the facts about the operation of the capitalistic system are misrepresented and distorted by the politicians and writers who arrogated to themselves the label of liberalism, the school of thought that in the 19th century crushed the arbitrary rule of monarchs and aristocrats and paved the way for free trade and enterprise. As these advocates of a return to despotism see it, all the evils that plague mankind are due to sinister machinations on the part of big business. What is needed to bring about wealth and happiness for all decent people is to put the corporations under strict government control. They admit, although only obliquely, that this means the adoption of socialism, the system of the Union of Soviet Socialist Republics. But they protest that socialism will be something entirely different in the countries of Western civilization from what it is in Russia. And anyway, they say, there is no other method to deprive the mammoth corporations of the enormous power they have acquired and to prevent them from further damaging the interests of the people.
 
@@ -91,7 +91,7 @@ It is silly to speak of the “power” of big business. The very mark of capita
 
 A man who criticizes the conduct of business affairs and pretends to know better methods for the provision of the consumers is just an idle babbler. If he thinks that his own designs are better, why does he not try them himself? There are in this country always capitalists in search of a profitable investment of their funds who are ready to provide the capital required for any reasonable innovations. The public is always eager to buy what is better or cheaper or better and cheaper. What counts in the market is not fantastic reveries, but doing. It was not talking that made the “tycoons” rich, but service to the customers.
 
-### Capital Accumulation Benefits All of the People
+###### Capital Accumulation Benefits All of the People
 
 It is fashionable nowadays to pass over in silence the fact that all economic betterment depends on saving and the accumulation of capital. None of the marvelous achievements of science and technology could have been practically utilized if the capital required had not previously been made available. What prevents the economically backward nations from taking full advantage of all the Western methods of production and thereby keeps their masses poor, is not unfamiliarity with the teachings of technology but the insufficiency of their capital. One badly misjudges the problems facing the underdeveloped countries if one asserts that what they lack is technical knowledge, the “know how.” Their businessmen and their engineers, most of them graduates of the best schools of Europe and America, are well acquainted with the state of contemporary applied science. What ties their hands is a shortage of capital.
 
@@ -99,11 +99,11 @@ A hundred years ago America was even poorer than these backward nations. What ma
 
 Under capitalism the acquisitiveness of the individual businessman benefits not only himself but also all other people. There is a reciprocal relation between his acquiring wealth by serving the consumers and accumulating capital and the improvement of the standard of living of the wage-earners who form the majority of the consumers. The masses are in their capacity both as wage-earners and as consumers interested in the flowering of business. This is what the old liberals had in mind when they declared that in the market economy there prevails a harmony of the true interests of all groups of the population.
 
-### Economic Well-Being Threatened by Statism
+###### Economic Well-Being Threatened by Statism
 
 It is in the moral and mental atmosphere of this capitalistic system that the American citizen lives and works. There are still in some parts of the United States conditions left which appear highly unsatisfactory to the prosperous inhabitants of the advanced districts which form the greater part of the country. But the rapid progress of industrialization would have long since wiped out these pockets of backwardness if the unfortunate policies of the New Deal had not slowed down the accumulation of capital, the irreplaceable tool of economic betterment. Used to the conditions of a capitalistic environment, the average American takes it for granted that every year business makes something new and better accessible to him. Looking backward upon the years of his own life, he realizes that many implements that were totally unknown in the days of his youth and many others which at that time could be enjoyed only by a small minority are now standard equipment of almost every household. He is fully confident that this trend will prevail also in the future. He simply calls it the “American way of life” and does not give serious thought to the question of what made this continuous improvement in the supply of material goods possible. He is not earnestly disturbed by the operation of factors that are bound not only to stop further accumulation of capital but may very soon bring about capital decumulation. He does not oppose the forces that?by frivolously increasing public expenditure, by cutting down capital accumulation, and even making for consumption of parts of the capital invested in business, and, finally, by inflation?are sapping the very foundations of his material well-being. He is not concerned about the growth of statism that wherever it has been tried resulted in producing and preserving conditions which in his eyes are shockingly wretched.
 
-### No Personal Freedom Without Economic Freedom
+###### No Personal Freedom Without Economic Freedom
 
 Unfortunately many of our contemporaries fail to realize what a radical change in the moral conditions of man, the rise of statism, the substitution of government omnipotence for this market economy, is bound to bring about. They are deluded by the idea that there prevails a clear-cut dualism in the affairs of man, that there is on the one side a sphere of economic activities and on the other side a field of activities that are considered as noneconomic. Between these two fields there is, they think, no close connection. The freedom that socialism abolishes is “only” the economic freedom, while freedom in all other matters remains unimpaired.
 
@@ -115,7 +115,7 @@ In exclusively controlling all the factors of production the socialist regime co
 
 What makes many people blind to the essential features of any socialist or totalitarian system is the illusion that this system will be operated precisely in the way which they themselves consider as desirable. In supporting socialism, they take it for granted that the “state” will always do what they themselves want it to do. They call only that brand of totalitarianism “true,” “real,” or “good” socialism the rulers of which comply with their own ideas. All other brands they decry as counterfeit. What they first of all expect from the dictator is that he will suppress all those ideas of which they themselves disapprove. In fact, all these supporters of socialism are, unbeknown to themselves, obsessed by the dictatorial or authoritarian complex. They want all opinions and plans with which they disagree to be crushed by violent action on the part of the government.
 
-### The Meaning of the Effective Right to Dissent
+###### The Meaning of the Effective Right to Dissent
 
 The various groups that are advocating socialism, no matter whether they call themselves communists, socialists, or merely social reformers, agree in their essential economic program. They all want to substitute state control?or, as some of them prefer to call it, social control?of production activities for the market economy with its supremacy of the individual consumers. What separates them from one another is not issues of economic management, but religious and ideological convictions. There are Christian socialists?Catholic and Protestant of different denominations?and there are atheist socialists. Each of these varieties of socialism takes it for granted that the socialist commonwealth will be guided by the precepts of their own faith or of their rejection of any religious creed. They never give a thought to the possibility that the socialist regime may be directed by men hostile to their own faith and moral principles who may consider it as their duty to use all the tremendous power of the socialist apparatus for the suppression of what in their eyes is error, superstition, and idolatry.
 
@@ -140,25 +140,25 @@ Experience teaches man that cooperative action is more efficient and productive 
   1. the innate inequality of men with regard to their ability to perform various kinds of labor, and
   2. the unequal distribution of the nature-given, nonhuman opportunities of production on the surface of the earth. One may as well consider these two facts as one and the same fact, namely, the manifoldness of nature which makes the universe a complex of infinite varieties.
 
-### Innate Inequality
+###### Innate Inequality
 
 The division of labor is the outcome of man’s conscious reaction to the multiplicity of natural conditions. On the other hand, it is itself a factor bringing about differentiation. It assigns to the various geographic areas specific functions in the complex of the processes of production. It makes some areas urban, others rural; it locates the various branches of manufacturing, mining, and agriculture in different places. Still more important, however, is the fact that it intensifies the innate inequality of men. Exercise and practice of specific tasks adjust individuals better to the requirements of their performance; men develop some of their inborn faculties and stunt the development of others. Vocational types emerge, people become specialists.
 
 The division of labor splits the various processes of production into minute tasks, many of which can be performed by mechanical devices. It is this fact that made the use of machinery possible and brought about the amazing improvements in technical methods of production. Mechanization is the fruit of the division of labor, its most beneficial achievement, not its motive and fountain spring. Power-driven specialized machinery could be employed only in a social environment under the division of labor. Every step forward on the road toward the use of more specialized, more refined, and more productive machines requires a further specialization of tasks.
 
-### Within Society
+###### Within Society
 
 Seen from the point of view of the individual, society is the great means for the attainment of all his ends. The preservation of society is an essential condition of any plans an individual may want to realize by any action whatever. Even the refractory delinquent who fails to adjust his conduct to the requirements of life within the societal system of cooperation does not want to miss any of the advantages derived from the division of labor. He does not consciously aim at the destruction of society. He wants to lay his hands on a greater portion of the jointly produced wealth than the social order assigns to him. He would feel miserable if antisocial behavior were to become universal and its inevitable outcome, the return to primitive indigence, resulted.
 
 Liberty and freedom are the conditions of man within a contractual society. Social cooperation under a system of private ownership of the means of production means that within the range of the market the individual is not bound to obey and to serve an overlord. As far as he gives and serves other people, he does so of his own accord in order to be rewarded and served by the receivers. He exchanges goods and services, he does not do compulsory labor and does not pay tribute. He is certainly not independent. He depends on the other members of society. But this dependence is mutual. The buyer depends on the seller and the seller on the buyer.
 
-### Self-Interest
+###### Self-Interest
 
 The main concern of many writers of the 19th and 20th centuries was to misrepresent and to distort this obvious state of affairs. The workers, they said, are at the mercy of their employers. Now, it is true that the employer has the right to fire the employee. But if he makes use of this right in order to indulge in his whims, he hurts his own interests. It is to his own disadvantage if he discharges a better man in order to hire a less efficient one. The market does not directly prevent anybody from arbitrarily inflicting harm on his fellow citizens; it only puts a penalty upon such conduct. The shopkeeper is free to be rude to his customers provided he is ready to bear the consequences. The consumers are free to boycott a purveyor provided they are ready to pay the costs. What impels every man to the utmost exertion in the service of his fellow men and curbs innate tendencies toward arbitrariness and malice is, in the market, not compulsion and coercion on the part of gardeess, hangmen, and penal courts; it is self-interest. The member of a contractual society is free because he serves others only in serving himself. What restrains him is only the inevitable natural phenomenon of scarcity. For the rest he is free in the range of the market.
 
 In the market economy the individual is free to act within the orbit of private property and the market. His choices are final. For his fellow men his actions are data which they must take into account in their own acting. The coordination of the autonomous actions of all individuals is accomplished by the operation of the market. Society does not tell a man what to do and what not to do. There is no need to enforce cooperation by special orders or prohibitions. Non-cooperation penalizes itself. Adjustment to the requirements of society’s productive effort and the pursuit of the individual’s own concerns are not in conflict. Consequently no agency is required to settle such conflicts. The system can work and accomplish its tasks without the interference of an authority issuing special orders and prohibitions and punishing those who do not comply.
 
-### Compulsion and Coercion
+###### Compulsion and Coercion
 
 Beyond the sphere of private property and the market lies the sphere of compulsion and coercion; here are the dams which organized society has built for the protection of private property and the market against violence, malice, and fraud. This is the realm of constraint as distinguished from the realm of freedom. Here are rules discriminating between what is legal and what is illegal, what is permitted and what is prohibited. And here is a grim machine of arms, prisons, and gallows and the men operating it, ready to crush those who dare to disobey.
 
@@ -168,7 +168,7 @@ Liberty and freedom are terms employed for the description of the social conditi
 
 There would be no need to dwell upon this obvious fact if the champions of the abolition of liberty had not purposely brought about a semantic confusion. They realized that it was hopeless for them to fight openly and sincerely for restraint and servitude. The notions liberty and freedom had such prestige that no propaganda could shake their popularity. Since time immemorial in the realm of Western civilization, liberty has been considered as the most precious good. What gave to the West its eminence was precisely its concern about liberty, a social ideal foreign to the oriental peoples. The social philosophy of the Occident is essentially a philosophy of freedom. The main content of the history of Europe and the communities founded by European emigrants and their descendants in other parts of the world was the struggle for liberty. “Rugged” individualism is the signature of our civilization. No open attack upon the freedom of the individual had any prospect of success.
 
-### New Definitions
+###### New Definitions
 
 Thus the advocates of totalitarianism chose other tactics. They reversed the meaning of words. They call true or genuine liberty the condition of the individuals under a system in which they have no right other than to obey orders. They call themselves true _liberals_ because they strive after such a social order. They call democracy the Russian methods of dictatorial government. They call the labor union methods of violence and coercion “industrial democracy.” They call freedom of the press a state of affairs in which only the government is free to publish books and newspapers. They define liberty as the opportunity to do the “right” things, and, of course, they arrogate to themselves the determination of what is right and what is not. In their eyes government omnipotence means full liberty. To free the police power from all restraints is the true meaning of their struggle for freedom.
 
@@ -176,7 +176,7 @@ The market economy, say these self-styled liberals, grants liberty only to a par
 
 These doctrines have been able to triumph because they did not encounter effective rational criticism. It is useless to stand upon an alleged “natural” right of individuals to own property if other people assert that the foremost “natural” right is that of income equality. Such disputes can never be settled. It is beside the point to criticize nonessential, attendant features of the socialist program. One does not refute socialism by attacking the socialist stand on religion, marriage, birth control, and art.
 
-### A New Subterfuge
+###### A New Subterfuge
 
 In spite of these serious shortcomings of the defenders of economic freedom it was impossible to fool all the people all the time about the essential features of socialism. The most fanatical planners were forced to admit that their projects involve the abolition of many freedoms people enjoy under capitalism and “plutodemocracy.” Pressed hard, they resorted to a new subterfuge. The freedom to be abolished, they emphasize, is merely the spurious “economic” freedom of the capitalists that harms the common man; that outside the “economic sphere” freedom will not only be fully preserved, but considerably expanded. “Planning for Freedom” has lately become, the most popular slogan of the champions of totalitarian government and the Russification of all nations.
 
@@ -184,13 +184,13 @@ The fallacy of this argument stems from the spurious distinction between two rea
 
 Freedom, as people enjoyed it in the democratic countries of Western civilization in the years of the old liberalism’s triumph, was not a product of constitutions, bills of rights, laws, and statutes. Those documents aimed only at safeguarding liberty and freedom, firmly established by the operation of the market economy, against encroachments on the part of officeholders. No government and no civil law can guarantee and bring about freedom otherwise than by supporting and defending the fundamental institutions of the market economy. Government means always coercion and compulsion and is by necessity the opposite of liberty. Government is a guarantor of liberty and is compatible with liberty only if its range is adequately restricted to the preservation of economic freedom. Where there is no market economy, the best-intentioned provisions of constitutions and laws remain a dead letter.
 
-### Competition
+###### Competition
 
 The freedom of man under capitalism is an effect of competition. The worker does not depend on the good graces of an employer. If his employer discharges him, he finds another employer. The consumer is not at the mercy of the shopkeeper. He is free to patronize another shop if he likes. Nobody must kiss other people’s hands or fear their disfavor. Interpersonal relations are businesslike. The exchange of goods and services is mutual; it is not a favor to sell or to buy, it is a transaction dictated by selfishness on either side.
 
 It is true that in his capacity as a producer every man depends either directly, as does the entrepreneur, or indirectly, as does the hired worker, on the demands of the consumers. However, this dependence upon the supremacy of the consumers is not unlimited. If a man has a weighty reason for defying the sovereignty of the consumers, he can try it. There is in the range of the market a very substantial and effective right to resist oppression. Nobody is forced to go into the liquor industry or into a gun factory if his conscience objects. He may have to pay a price for his conviction; there are in this world no ends the attainment of which is gratuitous. But it is left to a man’s own decision to choose between a material advantage and the call of what he believes to be his duty. In the market economy the individual alone is the supreme arbiter in matters of his satisfaction.
 
-### Consumers Choose
+###### Consumers Choose
 
 Capitalist society has no means of compelling a man to change his occupation or his place of work other than to reward those complying with the wants of the consumers by higher pay. It is precisely this kind of pressure that many people consider as unbearable and hope to see abolished under socialism. They are too dull to realize that the only alternative is to convey to the authorities full power to determine in what branch and at what place a man should work.
 
@@ -198,7 +198,7 @@ In his capacity as a consumer man is no less free. He alone decides what is more
 
 The substitution of economic planning for the market economy removes all freedom and leaves to the individual merely the right to obey. The authority directing all economic matters controls all aspects of a man’s life and activities. It is the only employer. All labor becomes compulsory labor because the employee must accept what the chief deigns to offer him. The economic tsar determines what and how much the consumer may consume. There is no sector of human life in which a decision is left to the individual’s value judgments. The authority assigns a definite task to him, trains him for this job, and employs him at the place and in the manner it deems expedient.
 
-### The “Planned” Life Is Not Free
+###### The “Planned” Life Is Not Free
 
 As soon as the economic freedom which the market economy grants to its members is removed, all political liberties and bills of rights become humbug. Habeas corpus and trial by jury are a sham if, under the pretext of economic expediency, the authority has full power to relegate every citizen it dislikes to the arctic or to a desert and to assign him “hard labor” for life. Freedom of the press is a mere blind if the authority controls all printing offices and paper plants. And so are all the other rights of men.
 
@@ -212,7 +212,7 @@ A long line of eminent authors, beginning with Adam Ferguson[^2] tried to grasp 
 
 There are several reasons that prevent a full understanding of the significance of the distinction between these two types of society. There is in the first place the popular repugnance to assign to the inborn inequality of various individuals its due importance. There is furthermore the failure to realize the fundamental difference that exists between the meaning and the effects of private ownership of the means of production in the precapitalistic and in the capitalistic society. Finally, there is serious confusion brought about by the ambiguous employment of the term “economic power.”
 
-### Inborn Inequality
+###### Inborn Inequality
 
 The doctrine that ascribed all differences between individuals to postnatal influences is untenable. The fact that human beings are born unequal in regard to physical and mental capacities is not denied by any reasonable man, certainly also not by pediatrists. Some individuals surpass their fellow men in health and vigor, in brain power and aptitude for various performances, in energy and resolution. Some people are better fit for the pursuit of earthly affairs, some less. From this point of view we may—without indulging in any judgment of value—distinguish between superior and inferior men. Karl Marx referred to “the inequality of individual endowment and therefore productive capacity (_Leistungsfähigkeit_) as natural privileges” and was fully aware of the fact that men “would not be different individuals if they were not unequal.”[^4]
 
@@ -228,7 +228,7 @@ In the political sphere representative government is the corollary of the suprem
 
 It is hardly possible to misconstrue more improperly the state of affairs prevailing in the capitalistic society than by dubbing the capitalists and entrepreneurs a “ruling” class intent upon “exploiting” the masses of decent men. We do not have to raise the question as to how the men who under capitalism are businessmen would have tried to take advantage of their superior talents in any other thinkable organization of production activities. Under capitalism they are vying with one another in serving the masses of less gifted men. All their thoughts aim at perfecting the methods of supplying the consumers. Every year, every month, every week, something unheard of before appears on the market and is very soon made accessible to the many. Precisely because they are producing for profit, the businessmen are producing for the use of the consumers.
 
-### Confusion Concerning Property
+###### Confusion Concerning Property
 
 The second deficiency of the customary treatment of the problems of society’s economic organization is the confusion produced by the indiscriminate employment of juridical concepts, first of all the concept of private property.
 
@@ -242,7 +242,7 @@ A tendency toward an improvement of the standard of living of the masses can pre
 
 The formation of capital is a process performed with the cooperation of the consumers: only those entrepreneurs can earn surpluses whose activities best satisfy the public. And the utilization of the once accumulated capital is directed by the anticipation of the most urgent of the not yet fully satisfied wishes of the consumers. Thus capital comes into existence and is employed according to the wishes of the consumers.
 
-### Two Kinds of Power
+###### Two Kinds of Power
 
 When in dealing with market phenomena we apply the term “power,” we must be fully aware of the fact that we are employing it with a connotation that is entirely different from the traditional connotation attached to it in dealing with issues of government and affairs of state.
 
@@ -258,7 +258,7 @@ In the market economy every specialist—and there are no other people than spec
 
 “Modern civilization, nearly all civilization,” said the great British economist Edwin Cannan, “is based on the principle of making things pleasant for those who please the market and unpleasant for those who fail to do so.”[^9] The market, that means the buyers; the consumers, that means all of the people. To the contrary, under planning or socialism the goals of production are determined by the supreme planning authority; the individual gets what the authority thinks he ought to get. All this empty talk about the economic power of business aims at obliterating this fundamental distinction between freedom and bondage.
 
-### The “Power” of the Employer
+###### The “Power” of the Employer
 
 People refer to economic power also in describing the internal conditions prevailing within the various enterprises. The owner of a private firm or the president of a corporation, it is said, enjoys within his outfit absolute power. He is free to indulge in his whims and fancies. All employees depend on his arbitrariness. They must stoop and obey or else face dismissal and starvation.
 
@@ -270,7 +270,7 @@ The critics of capitalism fully acknowledge this fact in pointing out that for p
 
 To establish these facts does not amount either to a commendation or to a condemnation of the market economy or its political corollary, government by the people (representative government, democracy). Science is neutral with regard to any judgments of value. It neither approves nor condemns; it just describes and analyzes what is.
 
-### A Duty of the Elite
+###### A Duty of the Elite
 
 Stressing the fact that under unhampered capitalism the consumers are supreme in determining the goals of production does not imply any opinion about the moral and intellectual capacities of these individuals. The individuals _qua_ consumers as well as _qua_ voters are mortal men liable to error and may very often choose what in the long run will harm them. Philosophers may be right in severely criticizing the conduct of their fellow citizens. But there is, in a free society, no other means to avoid the evils resulting from one’s fellows’ bad judgment than to induce them to alter their ways of life voluntarily. Where there is freedom, this is the task incumbent upon the elite.
 
@@ -299,7 +299,7 @@ But both groups, the party of the thoroughgoing socialists and that of the more 
 
 Yet this whole interpretation of human conditions is fallacious. The policies engendered by it are pernicious from whatever point of view we may judge them. Western civilization is doomed if we do not succeed very soon in substituting reasonable methods of dealing with economic problems for the present disastrous methods.
 
-### Three Factors of Production
+###### Three Factors of Production
 
 Mere work—that is, effort not guided by a rational plan and not aided by the employment of tools and intermediary products—brings about very little for the improvement of the worker’s condition. Such work is not a specifically human device. It is what man has in common with all other animals. It is bestirring oneself instinctively and using one’s bare hands to gather whatever is eatable and drinkable that can be found and appropriated.
 
@@ -309,7 +309,7 @@ The establishment of this fact demolishes entirely all the theses and claims of 
 
 What distinguishes contemporary life in the countries of Western civilization from conditions as they prevailed in earlier ages—and still exist for the greater number of those living today—is not the changes in the supply of labor and the skill of the workers and not the familiarity with the exploits of pure science and their utilization by the applied sciences, by technology. It is the amount of capital accumulated. The issue has been intentionally obscured by the verbiage employed by the international and national government agencies dealing with what is called foreign aid for the underdeveloped countries. What these poor countries need in order to adopt the Western methods of mass production for the satisfaction of the wants of the masses is not information about a “know how.” There is no secrecy about technological methods. They are taught at the technological schools and they are accurately described in textbooks, manuals, and periodical magazines. There are many experienced specialists available for the execution of every project that one may find practicable for these backward countries. What prevents a country like India from adopting the American methods of industry is the paucity of its supply of capital goods. As the Indian government’s confiscatory policies are deterring foreign capitalists from investing in India and as its prosocialist bigotry sabotages domestic accumulation of capital, their country depends on the alms that Western nations are giving to it.
 
-### Consumers Direct the Use of Capital
+###### Consumers Direct the Use of Capital
 
 Capital goods come into existence by saving. A part of the goods produced is withheld from immediate consumption and employed for processes the fruits of which will only mature at a later date. All material civilization is based upon this “capitalistic” approach to the problems of production.
 
@@ -323,7 +323,7 @@ In order to attend to the orders received from the consumers, their real bosses,
 
 There is no other method to make wage rates rise than by investing more capital per worker. More investment of capital means: to give to the laborer more efficient tools. With the aid of better tools and machines, the quantity of the products increases and their quality improves. As the employer consequently will be in a position to obtain from the consumers more for what the employee has produced in one hour of work, he is able—and, by the competition of other employers, forced—to pay a higher price for the man’s work.
 
-### Intervention and Unemployment
+###### Intervention and Unemployment
 
 As the labor union doctrine sees it, the wage increases that they are obtaining by what is euphemistically called “collective bargaining” are not to burden the buyers of the products but should be absorbed by the employers. The latter should cut down what in the eyes of the communists is called “unearned income,” that is, interest on the capital invested and the profits derived from success in filling wants of the consumers that until then had remained unsatisfied. Thus the unions hope to transfer step by step all this allegedly “unearned income” from the pockets of the capitalists and entrepreneurs into those of the employees.
 
@@ -333,7 +333,7 @@ The result is the same if the employers are in a position to shift the increase 
 
 The union doctrine qualifies interest received by the owners of the capital invested in the enterprise as “unearned” and concludes that it could be abolished entirely or considerably shortened without any harm to the employees and the consumers. The rise in production costs caused by wage increases could therefore be borne by shortening the company’s net earnings and a corresponding reduction of the dividends paid to the shareholders. The same idea, is at the bottom of the unions’ claim that every increase in what they call productivity of labor (that is, the sum of the prices received for the total output divided by the number of man hours spent in its production) should be added to wages. Both methods mean confiscating for the benefit of the employees the whole or at least a considerable part of the returns on the capital provided by the saving of the capitalists. But what induces the capitalists to abstain from consuming their capital and to increase it by new saving is the fact that their forbearance is counterbalanced by the proceeds of their investments. If one deprives them of these proceeds, the only use they can make of the capital they own is to consume it and thus to inaugurate general progressive impoverishment.
 
-### The Only Sound Policy
+###### The Only Sound Policy
 
 What elevates the wage rates paid to the American workers above the rates paid in foreign countries is the fact that the investment of capital per worker is higher in this country than abroad. Saving, the accumulation of capital, has created and preserved up to now the high standard of living of the average American employee.
 
@@ -365,7 +365,7 @@ In the phrase, “protection of savers,” the word “protection” has a diffe
 
 Protection of savers and of savings involves something very different from this, namely, preservation of the very foundations of justice on which the capitalistic order of society is based and, consequently, of capitalism itself. The unprecedented increase in the standard of living of the masses in the capitalistic West is due to the fact that the formation of capital increased much more than the population. Real wages went up because the marginal productivity of capital goods went down in comparison with that of labor or, more popularly expressed, because the worker in a modern, well-equipped plant can produce many times more than can a worker with primitive tools.
 
-### Unrecognized Dangers
+###### Unrecognized Dangers
 
 It was possible for savings and capital accumulation to increase on an ever larger scale in the West because the right of private property, in contrast to the arbitrary might of military and political rulers, had been firmly established as the result of a gradual development based on Roman law. Conditions in the constitutional state permitted sizeable accumulations of savings and capital investment. What separates West from East is precisely the idea which social reformers ridicule as the “sanctity” of property, and which has not penetrated the Orient at all.[^11] Capitalistic saving and investment cannot develop in lands where it is generally believed that the wealth of the businessman causes the poverty of the many, and where the successful trader is sacrificed to the predatory desires of the rulers and their representatives. The short interlude of “colonialism” and “imperialism” now belongs to history. One day, also, the United States will discontinue its gifts of billions to the enemies of capitalism. Many hundreds of millions in Asia and Africa will suffer increasing want because the policies of their governments obstruct domestic saving and capital formation and keep foreign capital out.
 
@@ -377,7 +377,7 @@ For some time it has seemed that public opinion was beginning to recognize the d
 
 After a period of decreased saving, the amount of new savings is once again rising in the United States. Also, the increase in the amount of life insurance taken out each year is considerable. Nevertheless it would be premature to conclude from this that the masses do not realize that the progressive decline in the dollar’s purchasing power is a threat to their savings and their provision for the future. However, there is no other possible means of saving open to the employee or worker, who is not familiar with business or the stock market. (Even the entirely insufficient makeshift of hoarding gold coins is in the United States illegal and practically impossible.[^12] ) The people cling to the hope that no further decline in the dollar’s purchasing power will take place.
 
-### “Do You Know That You Are a Creditor?”
+###### “Do You Know That You Are a Creditor?”
 
 The coming years will determine whether the United States, whose spokesmen never tire of noting that the American standard of living is much higher and better than that of any other time or place, will succeed in managing its finances without inflation or credit expansion. The number of persons is not large who fully recognize the dangers of government’s mislabelled “expansionist,” monetary policy, and only a few politicians are ready to listen to their words of warning. The “practical” person has no interest in “long run” policies. For him, nothing matters but the outcome of the next Congressional election, which is never more than two years off.
 
@@ -394,7 +394,7 @@ _Translated by Bettina Bien Greaves from the German, as it appeared in_ Zeitschr
 
 For every species of animals and plants the means of subsistence are limited. Hence every living being’s vital interests are implacably opposed to those of all members of its own species. Only human beings know how to overcome this irreconcilable nature-given conflict by embarking upon cooperation. The higher productivity of work performed under the principle of the division of labor substitutes for the grim antagonism created by the scarcity of food the solidarity of interests of people intentionally aiming at common goals. The peaceful exchange of commodities and services, the market process, becomes the standard type of interhuman relations. Mutual agreement of the parties displaces the recourse to violence, to the law of the stronger.
 
-### Cooperation versus Violence
+###### Cooperation versus Violence
 
 The inherent deficiency of this method of solving mankind’s fundamental problem (and there is no other method available) is to be seen in the fact that it depends on full and unconditional cooperation of all human beings and can be frustrated by the non-cooperation of any individual. There is no other means available to eliminate violent interference with human affairs than the recourse to more powerful violence. Against individuals or groups of individuals who are resorting to violence or are not complying with their obligations resulting from contracts nothing avails but the recourse to violent action. The market system of voluntary agreements cannot work if not backed up by an apparatus of compulsion and coercion ready to resort to violence against individuals who are not strictly abiding by the terms and rules of mutual agreement. The market needs the support of the state.
 
@@ -408,7 +408,7 @@ It is impossible to defend honestly the case for violence against the case for p
 
 The fundamental antagonism between the realm of mutual peaceful agreement and that of compulsion and coercion cannot be eradicated by idle talk about two “sectors” of the economy, the private and the public. There is no conciliation between constraint and spontaneity. The attempts to resuscitate the totalitarianism of the Pharaohs of Egypt or of the Incas of Peru are doomed. And violence does not lose its antisocial character by being rebaptized “non-violence.” All that man has created was a product of voluntary human cooperation. All that violence has contributed to civilization consists in the?certainly indispensable?services it renders to the endeavors of peace-loving people to restrain potential peace-breakers.
 
-### Socialist Planning
+###### Socialist Planning
 
 Western civilization appreciates and always appreciated liberty as the greatest good. The history of the West is a record of struggles against tyranny and for freedom. In the 19th century the idea of the individual’s freedom as developed by the ancient Greeks and resuscitated by the Europeans of the Renaissance and the Enlightenment seemed even to work upon the backward people of the East. Optimists were talking about a coming age of freedom and peace.
 
@@ -422,7 +422,7 @@ It does not matter that the socialists call themselves today “leftists” and 
 
 For the first time in human history there is perfect agreement between the majority of the so-called intellectuals and the vast majority of all other classes and groups of people. Passionately and vehemently they all want planning, i.e., their own total enslavement.
 
-### Individual Freedom and the Market Economy
+###### Individual Freedom and the Market Economy
 
 The characteristic feature of the capitalistic society is the sphere of activity it assigns to the initiative and responsibility of its members. The individual is free and supreme as long as he does not restrict the freedom of his fellow citizens in pursuance of his own ends. In the market he is sovereign in his capacity as a consumer. In the governmental sphere he is a voter and in this capacity a part of the sovereign lawgiver. Political democracy and democracy of the market are congeneric. In the terminology of Marxism one would have to say: Representative government is the superstructure of the market economy as despotism is the superstructure of socialism.
 
@@ -436,7 +436,7 @@ _Reprinted from Mises’s original manuscript, first published in German transla
 
 Writing in 1817, David Ricardo in his _Principles of Political Economy and Taxation_ pointed to the experience that “the fancied or real insecurity of capital, when not under the immediate control of its owner” checks the emigration of capital. Thus most men of property prefer a low rate of profit in their own country to a more advantageous employment for their wealth in foreign nations.[^14] This was said precisely on the eve of the age that will be remembered in history as the period in which the insulation of the various local and national markets gave way to the evolution of an effective world trade not only in consumers’ goods but also in capital goods.
 
-### Foreign Investment
+###### Foreign Investment
 
 British capitalists inaugurated the new methods of foreign investment; they were very soon followed by the businessmen of Western and Central Europe and of the United States. An unprecedented improvement in the average standard of living resulted. Observing the benefits that this system brought both to the investors and to the people of the countries in which the investments were made, optimists hopefully looked forward to the coming of an era of perpetual peace and goodwill among all nations. They were poor prophets.
 
@@ -448,13 +448,13 @@ The great age of foreign investment came to an inglorious end when the 20th cent
 
 The joint operation of the ideas of socialism and nationalism has not only almost entirely suppressed saving and the accumulation of capital (for nonmilitary purposes) in the communist countries and in the orbit of the nations commonly called today underdeveloped. It made the industrial countries of Western and Central Europe and North America adopt conceptions the application of which must sooner or later result in the complete cessation of any voluntary saving and capital formation on the part of individual citizens.
 
-### The “Productivity of Labor”
+###### The “Productivity of Labor”
 
 Thus the official doctrine of the United States operates with a concept of productivity of labor that defines it as the market value (in terms of money) added to the products by the processing (of the firm in question or by all the firms of the branch of industry), divided by the number of workers employed. Or, in other words, output per man-hour of work. It pretends that every improvement in this figure means an “increase in the productivity of labor” that is caused by the workers’ effort and which by rights belongs entirely to them. In wage negotiations the unions claim this “productivity gain” as their members’ due. The employers as a rule neither question this concept of productivity of labor nor do they contest the resulting claims of the unions. They accept it implicitly in occasionally pointing out that wage rates have already risen to the extent of the increase in productivity, computed according to this method. The government in formulating its “guide lines” for the determination of wage rates and product prices adopts the unions’ point of view.
 
 It is obvious that the theory underlying this doctrine radically misconstrues the essential facts about industrial production. The difference between the “productivity” of a worker handling the tools of a bygone state of technology and another working in a plant equipped with the most modern machines is not due to the personal qualities and the effort of the worker but to the quality of the shop’s equipment. If the worker is to get all the “increase in productivity” brought about by the investment of additional capital, nothing is left for the people whose saving created this capital and made its investment possible. (For the sake of simplicity we may omit referring to the role of the entrepreneurs and to that of the managers and the technologists.) Saving, capital accumulation and investment will no longer pay and will come to an end. There will no longer be any economic progress.[^17]
 
-### Anti-Capitalistic Ideas
+###### Anti-Capitalistic Ideas
 
 It cannot be denied that also in the noncommunist countries an outspoken anticapitalistic tendency prevails in fiscal policies. The taxation of personal incomes, corporations and inheritance tends more or less openly toward a complete confiscation of such allegedly “unearned” intake. The joint effects of these anti-capitalistic measures are to some extent still veiled by inflationary monetary and banking policies. But sooner or later the main problem will become visible: how to provide for new additional investments when the individuals and corporations are prevented—either by the methods of taxation or by the methods applied to the determination of wage rates—from deriving any benefit from saving and capital investment.
 
@@ -473,7 +473,7 @@ Inequality of wealth and incomes is an essential feature of the market economy. 
 
 In a society of the type that Adam Ferguson, Saint-Simon, and Herbert Spencer (1820-1903) called militaristic and present-day Americans call feudal, private property of land was the fruit of violent usurpation or of donations on the part of the conquering warlord. Some people owned more, some less and some nothing because the chieftain had determined it that way. In such a society it was correct to assert that the abundance of the great landowners was the corollary of the indigence of the landless. But it is different in a market economy. Bigness in business does not impair, but improves the conditions of the rest of the people. The millionaires are acquiring their fortunes in supplying the many with articles that were previously beyond their reach. If laws had prevented them from getting rich, the average American household would have to forgo many of the gadgets and facilities that are today its normal equipment. This country enjoys the highest standard of living ever known in history because for several generations no attempts were made toward “equalization” and “redistribution.” Inequality of wealth and incomes is the cause of the masses’ well-being, not the cause of anybody’s distress. Where there is a “lower degree of inequality,” there is necessarily a lower standard of living of the masses.
 
-### Demand for “Distribution”
+###### Demand for “Distribution”
 
 In the opinion of the demagogues inequality in what they call the “distribution” of wealth and incomes is in itself the worst of all evils. Justice would require an equal distribution. It is therefore both fair and expedient to confiscate the surplus of the rich or at least a considerable part of it and to give it to those who own less. This philosophy tacitly presupposes that such a policy will not impair the total quantity produced. But even if this were true, the amount added to the average man’s buying power would be much smaller than extravagant popular illusions assume. In fact the luxury of the rich absorbs only a slight fraction of the nation’s total consumption. The much greater part of the rich men’s incomes is not spent for consumption, but saved and invested. It is precisely this that accounts for the accumulation of their great fortunes. If the funds which the successful businessmen would have ploughed back into productive employments are used by the state for current expenditure or given to people who consume them, the further accumulation of capital is slowed down or entirely stopped. Then there is no longer any question of economic improvement, technological progress, and a trend toward higher average standards of living.
 
@@ -483,7 +483,7 @@ But it is quite a different thing when these measures which Marx and Engels char
 
 The middle-of-the-road man argues this way: “There is no reason why a businessman should slacken in the best conduct of his affairs only because he knows that his profits will not enrich him but will benefit all people. Even if he is not an altruist who does not care for lucre and who unselfishly toils for the common weal, he will have no motive to prefer a less efficient performance of his activities to a more efficient. It is not true, that the only incentive that impels the great captains of industry is acquisitiveness. They are no less driven by the ambition to bring their products to perfection.”
 
-### Supremacy of the Consumers
+###### Supremacy of the Consumers
 
 This argumentation entirely misses the point. What matters is not the behavior of the entrepreneurs but the supremacy of the consumers. We may take it for granted that the businessmen will be eager to serve the consumers to the best of their abilities even if they themselves do not derive any advantage from their zeal and application. They will accomplish what according to their opinion best serves the consumers. But then it will no longer be the consumers that determine what they get. They will have to take what the businessmen believe is best for them. The entrepreneurs, not the consumers, will then be supreme. The consumers will no longer have the power to entrust control of production to those businessmen whose products they like most and to relegate those whose products they appreciate less to a more modest position in the system.
 
@@ -493,7 +493,7 @@ Profit and loss tell the entrepreneur what the consumers are asking for most urg
 
 People can consume only what has been produced. The great problem of our age is precisely this: Who should determine what is to be produced and consumed, the people or the State, the consumers themselves or a paternal government? If one decides in favor of the consumers, one chooses the market economy. If one decides in favor of the government, one chooses socialism. There is no third solution. The determination of the purpose for which each unit of the various factors of production is to be employed cannot be divided.
 
-### Demand for Equalization
+###### Demand for Equalization
 
 The supremacy of the consumers consists in their power to hand over control of the material factors of production and thereby the conduct of production activities to those who serve them in the most efficient way. This implies inequality of wealth and incomes. If one wants to do away with inequality of wealth and incomes, one must abandon capitalism and adopt socialism. (The question whether any socialist system would really give income equality must be left to an analysis of socialism.)
 
@@ -525,7 +525,7 @@ Politicians proclaim their utter contempt for what they label as “mere theory.
 
 The social function of economic science consists precisely in developing sound economic theories and in exploding the fallacies of vicious reasoning. In the pursuit of this task the economist incurs the deadly enmity of all mountebanks and charlatans whose shortcuts to an earthly paradise he debunks. The less these quacks are able to advance plausible objections to an economist’s argument, the more furiously do they insult them.
 
-### Sound Money versus Inflationism and Expansionism
+###### Sound Money versus Inflationism and Expansionism
 
 At the beginning of our century the governments of the civilized nations were committed either to the so-called classical gold standard or to the gold exchange standard. Their conduct of monetary and credit policies was, to be sure, not free from mistakes, and they indulged in a certain amount of credit expansion. But when compared with conditions after 1914, they were moderate in their expansionist ventures and spurned the fantastic projects of the so-called “monetary cranks” who advocated boundless inflation and credit expansion as the patent medicine for all economic ills.
 
@@ -537,7 +537,7 @@ As expected, my theses were furiously vilified by the apologists of the official
 
 It is a sad fact that people are reluctant to learn from either theory or experience. Neither the disasters manifestly brought about by deficit spending and low interest rate policies, nor the confirmation of the theories in my _Theory of Money and Credit_ by such eminent thinkers as Friedrich von Hayek, Henry Hazlitt and the late Benjamin M. Anderson have up to now been able to put an end to the popularity of the fiat money frenzy.[^19] The monetary and credit policies of all nations are headed for a new catastrophe, probably more disastrous than any of the older slumps.
 
-### The Economic Theory of Socialism
+###### The Economic Theory of Socialism
 
 Sixty years ago Sidney Webb boasted that the economic history of the century is an almost continuous record of the progress of socialism. A few years later an eminent British statesman, Sir William Harcourt, asserted: “We are all Socialists now.” There cannot be any doubt that all nations were pursuing policies which were bound to result finally in the establishment of all-round planning exclusively by the government, i.e., socialism or communism.
 
@@ -549,7 +549,7 @@ This means that it would become impossible for a socialist management to reduce 
 
 The socialist and Communist authors could not help admitting that my demonstration was irrefutable. To save face they radically reversed their argument. Until 1920, the year in which my thesis on economic calculation was first published, all socialists had declared that the essence of socialism was the elimination of the market and market prices. All the blessings which they expected from the realization of socialism were described as the result of this abolition of the price system. But now they are anxious to show that markets and market prices can be preserved even under socialism. They are drafting spurious and self-contradictory schemes for a socialism in which people “play” market in the way children play war or railroad. They do not comprehend in what respect such childish play differs from the real thing it tries to imitate.
 
-### The Middle Way
+###### The Middle Way
 
 Many politicians and authors believe that they could avoid the necessity of choosing between capitalism (laissez faire) and socialism (communism, planning). They recommend a third solution which?as they say?is as far from capitalism as it is from socialism. In imperial Germany this third system was called Sozialpolitik; in the United States it is known as the New Deal. Economists prefer the term used by the French, _interventionism_. The idea is that private ownership of the means of production should not be entirely abolished; but the government should “improve” and correct the operation of the market by interfering with the operations of the capitalists and entrepreneurs?by means of orders and prohibitions, taxes, and subsidies.
 
@@ -557,7 +557,7 @@ But interventionism cannot work as a permanent system of society’s economic or
 
 It is interventionism that produces all those evils for which a misguided public opinion indicts laissez-faire capitalism. As has been pointed out above, the endeavors to lower the rate of interest by means of credit expansion generate the recurrence of depression. Attempts to raise wage rates above the height they would attain in an unhampered market result in prolonged mass unemployment. “Soak-the-rich” taxation results in capital consumption. The joint outcome of all interventionist measures is general impoverishment. It is a misnomer to call the interventionist state the welfare state. What it ultimately achieves is not improving but lowering the common man’s welfare, his standard of living. The unprecedented economic development of the United States and the high standard of living of its population were achievements of the free enterprise system.
 
-### The Interconnectedness of All Economic Phenomena
+###### The Interconnectedness of All Economic Phenomena
 
 Economics does not allow any breaking up into special branches. It invariably deals with the interconnectedness of all phenomena of acting and economizing. All economic facts mutually condition one another. Each of the various economic problems must be dealt with in the frame of a comprehensive system assigning its due place and weight to every aspect of human wants and desires. All monographs remain fragmentary if not integrated into a systematic treatment of the whole body of social and economic relations.
 
@@ -583,7 +583,7 @@ But the very existence of a government apparatus of coercion and compulsion make
 
 Now in our age the cause of totalitarianism has won new vigor through the adoption of a ruse. The radical suppression of every individual’s freedom to choose his own way for the benefit of the supreme political authority is praised, under the labels of socialism, communism or planning, as the attainment of true liberty. Those aiming at a state of affairs in which every individual will be reduced to the status of a mere cog in the plans of the “social engineers” are parading as the successors of the great champions of freedom. The subjugation of a free nation by the forces of the most tyrannical regime history has ever known is called “liberation.”
 
-### Middle-of-the-Road Policy
+###### Middle-of-the-Road Policy
 
 Faced with the tremendous challenge of totalitarianism, the ruling parties of the West do not venture to preserve the system of free enterprise that gave to their nations the highest standard of living ever attained in history. They ignore the fact that conditions for all citizens of the United States and those other countries which have not put too many obstacles in the way of free enterprise are much more favorable than conditions for the inhabitants of the totalitarian countries. They think that it is necessary to abandon the market economy and to adopt a middle-of-the-road policy that is supposed to avoid the alleged deficiencies of the capitalistic economy. They aim at a system which, as they see it, is as far from socialism as it is from capitalism and which is better than either of those two. By direct intervention of the government, they want to remove what they consider unsatisfactory in the market economy.
 
@@ -605,7 +605,7 @@ _Reprinted from_ Christian Economics, _February 4, 1964_.
 
 For about a hundred years the Communists and interventionists of all shades have been indefatigable in predicting the impending final collapse of capitalism. While their prophecies have not come true, the world today has to face the agony of the much glorified policies of the Welfare State.
 
-### The Welfare State
+###### The Welfare State
 
 The guiding principles of the Welfare State were best laid down by Ferdinand Lassalle (1825-1864), both the friend and rival of Marx. Lassalle ridiculed the liberal doctrines. They assigned to the state, he remarked sneeringly, only the functions of a night watchman. In his eyes the state (with a capital S) was God and Santa Claus at the same time. The state had inexhaustible funds at its disposal, which could freely be used to make all citizens prosperous and happy. The state should nationalize big business, underwrite projects for the realization of which private capital was not available, redistribute national income, and provide for everyone security from the cradle to the grave.
 
@@ -615,7 +615,7 @@ The new German policy was soon enthusiastically praised by British Fabianism, an
 
 The Welfare State school communicated to mankind the tidings that the philosophers’ stone had finally been found. Self-styled “new economics” dismissed as palpable nonsense what “orthodox” economics had said about the alleged nature-given limitation of useful goods and resources and the consequent necessity of saving and progressive capital accumulation. There is, they shouted, abundance; poverty is merely the outcome of bad policies favoring the selfish interests of the few at the expense of the many.
 
-### Let the Rich Pay
+###### Let the Rich Pay
 
 If the interventionist says the state should do this or that (and pay for it) he is fully aware of the fact that the state does not own any funds but those which it collects as taxes from citizens. His idea is to let the government tax away the greater part of the income and capital of the wealthy citizens and spend this revenue for the benefit of the majority of the people. The riches of the nabobs are considered inexhaustible, and so, consequently, are the funds of the government. There is no need to be stingy in matters of public expenditure. What may appear as waste in the affairs of individual citizens, when we consider the nation’s budget, is a means of creating jobs and promoting welfare.
 
@@ -627,7 +627,7 @@ The statist philosophy considers the entrepreneur a useless idler who skims the 
 
 Guided by these principles, the governments of the various European countries long ago nationalized the railroads, the telephone and the telegraph, and many other branches of business. The result was catastrophic: scandalously poor service, high rates, yearly increasing deficits that have to be covered out of budgetary allowances.
 
-### Derailment of State Railroads
+###### Derailment of State Railroads
 
 The financial embarrassment of the main European countries is predominantly caused by the bankruptcy of the nationalized public utilities. The deficit of these enterprises is incurable. A further rise in their rates would bring about a drop in total net proceeds. The traffic could not bear it. Daily experience proves clearly to everybody but the most bigoted fanatics of socialism that governmental management is inefficient and wasteful. But it is impossible to sell these enterprises back to private capital because the threat of a new expropriation by a later government would deter potential buyers.
 
@@ -645,7 +645,7 @@ There is always this socialist prepossession with the idea that the “rich” c
 
 The other alternative is to raise the fare from the present [1953] level of ten cents to fifteen cents.[^21] It will certainly be done. And it will certainly prove insufficient. After a while a rise to twenty cents will follow?with the same unfavorable result. There is no remedy for the inefficiency of public management. Moreover there is a limit to the height at which raised rates will increase revenue. Beyond this point further rises are self-defeating. This is the dilemma facing every public enterprise.
 
-### Subways at a Dead End
+###### Subways at a Dead End
 
 How little the management of the New York City subways is touched by the spirit of business was proved a short time ago when it triumphantly announced economies made by cutting down services. While all private enterprises in the country compete with one another in improving and expanding services, the municipality of New York is proud of cutting them down!
 
@@ -668,7 +668,7 @@ When in the 19th century the question was asked: What can be done in order to ra
 
 Thus at least in dealing with the economic problems of underdeveloped nations the President, Congress, and public opinion virtually acknowledge the doctrine of the much abused classical economists. But in dealing with domestic problems they are guided by very different ideas. They proceed as if the height of wage rates could be fixed _ad libitum_ [at will] by government decree or by labor union pressure and compulsion. Our tax system?especially the way in which personal incomes, corporations and estates and inheritances are taxed?not only reduces considerably the amount of savings, but in many regards directly results in capital decumulation. But the authorities and their advisers are not concerned about these effects. They are intent upon raising wage rates either through decreeing minimum wage rates or through pro-union policies.
 
-### Labor Union Privileges
+###### Labor Union Privileges
 
 The laws have in the last decades granted to the unions many privileges. But these legal privileges also would not have given to unions and to the methods of collective bargaining the tremendous power that they enjoy today in this country and in almost all other non-communist countries. What makes the unions formidable is the fact that the authorities?the federal government as well as the state and municipal governments?have designedly and wittingly abandoned for the benefit of the unions the essential power of political sovereignty, viz., the exclusive right to suppress disobedience by recourse to violent action. When striking workers resort to acts of violence against strikebreakers or against the persons or the property of those who employ strikebreakers, the authorities preserve a lofty neutrality. The police do not protect those attacked; the district attorneys do not prosecute the assailants and consequently no opportunity is given to the penal courts to try to punish them.
 
@@ -678,7 +678,7 @@ The statesmen and politicians who step by step?not only in this country but also
 
 These self-styled friends of the common man failed to see the fact that capitalism is essentially mass production for supplying the masses. In the precapitalistic ages the processing industries, the artisans organized in guilds and crafts, produced only for the wants of small groups of well-to-do. Under capitalism, however, the masses of the working people are the main consumers of the products. Big business always serves the many; the shops serving the fancies of the rich never attain bigness. If we refer to the consumers, we refer, by and large, to the same people we are talking about in referring to the wage earners.
 
-### Above Market Wage Rates
+###### Above Market Wage Rates
 
 The labor market fixes wage rates at the height at which all those intent upon hiring workers can hire as many as they want and all those anxious to find a job can find one. If wage rates, either by government decree or by union pressure and compulsion, are raised above this height, there are two alternatives. Either prices are raised concomitantly, so both demand and sales drop, production must be curtailed and a part of the previously employed workers must be discharged. Or prices remain unchanged, although the cost of production is increased, so that firms that are producing under the least favorable conditions and, therefore, with the highest costs will suffer losses and be forced to go out of business or at least to restrict the quantity of their production. Again workers will have to be discharged. Thus, whatever is done to impose wage rates higher than those the free unhampered market would have determined results in unemployment of a part of the potential labor force.
 
@@ -694,7 +694,7 @@ The outstanding fact is that it is impossible to raise wage rates by coercive me
 
 Public opinion, misguided by the fanatical propaganda on the part of the deadly foes of freedom and prosperity, looks upon the disputes concerning the height of wage rates as if they were only conflicts between wage earners and employers. It ascribes to the employers the power to determine wage rates _ad libitum_. It fails to realize the fact that the entrepreneur is not sovereign in the conduct of his enterprise but entirely subject to the most rigid orders given by his customers, the public. It does not depend on the businessman’s arbitrariness to determine what he produces and how. He is, by the instrumentality of the profit and loss system, forced to supply the buying public in the best possible and cheapest way with those commodities and services which they are asking for most urgently. All his measures are directed toward meeting the wishes of the public. The consumers are sovereign and the businessmen are their servants.
 
-### Consumer Sovereignty
+###### Consumer Sovereignty
 
 It is the consumers that ultimately determine the prices of the products and thereby indirectly the prices their purveyors are able to pay for the material means of production and for the labor required for turning out the products. It is the consumers that determine that a movie star should get a much higher pay than a welder, a charwoman much less than a boxing champion.
 
@@ -702,7 +702,7 @@ Economics describes this state of affairs in formulating its marginal utility do
 
 This is what is meant by those who call the market economy a democracy in which every penny gives a right to vote. The whole of the nation is, as it were, a tribunal that assigns to everybody the prices which he can reap in selling his products or his labor. Everybody participates in this process in a double capacity. On the one hand he is, as a buyer and a consumer, a member of the tribunal that assigns to everybody his income and on the other hand he is, as a breadwinner, one of those to whom an income is assigned. In buying admission to a show, the man who makes a hundred dollars a week in his job in a factory assigns a salary of \$10,000 a week to an actor. It is the same man’s valuation that assigns a much lower pay to the work of a bus driver or a housepainter.
 
-### What Makes Wages Rise
+###### What Makes Wages Rise
 
 In their capacity as earners of wages and salaries the immense majority of the nation are vitally interested in the establishment of conditions that cause wages and salaries to rise. There is but one way to attain this end, viz., to raise the marginal productivity of the individual job holder’s contribution by increasing the amount of capital invested per capita. The height of wages depends on the height of the per head quota of capital invested. When the accumulation of capital outruns the increase in population, the marginal utility of the worker’s contribution rises and makes wages go up concomitantly. Saving and capital accumulation are the very implements of improving the material conditions of the wage earners.
 
@@ -710,7 +710,7 @@ Wages and salaries are in present-day America much higher than they were in the 
 
 It is the most stupid of all Communist lies that the considerable capital investments America and Western Europe made in Latin America, Asia, and Africa mean “exploitation” of the natives for the benefit of the foreign capitalists. What was wrong with these economically backward countries was that they did not develop spontaneously those legal and institutional conditions that make saving and capital accumulation safe against the arbitrariness and the greed of those in political office. Where the laws do not sufficiently protect private ownership of the means of production, there cannot be any indigenous development of modern industrial plants. Nature has endowed much better with natural resources most of those countries that are today looked upon as backward than it has the soil of the countries occupied by the capitalistic nations. The poverty of these underdeveloped nations is not due to natural conditions. It is a result of their bad policies. If the foreign capitalists had not provided them with capital, most of them would still even have to do without railroads and hydroelectric power plants. Every investment that foreigners made in their lands was immediately followed by an upward movement of wages, not only in the plants erected by the foreigners themselves, but also in other fields of business.
 
-### What Generates Unemployment
+###### What Generates Unemployment
 
 Public opinion believes that the improvement in the conditions of the wage earners is an achievement of the unions and of various legislative measures. Public opinion gives to unionism and to legislation credit for the rise in wage rates, the shortening of hours of work, the disappearance of child labor and many other changes. The prevalence of this belief made unionism popular and is responsible for the trend in labor legislation of the last decades. As people think that they owe their high standard of living to unionism, they condone violence, coercion, and intimidation on the part of unionized labor and are indifferent to the curtailment of personal freedom inherent in the union-shop and closed-shop clauses.
 
@@ -720,7 +720,7 @@ At the wage rates established in a free labor market, i.e., in a market not mani
 
 It is not the operation of the market economy that generates unemployment with all its moral and material evils, but precisely the ill-contrived, although well-intentioned, actions of unions and governments. There is no other means to do away with unemployment than to abstain from any government and union meddling with the height of wage rates.
 
-### Inflation Not Fit to Fight Unemployment
+###### Inflation Not Fit to Fight Unemployment
 
 The self-styled American “liberals” propose to do away with unemployment by inflation. They suggest an increase in the quantity of money in circulation through credit expansion.
 
@@ -728,7 +728,7 @@ Lord Keynes did not invent, but merely popularized this makeshift. He was well a
 
 Keynes failed entirely to see that the decades of reckless inflation have made everybody?the newspapers, the average man, the housewives, and the workers and union leaders?index conscious. His assumption underrates in an almost unbelievable way the intellectual powers of the masses. One cannot avoid the nefarious implications of the spurious union doctrine by deceiving the public. Moreover it must be remembered that inflation is not a policy that can last. If inflation and credit expansion are not stopped in time, they result in a more and more accelerated drop in the monetary unit’s purchasing power, and in skyrocketing commodity prices until the inflated money becomes entirely worthless and the whole government-manipulated currency system collapses. In our age, this has happened to the monetary regime of various countries.
 
-### How Honest Workers Plan to Do Away with Unemployment
+###### How Honest Workers Plan to Do Away with Unemployment
 
 An analysis of the Keynesian prescription for doing away with unemployment clearly shows that Lord Keynes also never doubted that what causes unemployment is a policy that fixes wage rates above the level at which the free market would have fixed them. What he suggested to attain full employment was a peculiar, and as he believed, very cunning, method to reduce real wage rates. In fact all people who gave serious thought to the matter agree in pointing out that at the wage rates determined on the unhampered labor market all those eager to find jobs are getting them. (Incidentally it may be mentioned also that Karl Marx and the doctrines of the Marxian parties admitted that unions as well as governments cannot, without creating unemployment, raise wage rates above the rates corresponding to the conditions of the market.)
 
@@ -821,13 +821,13 @@ Most people take it for granted that the world will never return to the gold sta
 
 Now whatever virtues one may ascribe—undeservedly—to the modern variety of the greenback standard, there is one thing that it certainly cannot achieve. It can never become a permanent, lasting system of monetary management. It can work only as long as people are not aware of the fact that the government plans to keep it.
 
-### The Alleged Blessings of Inflation
+###### The Alleged Blessings of Inflation
 
 The alleged advantages that the champions of fiat money expect from the operation of the system they advocate are temporary only. An injection of a definite quantity of new money into the nation’s economy starts a boom as it enhances prices. But once this new money has exhausted all its price-raising potentialities and all prices and wages are adjusted to the increased quantity of money in circulation, the stimulation it provided to business ceases. Thus even if we neglect dealing with the undesired and undesirable consequences and social costs of such inflationary measures and, for the sake of argument, even if we accept all that the harbingers of “expansionism” advance in favor of inflation, we must realize that the alleged blessings of these policies are short-lived. If one wants to perpetuate them, it is necessary to go on and on increasing the quantity of money in circulation and expanding credit at an ever-accelerated pace. But even then the ideal of the expansionists and inflationists, viz., an everlasting boom not upset by any reverse, could not materialize.
 
 A fiat-money inflation can be carried on only as long as the masses do not become aware of the fact that the government is committed to such a policy. Once the common man finds out that the quantity of circulating money will be increased more and more, and that consequently its purchasing power will continually drop and prices will rise to ever higher peaks, he begins to realize that the money in his pocket is melting away. Then he adopts the conduct previously practiced only by those smeared as profiteers; he “flees into real values.” He buys commodities, not for the sake of enjoying them, but in order to avoid the losses involved in holding cash. The knell of the inflated monetary system sounds. We have only to recall the many historical precedents beginning with the Continental Currency of the War of Independence.
 
-### Why Perpetual Inflation Is Impossible
+###### Why Perpetual Inflation Is Impossible
 
 The fiat-money system, as it operates today in this country and in some others, could avoid disaster only because a keen critique on the part of a few economists alerted public opinion and forced upon the government cautious restraint in their inflationary ventures. If it had not been for the opposition of these authors, usually labeled orthodox and reactionary, the dollar would long since have gone the way of the German mark of 1923. The catastrophe of the Reich’s currency was brought about precisely because no such opposition was vocal in Weimar Germany.
 
@@ -835,7 +835,7 @@ Champions of the continuation of the easy money scheme are mistaken when they th
 
 The attitude of a great many people with regard to inflation is ambivalent. They are aware, on the one hand, of the dangers inherent in a continuation of the policy of pumping more and more money into the economic system. But as soon as anything substantial is done to stop increasing the amount of money, they begin to cry out about high interest rates and bearish conditions on the stock and commodity exchanges. They are loath to relinquish the cherished illusion which ascribes to government and central banks the magic power to make people happy by endless spending and inflation.
 
-### Full Employment and the Gold Standard
+###### Full Employment and the Gold Standard
 
 The main argument advanced today against the return to the gold standard is crystallized in the slogan “ full-employment policy.” It is said that the gold standard paralyzes efforts to make unemployment disappear.
 
@@ -849,7 +849,7 @@ There is no need to examine anew the question whether the Keynesian scheme could
 
 It is, therefore, a fable that the Keynesian full-employment recipe could achieve anything for the benefit of the wage earners that could not be achieved under the gold standard. The full-employment argument is as illusory as all the other arguments advanced in favor of increasing the quantity of money in circulation.
 
-### The Specter of an Unfavorable International Balance
+###### The Specter of an Unfavorable International Balance
 
 A popular doctrine maintains that the gold standard cannot be preserved by a country with what is called an “unfavorable balance of payments.” It is obvious that this argument is of no use to the American opponents of the gold standard. The United States [1953] has a very considerable surplus of exports over imports. This is neither an act of God nor an effect of wicked isolationism. It is the consequence of the fact that this country, under various titles and pretexts, gives financial aid to many foreign nations. These grants alone enable the foreign recipients to buy more in this country than they are selling in its markets. In the absence of such subsidies it would be impossible for any country to buy anything abroad that it could not pay for, either by exporting commodities or by rendering some other service such as carrying foreign goods in its ships or entertaining foreign tourists. No artifices of monetary policy, however sophisticated and however ruthlessly enforced by the police, can in any way alter this fact.
 
@@ -873,7 +873,7 @@ Everybody knows that inflation consists of a large increase in the available qua
 
 There is widespread ignorance, however, concerning the social implications of inflation. How will it affect you personally, if you are a professional man, a worker, a farmer? What will it do to your possessions, your debts, your insurance policies?
 
-### Social and Economic Effects of Inflation
+###### Social and Economic Effects of Inflation
 
 The first fact that needs to be noted in answering such questions is that inflation is detrimental to all creditors. The higher prices rise, the lower will fall the purchasing power of the principal and interest payments due. The dollar which was loaned out had a higher purchasing ability, could provide more goods, than the dollar which is paid back.
 
@@ -889,7 +889,7 @@ While inflation is under way, some people enjoy the benefit of higher prices for
 
 These victims, by and large, are the same kind of people?roughly, the middle classes?who are injured as creditors through the depreciation of their bank savings, insurance policies, pensions, etc. The salaries of teachers and ministers, the fees of doctors, go up only slowly as compared to the tempo with which prices of food, rent, clothing, and so on, go up. There is always a considerable time lag between the increase in the money income of the white-collar workers and professional people and the increase in costs of food, clothing, and other necessities.
 
-### Hedging Against Inflation
+###### Hedging Against Inflation
 
 Has the average man any means of evading the detrimental effects of inflation?
 
@@ -913,7 +913,7 @@ The owners of really large fortunes, too, may succeed in preserving a greater or
 
 Even if some special groups profit, the whole country is poorer.
 
-### Moral and Political Effects of Inflation
+###### Moral and Political Effects of Inflation
 
 Worse than the immediate economic consequences of inflation are its attendant moral and political dangers.
 
@@ -921,7 +921,7 @@ It has been asserted that Nazism is the fruit of the vast German inflation of 19
 
 Fortunately, such superstitions are strange to the healthy common sense of America. Inflation, therefore, will never go as far in this country as it did in Germany. Even a much more moderate inflation, however, shakes the foundations of a country’s social structure. The millions who see themselves deprived of security and well-being become desperate. The realization that they have lost all or most all of what they had set aside for a rainy day radicalizes their entire outlook. They tend to fall easy prey to adventurers aiming at dictatorship, and to charlatans offering patent-medicine solutions. The sight of some people profiteering while the rest suffer infuriates them. The effect of such an experience is especially strong among the youth. They learn to live in the present and scorn those who try to teach them “old-fashioned” morality and thrift.
 
-### Inflation and Government Borrowing
+###### Inflation and Government Borrowing
 
 The writer, having witnessed the course of inflations in one European nation after another, believes that it is not too late to stop further inflation in the United States by bold and painful measures. Inflation is not an act of God. It is a result of the methods used to provide a part of the means for the conduct of the war. One set of methods can still be replaced by another, less harmful set. It is still possible to keep down the amount of money and money substitutes _by financing the total amount necessary through taxation and loans_.
 
@@ -950,7 +950,7 @@ The unavoidable consequence of inflation is the emergence of a general tendency 
 
 What the bureaucrats have in mind when talking about “fighting” inflation is not _avoiding_ inflation, but _suppressing_ its inevitable consequences by price control. This is a hopeless venture. The attempt to fix prices at a lower rate than that which the unhampered market would determine renders unremunerative the business of some producers; that is, those operating at the highest costs. This forces them to discontinue production.
 
-### Wartime Experience
+###### Wartime Experience
 
 Inflation, in conjunction with price control, brings about scarcity. Housewives remember very well what happened in World War II with meat, butter, eggs, and many other articles under the regime of the Office of Price Administration. Yet price control has been re-established.[^29] If Congress does not let the present price control law expire on June 30, as scheduled, the country will very soon experience anew not only all the hardships of inflation, but also all the evils created by the vain attempts to conceal these hardships by price control.
 
@@ -960,7 +960,7 @@ But the administration does not want to stop inflation. It does not want to enda
 
 With inflation as well as with taxation, it is the citizens who must foot the total bill. The distinguishing mark of inflation, when considered as a method of filling the vaults of the Treasury, is that it distributes the burden in a most unfair way, overcharging those who are least able to bear it.
 
-### A Semantic Trick
+###### A Semantic Trick
 
 To avoid being blamed for the nefarious consequences of inflation, the government and its henchmen resort to a semantic trick. They try to change the meaning of the terms. They call “inflation” the inevitable _consequence_ of inflation, namely, the rise in prices. They are anxious to relegate into oblivion the fact that this rise is produced by an increase in the amount of money and money substitutes. They never mention this increase.
 
@@ -976,7 +976,7 @@ In dealing with problems concerned with the economics of mobilization, it is fir
 
 In recent decades all nations have looked upon the income and the wealth of the more prosperous citizens as an inexhaustible reserve which could be freely tapped. Whenever there was need for additional funds, one tried to collect them by raising the taxes to be paid by the upper-income brackets. There seemed to be enough money for any suggested expenditure because there seemed to be no harm in “soaking the rich” a bit more. As the votes of these rich do not count much in elections, the members of the legislative bodies were always ready to increase public spending at their expense. There is a French dictum: _Les affaires, c’est l’argent des autres_. “Business is other people’s money.” In these last 60 years political and fiscal affairs were virtually “other people’s money.” Let the rich pay, was the slogan.
 
-### End of an Era
+###### End of an Era
 
 Now this period of fiscal history has come to an end. With the exception of the United States and some of the British Dominions, what has been called the ability-to-pay of the wealthy citizens has been completely absorbed by taxes. No further funds of any significance can be collected from them. Henceforth all government spending will have to be financed by taxing the masses.
 
@@ -988,7 +988,7 @@ Inflation, an increase in money and credit, is certainly not a means to avoid or
 
 What makes it possible for a government to increase its funds by inflation is the ignorance of the public. The people must ignore the fact that the government has chosen inflation as a fiscal system and plans to go on with inflation endlessly. It must ascribe the general rise in prices to other causes than to the policy of the government and must assume that prices will drop again in a not-too-distant future. If this opinion fades away, inflation comes to a catastrophic breakdown.
 
-### The Housewife’s Behavior
+###### The Housewife’s Behavior
 
 If the housewife who needs a new frying pan reasons: “Now prices are too high; I will postpone the purchase until they drop again,” inflation can still fulfill its fiscal purpose. As long as people share this view, they increase their cash holdings and bank balances, and a part of the newly created money is absorbed by these additional cash holdings and bank balances; prices on the market do not rise in proportion to the inflation.
 
@@ -998,7 +998,7 @@ In this country we have not yet reached this second and final stage of every pro
 
 Therefore, we should not waste our time in discussing methods of price control. Price control cannot prevent the rise in prices if inflation is going on. Even capital punishment could not make price control work in the days of Emperor Diocletian or during the French Revolution. Let us concentrate our efforts on the problem of how to avoid inflation, not upon useless schemes of how to conceal its inexorable consequences.
 
-### Taxation the Key
+###### Taxation the Key
 
 What is needed in wartime is to divert production and consumption from peacetime channels toward military goals. In order to achieve this, it is necessary for the government to tax the citizens, to take away from them the money, which they would otherwise spend for things they must no longer buy and consume, so the government can spend it for the conduct of the war.
 
@@ -1006,7 +1006,7 @@ At the breakfast table of every citizen in wartime sits an invisible guest, as i
 
 The adequate method of providing the funds the government needs for war is, of course, taxation. Part of the funds may also be provided by borrowing from the public, the citizens. But if the Treasury increases the amount of money in circulation or borrows from the commercial banks, it inflates. Inflation can do the job for a limited time. But it is the most expensive method of financing a war; it is socially disruptive and should be avoided.
 
-### Inflation: A Convenient Makeshift
+###### Inflation: A Convenient Makeshift
 
 There is no need to dwell upon the disastrous consequences of inflation. All people agree in this regard. But inflation is a very convenient makeshift for those in power. It is a handy means to divert the resentment of the people from the government. In the eyes of the masses, big business, the “profiteers,” the merchants,?not the Administration?appear responsible for the rise in prices and the ensuing need to restrict consumption.
 
@@ -1016,7 +1016,7 @@ A truly democratic government would have to tell the voters openly that they mus
 
 Deficit spending is not a new invention. During the greater part of the 19th century it was the preferred fiscal method of precisely those governments that were not then considered democratic and progressive?Austria, Italy, and Russia. Austria’s budget showed a deficit yearly from 1781 on, until the late ‘80s of the 19th century, when an orthodox professor of economics, Dunajewski, as Minister of Finance, restored the budgetary equilibrium. There is no reason to be proud of deficit spending, nor to call it progress.
 
-### Going After Lower Brackets
+###### Going After Lower Brackets
 
 If one wants to collect more taxes, it will be necessary to lay a burden greater than hitherto on the lower income brackets, the strata of society whose members consume the much greater part of the total amount consumed in this country. Up to now it has been customary to tax predominantly corporations and individuals with higher incomes. But even the outright confiscation of these revenues would only cover a fraction of the additional funds the country needs today.
 
@@ -1024,7 +1024,7 @@ Some experts have declared that it is necessary to tax the people until it hurts
 
 In his book on _Eternal Peace_ , the German philosopher Immanuel Kant (1724-1804) suggested that government should be forbidden to finance wars by borrowing. He expected that the warlike spirit would dwindle if all countries had to pay cash for their wars. However, no serious objection can be raised against borrowing from the public, from people who have saved and are prepared to invest in government bonds. But borrowing from the commercial banks is tantamount to printing additional bank notes and expanding the amount of deposits subject to check. That is inflation.
 
-### Semantic Confusion
+###### Semantic Confusion
 
 There is nowadays a very reprehensible, even dangerous, semantic confusion that makes it extremely difficult for the non-expert to grasp the true state of affairs. Inflation, as this term was always used everywhere and especially in this country, means increasing the quantity of money and bank notes in circulation and the quantity of bank deposits subject to check. But people today use the term “inflation” to refer to the phenomenon that is an inevitable consequence of inflation, that is the tendency of all prices and wage rates to rise. The result of this deplorable confusion is that there is no term left to signify the cause of this rise in prices and wages. There is no longer any word available to signify the phenomenon that has been, up to now, called inflation. It follows that nobody cares about inflation in the traditional sense of the term. As you cannot talk about something that has no name, you cannot fight it. Those who pretend to fight inflation are in fact only fighting what is the inevitable consequence of inflation, rising prices. Their ventures are doomed to failure because they do not attack the root of the evil. They try to keep prices low while firmly committed to a policy of increasing the quantity of money that must necessarily make them soar. As long as this technological confusion is not entirely wiped out, there cannot be any question of stopping inflation.
 
@@ -1044,7 +1044,7 @@ The most serious dangers for American freedom and the American way of life do no
 
 Both traditional parties, the Republicans as well as the Democrats, are sincere in protesting their abhorrence of totalitarianism. The voters in casting their ballots for either of these parties are fully convinced that they are voting for officeholders who are firmly committed to the preservation intact of the Constitution and all the freedoms it grants to the individual citizens. These politicians and their supporters would be seriously alarmed if they realized that they are virtually paving the way for a system that does not differ essentially from the totalitarian system they decidedly reject.
 
-### Socialism and Planning Not Different from Communism
+###### Socialism and Planning Not Different from Communism
 
 The fundamental fallacy that leads contemporary political thinking astray is to be seen in the fictitious distinction between communism on the one side and socialism and planning on the other side.
 
@@ -1056,7 +1056,7 @@ The essential feature of the socialist, or communist conduct of affairs is the s
 
 Yet many leaders of our political parties are deluded by the idea that socialism and planning are something different from communism and that in fostering these schemes they are opposing communism, while in fact they are fully adopting the Communist program. Of course, these confused politicians pretend that what they are aiming at is a socialist system that preserves democracy and representative government. They say they want to abolish “only” _economic_ freedom and to retain _political_ freedom. They are at a loss to realize that economic control is not merely control of one sector of human life which can he separated from other sectors. If the government controls all material factors of production, it controls all aspects of the individuals’ activities. If it controls all publishing facilities, all printing presses, radio, television, and all assembly halls, every political activity depends on the discretion of the authorities. If everybody is bound to work according to the orders of the government, only those whom the rulers trust are free to devote their time and their efforts to public affairs. It is not an accident that representative government and civil liberties developed step by step with the substitution of capitalism for feudalism and disappeared everywhere as soon as socialism?whether the “right” model (German Nazism and Italian Fascism) or the “left” model (Russian Bolshevism)?supplanted the market economy. Despotism is the necessary political corollary of socialism just as representative government is the necessary constitutional corollary of capitalism.
 
-### Unwitting Support of Socialism by Inflationary Policies
+###### Unwitting Support of Socialism by Inflationary Policies
 
 Certainly there are many among the “left” wing leaders of both political parties who are consciously intent upon abolishing any trace of freedom and converting America into a full replica of the Soviet system. But most of our politicians and the rank and file of the voters are not guilty of such a betrayal. On the contrary, they are anxious to preserve the traditional system of government, the free institutions, established by the founding fathers, the institutions that were the foundations of this country’s greatness, glory and prosperity, as they were the essential features of the civilization of Western Europe. But even these sincere advocates of liberty are, unbeknown to themselves, undermining the “American way of life.” They are lending a helping hand to allegedly beneficial economic policies that, on the one side, sabotage the operation of the market economy and, on the other side, restrict the individuals’ self-determination by expanding the field of government control, euphemistically called “social” control.
 
@@ -1068,7 +1068,7 @@ The fault rests with a lack of responsibility and a fickleness of character on t
 
 It is a serious error to assume that a nation can win and can become richer by increasing the supply of money and money substitutes. What one group of people may gain, is lost by other groups.
 
-### Inflation and the Creditors
+###### Inflation and the Creditors
 
 Let us look upon one important aspect of the problem, the nexus of creditor and debtor. One of inflation’s main effects is the progressive dilution of debts. The more inflation progresses, the more is the debtor favored at the expense of the creditor. While the nominal value of a loan remains unchanged, its purchasing power shrinks more and more. Of course, some people believe that this is after all not too bad, or that it may even be desirable. The creditors, they think, are rich and will get over such losses. But the debtors are poor and will be benefited by a reduction in the burden of their debt.
 
@@ -1080,7 +1080,7 @@ In the “good old days,” effectual saving was possible only for the well-to-d
 
 The financial techniques of capitalism radically altered this state of affairs. Capitalism not only increased the marginal productivity of labor spectacularly and thereby raised wage rates and the employees’ standard of living. It also made it possible for thrifty laborers to join in the endeavors of accumulating capital. It inaugurated institutions to fructify everybody’s parsimony, first of all savings banks and insurance organizations. Even the smallest savings deposit bears interest. The success of these schemes was overwhelming. Billions were added to the capital working in the plants, farms, mines and transportation facilities. A continually growing part of the nation’s wealth is the counterpart of these holdings of the common man.
 
-### The Common Man a Creditor
+###### The Common Man a Creditor
 
 These conditions manifest themselves in the fact that the average man is today a creditor rather than a debtor. The much talked-about rise in consumers’ credit lending, originating from installment selling and buying must not deceive us. In the balance the common man is by far a creditor, not a debtor. The billions of dollars that big business and real estate owe to mortgage banks, commercial banks, savings banks, and insurance companies belong?virtually, although not formally?to the common man. He owns corporate bonds as well as bonds issued by the U.S. Treasury and by various subdivisions of the government. And finally familiarity with these types of investment provides him with a better understanding of the ways and practices of business and thus enables him also to venture on the acquisition of common stock. One of the most characteristic developments of present-day finance, the mutual funds and kindred schemes, shows the extent to which what is called risk capital also turns into a popular way of saving and investing.
 
@@ -1088,7 +1088,7 @@ Yet, however momentous these attempts to make the common man an owner of common 
 
 Under a _sound_ money policy these people would become more and more deproletarianized. They would acquire a continually rising share in the nation’s wealth and become interested in the nation’s economic effort, not only as employees, but also as owners of interest-bearing investments. But under inflationary policies they see how the purchasing power of their savings, their insurance policies and their pensions is persistently dwindling. Their hopes for steady material improvement are dispelled. Their attempts to join those strata of the population who, by saving and capital accumulation are cooperating in the improvement of economic conditions, are thwarted. They become desperate and lose their confidence in the fairness and efficiency of the market economy.
 
-### The Communists Favor Inflation
+###### The Communists Favor Inflation
 
 The Communist chiefs know very well how their cause is furthered by undermining the purchasing power of the dollar. They know they cannot succeed in a country in which the masses of the wage earners rely upon their savings and upon other income such as pensions and social security benefits determined in fixed amounts of the nation’s legal tender. The main obstacle which their propaganda encounters in this country is the fact that the “common man” is more and more deproletarianized and sees his personal economic condition improved, not only by rising wages and salaries, but also by his claims to pensions and interest from savings. The 65 percent of the American population who hold life insurance policies are proof against the venom of the Communist slogans and so are the 47 percent of the entire population who are time depositors in mutual savings and commercial banks. But when these people see the value of their thrift continually diminished by inflation, they lose their faith in the system and become an easy prey to the mendacious incitation of the subversive parties.
 
@@ -1130,13 +1130,13 @@ People by and large know today that a boom brought forth by a policy of credit e
 
 “How will business be in the coming months?” asks the newspaperman when interviewing the economist. No convention of businessmen is held without the solicited presence of a professor of economics, or the head of a bank’s research department, who in guarded language produces a cautiously qualified prediction about the nation’s, or the world’s business. Whenever and wherever a businessman catches sight of an economist, he tries to sound him out about the future state of the market.
 
-### What Brings About the Slump
+###### What Brings About the Slump
 
 Economics explains the phenomenon of the trade cycle (i.e., the repeated emergence of periods of unusually good business that are invariably followed after some time by a reversal into unusually bad business) as the necessary effect of the attempts to manipulate the rate of interest. Governments and political parties are committed to the idea that it is good policy to lower the rate of interest below the height it would attain on a free market. And they believe that the expansion of bank credit is the right means to produce this desired effect. They do not realize that the boom which they artificially create by such credit expansion must finally result in the catastrophe of the depression.
 
 Spokesmen of governments tried to disparage the economists’ explanation of the recurrence of economic depressions. They tried in vain. This economic doctrine, the so-called monetary or circulation-credit theory of the business cycle, is irrefutable. The fanatical supporters of inflationism, unbalanced budgets, and reckless government spending have, it is true, succeeded in banning sound theory from universities and textbooks. And they have founded special research institutions whose main purpose it is to put the monetary theory into oblivion. But their triumph is always short-lived. Today people are fully aware of the fact that credit expansion is the ultimate cause of the slump. All public declarations on the state of business, even those uttered by bureaucrats, are based upon a full acknowledgment of the monetary doctrine of the trade cycle. It is precisely the cognition of this theory’s correctness that in the present boom period alarms businessmen and prompts them to inquire nervously about the date of the turning point.
 
-### Economics: Not Quantitative
+###### Economics: Not Quantitative
 
 Economics predicts the outcome of definite modes of conduct, in our case, of a policy of credit expansion. But this prediction is _qualitative_ only. Economic prediction can never disclose anything about the _quantitative_ relations concerned. There is not, and there cannot be such a thing as _quantitative_ economics.
 
@@ -1144,7 +1144,7 @@ In the field of the natural sciences there prevail constant relations between de
 
 Economics can only tell us that a boom engendered by credit expansion will not last. It cannot tell us after what amount of credit expansion the slump will start or when this event will occur. All that economists and other people say about these quantitative and calendar problems partakes of neither economics nor any other science. What they say in the attempt to anticipate future events makes use of specific “understanding,” the same method which is practiced by everybody in all dealings with his fellow man. Specific “understanding” has the same logical character as that which characterizes all anticipation’s of future events in human affairs?anticipation’s concerning the course of Russia’s foreign policy, religious and racial conditions in India or Algeria, ladies’ fashions in 1960, the political divisions in the U.S. Senate in 1970; and even such anticipation’s as the future marital relations between Mr. X and his wife, or the success in life of a boy who has just celebrated his tenth birthday. There are people who assert that psychology may provide some help in such prognostications. However that may be, it is not our task to examine this problem. We have merely to establish the fact that forecasts about the course of economic affairs cannot be considered scientific.
 
-### Statistics: Necessarily Retrospective
+###### Statistics: Necessarily Retrospective
 
 The usual method employed in business forecasts is statistical and, thereby, retrospective.
 
@@ -1154,7 +1154,7 @@ In the sphere of human action statistics are a special method of historical rese
 
 Professional forecasters blame their much talked about failures on the fact that the figures available are insufficient and reach them too late. This apology misses the point. However complete and recent statistical information may be, it always remains information about the past and does not assert anything about the future.
 
-### The Self-Contradiction of Forecasting
+###### The Self-Contradiction of Forecasting
 
 People’s ideas about the possibility of business forecasting, and its practical value for the conduct of one’s own affairs, are self-contradictory and unrealizable.
 
@@ -1205,7 +1205,7 @@ _Introduction to the Henry Regnery Co. edition (1953) of Adam Smith_ , An Inquir
 
 The most popular of the Marxian teachings is the doctrine of the irreconcilable conflict of social classes.
 
-### Status or Caste in Precapitalistic Society
+###### Status or Caste in Precapitalistic Society
 
 In the precapitalistic ages the characteristic mark of society’s organization was status. In the status or caste society there prevail legal differences among individuals. The individual’s station in life was fixed by his status. He inherited from his parents at birth his caste membership and his position in life was rigidly determined by the laws and customs that assigned to each member of his rank definite privileges, duties, and disabilities. Exceptional good or bad luck might in some rare cases elevate an individual into a higher rank or debase him into a lower rank. But as a rule, the conditions of the individual members of a definite order or rank could improve or deteriorate only with a change in the conditions of the whole membership. The individual was primarily not a citizen of a nation; he was a member of an estate (_Stand_ in German, _?tat_ in French).
 
@@ -1213,7 +1213,7 @@ This system, that in England had already been substantially tempered and humaniz
 
 In the status society there prevails, on the one hand, a solidarity of interests of all members of the same caste and, on the other hand, an irreconcilable conflict of interests between the members of different castes. All slaves, for instance, are united in having a stake in the abolition of slavery while their masters are opposed. All members of the European nobility were opposed to the abolition of their tax exemption, from which the Third Estate people expected a relaxation of their own burden. But no such conflicts are present in a society in which all citizens are equal before the law. No logical objection can be advanced against distinguishing various classes among the members of such a society; any classification is logically permissible, however arbitrarily the mark of distinction may be chosen. But it is nonsensical to classify the members of a capitalistic society according to their position in the framework of the social division of labor and then to identify these “classes” with the castes of a status society. It is precisely this that the Marxian doctrine of the irreconcilable struggle of classes does.
 
-### Marxian “Classes”
+###### Marxian “Classes”
 
 The “classes” that Marx distinguishes within a capitalistic society have a continually fluctuating membership. Class affiliation under capitalism is not a hereditary quality. It is assigned to each individual by a daily repeated plebiscite, as it were, of all the people. The buying public, the consumers, by their buying and abstention from buying, determine who should own and run the plants, who should work in the factories and mines, who should play the parts in the theater performances, and who should write the newspaper articles. They do it in a similar way in which they determine in their capacity as voters who should act as president, governor, or judge. In order to get rich in a capitalistic society and to preserve one’s once acquired wealth one must satisfy the wishes of the public. Those who have acquired wealth as well as their heirs must try to keep it by defending their assets against the competition of already established firms and of ambitious newcomers. In the unhampered market economy, not sabotaged by concessions and exemptions accorded to powerful pressure groups, there are no privileges, no protection of vested interests, no barriers preventing anybody from striving after any prize. Access to the Marxian-designated classes is free to everybody. The members of each class compete with one another. They are not united by a common class interest and not opposed to the members of other classes by being allied either in the defense of a common privilege, which those wronged by it want to see abolished, or in the attempt to abolish a legal disability which those deriving advantage from it want to preserve.
 
@@ -1229,7 +1229,7 @@ One could be tempted to say: It is really tragic. Here is an author to whom fate
 
 But a closer inspection reveals a different aspect of the case. The abundant biographical material about Marx collected and published by his followers and the Marx-Engels-Lenin Institute in Moscow evinces the fact that Marx had ceased to work on his book many years before his death. There cannot be any doubt about the reason. When faced with the task of telling in precise words what he had in mind when perorating about “social classes” and giving reasons for his doctrine of the irreconcilable conflict of interests between the “social classes,” Marx failed thoroughly. He had to acknowledge to himself that he was perplexed and was at his wit’s end. He did not know what to say in the planned 52nd chapter of the third volume and this embarrassment induced him to desist from finishing his great treatise. The essential dogma of the Marxian philosophy, the class conflict doctrine which he and his friend Engels had propagated for many decades, was unmasked as a flop.
 
-### Marxian Ideology Doctrine
+###### Marxian Ideology Doctrine
 
 The only retort that Marx, Engels and all their followers down to the Russian Bolshevists and the European and American professorial admirers of Marx knew to advance against their critics was the notorious ideology doctrine. According to this makeshift a man’s intellectual horizon is fully determined by his class affiliation. The individual is constitutionally unfit to reach out and to grasp any other doctrine than one that furthers the interests of his own “class” at the expense of other “classes.” It is, therefore, unnecessary for a proletarian to pay any attention to whatever bourgeois authors may say and to waste time refuting their statements. All that is needed is to unmask their bourgeois background. That settles the matter.
 
@@ -1237,7 +1237,7 @@ This is the method to which Marx and Engels and later Marxians resorted in deali
 
 But Marx and Engels also contradicted their own doctrine in this regard. They both were scions of bourgeois families, brought up and living in a typical middle class milieu. Marx was the son of a well-to-do member of the bar and married the daughter of a Prussian nobleman. His brother-in-law was Cabinet Minister of the Interior and as such the Chief of the Royal Prussian Police. Engels was the son of a wealthy manufacturer and a rich businessman himself; he indulged in the amusements of the British gentry such as riding to hounds in a red coat, and snobbishly refused to marry his mistress because she was of low origin. From the very Marxian point of view one would have to qualify Marxism as a doctrine of bourgeois origin.
 
-### The Destruction of Marxian Ideas Demands Vigorous Criticism
+###### The Destruction of Marxian Ideas Demands Vigorous Criticism
 
 The enormous power that the Marxian ideas and the political parties guided by them enjoy in the present is not due to any inherent merits of the doctrine. It is an outgrowth of the moral and intellectual indifference and apathy of those whose duty it ought to be to offer unswerving resistance to false doctrines and to disclose their untruth. Some eminent philosophers and economists have provided irrefutable arguments to show the perversion, the misrepresentation of facts and the self-contradictions of the Marxian creed. But their books are not read by those whose responsibility it is to enlighten the public. Thus the masses today indolently endorse all the socialist slogans and look upon every step forward on the way toward totalitarianism as progress toward the establishment of an earthly paradise. It is the inertness and sloth on the part of many of our most eminent fellow citizens that make the impetuous advance of the communist power possible.
 
@@ -1251,13 +1251,13 @@ The most powerful force in the policies of our age is Karl Marx. The rulers of t
 
 The most remarkable fact about this unprecedented prestige of an author is that even his most enthusiastic admirers do not read his main writings and are not familiar with their content. A few passages and sentences from his books, always the same, are quoted again and again in political speeches and pamphlets. But the voluminous books and the scores of articles and pamphlets turned out by Marx are, as can be easily shown, not perused even by politicians and authors who proudly call themselves Marxians. Many people buy or borrow from a library reprints of Marx’s writings and start reading them. But, bored to death, they usually stop after a few pages, if they had not already stopped on the first page.
 
-### Doctrines of Marx
+###### Doctrines of Marx
 
 If people were familiar with the doctrines of Marx, they would never talk, as they often do, about socialism “according to the designs and precepts of Marx.” For Marx neither devised the concept of socialism nor did he ever say anything about the organization and operation of a socialist commonwealth except that it would be a blissful realm of unlimited abundance in which everybody would get all he needed. The idea of socialism?the abolition of private control of the material means of production and of free enterprise and the exclusive management of all economic affairs by the government?had been fully elaborated by French and British authors before Marx embarked upon his career as an author and propagandist. There was nothing left to be added to it and Marx did not add anything. Nor did he ever attempt to refute what economists had already brought forward in his time to show the illusiveness and absurdity of the socialist schemes. He derided as vain utopianism any occupation with the problems of a socialist economic system. As he himself viewed his own contribution, it consisted in the discovery of the alleged fact that the coming of socialism was inevitable and that socialism, precisely because it is bound to come “with the inexorability of a law of nature” and was the final goal to which mankind’s history must necessarily lead, would be the fulfillment of all human wishes and desires, a state of everlasting joy and happiness.
 
 The writings of Marx, first of all the ponderous volumes of his main treatise, _Das Kapital_ , do not deal with socialism. Rather they deal with the market economy, with capitalism. They depict capitalism as a system of unspeakable horrors and utmost detestableness in which the immense majority of people, the proletarians, are ruthlessly oppressed and exploited by a class of felonious capitalists. Everything in this nefarious system is hopelessly bad, and no reform, however well intentioned, can alleviate, still less remove, the abominable suffering of the proletarians. Nothing else can be said in favor of capitalism than that precisely on account of its monstrosity and atrocity it will one day, when the evils it produces become intolerable, result in the great social revolution that will generate the socialist millennium.
 
-### The “Iron Law” of Wages
+###### The “Iron Law” of Wages
 
 The pith of Marx’s economic teachings is his “law” of wages. This alleged law that is at the bottom of his entire criticism of the capitalistic system is, of course, not of Marxian make. It was devised by earlier authors, had long since been known under the label of the “iron law of wages” and had already been thoroughly refuted before Marx employed it as the foundation of his doctrine. Marx chose to ignore all that had been said to show the viciousness of the reasoning implied in this alleged law. He made some sarcastic remarks about the German translation of the English term “iron law,” as suggested by his main rival for the leadership of the German socialist party, Ferdinand Lassalle (1825-1864). But he built his entire economic reasoning, all his prognostication of the future course of economic affairs and his whole political program upon the illusory basis of this fallacious theorem.
 
@@ -1265,7 +1265,7 @@ This so-called “iron law” declares that wage rates are determined by the cos
 
 From the point of view of this alleged “iron law” the fate of the wage earners under capitalism appears hopeless. They can never lift themselves above the level of bare subsistence. No reforms, no governmental minimum wage enactment’s, no activities of labor unions can prove effectual against this iron law. Under capitalism, the proletarians are doomed to remain forever on the verge of starvation. All the advantages derived from the improvement of technological methods of production are pocketed exclusively by the capitalists. This is what the Marxian category of exploitation means. By right, Marx implies, all the products ought to benefit those who are producing them, the manual workers. The mere existence of the bourgeoisie is parasitic. While the proletarians suffer, the bourgeois exploit, feast and revel.
 
-### Capitalist Production
+###### Capitalist Production
 
 Now one has only to look around in order to detect that something must be entirely wrong with this description of capitalism’s economic functioning. The great innovation brought about by the transformation of the precapitalistic mode of production into the capitalistic system, the historical event that is called the Industrial Revolution, was precisely the inauguration of a new principle of marketing. The processing industries of the good old days catered almost exclusively to the wants of the well-to-do. But what characterizes capitalism as such is that it is mass production for the satisfaction of the needs of the masses. The much greater part of all the products turned out by the factories is consumed, directly or indirectly, by the same people who are working in the factories. Big business is big precisely because it produces the goods asked for, and bought by, the masses. If you go into the household of the average common man of a capitalistic country, you will find products manufactured in the plants of big business. It is fantastic nonsense to assert that all the wage earner gets are the bare necessities to sustain himself and to rear enough children to fill the jobs in the factories. While businesses that produce for the masses grow big, those that are turning out luxury goods for the few never grow above the size of medium, or even small, businesses.
 
@@ -1273,7 +1273,7 @@ The essential shortcoming of the “iron law of wages” was that it denied to t
 
 At the time Marx and Engels adopted this spurious “iron law” and asserted in the _Communist Manifesto_ (1848) that the average wage is “that quantum of the means of nourishment (_Lebensmittel_) which is absolutely requisite (_notwendig_) to keep the laborer in bare existence as a laborer,” judicious economists had already exposed the fallaciousness of this syllogism. But Marx did not heed their criticism. His whole economic doctrine set forth in his main treatise, _Das Kapital_ , is based upon the “iron law.” The falseness of this presumed law, the falseness of which has not been questioned by anybody for about a hundred years, cuts the ground from under all his economic reasoning. And it demolishes entirely the main demagogy of the Marxian system, the doctrine, that contends that the recipients of wages and salaries are exploited by the employers.
 
-### The Inevitability of Socialism
+###### The Inevitability of Socialism
 
 In the elaboration of his system of philosophy and economics Marx was blinded to such an extent by his passionate hatred of Western civilization that he did not become aware of the blatant contradictions in his own reasoning. One of the most essential dogmas of the Marxian message, perhaps its very core and substance, is the doctrine of the inevitability of the coming of socialism. In _Das Kapital_ (1867), Marx proclaims that capitalism “begets, with the inexorability of a law of nature, its own negation,” that is, it produces socialism. It is this prophecy that accounts for the obstinate fanaticism of the various communist and socialist factions of our age.
 
@@ -1319,7 +1319,7 @@ The social and economic meaning of institutions may change in the course of hist
 
 Let us deal with two outstanding examples.
 
-### Land Reform
+###### Land Reform
 
 The reformers and revolutionaries of the precapitalistic ages aimed at a radical transformation of land ownership. As they saw it, God had given the land as an endowment to all men. As far as any man’s estate exceeds the size needed for the support of his family, he deprives others of what by rights is their due. Nobody has from the point of view of natural law the right to keep as his own more than his legitimate share. In order to establish a fair social order, all land has to be confiscated and redistributed in equal portions to all heads of families. Then the most blatant inequalities of social and economic conditions will disappear. There will no longer be any poverty. All men will be equal.
 
@@ -1331,7 +1331,7 @@ But under the conditions of the capitalistic market society this program of land
 
 Ownership of land as of all other material factors of production is an asset in the market economy only for those who use it in the best possible way for the satisfaction of the consumers. The idea that inspired the plans for so-called agrarian reform is nonsensical in the market economy. Under the conditions of modern methods of agricultural management, a more or less equal distribution of the soil among the farming population is merely a scheme for granting privileges to a group of less efficient producers at the expense of the immense majority of consumers. The operation of the market tends to eliminate all those farmers whose cost of production is higher than the marginal costs needed for the production of that amount of farm products the consumers are ready to buy. It determines not only the size of the farms as well as the methods of production applied; it determines no less what fields should be tilled and what fields should be left fallow.
 
-### Favoritism for Debtors
+###### Favoritism for Debtors
 
 Another example of the survival of atavistic reform ideas is provided by the popularity of government interference to favor debtors at the expense of creditors.
 
@@ -1385,7 +1385,7 @@ Such small talk would do for the many things Lord Keynes was and did besides bei
 
 There are people who believe that the two books of Keynes that became best sellers?_The Economic Consequences of the Peace_ (1920), and _The General Theory of Employment, Interest and Money_ (1936)?decisively influenced the course of British policies and of world affairs. It is said that the first of these books inaugurated the anti-French and pro-German tendencies of Great Britain’s “appeasement” policy which virtually encouraged the rise of Nazism, permitted Hitler to defy the essential clauses of the Treaty of Versailles and finally resulted in the outbreak of the Second World War. It is furthermore asserted that the second book generated the “Keynesian revolution” of economic policies. The abandonment of the gold standard and the adoption of outright inflationary or “expansionist” fiscal methods, the New Deal and the Fair Deal, the full-employment policy, the intensification of anti-importation measures and many other kindred ventures are ascribed to the “unorthodox” ideas propagated by Keynes. If these assertions are correct, Keynes appears as the most influential personality of our age, whether the effects of these policies are to be considered as beneficial or disastrous.
 
-### Keynes’ Appeal to “Progressives”
+###### Keynes’ Appeal to “Progressives”
 
 Because of limitations of space we must set aside the first of these two questions and concentrate upon the second. Keynes was definitely not the inaugurator of a new economic policy. The governments did not have to wait for his advice in order to learn that inflation is a handy means to fill the empty vaults of the treasury. The Keynesian policies were practiced by governments and powerful political parties long before they were advocated by Keynes. Keynes’ writings were enthusiastically received by people who found in them an apparently scientific justification for what they had already done for a long time in defying the teachings of economics.
 
@@ -1407,7 +1407,7 @@ But from day to day it became more obvious that it was not enough to find a lame
 
 The enthusiastic praise that Keynes’ doctrine received on the part of professors and authors propagating government omnipotence could for a while divert attention from the fact that from the beginning all discriminating economists rejected it and unmasked its inherent fallacies. Some of the most important of these critical essays were collected and republished by Henry Hazlitt under the title _The Critics of Keynesian Economics_ (Van Nostrand, 1960). Hazlitt himself has in a voluminous brilliantly written study, _The Failure of the “New Economics”_ (Van Nostrand, 1959), clearly demonstrated the shortcomings, contradictions, and other failings of Keynesianism.
 
-### To Clear the Air
+###### To Clear the Air
 
 As an economic doctrine, Keynesianism is now dead. But the serious errors and misunderstandings of fundamental issues of economics that made its emergence and its fleeting success possible still prevail. There remain with us many empty slogans and illusory concepts that easily mislead those seeking a satisfactory interpretation of phenomena. It is necessary to clear away the debris of the Keynesian structure in order to open the way for a correct grasp of the principles of the market and the functioning of price flexibility.
 
@@ -1417,7 +1417,7 @@ Prices come into existence by the eagerness of people to exchange one commodity 
 
 Prices cannot be manipulated _ad libitum_ [at will] by the social apparatus of coercion and compulsion, the police power. All the government?or a labor union to which the government has virtually delegated its power of enforcing orders by violent action?can achieve is to substitute coercion for voluntary action. Where there is coercion, the market economy no longer functions; disorder results in the production and the marketing of the articles subject to the governmental decree. Then the spokesmen of the authorities point to the inefficiency of the market system and ask for more government meddling with the price system.
 
-### The Market Economy
+###### The Market Economy
 
 Professor Hutt analyzes point by point all the alleged shortcomings of the free market about which people complain. He presents a comprehensive analysis of all aspects of the Keynesian interpretation of the market economy. Most of the rising generation of economists were taught Keynesianism and therefore ignore all that economic theory has brought forward for an elucidation of what is going on in production and in the marketing of the products. A careful study of Professor Hutt’s new volume will lead them back to a correct grasp of the problems of the market economy.
 
@@ -1451,7 +1451,7 @@ In his book, _How Can Europe Survive?_ (Van Nostrand, 1955), Dr. Hans F. Sennhol
 
 The spurious doctrine, advanced by the majority of contemporary pseudo-economists and endorsed by almost all contemporary statesmen and politicians, runs this way: The operation of the market economy (capitalism, laissez faire) results in progressing poverty of the masses, in unemployment of an ever-increasing part of the potential labor force, in the regular recurrence of periods of economic depression. It disintegrates the international exchange of commodities and services and thereby hurts vital interests of all nations that cannot produce within the boundaries of their own countries all the food and raw material they need. In order to prevent a complete collapse of Western civilization, the governments must interfere. They must, in domestic policies, substitute government planning for the “anarchy of production” (a term employed by Karl Marx) and, in the international field, they must try to establish some sort of supernational government.
 
-### Main Points of Argument
+###### Main Points of Argument
 
 Dr. Sennholz examines the issue in analyzing a special case, viz., the endeavors to “unify” Europe. The main points of his argument are:
 
@@ -1480,7 +1480,7 @@ As the harbingers of socialism tell us again and again, socialism will not only 
 
 The treatment of this problem of freedom and bondage has been muddled by confounding it with the issues of the nature-given conditions of man’s existence. In nature there is nothing that could be called freedom. Nature is inexorable necessity. It is the state of affairs into which all created beings are placed and with which they have to cope. Man has to adjust his conduct to the world as it is. He lacks the power to rise in rebellion against the “laws of nature.” If he wants to substitute more satisfactory conditions for less satisfactory, he has to comply with them.
 
-### Freedom and Western Civilization
+###### Freedom and Western Civilization
 
 The concept of freedom and its antithesis make sense only in referring to the conditions of social cooperation among men. Social cooperation, the basis of any really human and civilized existence, can be achieved by two different methods. It can be cooperation by virtue of contract and voluntary coordination on the part of all individuals, or it can be cooperation by virtue of command on the part of a F?hrer and compulsory subordination of the many. The latter system is authoritarian. In the libertarian system every individual is a moral person, that is, he is free to choose and to act and is responsible for his conduct. In the authoritarian system the supreme chief alone is a free agent while all the others are bondsmen subject to his discretion. Where the authoritarian system is fully established, as was for instance the case in the Incan empire of pre-Columbian America, the subjects are human merely in a zoological sense; they are virtually deprived of their specifically human faculty of choosing and acting, and are not accountable for their conduct. It was in accordance with this degradation of man’s moral dignity that the Nazi criminal declined any responsibility for their deeds by pointing out that all they did was to obey the orders of their superiors.
 
@@ -1488,7 +1488,7 @@ Western civilization is based upon the libertarian principle and all its achieve
 
 Man is not a perfect being and there is no perfection in human affairs. Conditions in the free society are certainly in many regards unsatisfactory. There is still ample room for the endeavors of those who are intent upon fighting evil and raising the moral, intellectual and material level of mankind.
 
-### Authoritarianism
+###### Authoritarianism
 
 The designs of the Communists, socialists, and all their allies aim at something else. They want to establish the authoritarian system. What they mean in extolling the benefits to be derived from what they call planning is a society in which all of the people should be prevented from planning their own conduct and from arranging their lives according to their own moral convictions. One plan alone should prevail, the plan of the great idol State (with a capital _S_), the plan of the supreme chief of the government, enforced by the police. Every individual should be forced to renounce his autonomy and to obey, without asking questions, the orders issued from the Politburo, the Führer’s secretariat. This is the kind of freedom that Engels had in mind. It is precisely the opposite of what the term freedom used to signify up to our age.
 
@@ -1496,7 +1496,7 @@ It was the great merit of Professor Friedrich von Hayek to have directed attenti
 
 Now Professor Hayek has enlarged and substantiated his ideas in a comprehensive treatise, _The Constitution of Liberty_ (University of Chicago Press, 1960). In the first two parts of this book the author provides a brilliant exposition of the meaning of liberty and the creative powers of a free civilization. Endorsing the famous definition that describes liberty as the rule of laws and not of men, he analyzes the constitutional and legal foundations of a commonwealth of free citizens. He contrasts the two schemes of society’s social and political organization, government by the people (representative government), based upon legality, and government by the discretionary power of an authoritarian ruler or ruling clique, an _Obrigkeit_ as the Germans used to call it. Fully appreciating the moral, practical, and material superiority of the former, he shows in detail what the legal requirements of such a state of affairs are, and what has to be done in order to make it work and to defend it against the machinations of its foes.
 
-### The Welfare State
+###### The Welfare State
 
 Unfortunately, the third part of Professor Hayek’s book is rather disappointing. Here the author tries to distinguish between socialism and the Welfare State. Socialism, he alleges, is on the decline; the Welfare State is supplanting it. And he thinks the Welfare State is, under certain conditions, compatible with liberty.
 
@@ -1554,7 +1554,7 @@ The history of mankind appears to us as the history of the progressive expansion
 
 Man tries to learn as much as he can learn about the operation of the powers and factors that determine the mutual relations between the various elements that constitute the world, and he tries to employ this knowledge in attempts to influence the course of affairs. Man acts; that means, he tries to bring about definite effects. He aims at ends chosen. He is not, like the inanimate things and like the non-human animals, merely a puppet of the forces that have produced him and determine his environment. His endeavors to attain definite ends chosen are a factor cooperating in the emergence of the future state of world affairs.
 
-### The Gold Standard
+###### The Gold Standard
 
 The historical evolution of mankind’s economic cooperation, which culminated in attempts?by and large successful?at establishing a world-embracing system of the division of labor and the international exchange of commodities and services, gave to the metal gold the function of a generally employed medium of exchange. It is idle to raise the question of what would have happened if such a thing as gold had not been available for use as a generally employed medium of exchange.
 
@@ -1572,7 +1572,7 @@ The United States is today the world’s most prosperous nation. There is no nee
 
 But, in the present-day political and ideological climate, riches are held in evil repute. By and large, people look upon the more prosperous with unconcealed envy and hatred. The New Deal philosophy assures that an individual’s fortune which exceeds that of the much talked-about common man is ill-gotten and that it is the task of government to equalize wealth and incomes by confiscatory taxation.
 
-### Foreigners View American Prosperity
+###### Foreigners View American Prosperity
 
 Most Americans fail to realize that the same ideas that shape the anti-capitalistic bias of American domestic policies also determine foreign nations’ attitudes toward the United States. The average European?not to speak of the Asiatics and Africans?looks upon the United States with the same envy and hatred which the American “progressive” displays toward American business. He finds fault with the United States because it is more prosperous than his own country. In his opinion all Americans are bad for the simple reason that they enjoy a higher standard of living than he does. And just as the American “progressive” disparages as bribed “sycophants” of the exploiting bourgeoisie those few economists who have the courage to raise their voices against the New Deal, so the European “progressive” condemns as traitors all statesmen and writers supporting his government’s pro-American policy in the Cold War.
 
@@ -1582,7 +1582,7 @@ In the opinion of the typical foreign “intellectuals” mankind is divided int
 
 This blend of anti-capitalistic and anti-American sentiments plays an ominous role in present-day world affairs. It excites sympathies for the cause of the Soviets and jeopardizes the best designed attempts to block the further advance of Russian power. It threatens to overthrow Europe’s civilization from within.
 
-### Rappard Views American Prosperity
+###### Rappard Views American Prosperity
 
 Sober-minded European patriots are worried. They are aware of the dangers that the neutralist ideology generates. They would like to unmask its fallacies. But they are checked by the fact that the essential content of the anti-American doctrine fully agrees with the economic?or rather, pseudo-economic?theories that are taught at universities in their own countries and are accepted by all political parties. From the point of view of the ideas that determine the domestic policies of most European nations?and, for that matter, also those of the United States?a man’s penury is due to the fact that some people have appropriated too much to themselves. Hence the only efficacious remedy is to bring about by government interference a more equal distribution of what is called the national income. No argument whatever can be discovered to show that this doctrine and the practical conclusions derived from it ought to be limited to conditions within a nation and should not also be applied in international relations in order to equalize the distribution of world income.
 
@@ -1596,7 +1596,7 @@ The political importance of Professor Rappard’s conclusions is to be seen in t
 
 It can hardly be disputed, says Professor Rappard, “that the wealth of a country very largely depends on the will of the nation. Other things being equal, then, a country will be richer and its economy will be more productive in proportion as its inhabitants want it to be.” America is prosperous because its people wanted prosperity and resorted to policies fitted to the purpose.
 
-### Prosperity and Capital
+###### Prosperity and Capital
 
 The operation of the four factors to which Professor Rappard attributes the superior productivity of labor in the United States is certainly not confined to the United States. They are characteristic features of the capitalist mode of production that originated in Western Europe and only later came to the United States. Mass production was the essential innovation of the Industrial Revolution. In earlier ages craftsmen produced with primitive tools in small workshops almost exclusively for the needs of a limited number of well-to-do. The factory system inaugurated new methods of production as well as of marketing. Cheap goods for the many were and are its objective. It is this principle that, combined with the principle of competition, accounts for the expansion of the most efficient enterprises and the disappearance of inefficient ones.
 
@@ -1629,7 +1629,7 @@ _Reprinted from_ The Freeman, _November 1955_.
 
 It is admitted by everybody that the understanding of the American economy developed in most high schools today is not adequate for effective citizenship. In cognizance of this fact, the Committee for Economic Development, and the American Economic Association, a body that includes in its ranks almost all American teachers of economics, cooperated in entrusting a task force of professors and educational administrators with the study of the problems involved.
 
-### Task Force Report
+###### Task Force Report
 
 The report of this task force, published in September 1961, is one of the most interesting and characteristic documents of our age. It shows what is taught under the label of economics at most of the American colleges and universities. And it shows, as the distinguished authors of the report believe, what ought to be handed down also to the high school students. It provides virtually a r?sum? of the ideas held by “progressives”?men who have been most influential in this country’s movement away from the free market economy.
 
@@ -1643,7 +1643,7 @@ While in this matter of the direction of production activities and in many other
 
 But let us ask the authors of the report: How do you learn whether business in a country is good or bad? In the free countries people publicly complain as soon as they think that they do not earn as much as they would like. You cannot open an American newspaper without getting information about the state of business. But in Russia a man who would dare to say that something is unsatisfactory with the course of Russian economic affairs would pronounce his own death sentence. Years ago many millions died from starvation in the Ukraine, and no Russian newspaper or book ever mentioned this “minor” incident. It is well known that agricultural output has dropped considerably wherever socialist management has replaced private farming. What kind of stability does China, the most populous of all Communist countries, enjoy? It seems that the task force credulously based its judgments about Russia’s conditions upon the statistics published by the Russian offices without paying attention to the fact that statistics, if not controlled by a free press and by writers who are not on the government’s payroll, can prove anything in favor of the government whose agencies compiled it.
 
-### Communist Bias
+###### Communist Bias
 
 If the report had not been biased in favor of Communism, it would have had to say this about the controversy of capitalism and Communism: The Communist doctrine as expounded by Marx and endorsed by Lenin emphatically declared that capitalism must and will inevitably result in progressing impoverishment and enslavement of all workingmen, while Communism will bring to all people unprecedented affluence and perfect freedom. Events have entirely belied this prognostication. In the capitalistic countries of western Europe and North America, the standard of living of the average common man is continually improving and is much more satisfactory today than in any previous epoch of history, while in the Communist countries the masses are extremely poor and utterly deprived of any civil liberties.
 
@@ -1653,7 +1653,7 @@ In defending the report against criticism leveled in _The Wall Street Journal_ ,
 
 Without attempting any definition it ascribes to big business “extensive power” over its customers. What in this instance it calls power is the fact that an enterprise has succeeded in serving its customers better, or cheaper, or better _and_ cheaper than its competitors do. Then again it speaks of the power of labor unions and mentions “strikes supported by union picketing” as “the most powerful union weapon,” modifying this statement by appending the rather questionable proposition “but strikes occur infrequently.” Nothing is said about what Harvard Law School Dean Roscoe Pound [1870-1964] called “the substantially general privileges and immunities of labor unions and their members and officials to commit wrongs to person and property” and to commit many other acts that are considered and punished as criminal offenses when committed by other people. The authors did not find it worthwhile to react to these words of the nation’s most eminent legal expert. Nor to the books of law by Professor Sylvester Petro. All they did was to declare that such issues as the “closed shop” and “right-to-work laws” are worth “brief”(!) student attention.
 
-### Implementing the Task Force Report
+###### Implementing the Task Force Report
 
 One thing must be acknowledged concerning this report: It unblushingly provides a faithful exposition of the ambivalent economic philosophy of the present-day system of American government. All the evils that are plaguing the people of this country are the inevitable effect of policies that, under the misleading name of a “middle-of-the-road” program, are, step by step, substituting government compulsion and coercion for the initiative of individual citizens. These ideologies and policies make the “public sector” of the economy grow more and more within the nation at the expense of “the private sector.” And they make the totalitarian “Communist sector” expand within the sphere of world politics and the free “capitalistic sector” shrink. Hitherto in this country the propagation of these policies and ideas was the concern of leftist parties and their press. Now it is suggested to indoctrinate the high school students with them. This will certainly provide jobs for thousands and thousands of staunch supporters of the allegedly “progressive” doctrines that in present-day America are expounded under the misleading labels “liberal” and “democratic.” However, the ambitious expectations entertained by the sponsors and the authors of the report and by their political friends will hardly be realized.
 
@@ -1715,7 +1715,7 @@ In Russia, in 1917, the Bolsheviks numbered only a few thousand men. From the ar
 
 All people agree that in France and in Italy [1948] the Communist danger is very great. Yet, it is a fact that the majorities in both countries are hostile to Communism. However, the resistance of these majorities is weak, as they have espoused essential parts of socialism and of the Marxian criticism of capitalism. Thanks to this ideological penetration of Communist adversaries in France and Italy, the chances of the Communists are much better than the numbers of Communist Party members warrant.
 
-### The Philosophical Problem Implied
+###### The Philosophical Problem Implied
 
 Those engaged in the conduct of business, the professions, politics, and the editing and writing of newspapers and magazines are so fully absorbed by the sundry problems they have to face that they neglect to pay attention to the great ideological conflicts of our age. The urgent tasks of the daily routine impose on them an enormous quantity of pressing work, and no time is left for a thoroughgoing examination of the principles and doctrines implied. Perplexed by the vast amount of detail and trivia, the practical man looks only at the short-run consequences of the alternatives between which he has to choose at the moment, and does not bother about long-run consequences. He falls prey to the illusion that this attitude alone is worthy of an active citizen successfully contributing to progress and welfare; preoccupation with fundamental questions is just a pastime for authors and readers of useless highbrow books and magazines. In democratic America the men most distinguished in business, the professions, and politics have today the same attitude toward “theories” and “abstractions” that Napoleon Bonaparte displayed in ridiculing and abusing the “ideologues.”
 
@@ -1735,7 +1735,7 @@ The disinclination to deal with “theory” is tantamount to yielding submissiv
 
 It is true that the masses have only a very crude and simplified cognition of dialectical materialism and its offshoot, the so-called sociology of knowledge. But all knowledge of the many is crude and simplified. What matters is not to change the ideology of the masses, but to change first the ideology of the intellectual strata, the “highbrows,” whose mentality determines the content of the simplifications which are held by the “lowbrows.”
 
-### Marxism and “Progressivism”
+###### Marxism and “Progressivism”
 
 The social and economic teachings of the self-styled “unorthodox Progressives” are a garbled mixture of divers particles of heterogeneous doctrines incompatible with one another. The main components of this body of opinion were taken from Marxism, British Fabianism and the Prussian Historical School. Essential elements were also borrowed from the teachings of those monetary reformers, inflationists who were long known only as “monetary cranks.” And the legacy of Mercantilism is important too.
 
@@ -1747,7 +1747,7 @@ There is no need to enter here into an analysis of interventionism. It has been 
 
 However, my purpose here is not to deal with the policies recommended by the champions of interventionism. These practical policies differ from group to group. It is merely a slight exaggeration to say that not only does each pressure group have its own brand of interventionism, but so does every professor. Each is keenly intent upon exploding the shortcomings of all rival brands. But the doctrine which is at the bottom of interventionist ventures, the assumption that contradictions and evils are allegedly inherent in capitalism, is by and large uniform with all varieties of Progressivism and generally accepted with hardly any opposition. Theories which are at variance are virtually outlawed. Anti-progressive ideas are represented in caricature in university lectures, books, pamphlets, articles and newspapers. The rising generation does not hear anything about them except that they are the doctrines of the economic Bourbons, the ruthless exploiters and “robber barons” whose supremacy is gone forever.
 
-### The Main Thesis of Progressivism
+###### The Main Thesis of Progressivism
 
 The doctrines which are taught today under the appellation “Progressive economics” can be condensed in the following ten points.
 
@@ -1950,7 +1950,7 @@ Only a few outsiders have the courage to deviate from the government-decreed met
 
 In monetary matters mankind has already for many years enjoyed the benefits of a world-embracing planning office, but it seems that the results do not satisfy anybody. There is irritating talk about an international or world problem of the nations’ mutual monetary relations. There are national and international committees and conferences for the study of the matter. Many books and innumerable pamphlets and articles deal with the subject. There is general agreement that the present state is unsatisfactory and that a change is unavoidable. With this in mind, let us examine the international monetary problem.
 
-### Balance of Payments Doctrine
+###### Balance of Payments Doctrine
 
 When the servants of a government search for the cause of some unsatisfactory condition, they always discover that the authorities have done all that could be done for a perfectly satisfactory solution of the matter in question. But the beneficial effects of their action failed to appear because the people frustrated the wise plan of their rulers. The best-known doctrine of this type was once the balance of trade theory and later its modern offshoot, the balance of payments theory.[^39]
 
@@ -1960,7 +1960,7 @@ But in recent decades the declarations of U.S. government authorities with refer
 
 The theory maintained by economists, the so-called _purchasing-power-parity theory_ , says: the exchange ratio between different currencies tends toward a point at which it does not make any difference which currency is employed in selling or buying. The parity is characterized by the fact that no gains can be made by buying against units of A currency and selling against units of B currency or vice versa. Any deviation from this parity will be corrected?”automatically,” as a frequently misinterpreted term says?by the actions of people who want to profit by such buying and selling. This insight was already implied in the reasoning of Gresham’s law. When domestic inflation makes prices in the country of A currency rise while there is no inflation and therefore no general upward movement of prices in the country of B currency, the previous exchange ratio between the two currencies A and B must change.[^40]
 
-### International Exchange Ratios
+###### International Exchange Ratios
 
 If all over the world there prevailed the strict and pure gold standard, no other monetary problems would exist other than technological ones, e.g., that of properly minting the coins. No government interference with the technical production of coins would be necessary. The same would be the case if there could be established a world monetary center, not a bank operated by angels removed from all earthly concerns and interests.
 
@@ -1970,7 +1970,7 @@ The actual state of affairs is entirely different. Most of the civilized nations
 
 In the terminology of economics, what the military jargon employed by monetary authorities qualifies as “attacks” is a rising demand for foreign exchange. Notwithstanding its policy of increasing the quantity of money and lowering interest rates, the government wants to maintain a definite exchange ratio between the domestic (national) currency on the one side and gold and foreign exchange of other countries committed to the same policy on the other side. As the demand for gold or foreign exchange rises, the government sees the amount of its “reserves” dwindle. This is the situation in which the governments and public opinion declare that “something must be done.” There is no need to expatiate about this fact and its consequences. The question to be raised and answered is: What is it that increases the demand for foreign exchange and moves people to offer higher prices in domestic currency for it?
 
-### Inflation and Inflationism
+###### Inflation and Inflationism
 
 Practically all governments consider the two foremost goals of monetary policy to be: first, to inflate their nation’s currency system in order to be able to spend more than the amounts collected by taxation or borrowed from the public; and secondly, to bring about credit expansion in order to lower the rates of interest below the height they would attain on a free money market. It is these policies that necessarily and inevitably produce all those phenomena which the monetary authorities ascribe to the alleged unfavorable state of the balance of payments and to the machinations of speculators.
 
@@ -1992,7 +1992,7 @@ We see now that this intensified demand for foreign exchange, these “attacks�
 
 Inflationism is not a variety of economic policies. It is an instrument of destruction; if not stopped very soon, it destroys the market entirely. There is no need to refer to historical experiences, such as that of the German Weimar Republic of the years of 1920-1923. It is a shame that in the discussions concerning present-day monetary problems some of the nonsense is revived that was brought forward in earlier periods of inflation.
 
-### Inflation Cannot Last
+###### Inflation Cannot Last
 
 Any variety of inflationism and any attempts of institutionally lowering the rate of interest are incompatible with plans for the establishment of something that could be called an international system or order of monetary affairs. As long as the governments of many or even of most of the commercially important nations are committed to such policies, it is idle to talk about an efficient international organization of monetary matters.
 
@@ -2006,7 +2006,7 @@ Whatever people may say about a policy of increasing the quantity of fiat money,
 
 Today we are still able to stop the progress of inflation and to return to sound principles of financing government expenditure. But will we have the same opportunity tomorrow?
 
-### Appendix
+###### Appendix
 
 To prevent a misinterpretation of the preceding statements concerning the height of the rate of interest and the height of profits some additional remarks are appropriate.
 
@@ -2031,7 +2031,7 @@ The only goal of production is to provide for consumption in the best possible a
 
 In competing for the patronage of the consumers, the capitalistic factory outstripped the traditional handicrafts that had prevailed in precapitalistic ages. Romantic dreamers whose information about the old artisans stems from works such as Richard Wagner’s _Meistersinger[^41] _ may deplore this fact. But consumers are now getting more, better and cheaper shoes than in the time of artisan cobblers. It would be a boon for the barefooted masses of India if the old-fashioned workshops of their shoemakers had to give way to modern shoe factories.
 
-### Small Businesses
+###### Small Businesses
 
 In the present there is in capitalistic countries, by and large, no longer a keen rivalry between big business and small business. There are lines in which the small-size enterprise can hold its own. Again and again changes in technological conditions and in marketing methods give bigger enterprises the opportunity to enter fields which hitherto have been a domain of small outfits. But on the other hand new specialties develop in which the small shop prevails. There is still room left for small-scale enterprise not only in the repair business, in the service trades and in some fields of retailing, but even in some highly specialized processing jobs and certainly also in many categories of agriculture.
 
@@ -2043,7 +2043,7 @@ A substantial antagonism between big concerns and small independent businessmen 
 
 Those trade associations and pressure groups of small businesses that plan to improve the competitive power of their members’ outfits by legislative measures, restricting the operations of big-scale enterprises, are engaged in a hopeless venture. In the long run the consumers will not acquiesce in a policy the costs of which would burden them heavily.
 
-### Measures to “Help” Small Businesses
+###### Measures to “Help” Small Businesses
 
 The main argument advanced in favor of measures aiding the small independent shop in its competition with bigger enterprises refers to the moral and civic values inherent in economic independence. People contrast the position of a businessman who is his own boss and is responsible only to himself with that of an employee who is integrated in a huge apparatus and subject to a hierarchy of superior officers. Whatever weight this argument may have, it is out of place in justifying government intervention for the benefit of definite groups of businessmen. The more effective the government’s measures of such intervention become, the more do they deprive its beneficiaries of their autonomy and their independence. The outward appearance of economic independence may be retained, but in fact the beneficiary of government support turns more and more into a ward of the administration. He is no longer a self-reliant citizen, but depends on the disposition of government officers and politicians. His discretion is restricted and finally entirely nullified by a bureaucratic apparatus. The policy inaugurated for the preservation of independent middle-class individuals leads to subjecting them to a virtual guardianship.
 
@@ -2059,7 +2059,7 @@ In dealing with these medium-size business units one must stress the fact that w
 
 A typical example: An enterprising man in his twenties starts a new business. He succeeds very well and after twenty or thirty years of strenuous work his firm is rather flourishing. But then it is time for the owner to think of what may happen after his death. His heirs will be liable to pay inheritance taxes of a height that will force them to sell the outfit. Such forced sales bring much less than the price that corresponds to the real worth and net yield of the going business. It could happen that the family will retain but little after having paid their tax liability. In view of these possibilities it appears to the owner more advantageous to sell, while he is still in full vigor, to a big concern for a price paid in stock of the buying corporation. These securities have a broad market and his heirs will be able to sell them without any discount. The inheritance tax will deprive them of a part of the heritage, but not of more than the law was designed to impose upon them.
 
-### Capitalism Is Mass Production
+###### Capitalism Is Mass Production
 
 Capitalism is mass production for the provision of the masses. The many, the same people who are working in the offices, the shops, the factories and the farms, consume the greatest part of all the products turned out. In their capacity as consumers they make small enterprises grow into big businesses and force inefficient enterprises to go out of business. It is the efficiency of business, especially also of the biggest?the mammoth?concerns, that provides the masses with the comparatively high standard of living that the common man, the “proletarian” of the Marxian terminology, enjoys in the capitalistic countries. Any further improvements in the average standard of living can be expected only from a still further development of bigness in business. Governmental measures designed to curb big business are slowing down or entirely checking further progress in the material well-being of the masses. They prejudice the interests of the consumers. The bigger an industrial or commercial concern is, the more it depends on the patronage of the masses and the more it is eager to satisfy them.
 
@@ -2069,7 +2069,7 @@ In the precapitalistic ages the difference between rich and poor was the differe
 
 The instigators of the campaign against bigness in business know very well that there cannot be any question of splitting up the large concerns into medium size enterprises and of preventing the further growth of firms into bigness. They expatiate about the alleged evils of big business in order to make popular their socialist program. They aim at “social control of business,” i.e., at subjecting the conduct of business to the control of government agencies.
 
-### Nationalization
+###### Nationalization
 
 The original socialist, or communist, scheme as advanced by the pre-Marxian socialists, the Marxians, the Prussian “state socialists” and the Russian Bolshevists, aimed at wresting the conduct of business from private citizens and transferring it to the government. In order to distinguish his own brand of socialism from that of his foremost rival, the German socialist, Ferdinand Lassalle (1825-1864), Karl Marx substituted the term “society” (_Gesellschaft_) for the terms “state” and “government.” And he substituted the term “socialization” (_Vergesellschaftung_) of the means of production to distinguish his doctrine from “nationalization” (_Verstaatlichung_) as practiced by the German Chancellor Prince Otto von Bismarck (1815-1898). But the term “socialization” as employed by the German Social-Democrats and the Second International did not mean anything other than “nationalization.” The distinction between “socialization” and “nationalization” was merely verbal, a makeshift invented to cope with the special conditions of the German political scene in the age of Bismarck and his successors in office. Both terms signified the same, viz., to take over plants hitherto operated by private citizens and to manage them by government employees. In this sense Lenin approved the opinion that the post office is “an example of the socialist system.” He declared as the aim of socialism “to organize the whole national economy like the postal system” and promised that “this will free the laboring classes.”[^43]
 
@@ -2077,7 +2077,7 @@ What Marx, Lenin and all their followers failed to see was the fact that all-rou
 
 When a nation turns to all-round nationalization of industry, it deprives its people of the benefits they derived from this capitalistic “dynamism.” The fanatically anti-capitalistic mentality of our age made the masses in Russia acquiesce in this outcome. It is probable that also the German people would have submitted to these effects willy-nilly if the Germans had adopted Bolshevist methods after their defeat in the first World War. However, the economic conditions of Germany made it impossible to proceed in this way.
 
-### Post-World War I Germany
+###### Post-World War I Germany
 
 Germany—like most of the other countries of Central and Western Europe—is a predominantly industrial country. This means it cannot feed and clothe its population and supply it with the most urgently needed manufactures out of domestic resources. It must import foodstuffs and many badly needed raw materials. It has to pay for these imports by exporting manufactures, most of them produced out of imported raw materials. It must compete on foreign markets with the industries of all other industrial nations. If its exports drop considerably, starvation must result. In 1918 all German political parties were ideologically biased against private enterprise and in favor of nationalization. But the experience of several decades of nationalized and municipalized enterprises had shown them the inefficiency of public conduct of economic affairs. They were clear-sighted enough to realize that concerns operated by bureaucrats, according to the pattern of the postal service, would not be able to rebuild the German export trade shattered by the events of the four years of war. Not only the “bourgeois,” but no less the majority of those who voted the Social-Democratic ticket were fully aware of the fact that only the much-abused “exploiters” and “jobbers” could succeed in competing on foreign markets with the businessmen of all other nations. For Germany in 1918 there could not be any question of imitating the Soviet policies. The hard facts of Germany’s economic situation caused Karl Kautsky [German socialist (1854-1938)] and his party comrades who, for many decades had impetuously advocated full socialization, to shrink from the realization of their program. Of course, they were not keen enough to see that their resignation implied the abandonment of the essential policies recommended by the first [fl. 1864-1874] and the second [fl. 1889-1914] Socialist International, and were bitterly offended when Lenin branded them as “social traitors.”
 
@@ -2087,13 +2087,13 @@ While the nationalization scheme was, at least in principle, developed by Britis
 
 As long as the war lasted, people grumbled about this system called “war socialism” or “ _Zwangswirtschaft_ “ (compulsory economy). However, it became popular as soon as it had been abolished. In spring of 1919 a memorandum drawn up by Rudolf Wissell and Wichard G. 0. von Moellendorff proclaimed planning, _Zwangswirtschaft_ , as the royal road toward socialism and the only program proper for a sincerely socialist party. Henceforth the parties dubbed as the “right” openly advocated it, while the parties of the “left” undecidedly wavered between the support of planning (_Zwangswirtschaft_) and that of nationalization. When in 1930 Heinrich Br?ning, an outstanding member of the Catholic Centrum Party, was appointed Chancellor, he began to prepare the return to all-round planning that a short time later was consummated by Hitler. The innovations added to the _Zwangswirtschaft_ scheme by Hitler were merely verbal, such as the substitution of the term _Betriebsf?hrer_ (shop manager) for the term entrepreneur, the revival of the feudal term _Gefolgschaft_ (retinue) to signify a plant’s total labor force, and the suppression of the term “labor market.”
 
-### Socialism in the United States and Great Britain
+###### Socialism in the United States and Great Britain
 
 In the United States the National Industrial Recovery Act (NIRA) of 1933 was an attempt to impose at one stroke the _Zwangswirtschaft_. The attempt failed because the Supreme Court declared the Act unconstitutional. But as planning remained the great slogan of American “leftism,” entrepreneurial discretion in the conduct of business has been step by step restricted by vaguely defined powers delegated to an array of administrative agencies.
 
 Great Britain in the second World War adopted by and large the war socialism of the German pattern. But the Labour Party in its stubborn dogmatism failed to realize the fact that this system of central planning was the only form of socialism that could be considered in a predominantly industrial country dependent on the export of manufactures. Just as the German Marxians had done during the first World War, they rejected war socialism as a “bourgeois” makeshift to which the appellation socialism ought to be denied. They proclaimed nationalization as the only method of converting a market economy into a socialist regime. They nationalized the Bank of England, the railroads, the coal mines and the steel industry. However, this belated revival of the nationalization issue did not substantially affect the trend of British pro-socialist policies. As in the United States, Germany, and the other predominantly industrial countries, in Great Britain too the pro-socialist tendencies manifest themselves today [1961][^44] chiefly in the advocacy of planning, i.e., of measures restricting the individual enterprises’ discretion by subjecting them more and more to “social control,” i.e., to the control of government agencies.
 
-### “Social Control” or “Planning”
+###### “Social Control” or “Planning”
 
 The characteristic feature of this system of social control or planning is to be seen in the fact that it preserves to some extent a sphere in which the initiative of the entrepreneurial spirit can benefit the consumers. The heads of the industrial and commercial concerns are still free to devise improvements and measures to adjust the operation of their plants to the changing conditions of the market. Of course, their discretion is limited by the powers assigned to the bureaucrats. But the inefficiency, indolence, and laxity of some of these controllers prevents them from crippling altogether the initiative of business. A modicum of initiative is still left to the enterprising promoter, especially in matters of foreign trade.
 
@@ -2109,7 +2109,7 @@ If the American postal system were operated by private enterprise, it would, eve
 
 Whatever one may think about the inherent faults of the system of “social control” of business or “planning,” the fact remains that it is, at least in its present shape, in every regard superior to nationalization, the alternative system of socialist management.
 
-### Government Regulation
+###### Government Regulation
 
 The antagonism between the two methods available for the transformation of the capitalistic market economy into a socialist system dominates present-day economic discussion. There is practically no longer any political party that would stand for the unhampered market economy. What the politicians nowadays call economic freedom is a system in which the government “regulates” the conduct of business by innumerable decrees and administrative orders and prohibitions. The Western nations do not endorse the Soviet methods of all-round nationalization of all enterprises and farms. But they no less reject the market economy which they smear as Manchesterism [the theory of 19th-century advocates of free markets], laissez-faire system or economic royalism. They give to their own system various names such as New Deal, Fair Deal or New Frontier in the United States, and “ _soziale Marktwirtschaft_ “ in Germany. The authorities credit their own activities that in manifold ways paralyze the entrepreneurial initiative to introduce improvements in the methods of production and to, improve the people’s standard of living, and they blame business for all the mischief’s resulting from their own interference with it.
 
@@ -2119,7 +2119,7 @@ What the advocates of planning and of social control of business consider as a f
 
 The political corollary of the supremacy of the consumers in the market economy is the supremacy of the voters under the system of representative government. Where the individuals _qua_ consumers become wards of the government, representative government gives way to the despotism of a dictator.
 
-### Bureaucratic Management
+###### Bureaucratic Management
 
 Among the many spurious arguments advanced against big business, the reproach of bureaucratization plays an important, but somewhat peculiar role. Those censuring big business for bureaucratization implicitly admit that the business method of profit management is by far superior to bureaucratic management. But, they maintain, with the growth into bigness an enterprise necessarily becomes more and more bureaucratic. The subjection of an economic system in which big concerns prevail, to the supremacy of a governmental bureaucracy, therefore does not amount, they say, to a substitution of the less efficient bureaucratic methods of management for the more efficient profit management. It merely means the replacement of one bureaucracy by another bureaucracy. It will therefore not result in a diminution of the quantity and an impairment of the quality of the goods available for consumption.
 
@@ -2143,7 +2143,7 @@ What makes big business adopt in some regards bureaucratic methods is not its si
 
 In the last years a number of books?fiction and non-fiction?were published in which the bureaucracy of big companies has been taken to task. It escaped the notice of the public that the experience with which the authors of these books deal refers to those bureaus of the corporations that handle public relations and government affairs and not to the production and marketing of the goods they turn out. Apart from the effects of the union-enforced seniority rules, there is fortunately not yet too serious mischief done by bureaucratization in the conduct of the genuine operations of the plants.
 
-### People as Consumers Versus People as Voters
+###### People as Consumers Versus People as Voters
 
 In their beginnings the attacks upon big business were prompted by the aspiration of some groups of artisans, shopkeepers and small farmers for special privileges that would enable them to meet the competition of bigger outfits. In some countries this motive still plays a role. But with the further evolution of economic affairs all people had to realize that there cannot be any question of a return to the conditions of the precapitalistic ages in which small units prevailed in almost all branches of production and distribution. Thus the meaning of the condemnation of bigness in business radically changed. It no longer suggests a return to medieval handicrafts. It is a plea for the establishment of all-round “planning” and “social control,” i.e., government control of business. It is a plea for a step-by-step substitution of socialism of the _Zwangswirtschaft_ (compulsory) type for the market economy. The long lists of the alleged crimes of big business compiled by the advocates of socialism cannot invalidate the fact that a nation is the more prosperous the more big business it has. The people of the United States enjoy the highest average standard of living because their country has up to now hindered less the growth of enterprises into bigness than other countries.
 
@@ -2167,7 +2167,7 @@ _Paper presented at the 1961 (Turin, Italy) meeting of the Mont Pelerin Society.
 
 We intend to deal with the achievement of Utilitarian Philosophy and Classical Political Economy as far as they constitute a theory of peaceful human cooperation. One of the fundamental theses of Classical Economics is the theory of the harmony of the _rightly understood_ —we prefer today to speak of the _long-run_ —interests of all individuals and groups of individuals within a society of private ownership of the means of production and free enterprise.
 
-### Conflict of Interest Philosophies
+###### Conflict of Interest Philosophies
 
 Older social philosophies saw only conflicts of interests. They were prepared to assume that every individual is impelled by his own selfish interests to prejudice the interests of his fellow men. A nation cannot thrive but by damaging other nations. If every individual were to look only after his own well-being, no social cooperation would be possible. If every nation were intent only upon its own national prosperity, no peace could last. Peace, both within a country and in international relations, is therefore possible only if individuals and nations are prepared to renounce their selfishness for its sake. State and Church it was held, are disciplinarian institutions whose aim it is to subdue the selfish and antisocial instincts of man. Civilization and social cooperation and the moral law are not of human origin. They are instruments by means of which God or Nature directs human action according to inscrutable design. The individual, in forsaking some selfish advantage for the benefit of society, and the king, in forsaking some conquest to avoid disturbing the peace, will be rewarded in the beyond, and they may find an earthly reward in the quiet of their conscience. The just should abide by the moral law. But this obedience is, from the point of view of his selfish interests, a burden. It is true that Heaven as a rule blesses the just citizen and the fair king in their earthly pilgrimages. But this is not always the case. In many instances the unjust, precisely on account of his wrongdoing, fares in this life better than the just.
 
@@ -2177,7 +2177,7 @@ From the point of view of “natural law” the only just state of affairs is eq
 
 The selfish earthly interests of individuals and of groups of individuals are antagonistic. If left alone, they would result in violent conflicts. Social cooperation and peace are possible only where men are motivated—either by voluntary obedience to the moral law or by compulsion on the part of the powers that be—to curb their egoism.
 
-### Social Cooperation and the Division of Labor
+###### Social Cooperation and the Division of Labor
 
 Utilitarianism and Classical Economics have entirely overthrown this philosophy.
 
@@ -2199,7 +2199,7 @@ Now the economists are convinced that their careful scrutiny of the socialist an
 
 Karl Marx and his disciples do not waste any words upon the hopeless tasks of proving the soundness of socialist ideas and of refuting the pertinent critique of these ideas by the economists. They declare taboo all discussions and investigations concerning the economic and social problems of a socialist society as “utopian” and utterly “unscientific.” Finally, Marx renders these and other arbitrary and fallacious statements proof against any objections by establishing the principle of polylogism.[^48] The logic of those who do not blindly accept the Marxian dogmas is disparaged as a spurious logic of the bourgeoisie. This bourgeois logic cannot produce truth, but only “ideologies” hatched merely for the defense of the unfair claims of an exploiting class. Thus Marxians appear to be relieved of the necessity of refuting by discursive reasoning the theorem of the harmony of the rightly understood interests of all members of a market society. They simply ridicule it as a piece of bourgeois ideology.
 
-### Critics of Liberalism
+###### Critics of Liberalism
 
 The foes of Liberalism (i.e., classical liberalism) view the 19th-century achievements of the natural sciences and especially Darwinism from two different aspects. Liberalism, says one group of these adversaries, is an outcome of the doctrine of natural law. All men are created equal and are by God or Nature endowed with certain inalienable and imprescriptible natural rights; one of these fundamental natural rights is the right to existence or even to affluence.
 
@@ -2211,7 +2211,7 @@ All these anti-Liberals are mistaken because they are not familiar with the Libe
 
 The doctrine of natural rights can be traced back to ancient and medieval philosophy. It was easy to coin this natural rights doctrine into popular catchwords which appealed to the masses. It supplied the revolutionaries with fanatical fervor. But its illusiveness again and again frustrated the initial success of the reforms inaugurated, and resulted in terrorism and tyranny.
 
-### Utilitarian Liberalism
+###### Utilitarian Liberalism
 
 The Utilitarian doctrine also can be traced back to an almost forgotten and generally loathed school of ancient philosophy, Epicureanism. But the teachings of Classical Political Economy radically altered its application to the problems of social utility. The essence of the teachings of Utilitarian Liberalism is that the market system based on private property is the only workable pattern of social organization. Its operation results in a steady improvement of the material well-being of all individuals and groups of individuals. What is needed is a system of government that safeguards the undisturbed working of this beneficial mode of production. As violent conflicts disintegrate the division of labor, a system of government is required which prevents as far as possible both civil war and foreign war, namely, representative democracy. If all citizens, no matter how different they may be in their bodily and mental abilities, are equal under the law and are in a position to determine by majority vote who shall rule and according to what principles, there is no longer any cause left for revolution and civil war. Within a world of private property a democratic nation cannot derive any advantage from conquest, war no longer pays, and peace becomes durable. Thus reason and the consideration of each individual’s and each nation’s rightly understood selfish interests recommend Liberalism. The economic democracy of the consumers and its corollary, the political democracy of the voters, will bring about prosperity for all and durable peace.
 
@@ -2227,7 +2227,7 @@ The economists deal with this law as the law of comparative costs only as far as
 
 The law of association is extremely unpopular. It is assailed by all those anxious to be safeguarded against more efficient competitors. However, it provides, of course, the most powerful argument that can be advanced against discrimination and privilege.
 
-### The Montaigne Fallacy
+###### The Montaigne Fallacy
 
 The Leitmotiv of social philosophy up to the emergence of economics was: The profit of one man is the damage of another; no man profits but by the loss of others.[^50] This is not a philosophy of social cooperation, but of dissociation and social disintegration. For the sake of expediency, we call this doctrine after its proponent, essayist Michel Eyquem de Montaigne (1533-1592). In the light of this Montaigne fallacy, human intercourse cannot consist in anything but the spoliation of the weaker by the stronger.
 
@@ -2249,7 +2249,7 @@ In a hypothetical world without economic improvement, the profits made by one gr
 
 The error of the Montaigne fallacy is that it looks at events as if they were isolated acts of God and does not judge them from the point of view of the working of the whole social system of production. It sees only the remedy which the pharmacist sells to a man who suffers from kidney trouble. It does not see that decades before the patient concerned was afflicted with his malady, a whole branch of business was eager to prepare an appropriate remedy and to furnish all pharmacists with it in order to supply without delay those who might one day need it. It does not see the entrepreneurs who established in some far remote corner of the earth plantations for the growing of one of the raw materials required for the production of this drug. Nor does it see the other entrepreneurs who built railroads and ships for the transportation of this raw material to the place in which the patient lives.
 
-### Social Cooperation
+###### Social Cooperation
 
 The economists do not fail to realize that in the short run there is a conflict of interests between buyer and seller. What they say is that these short-run conflicts are superseded by the harmony of the long-run interests, i.e., the rightly understood interests.
 
@@ -2263,7 +2263,7 @@ But while everybody’s main concern is economic problems, nobody thinks it nece
 
 Blinded by the Montaigne fallacy, people are completely at a loss to see in the problems of social organization anything but the struggle for greater portions of a cake whose magnitude does not depend on the mode of social organization. Nobody seems to doubt that to prevent some people from acquiring riches is a policy extremely beneficial for the rest of society. Everybody is sincerely convinced that technological progress is an act of God not conditioned by the methods of social organization. Enjoying all the new products which free enterprise provides, they are tormented by one thought only: that some people have become rich in creating these new things.
 
-### A Consumers’ Democracy
+###### A Consumers’ Democracy
 
 It is a faulty way of dealing with the subject to look at it as if it were a matter of ethics. People ask: “Why should the entrepreneur not be satisfied to sell his product at a price that does not allow for any profit at all or, at best, yields him not more than the average income of an employee?”
 
@@ -2283,7 +2283,7 @@ Economic liberalism does not fight for the interests of those who are rich today
 
 It is therefore irrelevant to argue against those who recommend the free enterprise system as the most appropriate method of removing want and raising the general standard of living, by saying that the capitalists and entrepreneurs are themselves not blameless. Of course, capitalists and entrepreneurs are sinners too. But the economists do not advocate a market economy for the sake of these people. They do not intend to reward an alleged virtue on the part of the businessmen by allocating to them larger portions of wealth and income. They simply establish the fact that the free-enterprise system is better fitted to promote the well-being of the masses than any other social order.
 
-### The Conclusions of Economic Analysis
+###### The Conclusions of Economic Analysis
 
 The logical deficiencies in the popular treatment of economic matters are really amazing. The most characteristic feature of the economic policies in the years between the two world wars was restriction of output of basic raw materials and foodstuffs. There were international agreements concerning the restriction of the production of rubber, tin, sugar, cocoa, coffee, and many other necessities. Domestic policies aimed at the same end. We cannot help recording the astonishing fact that the governments, statesmen, and politicians responsible for these restrictions could publicly boast that they are intent upon substituting an economy of plenty and abundance for what they disparaged as an economy of scarcity.
 
@@ -2311,13 +2311,13 @@ _Paper presented at the Sixth Meeting of the Conference on Science, Philosophy a
 
 The program of liberalism (in the original sense of the term as it was understood in 19th-century Europe and not in present-day America where it is sometimes a synonym for radical interventionism, or more often for socialism and communism) was based upon cognizance that within the market economy, i.e., within the social system of private ownership of the means of production and the division of labor, harmony prevails among the rightly understood or long-term interests of all individuals and groups of individuals.
 
-### The Only Fact that Matters
+###### The Only Fact that Matters
 
 Earlier ages had labored under the misapprehension that no man or group of men can profit but by the loss of others. In entirely demolishing this fallacy, 18th-century social philosophy and economics paved the way for the unprecedented achievements of modern Western civilization.
 
 The decline of liberalism in its original sense consists precisely in the fact that the policy of all nations is again guided by the idea that there prevails an irreconcilable conflict between the interests of various classes in the Marxian sense, and of the various nations, and races. The decline of liberalism is not one of a series of equally important events that can be lifted out of the context of the history of recent generations and treated separately. It is the essence of this history, the only fact that matters. All that has happened during these decades was the consistent application of the philosophy of irreconcilable conflict.
 
-### Big Business, Great Service
+###### Big Business, Great Service
 
 In the market economy the consumers, by their buying or abstention from buying, ultimately determine what is to be produced, of what quality and in what quantity. They are continuously shifting control of the material factors of production into the hands of those entrepreneurs, capitalists, and landowners who have succeeded in supplying them in the best possible and cheapest way with all they are asking for.
 
@@ -2329,7 +2329,7 @@ There are, of course, people who do not want to acquiesce in the verdict of econ
 
 If historical experience could teach anything, it would be that no nation has ever reached or preserved prosperity and civilization without the institution of private property. Recent experience of the United States, Great Britain, Germany, and other countries has again shown that the repeal of any of the interventionist measures?the abandonment of inflationary policies, and even the limited re-establishment of the supremacy of the market?has immediately improved the general economic situation.
 
-### Blessings Of Capitalism
+###### Blessings Of Capitalism
 
 Again there are people who contend that to look upon the problems of social organization merely with a concern for an ample supply of various goods and services is the disclosure of a vicious mentality. They reject this “mean materialism” on moral grounds and want to deal with the issues involved from what they call a higher and loftier point of view. Such ideas certainly agree with the world-view of a Buddhist monk. In his eyes a life in dirt and penury has a positive value, and earthly possessions are dangerous because they could divert a man from the right path.
 
@@ -2337,7 +2337,7 @@ It is different with the theological and philosophical moralists of the West. Th
 
 The anti-capitalistic attitudes of a great many contemporary religious leaders and teachers of a secular morality are dictated by resentment and ignorance. The achievements of capitalism?e.g., the drop in infant mortality, the successful fight against plagues and famines, the general improvement of the standard of living?are to be highly valued also from the point of view of the teachings of any religious creed and of any system of ethical doctrines. No religious or ethical tenet can justify a policy that aims at the substitution of a social system under which output per unit of input is lower for a system in which it is higher.
 
-### Mistaken “Moderates”
+###### Mistaken “Moderates”
 
 The dismal conditions that the Bolshevik “experiment” has brought about and the lamentable failure of all ventures of partial socialization and nationalization have to some extent damped the fanatical bigotry with which several generations of zealots were fighting for Georges Sorel’s ideal, the destruction of all that exists.
 
@@ -2363,7 +2363,7 @@ The German Ordo-Liberalism is different only in details from the _Sozialpolitik_
 
 All these movements are, of course, moderate when compared with the thoroughness of the dictators. But there is no substantial difference between _more_ or _less_ moderate interventionism. All interventionist measures, as Engels pertinently observed, “necessitate further inroads upon the old social order” and thereby finally lead to full socialism.
 
-### The Need for Sound Money
+###### The Need for Sound Money
 
 Interventionism believes that lowering the rate of interest below the height it would attain in an unhampered market is very beneficial, and considers credit expansion as the right means for the attainment of this end. But the boom artificially created by credit expansion cannot last. It must end in a general depression of trade, an economic crisis.
 
@@ -2381,7 +2381,7 @@ Inflation is also the only solution interventionism suggests for the problem of 
 
 A liberal (in its original sense) movement must never forget that sound money is one of the fundamental principles of liberalism, old or new.
 
-### Fables Can Cause War
+###### Fables Can Cause War
 
 The legal foundations of Western civilization and prosperity were provided by the institution of private property. What separates East and West is precisely the fact that the Orient did not develop the ideological, legal, and political framework within which property rights and their efficacious protection against arbitrariness on the part of rulers could thrive. Under these conditions no capital accumulation and no large-scale investment could be effected and result in the development of industrial plants and factories.
 
@@ -2401,7 +2401,7 @@ In adopting the doctrines that condemned all things labeled “bourgeois” as t
 
 Led by the Soviet power, the peoples of Asia and Africa are engaged in what they believe is a struggle for their emancipation from the “yoke of capitalism.” From the point of view of the Western nations, their fanatical anti-Westernism is certainly a highly deplorable fact. But it also hurts the vital interests of the Eastern peoples more seriously than those of the West, And it may kindle a new, an atomic, world war.
 
-### Dissenters’ Role
+###### Dissenters’ Role
 
 The advocates of socialism (communism or planning) want to substitute for private control public (government) control of the means of production.
 

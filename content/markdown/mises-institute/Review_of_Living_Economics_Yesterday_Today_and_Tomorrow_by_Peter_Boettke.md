@@ -7,9 +7,9 @@
 Vol. 19 | No. 3 | 288–296
 Fall 2016
 
-#### Book Review
+###### Book Review
 
-## Living Economics: Yesterday, Today, and Tomorrow
+#### Living Economics: Yesterday, Today, and Tomorrow
 
 Peter Boettke
 Oakland, Calif.: Independent Institute, 2012, 456 pp.
@@ -24,7 +24,7 @@ However, while Boettke’s book is highly personal, it actually, but perhaps les
 
 Because of Boettke’s institution-building efforts and general influence in parts of the Austrian community, it appears that a number of other Austrians, mainly (but not exclusively) associated with George Mason University, buy into the Boettkian worldview. It is therefore of interest to look more closely into this view. The present book serves as a handy guide.
 
-#### INTELLECTUAL HERITAGE AND THE BOETTKE MELANGE
+###### INTELLECTUAL HERITAGE AND THE BOETTKE MELANGE
 
 The Boettke worldview involves holding certain key economists in very high esteem, to the point of idolizing them. For example one chapter is titled “The Genius of Mises and the Brilliance of Kirzner.”[^2] Boettke seems to hold James Buchanan and Kenneth Boulding in particularly high esteem. Indeed, in the Boettkian Pantheon Buchanan seems to be Zeus, placed on a higher level than Mises and Rothbard; while Kirzner and Hayek are gods that are close to Buchanan. Small-god status is assumed by, for example, Ostrom.
 
@@ -34,7 +34,7 @@ There is nothing wrong with idolizing important economists. This is a good way o
 
 What keeps the mélange together, Boettke says, is a commitment to “two fundamental observations of commercial society: (1) individual pursuit of their self-interest, and (2) complex social order that aligns interests with the general interest” (p. xvii). Unfortunately, this way of describing it desperately lacks discriminating power: Numerous other economists, including many that Boettke presumably would think of “mainstream,” “neoclassical,” “formalists,” etc. would subscribe to these two tenets without feeling any particular commitment to Austrian principles. In an attempt to further characterize the nature and content of the mélange, Boettke turns to a distinction between ”mainline economics” and ”mainstream economics.”
 
-#### MAINLINE AND MAINSTREAM ECONOMICS
+###### MAINLINE AND MAINSTREAM ECONOMICS
 
 This distinction is a key theme in Boettke’s book. It is discussed, sometimes using different terminology, many times. It is clearly a distinction that Boettke invests in and believes is of crucial importance. I first learned of it sixteen years ago when Boettke and I were both on the Ph.D. committee of Frederic Sautet in Paris. We discussed it through the evening in the central-Paris apartment of Pascal Salin (Sautet’s advisor in France). I remember being skeptical of the distinction back then, and I still am. Let me explain.
 
@@ -58,7 +58,7 @@ If used retrospectively, as a tool of interpretation and organizing data, choice
 
 To illustrate, consider Masonian Peter Leeson’s (2007) paper in the _Journal of Political Economy_ , a leading mainstream outlet. This is a well-crafted piece that certainly throws light on the understanding of pirate organization and the economic forces that made buccaneering successful for some time. Is it specifically Austrian? No. Could it, in principle, have written by other economists with a good command of price theory, insight in the economics of governance and the like? Yes.
 
-#### A SUCCESSFUL PROJECT?
+###### A SUCCESSFUL PROJECT?
 
 Ultimately, Masonian economics as described by Boettke is not likely to be successful, if by “success” we mean sustained, high-level impact on the economics profession. First, because it does not play by the current rule book. Second, because it offers _little_ specific that is not already somehow part of the mainstream. And third, because it deliberately abstains from engaging in policy-related work on a concrete level. As Boettke says, the “role of the economist is not a savior to society; he or she is not a technical expert to be relied upon to fix ill through social engineering. No, the role of the economist is the far humbler one; that of a student of society and teacher of the basic principles of the discipline” (p. 56). Quite apart from the point that for some strange reason economists are not allowed to teach the non-basic principles of the discipline, this seems overly defeatist. Imagine that you find yourself in the shoes of Austrian economist, Stephen Littlechild, around 1980, having been tasked by the Thatcher government to engage in denationalizing the UK electricity industry, a project that one suspects many Austrians would be sympathetic to. To engage in this socially highly beneficial piece of “social engineering” you surely have to engage in a good deal of highly technical and involved economics (and econometrics) and rely on “technical experts.”
 

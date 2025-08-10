@@ -19,7 +19,7 @@ Although the present book with its necessarily brief treatment will not provide 
 **Introduction**
 Lays out the scope and purpose of the book.
 
-#### **PART I: THEORY AND HISTORY**
+###### **PART I: THEORY AND HISTORY**
 
 **Chapter 1: The Theory and Brief History of Money and Banking**
 Covers Menger’s theory of the origin of money, and briefly mentions the anthropological critique (David Graeber). Gives a standard history of the origin and development of modern banking, including some important court rulings. Mentions the history of private mints.
@@ -30,7 +30,7 @@ Explains why gold is the market’s money of choice—and stresses the differenc
 **Chapter 3: The History and Structure of the Federal Reserve System**
 Explains the unusual circumstances of the Fed’s origin, and mentions “conspiracy theory” treatments. Explains how power was consolidated in DC and away from Reserve Banks under FDR, and how the Fed’s mandate was again altered in 1977. Concludes with an overview of the modern organization of the Fed, including the number of member banks, how the Federal Open Market Committee (FOMC) is selected (length of terms, etc.), how the chairman is picked, etc.
 
-#### **PART II: THE MECHANICS**
+###### **PART II: THE MECHANICS**
 
 **Chapter 4: Standard Open Market Operations: How the Fed and Commercial Banks “Create Money”**
 Explains the “textbook” mechanics of the Fed buying assets to create new reserves, and then how commercial banks create new loans on top. Defines the various monetary aggregates (base, M1, M2, “Austrian true money supply,” etc.).
@@ -44,7 +44,7 @@ Explains the “emergency” measures that the Fed adopted (Term Auction Facilit
 **Chapter 7: The Fed’s Policies Since the 2020 Coronavirus Panic**
 Explains some of the major changes implemented in the wake of the pandemic, such as the abolition of reserve requirements, unprecedented asset purchases, and a redefinition of M1.
 
-#### **PART III: APPLICATIONS**
+###### **PART III: APPLICATIONS**
 
 Chapter 8: Ludwig von Mises’s “Circulation Credit Theory of the Trade Cycle”
 Lays out the basics of Austrian boom-bust theory. Explains that Mises developed it in _The Theory of Money and Credit_ , in which he also said that fiat money was a theoretical possibility (!); this means that Mises clearly didn’t think that boom-bust was restricted to fiat money regimes. Using Mises’s analogy of a master builder running out of bricks, illustrates the difference between “overinvestment” and “malinvestment” theories, and also why continued pump-priming a bad idea.
@@ -58,7 +58,7 @@ Documents this surprisingly good forecasting tool, and then shows that it fits q
 **Chapter 11: The Fed and the Housing Bubble/Bust**
 Shows that the textbook Austrian story fits the empirical facts of the housing boom/bust.
 
-#### **PART IV: CHALLENGES**
+###### **PART IV: CHALLENGES**
 
 **Chapter 12: Does Textbook Explanation Get Money and Banking Backward?**
 Is the “textbook” description (covered in chapter 4 above) actually wrong? Deals with the (relatively) recent claims—coming not just from internet critics but also a major UK institution—that bank lending is not reserve constrained. Also addresses that the idea that “lending creates deposits” rather than vice-versa, as the orthodox economists claim.
@@ -93,7 +93,7 @@ In short: Why do we have money in the first place? Where does it come from, and 
 
 In this chapter, we’ll answer these elementary yet essential questions. To be clear, we are not here offering an actual history lesson, though we do mention some important historical episodes and illustrative examples. Rather we are providing a mental framework for understanding everything else that follows in the book.
 
-#### The Limits of Direct Exchange
+###### The Limits of Direct Exchange
 
 To understand the importance of money, let’s first imagine a society without money. In a world limited to barter, or what economists more precisely call direct exchange, there would still be private property and people would still benefit from voluntary trade. Because economic value is subjective—the “utility” of a good is in the eye (or mind) of the beholder—we can have win-win exchanges, in which both parties walk away correctly believing that they got the better end of the deal.
 
@@ -109,7 +109,7 @@ The solution is to introduce _indirect_ exchange, in which at least one person a
 
 After these two trades, all three individuals are better off than they were originally. Remember, though, that the solution relied on the farmer accepting an item in trade—in this case the bacon—that he didn’t plan on using himself. Economists call such a good a _medium of exchange_. Just as air is a “medium” through which sound waves travel, the bacon served as a _medium_ through which the farmer’s ultimate exchange was effected—namely giving up his eggs in order to receive shoe-repair services.
 
-#### Media of Exchange and the Origin of Money
+###### Media of Exchange and the Origin of Money
 
 As our fable illustrated, individuals can often improve their position by trading away goods that are less marketable and accepting goods that are more marketable, even if they don’t personally plan on using the items. As the founder of the Austrian school, Carl Menger, demonstrated in an 1892 essay[^3] (though earlier economists had anticipated some of the explanation), this principle is all we need to explain the emergence of money.
 
@@ -117,7 +117,7 @@ As individuals in the community seek to trade away their less marketable (or les
 
 A formal definition for money is that it’s a _universally accepted medium of exchange_. Menger’s explanation showed how such a commodity could emerge from its peers merely through voluntary transactions and without any individual seeing the big picture or trying to “invent” money.[^5]
 
-#### The Qualities of a Good (Commodity) Money
+###### The Qualities of a Good (Commodity) Money
 
 Money that emerged in the process we’ve described would necessarily be _commodity money_ , in which the monetary good itself is also a regular commodity. (In chapter 2 we will discuss _fiat money_ , in which the monetary good serves no other function than to be the money.) Historically, many types of commodities have served as money in various regions, including livestock, shells, tobacco, and of course the precious metals gold and silver.
 
@@ -127,13 +127,13 @@ In our fable above, although bacon served as the medium of exchange, it would be
 
 These types of considerations help explain why eventually gold and silver emerged as the market’s commodity monies of choice. These precious metals satisfied all of the criteria of what makes a convenient medium of exchange, and once the community generally agreed, they were money.
 
-#### Monetary Calculation
+###### Monetary Calculation
 
 The emergence of money meant that a single commodity was on one side of every transaction. This greatly reduced the calculations required to navigate the marketplace. For example, consider a merchant whose business required him to closely follow twenty different goods. In a world of pure barter—where each good traded directly against every other good—in principle he would have to keep track of 190 separate barter “prices”[^6] (meaning the ratios at which one good traded for another). But if one of those twenty goods also serves as the _monetary_ good—maybe it’s silver—then the merchant only needs to keep track of nineteen different prices (all quoted in silver), because each of the other goods is always being bought and sold against silver.
 
 Moving from a state of barter to a monetary economy allows for economic decisions to be appraised in terms of a standard unit. With the use of money, business owners can engage in accounting, where they can easily calculate whether they had a profitable year. Trying to compare revenues to expenses would be much more difficult in a pure barter system. A factory owner could know that her operation used up certain quantities of hundreds of input commodities (including labor hours), in order to produce certain quantities of dozens of outputs, but without being able to reckon these physically distinct commodities in terms of money prices, she would face the same type of problem plaguing socialist central planners.[^7]
 
-#### The Function of Monetary Coins (and Tokens)
+###### The Function of Monetary Coins (and Tokens)
 
 We have seen how a commodity money can emerge spontaneously from a prior state of barter, facilitating exchanges and profit/loss calculations. However, even though a community benefits tremendously from the existence of money, there would still be limitations if the money remained in its “raw” form. It would hamper trade if shopkeepers had to perform metallurgical tests on hunks of metal that customers presented for payment to verify that the hunks were indeed silver (or gold, etc.) of the claimed weight.
 
@@ -155,7 +155,7 @@ In this intolerable situation, Thomas Williams, the principal owner of the giant
 
 ###### _A 1791 token promising a half-penny to the bearer._
 
-#### The Function and Origin of Banks
+###### The Function and Origin of Banks
 
 Even in a community with a commodity money stamped into high-quality coins, there would still be limitations on commerce. For example, wealthy individuals would be nervous about holding vast sums of gold or silver in their homes where they would be vulnerable to theft, and it would be inconvenient to transport large amounts of coin or bullion for every transaction involving a significant purchase price.
 
@@ -210,14 +210,14 @@ To this day, arguments over the gold standard are not _merely_ technical disagre
 
 It should go without saying that in the present chapter, we are not offering a comprehensive history of the gold standard, even from the limited perspective of the United States. Rather, we merely attempt to explain its basic mechanics, and to highlight some of the major events in the world’s evolution from a global monetary system based on market-produced commodity money to our current framework, which rests on government-issued fiat monies.
 
-#### The Precious Metals: The Market’s Money
+###### The Precious Metals: The Market’s Money
 
 In the previous chapter, we explained that money wasn’t planned or invented by a wise king, but rather emerged spontaneously from the actions of individuals. We also explained why historically people settled on the precious metals, gold and silver, as the preeminent examples of commodity money.
 In more recent times—specifically after 1971, as we will document later in this chapter—most people on Earth use unbacked fiat money, issued by various governments (or central banks acting on their behalf), which is not redeemable in any other commodity.
 
 Yet between these two extremes there was a long period when governments issued sovereign currencies _that were defined_ as weights of gold and/or silver. In the US, coins stamped with certain numbers of dollars would actually contain the appropriate gold or silver content, such as a \$20 Double Eagle gold coin containing 0.9675 troy ounces of gold. Furthermore, after the US government began the practice of issuing paper notes of various dollar denominations, anyone could present the paper for redemption in the corresponding full-bodied coins. Even during periods when specie redemption was suspended—as often happened during wars—the public generally assumed (correctly) that the government paper currencies would eventually be linked back to the precious metals, and this expectation helped anchor the value of the paper money.
 
-#### Explainer: “Fixed” Exchange Rate vs. Government Price-Fixing
+###### Explainer: “Fixed” Exchange Rate vs. Government Price-Fixing
 
 When multiple countries participate in a gold standard, it is typical to say their governments have adopted a regime of “fixed exchange rates,” where the various sovereign currencies trade against each other in constant ratios.
 
@@ -257,7 +257,7 @@ In concluding this section, we can agree with Milton Friedman that _in a world o
 
 However, the advocates of a genuine international gold standard stress that its underlying regime of (implied) _fixed_ exchange rates would be even better, because it would effectively allow individuals around the world to benefit from the use of a common money. That is to say, for all the reasons that domestic commerce _within_ the United States is fostered through the common use of dollars, commerce and especially long-term investment _between_ countries will be enhanced when no one has to worry about fluctuating exchange rates on top of the other variables.
 
-#### Colonial Era through 1872: Gold and Silver “Bimetallism”
+###### Colonial Era through 1872: Gold and Silver “Bimetallism”
 
 Because the original thirteen American colonies were part of the British Empire, their official money was naturally that of Great Britain—pounds, shillings, and pence—which at the time was officially on a silver standard. (Indeed, the very term “pound sterling” harkens back to a weight of silver.) Yet the colonists imported and used coins from around the world, while those in rural areas even used tobacco and other commodities as money.[^18]
 
@@ -283,7 +283,7 @@ Thus the revised gold content of the dollar moved the gold/silver ratio to just 
 
 When the United States fell into Civil War in 1861, both sides resorted to the printing press and suspended specie payment. The North famously issued inconvertible paper notes called “greenbacks,” which led to large-scale price inflation. (We will cover this and other famous episodes of inflation in greater detail in chapter 9.)
 
-#### US Participation in the Classical Gold Standard, 1873/1879–1914
+###### US Participation in the Classical Gold Standard, 1873/1879–1914
 
 The classical gold standard refers to the period beginning in the late nineteenth century when a growing number of countries tied their currencies to gold. Because the process was gradual, it is difficult to state precisely _when_ the period began: “In 1873 there were some nine countries on the gold standard; in 1890, 22 countries; in 1900, 29 countries; and in 1912, 49 countries.”[^24]
 
@@ -309,7 +309,7 @@ To give a flavor of this unrivalled degree of freedom before the Great War, cons
 
 Alas, among the casualties of the world war would be the classical gold standard and its associated freedoms.
 
-#### World War I and Its Aftermath
+###### World War I and Its Aftermath
 
 If the beginning of the classical gold standard is up for scholarly dispute, everyone agrees that it _ended_ with World War I. Indeed, the Great War was only possible because the major governments abandoned their commitment to gold. As Melchior Palyi explains:
 
@@ -349,7 +349,7 @@ The interwar gold exchange standard sought to “economize” on gold holdings: 
 
 As an example of the necessary coordination, when then chancellor of the Exchequer Winston Churchill in 1925 sought to resume specie payments at the prewar parity and restore the pound to its traditional value of \$4.86, in order to avoid a massive deflation in British prices, the Federal Reserve (under the leadership of Benjamin Strong) agreed to an easy-credit policy, thus weakening the dollar in order to close some of the gap between the currencies.[^35] Economists of the Austrian school argue that the Fed’s loose policies of the 1920s helped fuel an unsustainable boom that led to the 1929 stock market crash.[^36]
 
-#### The Great Depression and Bretton Woods
+###### The Great Depression and Bretton Woods
 
 In the depths of the Great Depression, the newly inaugurated president Franklin D. Roosevelt euphemistically declared a “national bank holiday” on March 6, 1933, in response to a run on the gold reserves of the New York Fed. During the week-long closure, FDR ordered the banks to exchange their gold holdings for Federal Reserve notes, to cease fulfilling transactions in gold, and to provide lists of their customers who had withdrawn gold (or “gold certificates,” which were legal claims to gold for the bearer) since February of that year.[^37]
 
@@ -369,7 +369,7 @@ As the Allied victory in World War II became more certain, the Western powers ha
 
 Under the Bretton Woods system, other countries could still hold gold reserves, but they typically defined their currencies with respect to the US dollar and dealt with trade imbalances by accumulating dollar assets, rather than draining gold from countries with overvalued currencies. In theory the Federal Reserve kept the whole system tied to gold by pledging to redeem _for central banks_ dollars for gold at the new \$35/ounce rate, but in practice even central banks were discouraged from invoking this option. Furthermore, governments only gradually lifted restrictions on international transactions following the war, so that the Bretton Woods gold exchange framework—tepid as it was—was really only fully operational by the late 1950s.[^38]
 
-#### The Nixon Shock and Fiat Money
+###### The Nixon Shock and Fiat Money
 
 The US government relied on Federal Reserve monetary inflation to help finance the Vietnam War and the so-called War on Poverty. For a while other central banks were content to let their dollar reserves pile up, but French authorities eventually blinked in 1967, when they began to request the transfer of gold from New York and London to Paris. By 1968 the Americans had capitulated and let the unofficial market price of the dollar deviate from the official Bretton Woods value, relying on diplomatic pressure to dissuade other governments from exploiting the discrepancy and “running” on the Fed’s increasingly inadequate gold reserves.[^39]
 
@@ -411,7 +411,7 @@ Although Nixon assured the public that the gold suspension would be temporary, a
 
 This chapter will provide a brief sketch of the historical context in which the Federal Reserve was founded, summarize some of the major changes to the Fed’s institutional structure and mandate over the years, and end with a snapshot of the Fed’s current governing structure. (Chapters 1 and 2 of this book cover more of the historical context, while chapters 4 and 6 explain the mechanics of Federal Reserve operations in much greater detail.)
 
-#### Historical Context
+###### Historical Context
 
 After a bitter power struggle,[^40] President Andrew Jackson achieved his goal of “killing” the Second Bank of the United States when its charter expired in 1836. The year 1837 is considered the beginning of the so-called Free Banking era in the United States, because the federal government conferred no special privileges on individual banks, while some states—most notably New York—allowed relatively free entry into the banking industry.[^41] (It’s important to note that “free banking” in this context merely means that no special charter was required to open a new bank; the label does not mean that banks were unregulated or even that they were treated the same way as other businesses.[^42] ) The Free Banking era ended during the Civil War, after the National Bank Act of 1863 gave the federal government authority to charter national banks.
 
@@ -431,7 +431,7 @@ These prominent figures from government and banking knew that they should keep a
 
 You gotta hand it to the conspiracy theorists, because, in fact, there was a conspiracy.… I call it a patriotic conspiracy, but there was a senator from Rhode Island, a guy named Nelson Aldrich.… [L]ate in his career, he decided we needed a central bank. So he organized—now I’m not making this up, it doesn’t come from Warner Bros. studio or anything—he organized a faux hunting trip to an island off the coast of Georgia [Jekyll Island] where there was an exclusive resort where J.P. Morgan was a member. [Morgan] made sure there was no one else in the club. And the senator, three bankers, the assistant secretary of the treasury—who, by the way, didn’t tell his boss—went down there for a week. They were plied with wild turkey, quail, stuffed oyster. They wrote what became the first draft of the Federal Reserve Act.[^48]
 
-#### The Federal Reserve Act of 1913
+###### The Federal Reserve Act of 1913
 
 On the Federal Reserve’s website, in its About section, the Fed describes its enabling legislation as follows: “The Federal Reserve Act of 1913 established the Federal Reserve System as the central bank of the United States to provide the nation with a safer, more flexible, and more stable monetary and financial system.”[^49]
 
@@ -472,7 +472,7 @@ Of the thirty-seven cities that applied to have Reserve Banks, these twelve were
 
 It is important to understand that originally each of the twelve Reserve Banks exercised considerable autonomy: each Reserve Bank, under the leadership of its respective governor, set its own policies. In contrast to our day, there was no such thing as “the Fed’s” discount rate but instead the discount rate charged by, say, the Reserve Bank of St. Louis or of Dallas.[^52] This would all change in 1935, as we will explain in the next section.
 
-#### Major Amendments to the Federal Reserve Act
+###### Major Amendments to the Federal Reserve Act
 
 Congress has amended the Federal Reserve Act several times since its inception. In this section we will describe two of the most significant episodes.
 
@@ -514,7 +514,7 @@ Although the Reform Act directs the Federal Reserve to pursue three policy goals
 
 Thus, Congress’s so-called dual mandate to the Fed is to promote maximum employment and stable prices. The debates over monetary policy among professional economists tend to focus on which policy tools and/or institutional frameworks are most conducive to achieving these two goals, which—according to those economists who subscribe to the “Phillips curve”—are in tension, at least in the short run.
 
-#### The Current Organization of the Federal Reserve System
+###### The Current Organization of the Federal Reserve System
 
 There are twelve Federal Reserve Banks, one for each district, each located in its respective city. The Board of Governors is located in Washington, DC.
 
@@ -558,7 +558,7 @@ In this chapter we will define some of the conventional “monetary aggregates,�
 
 Although the operations we describe in this chapter are somewhat simplistic, this type of baseline description is necessary for anyone who wants to understand how money is created (and destroyed) in modern economies. In chapter 6 we will discuss the new techniques that central banks have been using since the 2008 financial crisis, while in chapter 12 we will address critics who argue that the textbook approach given in this chapter doesn’t accurately reflect the causal relationship between bank reserves and new deposits.
 
-#### Various Measures of “How Much Money” Is in the Economy
+###### Various Measures of “How Much Money” Is in the Economy
 
 As we explained in chapter 1, a standard definition of money is that it’s a medium of exchange that is (nearly) universally accepted in trade among a given community of people. However, in practice there are different ways of applying this definition, because of the special economic nature of _claims_ on money.
 
@@ -592,7 +592,7 @@ Figure 1 on the next page from the St. Louis Fed’s website displays the moneta
 
 ###### _(Monthly data not seasonally adjusted, May 1984–December 2019)_
 
-#### How Commercial Banks “Create Money” under Fractional Reserves
+###### How Commercial Banks “Create Money” under Fractional Reserves
 
 As explained in chapter 2, our current monetary system is based on fiat money; there is nothing “backing up” the US dollar. The ability of the federal government/Federal Reserve to create new money simply by printing up green pieces of paper—or nowadays just through electronic activities that don’t even involve physical currency—might lead some people to believe that it is only in a fiat money system that this type of money creation “out of thin air” is possible. However, _if they maintain less than 100 percent reserves on their checking accounts_ (demand deposits), commercial banks also have the ability to create money through their lending decisions.
 
@@ -620,7 +620,7 @@ However, if we use a broader aggregate such as M1, then the banks’ actions _do
 
 We have deliberately worked with an example of _commodity_ money—in our example, gold—in order to isolate the role played by fractional reserve banking. Because the broader monetary aggregates (M1, M2, etc.) include not just the base money but also very _reliable and quick claims_ on it, the actions of banks can expand or contract the total amount of money when measured in the broader sense of these aggregates. In the modern United States, the base money is actual US dollars. But if someone has \$100 in a checking account at Citibank, she really thinks she _has_ \$100, even though Citibank might only be holding (say) \$10 in its vault (proportionate to each customer) to back her checking account balance.
 
-#### How the Central Bank Can Affect the Total Quantity of Bank Reserves
+###### How the Central Bank Can Affect the Total Quantity of Bank Reserves
 
 For a community whose base money is hunks of gold, the reserves held in bank vaults would of course be determined by how much of the yellow metal had been mined (and fashioned into bars or coins). Yet today in the United States, because the underlying base money is the US dollar itself—meaning that it currently has no redemption option but is simply fiat money—the reserves held in bank vaults are green pieces of paper featuring US presidents. In addition, a commercial bank in the US could also satisfy its reserve requirements by having (electronic) balances on deposit with the Federal Reserve. Legally speaking, a commercial bank can itself hold a “checking account” with the Fed, and its deposit balance is “as good as” currency that the commercial bank holds in its own vaults.
 
@@ -658,7 +658,7 @@ Similarly, American textbook treatments often provide a USA-specific viewpoint, 
 
 ![](https://cdn.mises.org/murphy_chap_6_figure_2.jpg)
 
-#### Mises and Hayek on Regulation versus Economic Reality
+###### Mises and Hayek on Regulation versus Economic Reality
 
 Although they didn’t use the term “shadow banking,” the Austrian economists Ludwig von Mises and Friedrich von Hayek made observations consistent with the theme of this chapter. Mises argued that Peel’s Act of 1844 in England failed in its attempt to mitigate the business cycle because it limited the ability of banks to issue paper banknotes unbacked by gold but didn’t limit banks’ ability to issue customer checkbook deposits. This inconsistent regulation—which ignored the economic equivalence between banknotes and “checkbook money”—ended up discrediting the Currency school, which (in Mises’s view) correctly perceived unbacked bank credit as the source of business instability.[^61] See chapter 8 for more on Mises’s theory of the boom-bust cycle, and see this chapter’s footnotes for an academic paper extending Misesian business cycle theory in light of shadow banking.[^62]
 
@@ -668,7 +668,7 @@ For his part, Hayek in a 1931 lecture gave a very modern statement of the issues
 
 These brief references illustrate that economists have been aware of the issues surrounding shadow banking for a century. The specific market structures may be new, but the issue is not.
 
-#### Shadow Banking during the Housing Boom
+###### Shadow Banking during the Housing Boom
 
 The nature and potential problems with the shadow banking system became apparent during the housing boom of the 2000s. To illustrate, we can consider a typical example: suppose in 2006, during the height of the boom, a couple in Phoenix applies for a traditional mortgage at their local bank. The bank approves the application and lends the money to the couple, who then buy the house, which serves as the collateral on the loan. However, rather than holding the mortgage for thirty years as an asset on its own books, the commercial bank in Phoenix turns around and sells it to a major investment bank in New York.
 
@@ -680,7 +680,7 @@ Because the major ratings agencies gave their highest seal of approval to (certa
 
 Depending on their world views and political orientations, analysts had vastly different reactions to the housing boom and bust. Some blamed “deregulation” and pointed to the shadow banking system as proof that more government oversight was needed to plug the holes. Others argued that government would never be able to keep up with evolving markets, and that it was government housing subsidies and central banks with their easy-credit policies that were to blame.[^65] Either way, it is important to understand the role of shadow banking to make sense of the financial crisis that erupted in the fall of 2008.
 
-#### LIBOR and the Eurodollar
+###### LIBOR and the Eurodollar
 
 LIBOR stands for London inter-bank offered rate, and is a survey average of the interest rate that leading banks in London estimate they would be charged for loans from other banks. Thomson Reuters had traditionally calculated LIBOR for five different currencies (US dollar, euro, pound sterling, yen, and Swiss franc), and seven borrowing periods (ranging from an overnight loan to a maturity length of one year). For decades, the relevant measure of LIBOR served as a benchmark against which other interest rates and derivative assets were calibrated. However, in the wake of criminal settlements due to allegations of “price-fixing” by major banks and other evolving factors in global finance, LIBOR is scheduled to be discontinued by the end of 2021.
 
@@ -694,7 +694,7 @@ British bankers began referring to the lending rates in this market as the Londo
 
 By its nature, the Eurodollar market is harder to quantify than the more conventional US-based market. However, one study estimated that at its peak before the 2008 financial crisis, the size of the Eurodollar market was 87 percent of the US banking system.[^67]
 
-#### The Repo Market and the Fed
+###### The Repo Market and the Fed
 
 A _repurchase agreement_ (or “repo”) is a convenient method for market participants to trade short-term collateralized loans. If a firm holds liquid assets, such as US Treasury securities, but needs a quick infusion of cash, it can sell its Treasurys along with a contractual obligation to repurchase them in the near future, at a slightly higher price. Conceptually, this arrangement is equivalent to borrowing money and agreeing to repay the principal plus interest, while pledging the Treasurys as collateral in case of default. (A _reverse repo_ is the same operation, seen from the point of view of the counterparty that is effectively lending its excess cash balances.) As the market has gravitated toward repos as a popular method of short-term financing, central banks and other regulators have become more interested in them.
 
@@ -706,7 +706,7 @@ In September 2019 (well before the coronavirus panic), there was a sudden spike 
 
 Defenders of the Fed were quick to deny that these September 2019 repo actions were a restart of “QE,” and instead described them as a mere technical operation to promote market efficiency. In any event, the episode at the very least underscored the continued fragility of the US financial sector, and the difficulty of removing the central bank’s footprint after it had so heavily intervened following the 2008 crisis.
 
-#### The BIS and the Basel Accords
+###### The BIS and the Basel Accords
 
 The Bank for International Settlements (BIS) was established in 1930 and is headquartered in Basel, Switzerland. According to the BIS website, its mission is “to support central banks’ pursuit of monetary and financial stability through international cooperation, and to act as a bank for central banks.” Its website (as of summer 2021) also explains that “the BIS is owned by 63 central banks, representing countries from around the world that together account for about 95% of world GDP.”
 
@@ -718,7 +718,7 @@ Basel II was issued in 2004, and refined the definitions of various regulatory c
 
 It should be stressed that strictly speaking, the Basel Accords are merely _recommendations or guidelines_ , portions of which the various governments and central banks around the world may adopt for their own domestic regulation of the financial sector. For example, although Basel III was published in late 2010, the Federal Reserve waited until late 2011 to announce that it would adopt most of the new guidelines, and even then, they would be phased in over the course of years.
 
-#### Bank Reserves versus Bank Capital
+###### Bank Reserves versus Bank Capital
 
 As we explained in the previous section, one of the key takeaways from the Basel Accords was a strengthening of capital requirements for banks (and other important financial institutions). These are different from _reserve_ requirements, which are covered in standard textbooks about money and banking. In this final section of the chapter we will illustrate this distinction through a simplified example.
 
@@ -753,7 +753,7 @@ In this chapter we will first elaborate on conventional monetary policy, and the
 
 Before proceeding, we should clarify for the reader that most of the discussion in this chapter will be standard, with many of the details coming from Federal Reserve publications. However, even though it is legitimate to rely on establishment sources to document _what_ they did, it is more dubious to take at face value their explanations for _why_ they did it. Some cynics, for example, might argue that particular changes in Fed policy—such as buying not just Treasurys but also mortgage-backed securities, or initiating the payment of interest on bank reserves—were implemented in order to benefit particular firms and coalitions with political influence, rather than out of concern for the general welfare. However, it lies outside the scope of the present volume to address the motivations behind the changes described in this chapter.
 
-#### Federal Reserve Monetary Policy before the 2007–08 Crisis
+###### Federal Reserve Monetary Policy before the 2007–08 Crisis
 
 In chapter 4 we introduced the mechanics through which a central bank that wished to engage in “looser” or “easier” monetary policy could (1) buy assets in so-called open market operations and thereby (2) increase commercial bank reserves that would normally (3) result in more commercial bank lending and thus (4) push down market interest rates. However, in actual practice, the Federal Reserve has historically adopted _different_ targets that are the immediate object of its use of this conventional mechanism. Another way of stating this is that the Fed’s _policy regime_ has changed over time.
 
@@ -765,7 +765,7 @@ Now when commercial banks had a reserve requirement (which was enforced at the e
 
 To reiterate, during the period from the 1980s up until the brewing crisis in 2007–08, when the Federal Reserve made an announcement, it would typically tell the world what it was doing _regarding its target for the federal funds rate._ When the actual federal funds rate in the market was higher than the Fed’s target, the Fed would buy more assets, injecting new bank reserves into the system and thus push down the fed funds rate. On the other hand, when the Fed raised its target and wanted to push up the actual fed funds rate, it would do the opposite: it would sell off some of its assets, thereby draining bank reserves from the system and (since the quantity was now smaller) pushing up the interest rate that bankers themselves had to pay to other bankers in order to borrow reserves.
 
-#### Another Old-School “Tool”: The Discount Window
+###### Another Old-School “Tool”: The Discount Window
 
 Although the use of open market operations to achieve its desired federal funds rate target was the primary “tool” that the Fed used from the 1980s up through 2008, another power that the Fed has held from its very inception is the ability to _directly_ lend to financial institutions through the so-called discount window. As the Fed’s website explains:
 
@@ -775,7 +775,7 @@ For the purposes of an introductory text, the important thing to note is that wh
 
 In contrast, when a depository institution uses the discount window, it is _directly_ borrowing newly created reserves from the Federal Reserve itself. In order to keep the discount window as a fallback option, the Fed typically sets the interest rate on its discount window lending—called the _discount rate_ —above the federal funds rate.[^74]
 
-#### Out with Fed Funds Rate Targets, In with “QE”
+###### Out with Fed Funds Rate Targets, In with “QE”
 
 The most obvious change in the conduct of monetary policy since 2008 was the de-emphasis on interest rates and the focus on the size (and composition) of asset purchases. Specifically, investors and the public at large began fretting over what the Fed would do with its various rounds of “quantitative easing” or simply “QE.” (Note that the Federal Reserve itself has never officially used this popular term to describe its operations.)
 
@@ -789,7 +789,7 @@ When this second round of quantitative easing didn’t do the trick, the Fed in 
 
 And thus, what were once mechanical considerations kept behind the scenes now became front and center: the Fed no longer relied merely on interest rate targets to communicate its intentions to the public, but now announced detailed descriptions of its planned asset purchases. Since the federal funds rate had hit rock-bottom by late 2008, the subsequent rounds of quantitative easing allowed the Fed to show that it hadn’t “run out of ammunition” and could continue to inject money in an attempt to boost spending through a “wealth effect” and reduced longer-term interest rates.
 
-#### Another Major Innovation: Fed Begins Paying Interest on Reserves
+###### Another Major Innovation: Fed Begins Paying Interest on Reserves
 
 Another significant change in Fed policy was its announcement in September 2008 that in October it would begin paying interest to commercial banks on the reserve balances that they kept on deposit (or “parked”) with the Fed.
 
@@ -801,7 +801,7 @@ At the other end of the cycle, when the Fed began “normalizing” its policy s
 
 To sum up, among other implications,[^78] the new policy begun in October 2008 of paying interest on reserves allowed the Fed to decouple its asset purchases from its desired target for the market-clearing federal funds rate.
 
-#### A Timeline of Additional “Tools” Added to the Fed’s Kit
+###### A Timeline of Additional “Tools” Added to the Fed’s Kit
 
 Drawing on the Federal Reserve’s timeline, the following table summarizes some of the innovations in Fed policy introduced as the housing and credit markets began deteriorating in late 2007. (The descriptions in the second column are direct quotations from the St. Louis Fed timeline, with bold added by the present author.)
 
@@ -815,14 +815,14 @@ Drawing on the Federal Reserve’s timeline, the following table summarizes some
 
 ###### Source: St. Louis Federal Reserve[^79]
 
-#### A Timeline of Additional “Tools” Added to the Fed’s Kit
+###### A Timeline of Additional “Tools” Added to the Fed’s Kit
 
 Drawing on the Federal Reserve’s timeline, the following table summarizes some of the innovations in Fed policy introduced as the housing and credit markets began deteriorating in late 2007. (The descriptions in the second column are direct quotations from the St. Louis Fed timeline, with bold added by the present author.)
 As the table above makes clear, the brewing crisis in the housing and credit markets in 2007–08 allowed for an extraordinary increase in the power of the Federal Reserve. This development led the present author to describe then chair of the Fed Ben Bernanke as “the FDR of central bankers.”[^80]
 
 ![](https://cdn.mises.org/murphy_chap_6_figure_2_0.jpg)
 
-#### Were the Fed’s Post-Crisis Asset Purchases Legal?
+###### Were the Fed’s Post-Crisis Asset Purchases Legal?
 
 As explained in the previous section, since the advent of the financial crisis the Federal Reserve has drastically increased not merely the _amount_ of assets that it purchases but also the types of assets. The figure below illustrates the dramatic expansion and change in composition of the Fed’s balance sheet:
 
@@ -849,7 +849,7 @@ When justifying the new powers that it took after the financial crisis struck, F
 
 In chapter 6 we summarized some of the major changes in how central banks have operated since the 2008 financial crisis. In the present chapter, we detail some of the even more recent changes in Federal Reserve operations since the onset of the coronavirus panic in March 2020.
 
-#### Size of the Fed’s Balance Sheet
+###### Size of the Fed’s Balance Sheet
 
 The most obvious change in Fed policy has been the dramatic expansion of its balance sheet since March 2020.
 
@@ -861,7 +861,7 @@ The most obvious change in Fed policy has been the dramatic expansion of its bal
 
 As Figure 1 indicates, the explosion in Fed asset purchases since March 2020 dwarfs even the three rounds of QE (quantitative easing) following the 2008 financial crisis. Indeed, from March 4, 2020, through March 3, 2021, the Fed increased its assets from \$4.2 trillion to \$7.6 trillion, an incredible _one-year jump_ of \$3.3 trillion (or 78 percent). Furthermore, as the graph reveals, the upward trajectory continues as of this writing.
 
-#### Composition of the Fed’s Balance Sheet
+###### Composition of the Fed’s Balance Sheet
 
 Besides the _quantitative_ change in the Fed’s asset purchases, there has been a _qualitative_ change in the type of asset. In particular, the Fed is now buying large amounts of private sector corporate bonds (both individually and exchange-traded funds); as of the mid-May 2021 balance sheet report, the Fed’s “Corporate Credit Facilities LLC” held almost \$26 billion in assets.[^82] This change in policy would have been extremely controversial (if only for the potential corruption) prior to the financial crisis, but it is now a seemingly natural outgrowth of the expansion of Fed discretionary power that began in the fall of 2008.
 
@@ -869,7 +869,7 @@ The Fed announced the creation of the Primary and Secondary Corporate Credit Fac
 
 At this point, the Federal Reserve now has the capability of influencing the credit markets not just for commercial banks, but for commercial and residential real estate, corporate bonds, commercial paper, cars, student loans, and even personal credit cards.
 
-#### Abolition of Reserve Requirements for US Banks
+###### Abolition of Reserve Requirements for US Banks
 
 In an emergency statement issued in the evening on Sunday, March 15, 2020, the Fed announced a host of new policies in light of the then emerging alarm over the coronavirus.[^85] In addition to cutting the target for the federal funds rate back down to 0 percent (with a range of up to 0.25 percent) and pledging to increase the scale of its asset purchases, the Federal Open Market Committee (FOMC) statement concluded with this tantalizing paragraph:
 
@@ -903,7 +903,7 @@ Although the situation is no doubt nuanced, some of the more glib defenses of th
 
 To put it simply, if the abolition of reserve requirements really have no effect, then one wonders why the Fed decided to implement the move along with the other emergency measures activated at the onset of the coronavirus crisis. At the very least, abolishing the requirements will give the commercial banks freer rein to make loans down the road, if conditions return to a scenario where the original rules _would_ have provided a check on additional bank credit inflation.
 
-#### Redefinition of M1
+###### Redefinition of M1
 
 On February 23, 2021, the Fed announced:
 
@@ -921,7 +921,7 @@ As the figure indicates, there was a massive spike in the official M1 measure in
 
 _Given_ the change in Regulation D, the reclassification of M1 made perfect sense. Some economists have speculated that the motivation for the Fed’s decision to discontinue publication of certain monetary measures—which occurred at the same time as the retroactive M1 reclassification—may have been to obscure the large increase in US Treasury and foreign bank deposits with the Fed, as such data might fuel concerns that the Fed is acting to monetize US government spending.[^90]
 
-#### Switch to _Average_ Inflation Targeting
+###### Switch to _Average_ Inflation Targeting
 
 On August 27, 2020, the Fed posted its “2020 Statement on Longer-Run Goals and Monetary Policy Strategy,” which amended the original statement adopted back in 2012. The following excerpt highlights the major change in the 2020 amendment:
 
@@ -963,7 +963,7 @@ Indeed, if someone asks, “Why study Austrian economics?,” the present author
 
 The present chapter summarizes the theory of the business cycle originally published in 1912 by Ludwig von Mises and elaborated by Friedrich Hayek (who would win a Nobel Memorial Prize in 1974 partly for this work[^93] ). This summary will be intuitive; the footnotes provide a list of further reading, both for newcomers and for advanced students of economics.[^94]
 
-#### Mises’s Framework for Money and Banking
+###### Mises’s Framework for Money and Banking
 
 Although Carl Menger founded the Austrian school in 1871 with his book _Principles of Economics_ , in the twentieth century the acknowledged leader of the Austrians was Ludwig von Mises. Most modern fans associate him with his magnum opus, _Human Action_ (first published in 1949), but Mises’s pathbreaking work on money, banking, and the business cycle was contained in his 1912 German book, translated as _The Theory of Money and Credit_.[^95]
 
@@ -993,7 +993,7 @@ To be sure, to this day one of the biggest controversies within Austrian circles
 
 It is true that central banks can influence these commercial bank practices in a harmful way, but the Misesian theory isn’t about central banks (or fiat money) per se. It is thus no embarrassment for the Austrian theory that the United States suffered depressions and panics even before the formation of the Federal Reserve in 1913. Furthermore, when modern fans of Mises discuss the business cycle, they should be careful to avoid claiming that it necessarily starts with a central bank injecting new fiat money into the economy.
 
-#### How Banks Cause the Business Cycle
+###### How Banks Cause the Business Cycle
 
 In Mises’s view, the economy relies on a sophisticated interlocking structure of capital goods that must reflect the preferences of the consumers over the _timing_ of the flow of goods and services. For example, if most people in the community are very future oriented—economists would say they have _low time preference_ —then they will save a large fraction of their income and interest rates (other things equal) will tend to be low, fostering long-term investment projects. In contrast, if most people in the community are present oriented—meaning they have _high time preference_ —then they won’t save much, and the corresponding high interest rates will be a signal to entrepreneurs “penalizing” long-term projects.
 
@@ -1006,7 +1006,7 @@ However, the boom can’t last. Just because the commercial banks decide to lend
 
 In a typical boom, the banks eventually become skittish, perhaps because of rising prices or other indicators, and they abandon their cheap credit policy. That is, the banks stop injecting new amounts of unbacked money into the loan market, and the interest rate rises toward a more appropriate level. At this point, many entrepreneurs realize that they had been too ambitious, and they either scale back operations or shut down altogether. The workers who had been drawn into the unsustainable projects during the boom years must be laid off in order for their labor to (eventually) be reallocated to more sustainable outlets that are consistent with genuine consumer preferences and saving behavior.
 
-#### Mises’s Analogy of the Master Builder
+###### Mises’s Analogy of the Master Builder
 
 In the preceding section we laid out the essence of Mises’s theory of the business cycle. Yet in order to understand its implications, one of the most useful analogies was created by Mises himself. When responding to the claim that his was an “overinvestment” theory, Mises explained in _Human Action_ :
 
@@ -1043,7 +1043,7 @@ This chapter explains the connection between the quantity of money and the heigh
 
 Finally, we will highlight the Austrian criticism of the so-called equation of exchange, nowadays usually written as MV = PQ. Although the equation is a tautology, this framework encourages thinking of money and prices in a mechanistic fashion rather than using the tools of subjective value theory. Although it is important to recognize that massive _price_ inflation is always the result of massive _monetary_ inflation, there isn’t a stable relationship between the two; it’s not the case that, say, a 50 percent increase in the quantity of money necessarily leads to a 50 percent increase in prices.
 
-#### Changing Definitions: Monetary Inflation vs. Price Inflation
+###### Changing Definitions: Monetary Inflation vs. Price Inflation
 
 Nowadays when the media or government officials discuss “inflation” they mean “the increase in consumer prices.” However, originally the term referred to an increase in the quantity of money (including bank credit). Here is how Ludwig von Mises, in a 1951 speech, discusses the semantic change and its implications:
 
@@ -1051,7 +1051,7 @@ There is nowadays a very reprehensible, even dangerous, semantic confusion that 
 
 Precisely to avoid confusing modern readers while retaining the ability to diagnose cause and effect, in this chapter we use the more specific terms “monetary inflation” and “price inflation.”
 
-#### Famous Historical Episodes of Hyperinflation
+###### Famous Historical Episodes of Hyperinflation
 
 Milton Friedman is often quoted as saying, “Inflation is always and everywhere a monetary phenomenon.” To give more context, that quotation goes on to say “in the sense that [price inflation] is and can be produced only by a more rapid increase in the quantity of money than in output.”[^101] Although economists have debated the accuracy of Friedman’s famous assertion, the historical record shows that episodes of _rapid_ price inflation (almost) always go hand in hand with rapid _monetary_ inflation.[^102] In other words, if there is a genuine _hyperinflation_ , then the government printing press is always involved. In this section we cover three famous historical examples.
 
@@ -1087,7 +1087,7 @@ As with the German episode, in Zimbabwe the authorities continued to increase th
 
 Source: Getty Images. Credit: ppart. No. 478901066._
 
-#### The Equation of Exchange, _MV = PQ_
+###### The Equation of Exchange, _MV = PQ_
 
 It is standard for economists to handle the relationship between money and prices using the _equation of exchange_ , credited to Irving Fisher, which is nowadays[^109] often written as:
 
@@ -1101,7 +1101,7 @@ At the same time, the right-hand side of the equation equals the total number of
 
 Strictly speaking, the equation of exchange is a tautology or an identity; _given_ the definitions of the four variables, it is necessarily true. In practice, however, it is often used as a way of illustrating the so-called quantity theory of money, which—as the name suggests—is a _theory_ that might be wrong. There are different formulations of the quantity theory of money, but one simple version says that changes in the quantity of money go hand in hand proportionally with changes in the level of prices. To illustrate this statement using the equation of exchange, we could say, “If _M_ doubles while _V_ and _Q_ stay the same, then _P_ must also double.”
 
-#### What’s Wrong with _MV = PQ_?
+###### What’s Wrong with _MV = PQ_?
 
 Economists in the Austrian tradition have criticized the equation of exchange.[^111] In the first place, it seeks to explain economic phenomena in a mechanistic fashion, the way an engineer might write out an equation describing the flow of water through a pipe.
 
@@ -1121,7 +1121,7 @@ On the other hand, as the advanced economies experienced after the financial cri
 
 To reiterate, no matter _what_ happens, the outcome can always be reconciled with the equation of exchange, because it is an identity rather than a falsifiable theory. If M doubles while prices and real output stay relatively constant, the “explanation” is that V suddenly fell in half. In a scenario like this, the objection to the equation of exchange isn’t that it’s wrong, but rather that it may mislead observers into thinking there is a simple relationship between monetary and price inflation.
 
-#### Conclusion
+###### Conclusion
 
 Although the term “inflation” nowadays refers to rising consumer prices, historically it referred to increases in the quantity of money. There is a tight connection between monetary inflation and price inflation. Specifically, all examples of hyperinflation in prices involved comparable increases in the money stock. However, there are examples of large increases in the quantity of money that have not (thus far) resulted in comparable consumer price hikes. The equation of exchange, _MV = PQ_ , is an identity and therefore must be true. Yet it invites a mechanistic view of the economy, rather than explaining prices on the basis of individual decisions to hold cash balances of a particular size.
 
@@ -1142,7 +1142,7 @@ Although the term “inflation” nowadays refers to rising consumer prices, his
 
 ## Chapter 10: The Inverted Yield Curve and Recession
 
-#### The Inverted Yield Curve and Recession[^114]
+###### The Inverted Yield Curve and Recession[^114]
 
 The “yield curve” refers to a graph showing the relationship between the maturity length of bonds—such as one month, three months, one year, five years, twenty years, etc.—plotted on the x axis, and the yield (or interest rate) plotted on the y axis. In the postwar era, a “normal” yield curve has been upward sloping, meaning that investors typically receive a higher rate of return if they are willing to put their funds into longer-dated bonds. A so-called inverted yield curve occurs when this typical relationship flips, and _short_ -dated bonds have a higher rate of return than long-dated ones.
 
@@ -1160,7 +1160,7 @@ However, every once in a while the yield curve inverts, meaning that the line in
 
 Economists have tried to explain the mechanism by which an inverted yield curve signals an impending recession. As we will see, the conventional attempts—such as the one offered by Paul Krugman—do not fit the actual facts. In contrast, the Misesian explanation of the business cycle quite easily explains the pattern we observe in interest rates during the “normal” boom time and shortly before the bust.
 
-#### Paul Krugman on the Inverted Yield Curve
+###### Paul Krugman on the Inverted Yield Curve
 
 In his _New York Times_ column and associated blogging platform, Paul Krugman over the years has clearly singled out investor expectations as the driving force behind the historical pattern. Here is Krugman in late 2008:
 
@@ -1186,7 +1186,7 @@ Second and more significant: Krugman’s explanation would make sense if yield c
 
 In the above chart, particularly for the middle three recessions, it is clear that the yield curve inverted because the three-month yield (black line) rose rapidly to surpass the ten-year yield (green line). This is the _opposite_ of what Krugman’s readers would have expected to see.
 
-#### An Austrian Explanation
+###### An Austrian Explanation
 
 In contrast to Krugman’s story, standard Austrian business cycle theory—which we explained in chapter 8—is quite compatible with the evidence presented in the above figure. In the Misesian framework, the unsustainable boom is associated with “easy money” and artificially low interest rates. When the banks (led by the central bank, in modern times) change course and tighten, interest rates rise and trigger the inevitable bust.[^117] (It is standard in macroeconomics to assume that the central bank’s actions affect short-term interest rates much more than long-term interest rates.)
 
@@ -1219,7 +1219,7 @@ In a nutshell, the Austrian narrative recognizes the role that private sector mi
 
 The present chapter draws on material developed in three separate articles that the author wrote for Mises.org in response to critics who tried to _exonerate the Federal Reserve from blame for the housing bubble_.[^118] The chapter takes the standard Austrian theory for granted—as it was already explained back in chapter 8—and provides empirical support for the application of the theory to the historical case of the US housing bubble and bust.
 
-#### Link #1: Evidence That Changes in Interest Rates Affected Home Prices
+###### Link #1: Evidence That Changes in Interest Rates Affected Home Prices
 
 To validate the Austrian explanation of the housing bubble, we must first establish that interest rates did indeed fall into unusually low territory during the boom phase, while they were hiked going into the bust. Figure 1 below shows the “real” (i.e., consumer price inflation–adjusted) federal funds rate, as a quarterly average from 1970–2006:
 
@@ -1259,7 +1259,7 @@ There is nothing mysterious about this. To repeat, this is the standard explanat
 
 Recall from chapter 4 that the “monetary base” consists of paper currency and member banks’ deposits at the Fed. Therefore, the Federal Reserve has absolute control over the monetary base; those rascally Asians who have the gall to live below their means can’t directly increase the US monetary base. As Figure 3 shows, when US interest rates fell sharply in the early 2000s, this occurred during a period of rapid growth in the monetary base. If the Fed _didn’t_ want interest rates falling so low in the early 2000s, it shouldn’t have engaged in so much monetary inflation.
 
-#### Link #3: Evidence That the Housing Bubble Led to “Real” Problems in the Labor Market
+###### Link #3: Evidence That the Housing Bubble Led to “Real” Problems in the Labor Market
 
 Last, there are some economists—such as Scott Sumner, whose views on NGDP targeting we critique in chapter 15—who argue that the Austrians are wrong for thinking that the housing bubble had anything to do with the Great Recession. (See the articles in footnote 1 for more details on Sumner’s perspective.) In this last section, we provide two additional charts to show that the Austrian explanation holds up just fine in this regard.
 
@@ -1283,7 +1283,7 @@ Finally, let us plot the movement in total construction employment against an in
 
 As Figure 5 makes clear, the movement in total construction employment seems intimately related to the bubble in house prices. They both rose together from 2003, they both tapered off going into 2007, and they both began plummeting going into 2008.
 
-#### Conclusion
+###### Conclusion
 
 In this chapter, we have applied the generic Austrian theory of the business cycle to the specific case of the US housing bubble and the ensuing financial crisis/Great Recession. Specifically, we showed that interest rates—including not just short-term rates but also thirty-year mortgage rates—fell to historically low levels just as the housing bubble accelerated into high gear. We then showed that the fall and rise in interest rates corresponded with an increase and slowdown in the Fed’s monetary inflation, just as any econ textbook would suggest.
 
@@ -1316,7 +1316,7 @@ In order to have a concrete example of this rival perspective, we will draw on a
 
 For our purposes in the present volume, we will select three of the alleged “myths” of money creation that the Bank of England report seeks to correct. (The serious student should of course read the original report for a full understanding of the challenge.) Our goal here is neither to affirm the orthodox explanation nor to concede its defeat, but rather to use the Bank of England’s commentary as a springboard for ensuring that current readers truly understand how central banks and commercial banks work together in a fiat-based system to create money.
 
-#### The Bank of England Wants to Overturn (Alleged) Textbook Myths
+###### The Bank of England Wants to Overturn (Alleged) Textbook Myths
 
 Below we provide two quotations from the Bank of England report to supply the fodder for the three (alleged) myths that we will discuss in this chapter:
 
@@ -1326,7 +1326,7 @@ a common misconception is that the central bank determines the quantity of loans
 
 And then later in the report the authors argue, “A related misconception is that banks can lend out their reserves. Reserves can only be lent between banks, since consumers cannot have access to reserves accounts at the [central bank]” (ibid., p. 16, italics in original).
 
-#### (Alleged) Myth No. 1 Banks Lend Out Reserves
+###### (Alleged) Myth No. 1 Banks Lend Out Reserves
 
 This particular “myth” is largely a matter of semantics, but the Bank of England treatment might mislead some readers. Here we will attempt to clarify what really happens when banks make new loans.
 
@@ -1358,7 +1358,7 @@ Now it’s true that even here the authors of the Bank of England study could ob
 
 But this is obviously a matter of semantics, not economics. For an analogy, consider this puzzle: Would it be wrong to say that a department store “sells its inventory” to members of the public? After all, we only call it “inventory” when the store owns it—the “inventory” turns into “merchandise” when the customer walks out of the _store_. But clearly, there is nothing wrong economically with saying that a department store sells its inventory to the public. Likewise, there is nothing wrong with saying that a commercial bank, in granting new loans, lends out some of its reserves.
 
-#### (Alleged) Myth No. 2 Banks Worry About Reserve Requirements When Making Loans
+###### (Alleged) Myth No. 2 Banks Worry About Reserve Requirements When Making Loans
 
 When disentangling this issue, again we must distinguish things from the perspective of an individual bank versus the entire banking system. As we showed in our hypothetical story above, it is true that an individual bank can grant a new loan simply by crediting a new checking account for a borrower. This action will increase the bank’s total outstanding deposits.
 
@@ -1392,7 +1392,7 @@ Although it is beyond the scope of the present volume, when discussing reserve r
 
 A second complicating factor is that commercial banks need to hold reserves even when there is no legal requirement to do so. For example, banks need to honor the typical customer request to withdraw money from an ATM or at the bank counter, and so _some_ vault cash—which counts as part of the bank’s reserves—must always be on hand, regardless of whether government regulations insist upon it.[^124]
 
-#### (Alleged) Myth No. 3 The Central Bank Controls the Amount of Base Money
+###### (Alleged) Myth No. 3 The Central Bank Controls the Amount of Base Money
 
 With this final (alleged) myth, the dispute is again largely one of semantics. Here is what the Bank of England authors have in mind:
 
@@ -1406,7 +1406,7 @@ In order to maintain its target, the Fed would have no choice but to engage in o
 
 However, this is largely a matter of semantics. It is still the case that the central bank controls the total quantity of base money, and that the commercial banks can’t create new reserves. The textbook description is still correct: When the fed funds rate is 6 percent and the Fed wants to push it down to 5 percent, the Fed must buy assets and inject new reserves into the system.
 
-#### Summary
+###### Summary
 
 After reading the orthodox discussion of money creation given in chapters 4 and 6 of the present volume, readers may find it helpful to read the alternative description given by critics of that textbook view. In this chapter, we have reviewed the critique offered by writers for the Bank of England.
 
@@ -1432,7 +1432,7 @@ In the early years of QE, many economists—including the present author[^125] �
 
 In this chapter, we’ll assess several popular explanations for why the Fed’s monetary inflation since 2008 hasn’t generated a comparable increase in price inflation. Because this book is intended to be educational rather than polemical, we will merely mention some of the pros and cons for each possibility, rather than arguing which are correct and which should be rejected.
 
-#### “The government’s CPI measure vastly understates price inflation.”
+###### “The government’s CPI measure vastly understates price inflation.”
 
 The benefit of this type of explanation is that it focuses proper cynicism on data produced by government agencies, which are not renowned for their unwavering devotion to truth.
 
@@ -1440,7 +1440,7 @@ However, the problem with this explanation is that many critics of QE were warni
 
 Keep in mind that the official government measures showed twelve-month CPI (Consumer Price Index) inflation hit a whopping 14.6 percent in March 1980. Had the government told Americans at that time that inflation were under 2 percent, it would have been an obvious lie. So although the conventional measures may be significantly understating the rising cost of living since 2008, the mismatch between the extreme warnings and reality can’t be explained _entirely_ by reference to data fudging.
 
-#### “Inflation won’t be a problem while we still suffer from an output gap / idle resources.”
+###### “Inflation won’t be a problem while we still suffer from an output gap / idle resources.”
 
 According to both Keynesians and proponents of MMT (modern monetary theory), increased government spending—even if financed by monetary inflation—won’t generate large increases in consumer prices so long as the economy is operating below its capacity. In more technical terms, they argue that so long as real GDP is below potential GDP, increases in nominal spending serve to boost real output rather than prices. The intuitive idea is that the unemployed and other idle resources will absorb new spending first, before tightening labor and resource markets cause wages and other prices to begin rising.
 
@@ -1454,7 +1454,7 @@ Another serious problem with the no-inflation-until-full-employment doctrine is 
 
 And yet, once Richard Nixon killed the last vestiges of the gold standard in 1971 (which we explained in chapter 2), the remainder of the decade saw unusually high levels of both. For example, in May 1975 the unemployment rate was 9 percent while the twelve-month change in CPI was 9.3 percent. In light of the US experience of the 1970s, simple rules such as “the economy can’t overheat while there are still idle resources” can’t be the full story.
 
-#### “Yes, the money supply increased dramatically after mid-2008, but the demand to hold it increased as well.”
+###### “Yes, the money supply increased dramatically after mid-2008, but the demand to hold it increased as well.”
 
 On the plus side, this explanation is necessarily correct; every fact about prices can be handled in a supply-and-demand framework. The “price” of money refers to its purchasing power; how many units of goods and services can a unit of money fetch on the market? If we hold the demand for money constant and vastly increase its supply (through rounds of QE, for example), then the “price of money” falls, meaning the currency becomes weaker, meaning that the prices of goods and services quoted in that money go up. This is of course just another way of describing price inflation.
 
@@ -1464,7 +1464,7 @@ After the fact, because we didn’t observe an unusual drop in the purchasing po
 
 However, the downside of this explanation is that we can only be sure to apply it correctly _in hindsight_. If we want to assess what will happen to the path of price inflation in the future, we need to forecast changes on both the supply and demand sides, and of course we might be wrong about our forecasts. This becomes especially problematic if changes in the supply of money _directly cause_ an increase in the demand to hold it, a possibility we discuss in the next section.
 
-#### “Of course QE wasn’t inflationary. Since the economy was stuck in a liquidity trap, the Fed’s bond purchases were just an asset swap.”
+###### “Of course QE wasn’t inflationary. Since the economy was stuck in a liquidity trap, the Fed’s bond purchases were just an asset swap.”
 
 As we explain in chapters 6 and 14, Keynesian economists argued that once the Fed had slashed nominal interest rates to zero in the wake of the 2008 financial crisis, the US economy was in a “liquidity trap,” where conventional monetary policy no longer had traction. At this point, so the story went, the Fed had to switch to so-called quantitative easing, where the emphasis was on the size of the central bank’s asset purchases (rather than its target for the relevant interest rate). In the Keynesian view, the relative impotence of monetary policy during a liquidity trap was the justification for government budget deficits (i.e., fiscal policy) as a means of boosting aggregate demand.
 
@@ -1474,7 +1474,7 @@ The benefit of this explanation is that it is an important caveat to a naïve su
 
 The downside of this analysis is that it ignores the influence central bank policy has on asset prices. For an exaggerated example, suppose the Federal Reserve announced a new plan of buying any model year 2010 Ford pickup truck for \$100,000. This announcement would immediately cause the “market price” of such trucks to jump to \$100,000. At the moment of sale, the Fed would be engaged in a mere asset swap; it would provide \$100,000 in new bank reserves in exchange for a truck valued at \$100,000. Yet, clearly, our hypothetical truck-buying program would distort the used vehicle market and would financially benefit the lucky owners of 2010 Ford trucks. In the same way, even though at the moment of purchasing Treasury bonds the Fed is engaging in an asset swap, the “market” price of those Treasury bonds might be propped up by the Fed’s purchase itself.
 
-#### “The Fed’s new policy of paying interest on reserves arrested the usual money multiplier.”
+###### “The Fed’s new policy of paying interest on reserves arrested the usual money multiplier.”
 
 As we explained in chapter 6, in October 2008 the Fed implemented a new policy of paying interest on bank reserves parked at the Fed. From an individual commercial bank’s perspective, the interest payment offered an incentive to _refrain_ from making new loans to customers. Because of the massive QE purchases, plenty of newly created bank reserves flooded the system. Yet even though commercial banks had the legal ability to pyramid trillions of dollars of newly created loans on top of the Fed’s injections, they largely remained on the sidelines. Figure 2 of “excess” bank reserves illustrates this unprecedented development:
 
@@ -1492,7 +1492,7 @@ However, when answering the question, “Why didn’t the Fed’s QE programs ca
 
 It seems unlikely that a mere twenty-five basis points can explain why nearly \$2.7 trillion in excess reserves piled up in the banking system rather than being funneled into new loans. Presumably, even _without_ the extra inducement of a guaranteed 0.25 percent, commercial banks would have kept most of their new reserves safely parked at the Fed from 2008 through 2015.
 
-#### “The new money stayed bottled up in the banks; it never got out into the hands of the public.”
+###### “The new money stayed bottled up in the banks; it never got out into the hands of the public.”
 
 Whether tied to the Fed’s policy of paying interest on reserves, a common explanation for the lack of significant consumer price inflation is that the newly injected money never got into the hands of the general public.
 
@@ -1506,13 +1506,13 @@ The benefit of this insight is that it correctly takes note of the huge increase
 
 As the chart shows, the M1 money stock was virtually flat from early 2005 through early 2008. Yet it began steadily rising from late 2008 onward (and of course spiked dramatically during the coronavirus panic in 2020). We can’t explain the lack of high CPI inflation by claiming there was no new money held by the public, because this simply isn’t true.
 
-#### “The new money went into the stock market, real estate, and commodities, not into retail goods.”
+###### “The new money went into the stock market, real estate, and commodities, not into retail goods.”
 
 The benefit of this type of explanation is that it underscores the arbitrariness of the conventional public discussions about money and prices. Why should the particular metric of the Consumer Price Index, as tabulated by the Bureau of Labor Statistics with its controversial techniques of “hedonic” adjustments, be the default measure of “inflation”? Indeed, academic economists have long argued that on a theoretical level, rising asset prices can be indicative of “easy money” just as surely as rising consumer prices. For an obvious example, rising home prices are relevant to “the cost of shelter” along with real estate _rental_ prices, even though only the latter are currently included in the CPI.
 
 The danger in this type of explanation is that it often misconstrues what actually happens when new money is injected into the economy. In reality, it is not the case that some money is “in” the stock market, while other portions of the money stock are “in” consumer goods. At any given time, all units of physical currency are held in cash balances, located in people’s wallets (or home safes), or inside of commercial bank vaults. If someone buys one hundred shares of a stock at \$10 per share, it’s not that money “goes into the stock market.” Rather, what typically happens is that \$1,000 is debited from the checking account of the buyer, while an equal amount is credited to the checking account of the seller. If the buyer and seller are clients of different banks, their transaction might cause some reserves to transfer from one bank to the other, but nobody looking at the money after the fact would be able to tell that it “had gone into the stock market.”
 
-#### “Those warning of significant price inflation will eventually be proven right.”
+###### “Those warning of significant price inflation will eventually be proven right.”
 
 During the housing bubble years in the early and mid-2000s, a growing number of alarmists warned that home prices were rising to absurd levels and that Americans should prepare for a giant crash in real estate and stocks. While the bubble was still inflating, the conventional wisdom dismissed these warnings as baseless fearmongering. It was only _after_ the crash that most people recognized that the doomsayers had been correct.
 
@@ -1533,7 +1533,7 @@ In contrast to the Austrians, Keynes viewed depressions as something that could 
 
 This chapter will summarize the Keynesian view and then challenge it from an Austrian perspective.
 
-#### The Rhetorical Framing of _The General Theory_
+###### The Rhetorical Framing of _The General Theory_
 
 It would be difficult to overstate the extent to which the Keynesian approach has permeated modern society. Although Keynes wasn’t the first to blame business downturns on a lack of spending, his 1936 book—released in the midst of an unending global depression—appeared to offer a sophisticated diagnosis of the problem, and furthermore seemed to explain why the traditional economic remedies had failed.
 
@@ -1555,7 +1555,7 @@ Despite these problems, Keynes’s rhetorical framing surely helps to explain th
 
 [T]he theory of output as a whole, which is what the following book purports to provide, is much more easily adapted to the conditions of a totalitarian state, than is the theory of the production and distribution of a given output produced under conditions of free competition and a large measure of laissez-faire. (Keynes 1936, p. 6)
 
-#### The Paradox of Thrift
+###### The Paradox of Thrift
 
 Perhaps the quickest way to illustrate the divide between Keynesian and “orthodox” economics is the so-called paradox of thrift. According to conventional wisdom as well as a straightforward application of economic principles, when the community saves more, this allows for more investment spending, and is thereby the path to growing productivity and rising living standards. Yet as Keynes explained in the 1939 preface to the French edition of his book:
 
@@ -1569,7 +1569,7 @@ Even though the economic models and arguments have been refined over the decades
 
 ![](https://cdn.mises.org/murphy_umm_chap_14_figure_3.png)
 
-#### The Keynesian Understanding of the Great Depression
+###### The Keynesian Understanding of the Great Depression
 
 According to Keynes, the persistence of the Great Depression showed the failure of “classical” economic doctrines and policies. If the market economy had a self-corrective mechanism, why had the world been mired in high unemployment for years on end?
 
@@ -1595,7 +1595,7 @@ If the Treasury were to fill old bottles with banknotes, bury them at suitable d
 
 Needless to say, in the orthodox approach, diverting labor power into burying money and then digging it up again is hardly the way to help a distressed economy.
 
-#### The Austrian Critique of Keynesianism
+###### The Austrian Critique of Keynesianism
 
 There are entire books (cited in the footnotes[^131] ) devoted to the refutation of Keynesian theory and its treatment of the Great Depression, so our discussion here will be brief.
 
@@ -1625,7 +1625,7 @@ Although Sumner himself is modest and points to precursors in the academic liter
 
 In light of the standard Austrian view of the business cycle in general (summarized in chapter 8) and the housing boom in particular (summarized in chapter 11), it would be an understatement to say that the market monetarist approach differs dramatically in both its diagnosis and prescription. Inasmuch as the market monetarists have gained supporters who might otherwise have endorsed the Austrian view of recessions, it is important for the current volume to critically assess this new paradigm. For concreteness, this chapter focuses specifically on Sumner’s work, but the treatment is applicable to the entire market monetarism approach.
 
-#### The Legacy of Milton Friedman’s Monetarism
+###### The Legacy of Milton Friedman’s Monetarism
 
 In order to understand Sumner’s approach—including the very label “market monetarism”—it is necessary to first review some of the work of Milton Friedman, the famous Chicago school economist closely associated with monetarism.[^133]
 
@@ -1651,7 +1651,7 @@ After the U.S. experience during the Great Depression, and after inflation and r
 
 Being trained at the University of Chicago himself, Scott Sumner is an expert on the legacy of Milton Friedman. Sumner believes that he is doing for the interpretation of the Great Recession what Friedman (and Schwartz) did for the Great Depression.
 
-#### Scott Sumner’s Market Monetarism
+###### Scott Sumner’s Market Monetarism
 
 As we documented in chapter 6, after the global financial crisis struck in the fall of 2008, the Fed unveiled a variety of new lending programs, slashed its policy rate to virtually zero, and _doubled_ the monetary base—all in a matter of months. In light of these unprecedented actions, both economists and the general public understandably concluded that the Fed was engaged in a very easy money policy.
 
@@ -1673,7 +1673,7 @@ as of early 2008 the U.S. economy featured many wage and debt contracts negotiat
 
 It would be difficult to overstate Sumner’s personal role in elevating market monetarism from a heretical notion in late 2008 to a set of ideas being seriously discussed by central bankers (as well as economics bloggers). Indeed, after a press conference in which Fed chair Ben Bernanke announced (what would be called) the beginning of QE3 and mentioned NGDP targeting, George Mason University economist Tyler Cowen declared it “Scott Sumner day.”[^138]
 
-#### Problems with Market Monetarism
+###### Problems with Market Monetarism
 
 For the purposes of this primer on money mechanics, we will only sketch some of the problems with the market monetarist framework. The following considerations are not offered as an exhaustive critique.
 
@@ -1783,7 +1783,7 @@ Indeed, the entire “sticky prices” boogeyman is a red herring. During the 19
 
 In a modern primer on money mechanics, it is necessary to provide at least an introduction to Bitcoin.[^145] Consequently, in this chapter we will first give a basic explanation of what Bitcoin is and how it works. Then we will place Bitcoin in the framework of money that we developed in chapter 1, seeking to answer the fundamental question: Is Bitcoin money?” Finally, we will relate Bitcoin to an important component in the Austrian school’s discussion of money, namely Ludwig von Mises’s “regression theorem.”
 
-#### Explaining Bitcoin with an Analogy[^146]
+###### Explaining Bitcoin with an Analogy[^146]
 
 “Bitcoin” encompasses two related but distinct concepts. First, individual bitcoins (lowercase _b_) are units of (fiat)[^147] digital currency. Second, the _Bitcoin protocol_(uppercase _B_) governs the decentralized network through which thousands of computers across the globe maintain a “public ledger”—known as the _blockchain_ —that keeps a fully transparent record of every authenticated transfer of bitcoins from the moment the system became operational in early 2009. In short, Bitcoin encompasses both (1) an unbacked digital currency and (2) a decentralized online payment system.
 
@@ -1803,7 +1803,7 @@ Further suppose that in this fictitious community an industry of thousands of ac
 
 Besides documenting any transactions that happen to be within earshot, the accountants also periodically check their own ledgers against those of their neighbors. If an accountant ever discovers that his neighbors have recorded transactions for other numbers (i.e., for deals for which the accountant in question was not within earshot), then the accountant fills in those missing row entries in the columns for those numbers. Therefore, at any given time, there are thousands of accountants, each of whom has a virtually complete history of all transactions involving all 21 million numbers.
 
-#### Explaining the Analogy
+###### Explaining the Analogy
 
 We hope our analogy gives a decent first pass in explaining how Bitcoin works. In our hypothetical story, the people in the community kept track of which person “owned” an abstract, intangible number. Of course, you can’t physically hold the number **3** , but because the people in the community had adopted a convention where the accountants’ Excel files kept track of which person was “matched” with the number **3** , there was a sense in which the person owned it. And then, as our story showed, a person could transfer his claim to a number in order to buy real goods, such as a car.
 
@@ -1811,7 +1811,7 @@ To keep things simple, in our analogy, we assumed that the community had already
 
 Just as in our story, when people in the real world want to buy something using Bitcoin, they transfer their ownership of a certain amount of bitcoins (or fractions of a bitcoin, for smaller purchases) to other people in exchange for goods and services. This transfer is effected by the network of computers performing computations, and changing the _public_ key to which the “sold” bitcoins are assigned. (This is analogous to the accountants in our story entering a new person’s name in the column for a given integer.) Rather than physically handing over an object—such as a \$20 bill or a gold coin—to the seller, the buyer who uses Bitcoin engages in the necessary electronic operations in order to command the network of computers to edit the blockchain to reflect the transfer of ownership/control of the relevant bitcoins to the seller.
 
-#### Where Does Cryptography Come In? The Problem of Anonymous Owners
+###### Where Does Cryptography Come In? The Problem of Anonymous Owners
 
 The present book deals with _economics_ , not computer science, and consequently we will only provide a brief sketch of what’s going on during a Bitcoin transaction. (Interested readers can refer to the footnotes for a fuller explanation.[^150] ) But we can’t really apply economic concepts to something like Bitcoin, if we don’t have a decent understanding of what it is and how it _works_.
 
@@ -1843,7 +1843,7 @@ Now, a few weeks later, we are up to the point at which our story originally beg
 
 Thus ends our analogy to explain the basics of what Bitcoin is and how it works. In the real world, of course, rather than generating and solving verbal riddles, there are complex math problems that only the legitimate owners of the bitcoins can quickly solve (using their _private keys_). But we have hopefully given enough of a sketch of Bitcoin so that we can now analyze it in terms of the economic framework that we developed way back in chapter 1 of the present book.
 
-#### Is Bitcoin a Type of Money?
+###### Is Bitcoin a Type of Money?
 
 Recall our discussion of the theory of money in chapter 1. We first pointed out the limits of direct exchange—remember the farmer who needed his shoes repaired and had eggs to offer, but the cobbler wanted bacon? We saw in that story how _indirect exchange_ could solve the problem. Specifically, when the farmer traded his eggs to the butcher in exchange for bacon, the bacon became a _medium of exchange_. The farmer accepted the bacon not because he wanted to use it directly, but because he intended to trade it away in the future for something else.
 
@@ -1853,7 +1853,7 @@ After reviewing this standard terminology, we can apply it to Bitcoin. At this p
 
 However, even though bitcoins clearly count as media of exchange for some people, we are currently nowhere near the point at which they are _universally accepted_ in any economically relevant community (unless we cheat by defining the relevant community as “those people who are happy to receive bitcoins in trade”). Thus far, then, Bitcoin doesn’t count as money, though in principle Bitcoin—or some other cryptocurrency that surpasses it in popularity—could achieve this status in the future.
 
-#### Relating Bitcoin to the Work of Mises
+###### Relating Bitcoin to the Work of Mises
 
 In closing, we should address a controversy regarding Bitcoin and the monetary work of the famous Austrian economist Ludwig von Mises. In his masterful 1912 book, translated as _The Theory of Money and Credit_ , Mises took the new theory of subjective value—pioneered in the early 1870s by economists including Carl Menger, founder of the Austrian school—and applied it to the valuation of money itself.[^152]
 
@@ -1919,7 +1919,7 @@ This is an incredibly dangerous message to be injecting into the American discou
 
 Precisely because Kelton’s book is so unexpectedly impressive, I would urge longstanding critics of MMT to resist the urge to dismiss it with ridicule. Although it’s fun to lambaste “ _Magical_ Monetary Theory” on social media and to ask, “Why don’t you move to Zimbabwe?”, such moves will only serve to enhance the credibility of MMT in the eyes of those who are receptive to it. Consequently, in this review I will craft a lengthy critique that takes Kelton quite seriously, in order to show the readers just how _wrong_ her message actually is, despite its apparent sophistication and even charm.
 
-#### Monetary Sovereignty
+###### Monetary Sovereignty
 
 In her introductory chapter, Kelton lures the reader with the promise of MMT, and also sheds light on her book title:
 
@@ -1937,7 +1937,7 @@ Countries with a “high degree of monetary sovereignty” include “the US, Ja
 
 The insistence on issuing debt in their own currency helps to explain away awkward cases such as Venezuela, which is suffering from hyperinflation and yet has the ability to issue its own currency. The answer (from an MMT perspective) is that Venezuela had a large proportion of its foreign-held debt denominated in US dollars, rather than the bolivar, and hence the Venezuelan government couldn’t simply print its way out of the hole.[^155] In contrast, so goes the MMT argument, the US government owes its debts _in US dollars_ , and so never need worry about a fiscal crisis.
 
-#### Yes, Kelton Knows About Inflation
+###### Yes, Kelton Knows About Inflation
 
 At this stage of the argument, the obvious retort for any post-pubescent reader will be, “But what about inflation?!” And here’s where the critic of MMT needs to be careful. Kelton repeatedly stresses throughout her book—and I’ve seen her do it in interviews and even on Twitter—that printing money is _not_ a source of unlimited real wealth. She (and Warren Mosler too, as he explained when I interviewed him on my podcast[^156] ) understands and warns her readers that if the federal government prints too many dollars in a vain attempt to fund too many programs, then the economy will hit its genuine resource constraint, resulting in rapidly rising prices. As Kelton puts it:
 
@@ -1945,7 +1945,7 @@ Can we just print our way to prosperity? Absolutely not! **MMT is not a free lun
 
 In other words, when someone like Alexandria Ocasio-Cortez proposes a Green New Deal, from an MMT perspective the relevant questions are _not_ , “Can the Congress afford such an expensive project? Will it drown us in red ink? Are we saddling our grandchildren with a huge credit card bill?” Rather, the relevant questions are, “Is there enough slack in the economy to implement a Green New Deal without reducing other types of output? If we approve this spending, will the new demand largely absorb workers from the ranks of the unemployed? Or will it siphon workers away from existing jobs by bidding up wages?”
 
-#### The Fundamental Problem with MMT
+###### The Fundamental Problem with MMT
 
 Now that we’ve set the table, we can succinctly state the fundamental problem with Kelton’s vision: Regardless of what happens to the “price level,” monetary inflation transfers real resources away from the private sector and into the hands of political officials. If a government project is deemed unaffordable according to conventional accounting, then it should also be denied funding via the printing press.
 
@@ -1967,7 +1967,7 @@ On this score, we simply have a disagreement about how the economy works, and in
 
 In summary, the fundamental “insight” of MMT—namely, that governments issuing fiat currencies need only fear price inflation, not insolvency—is something that other economists have acknowledged for decades. Where the MMTers _do_ say something different is when they claim that printing money only carries an opportunity cost when the economy is at full employment. But on this point, the MMTers—like their more orthodox cousins, the Keynesians—are simply wrong.[^160]
 
-#### Tough Questions for MMT
+###### Tough Questions for MMT
 
 A standard rhetorical move is for proponents to claim that MMT is not ideological, but merely describes how a financial system based on fiat money actually works. (For example, this was the lead argument Mike Norman used when he and I were dueling with YouTube videos.[^161] ) Yet since so much hinges on whether a government has “monetary sovereignty,” it’s amazing that the MMTers never seem to ask why some governments enjoy this status while others don’t.
 
@@ -1981,7 +1981,7 @@ Now that we’ve covered this basic terrain, I have a follow-up question for the
 
 Here again the answer is clear: A government that engaged too recklessly in monetary inflation—thus leading investors to shun that particular “sovereign” currency—would be forced to pursue one or more of these concessions in order to remain part of the global financial community. Ironically, current monetary sovereigns would run the risk of forfeiting their coveted status if they actually followed Stephanie Kelton’s policy advice.
 
-#### MMT Is Actually Wrong About Money
+###### MMT Is Actually Wrong About Money
 
 For a framework that prides itself on neutrally describing the actual operation of money and banking since the world abandoned the gold standard, it’s awkward that MMT is simply _wrong_ about money. In this section I will summarize three of the main errors Kelton makes about money.
 
@@ -2054,7 +2054,7 @@ In response to these observations, I make two simple points: First, one can’t 
 
 Second, if Kelton were right and the US national debt were a tally of how many dollars on net the government has “spent into existence,” then when Andrew Jackson _paid off_ the national debt, the American people would have had no money—the last dollar would have been destroyed. And yet even Kelton doesn’t claim that dollars were temporarily banished from planet Earth. She merely claims that Jackson’s policy caused a depression.[^169]
 
-#### Do Government Deficits Equal Private Savings?
+###### Do Government Deficits Equal Private Savings?
 
 In Chapter 4, Kelton lays out the MMT case that government deficits, far from “crowding out” private sector saving, actually are the sole _source_ of net private assets. Using simple accounting tautologies, Kelton seems to demonstrate that the only way the nongovernment sector can run a fiscal surplus, is if the government sector runs a fiscal deficit.
 
@@ -2066,7 +2066,7 @@ Obviously something is screwy here. Using standard definitions, people in the pr
 
 It is a contrived and seriously misleading use of terminology when MMT proponents argue that government deficits are a source of financial wealth for the private sector. Forget the accounting and look at the big picture: Even if the central bank creates a new \$1 million and hands it to Jim Smith, it hasn’t made the community \$1 million richer except in the sense that we could all be millionaires with this practice. There aren’t any more houses or cars or acres of arable farmland available. Printing new money doesn’t make the community richer—at best it’s a wash with redistribution—and in fact in practice it makes the community poorer by distorting the ability of prices to guide economic decisions.
 
-#### The MMT Job Guarantee
+###### The MMT Job Guarantee
 
 The last item I wish to discuss is the MMT job guarantee. Strictly speaking, this proposal is distinct from the general MMT framework, but in practice I believe every major MMT theorist endorses some version of it.
 
@@ -2080,7 +2080,7 @@ Second, why would employers be keen on hiring someone who has spent, say, the la
 
 Looking at it another way, it’s not really a job _guarantee_ if it’s difficult to maintain the position. In other words, if the people running the federal jobs program are allowed to fire employees who show up drunk or who are simply awful workers, then it’s no longer a guarantee.
 
-#### Conclusion
+###### Conclusion
 
 Stephanie Kelton’s new book _The Deficit Myth_ does a very good job explaining MMT to new readers. I must admit that I was pleasantly surprised at how many different topics Kelton could discuss from a new view, in a manner that was simultaneously absurd and yet apparently compelling.
 

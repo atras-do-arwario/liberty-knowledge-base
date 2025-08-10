@@ -10,7 +10,7 @@ The thesis of this paper is that both related branches of economic theory can be
 
 ## II. Demonstrated Preference
 
-#### A Statement of the Concept
+###### A Statement of the Concept
 
 Human action is the use of means to arrive at preferred ends. Such action contrasts to the observed behavior of stones and planets, for it implies purpose on the part of the actor. Action implies choice among alternatives. Man has means, or resources, which he uses to arrive at various ends; these resources may be time, money, labor energy, land, capital goods, and so on. He uses these resources to attain his most preferred ends. From his action, we can deduce that he has acted so as to satisfy his most highly valued desires or preferences.
 
@@ -18,7 +18,7 @@ The concept of _demonstrated preference_ is simply this: that actual choice reve
 
 While a similar concept played a role in the writings of the early utility economists, it had never received a name, and it therefore remained largely undeveloped and unrecognized as a distinct concept. It was generally discarded in the 1930s, before it had even achieved recognition. This view of preference as derived from choice was present in varying degree in the writings of the early Austrian economists, as well as in the works of Jevons, Fisher, and Fetter. Fetter was the only one who clearly employed the concept in his analysis. The clearest and most thorough formulation of the concept has been the works of Professor Mises.[^1]
 
-#### Positivism and the Charge of Tautology
+###### Positivism and the Charge of Tautology
 
 Before developing some of the applications of the demonstrated preference principle to utility and welfare theory, we must consider the methodological objections that have been leveled against it. Professor Alan Sweezy, for example, seizes on a sentence of Irving Fisher’s which very succinctly expressed the concept of demonstrated preference: “Each individual acts as he desires.” Sweezy is typical of the majority of present-day economists in not being able to understand how such a statement can be made with absolute validity. To Sweezy, insofar as it is not an empirically testable proposition in psychology, such a sentence must simply reduce to the meaningless tautology: “each individual acts as he acts.”
 
@@ -34,7 +34,7 @@ The crucial concept of the positivists, and the one that forms the basis for the
 
 Sweezy objects that Fisher’s “each man acts as he desires” is circular reasoning, because action implies desire, and yet desires are not arrived at independently, but are only discoverable through the action itself. Yet this is not circular. For desires exist by virtue of the concept of human action and of the existence of action. It is precisely the characteristic of human action that it is motivated by desires and ends, in contrast to the unmotivated bodies studied by physics. Hence, we can say validly that action is motivated by desires and yet confine ourselves to deducing the _specific_ desires from the real actions.
 
-#### Professor Samuelson and “Revealed Preference”
+###### Professor Samuelson and “Revealed Preference”
 
 “Revealed preference” — preference revealed through choice — would have been an apt term for our concept. It has, however, been preempted by Samuelson for a seemingly similar but actually quite different concept of his own. The critical difference is this: Samuelson assumes the existence of an underlying preference scale that forms the basis of a man’s actions and that remains constant in the course of his actions over time. Samuelson then uses complex mathematical procedures in an attempt to “map” the individual’s preference scale on the basis of his numerous actions.
 
@@ -46,7 +46,7 @@ One of the most absurd procedures based on a constancy assumption has been the a
 
 The bankruptcy of the revealed-preference approach has never been better portrayed than by a prominent follower, Professor Kennedy. Says Kennedy: “In what respectable science would the assumption of consistency (that is, constancy) be accepted for one moment?”[^11] But he asserts it must be retained anyway, else utility theory could not serve any useful purpose. The abandonment of truth for the sake of a spurious usefulness is a hallmark of the positivist-pragmatist tradition. Except for certain auxiliary constructions, it should be clear that the false cannot be useful in constructing a true theory. This is particularly the case in economics, which is explicitly built on _true_ axioms.[^12]
 
-#### Psychologizing and Behaviorism: Twin Pitfalls
+###### Psychologizing and Behaviorism: Twin Pitfalls
 
 The revealed-preference doctrine is one example of what we may call the fallacy of “psychologizing,” the treatment of preference scales as if they existed as separate entities apart from real action. Psychologizing is a common error in utility analysis. It is based on the assumption that utility analysis is a kind of “psychology,” and that, therefore, economics must enter into psychological analysis in laying the foundations of its theoretical structure.
 
@@ -56,7 +56,7 @@ If psychologizing is to be avoided, so is the opposite error of _behaviorism_. T
 
 The errors of psychologizing and of behaviorism have in common a desire by their practitioners to endow their concepts and procedures with “operational meaning,” either in the areas of observed behavior or in mental operations. Vilfredo Pareto, perhaps the founder of an explicitly positivist approach in economics, championed both errors. Discarding a demonstrated preference approach as “tautologous,” Pareto, on the one hand, sought to eliminate subjective preferences from economics and, on the other, to investigate and measure preference scales apart from real action. Pareto was, in more ways than one, the spiritual ancestor of most current utility theorists.[^16],[^17]
 
-#### A Note on Professor Armstrong’s Criticism
+###### A Note on Professor Armstrong’s Criticism
 
 Professor Armstrong has delivered a criticism of the revealed-preference approach which he would undoubtedly apply to demonstrated preference as well. He asserts that when more than one commodity is being ranked, individual preference scales cannot be unitary, and we cannot postulate the ranking of the commodities on one scale.[^18] On the contrary, it is precisely the characteristic of a deduced preference scale that it is unitary. Only if a man ranks two alternatives as more and less valuable on one scale can he choose between them. Any of his means will be allocated to his more preferred use. Real choice therefore always demonstrates relevant preferences ranked on a unitary scale.
 
@@ -85,7 +85,7 @@ Utility theory, over the last generation, has been split into two warring camps:
 
 In its pristine form, the cardinalist approach has been abandoned by all but a rearguard. On demonstrated preference grounds, cardinality must be eliminated. Psychological magnitudes cannot be measured since there is no objectively extensive unit — a necessary requisite of measurement. Further, actual choice obviously cannot demonstrate any form of _measurable_ utility; it can only demonstrate one alternative being preferred to another.[^19]
 
-#### Ordinal Marginal Utility and “Total Utility”
+###### Ordinal Marginal Utility and “Total Utility”
 
 The ordinalist rebels, led by Hicks and Allen in the early 1930s, felt it necessary to overthrow the very concept of marginal utility along with measurability. In doing so, they threw out the Utility baby together with the Cardinal bathwater. They reasoned that marginal utility itself implies measurability. Why? Their notion rested on the implicit neoclassical assumption that the “marginal” in marginal utility is equivalent to the “marginal” of the differential calculus. Since, in mathematics, a total “something” is the integral of marginal “somethings,” economists early on assumed that “total utility” was the mathematical integral of a series of “marginal utilities.”[^20] Perhaps, too, they realized that this assumption was essential to a mathematical representation of utility. As a result, they assumed, for example, that the marginal utility of a good with a supply of six units is equal to the “total utility” of six units minus the “total utility” of five units. If utilities can be subjected to the arithmetical operation of subtraction, and can be differentiated and integrated, then obviously the concept of marginal utility must imply cardinally measurable utilities.[^21]
 
@@ -95,7 +95,7 @@ There is, however, no reason why marginal utility must be conceived in calculus 
 
 To clarify the relationship between marginal utility and what has been misnamed “total utility” but actually refers to a marginal utility of a larger- sized unit, let us hypothetically construct a typical value scale for eggs:
 
-#### Ranks in Value
+###### Ranks in Value
 
   * 5 eggs
   * 4 eggs
@@ -113,13 +113,13 @@ We must conclude then that _there is no such thing as total utility_ ; all utili
 
 A typical error on the concept of marginal utility is a recent statement by Professor Kennedy that “the word ‘marginal’ presupposes increments of utility” and hence measurability. But the word “marginal” presupposes _not_ increments of utility, _but the utility of increments of goods_ , and this need have nothing to do with measurability.[^24]
 
-#### Professor Robbins’s Problem
+###### Professor Robbins’s Problem
 
 Professor Lionel Robbins, in the course of a recent defense of ordinalism, raised a problem which he left unanswered. Accepted doctrine, he declared, states that if _difference_ between utility rankings can be judged by the individual, as well as the rankings themselves, then the utility scale can in some way be _measured_. Yet, Robbins says, he _can_ judge differences. For example, among three paintings, he can say that he prefers a Rembrandt to a Holbein far less than he prefers a Holbein to a Munnings. How, then, can ordinalism be saved?[^25] Is he not conceding measurability? Yet Robbins’s dilemma had already been answered twenty years earlier in a famous article by Oskar Lange.[^26] Lange pointed out that in terms of what we would call demonstrated preference, only pure rankings are revealed by acts of choice. “Differences” in rank are not so revealed, and are therefore mere psychologizing, which, however interesting, are irrelevant to economics. To this, we need only add that differences of rank _can_ be revealed through real choice, whenever the goods can be obtained by money. We need only realize that _money_ units (which are characteristically highly divisible) can be lumped in the same value-scale as commodities. For example, suppose someone is willing to pay \$10,000 for a Rembrandt, \$8,000 for a Holbein and only \$20 for a Munnings. Then, his value-scale will have the following descending order: Rembrandt, \$10,000; Holbein, \$9,000, \$8,000, \$7,000, \$6,000 …, Munnings, \$20. We may observe these ranks and no question of the measurability of utilities need arise.
 
 That money and units of various goods can be ranked on one value scale is the consequence of Mises’s money-regression theorem, which makes possible the application of marginal utility analysis to money.[^27] It is characteristic of Professor Samuelson’s approach that he scoffs at the whole problem of circularity which money-regression had solved. He falls back on Léon Walras, who developed the idea of “general equilibrium in which all magnitudes are simultaneously determined by efficacious interdependent relations,” which he contrasts to the “fears of literary writers” about circular reasoning.[^28] This is one example of the pernicious influence of the mathematical method in economics. The idea of mutual determination is appropriate in physics, which tries to explain the unmotivated motions of physical matter. But in praxeology, the _cause_ is known: individual purpose. In economics, therefore, the proper method is to proceed from the causing action to its consequent effects.
 
-#### The Fallacy of Indifference
+###### The Fallacy of Indifference
 
 The Hicksian Revolutionaries replaced the cardinal utility concept with the concept of indifference classes, and for the last twenty years, the economic journals have been rife with a maze of two- and three-dimensional indifference curves, tangencies, “budget lines,” and so on. The consequence of an adoption of the demonstrated preference approach is that the entire indifference-class concept, along with the complicated superstructure erected upon it, must fall to the ground.
 
@@ -139,7 +139,7 @@ The other attempt to demonstrate indifference classes rests on the consistency-c
 
 If the concept of the individual indifference curve is completely fallacious, it is quite obvious that Baumol’s concept of the “community indifference curve,” which he purports to build up from individual curves, deserves the shortest possible shrift.[^36]
 
-#### The Neo-Cardinalists: the von Neumann-Morgenstern Approach
+###### The Neo-Cardinalists: the von Neumann-Morgenstern Approach
 
 In recent years, the world of economics has been taken by storm by a neo-cardinalist, quasi-measurement theory of utility. This approach, which has the psychological advantage of being garbed in a mathematical form more advanced than economics had yet known, was founded by von Neumann and Morgenstern in their celebrated work.[^37] Their theory had the further advantage of being grounded on the most recent and fashionable (though incorrect) developments in the philosophy of measurement and the philosophy of probability. The Neumann-Morgenstern thesis was adopted by the leading mathematical economists and has gone almost unchallenged to this day. The chief consolation of the ordinalists has been the assurance by the neo-cardinalists that their doctrine applies only to utility under conditions of uncertainty, and therefore does not shake the ordinalist doctrine too drastically.[^38] But this consolation is really quite limited, considering that some uncertainty enters into every action.
 
@@ -195,7 +195,7 @@ Jacob Marschak, one of the leading members of the Neumann-Morgenstern school, ha
 
 ## IV. Welfare Economics: A Critique
 
-#### Economics and Ethics
+###### Economics and Ethics
 
 It is now generally accepted among economists, at least _pro forma_ , that economics _per se_ cannot establish ethical judgments. It is not sufficiently recognized that to accept this need not imply acceptance of the Max Weber position that ethics can never be scientifically or rationally established. Whether we accept the Max Weber position, or we adhere to the older view of Plato and Aristotle that a rational ethics is possible, it should be clear that _economics_ by itself cannot establish an ethical position. If an ethical science is possible, it must be built up out of data supplied by truths established by all of the other sciences.
 
@@ -203,7 +203,7 @@ Medicine can establish the fact that a certain drug can cure a certain disease, 
 
 Thus, whether we hold the view that ethics is a matter of non-rational emotions or taste, or whether we believe in a rational ethic, we must agree that economic science _per se_ cannot establish ethical statements. As political policy judgment is a branch of ethics, the same conclusion applies to politics. If prosperity vs. poverty, for example, are political alternatives, economic science cannot decide between them; it simply presents the truth about the consequences of each alternative political decision. As citizens, we take these truths into account when we make our politico-ethical decisions.
 
-#### The Problem of the New Welfare Economics: The Unanimity Rule
+###### The Problem of the New Welfare Economics: The Unanimity Rule
 
 The problem of “welfare economics” has always been to find some way to circumvent this restriction on economics, and to make ethical, and particularly _political_ , statements directly. Since economics discusses individuals’ aiming to maximize their utility or happiness or welfare, the problem may be translated into the following terms: When can economics say that “society is better off” as a result of a certain change? Or alternatively, when can we say that “social utility” has been increased or “maximized”?
 
@@ -213,7 +213,7 @@ Economists continued blithely along this path until they were brought up short b
 
 The Pareto-Robbins Unanimity Rule conquered economics and liquidated the old Pigovian welfare economics almost completely. Since then, an enormous literature known as the “new welfare economics” has flourished, devoting itself to a series of attempts to square the circle: to assert certain political judgments as scientific economics, while still retaining the Unanimity Rule.
 
-#### Professor Robbins’s Escape Route
+###### Professor Robbins’s Escape Route
 
 Robbins’s own formulation of the Unanimity Rule far undervalues the scope of its restrictive power over the assertions of economists. Robbins stated that only _one_ ethical assertion would be necessary for economists to make interpersonal comparisons: namely, that every man has an “equal capacity for satisfaction” in similar circumstances. To be sure, Robbins grants that this ethical assumption cannot be established by economics; but he implies that since all good democrats are bound to make this egalitarian assumption, we can all pretty well act _as if_ interpersonal comparisons of utility can be made and go on to make ethical judgments.
 
@@ -221,7 +221,7 @@ In the first place, it is difficult, upon analysis, to make sense of the phrase 
 
 The Robbins position, moreover, embodies a highly oversimplified view of ethics and its relation to politico-economic affairs. The problem of interpersonal comparisons of utility _is only one_ of the very many ethical problems which must at least be discussed before any policy conclusions can rationally be framed. Suppose, for example, that two social changes take place, each of which causes 99 percent of the people to gain in utility and one percent to lose. Surely no assumption about the interpersonal comparison of utility can suffice to establish an ethical judgment, divorced from the _content_ of the change itself. If, for example, one change was the enslavement of the one percent by the 99 percent, and the other was the removal of a governmental subsidy to the one percent, there is apt to be a great deal of difference in our ethical pronouncements on the two cases, even if the assumed “social utility” in the two cases is approximately the same.
 
-#### The Compensation Principle
+###### The Compensation Principle
 
 “There is no meaning to the term ‘equality’ without some sort of definable unit.”
 
@@ -229,17 +229,17 @@ A particularly notable attempt to make policy conclusions within the framework o
 
 Certainly, the compensators could not rely on questionnaires in a situation where everyone need only _say_ that he has lost utility in order to receive compensation. And suppose someone proclaims that his sensibilities are so hurt by a certain change that no monetary reward could ever compensate him? The existence of one such person would annul any compensation attempt. But these problems necessarily occur when we leave the realm of demonstrated preference.
 
-#### The Social Welfare Function
+###### The Social Welfare Function
 
 Under the impact of criticisms far less thoroughgoing than the above, the compensation principle has been abandoned by most economists. There have been recent attempts to substitute another device — the “Social Welfare Function.” But after a flurry of activity, this concept, originated by Professors Bergson and Samuelson, quickly struck rocky waters, and virtually sank under the impact of various criticisms. It came to be regarded as an empty and therefore meaningless concept. Even its founders have given up the struggle and concede that economists must import ethical judgments from outside economics in order to make policy conclusions.[^50]
 
 Professor Rothenberg has made a desperate attempt to salvage the social welfare function by radically changing its nature, that is, by identifying it with an existing “social decision-making process.” To uphold this shift, Rothenberg must make the false assumption that “society” exists apart from individuals and makes “its” own valuation. Furthermore, as Bergson has pointed out, this procedure abolishes welfare economics, since the function of the economist would be to observe empirically the social decision-making process at work and to pronounce its decisions as gains in “social utility.”
 
-#### The Economist as Adviser
+###### The Economist as Adviser
 
 Failing the establishment of policy conclusions through the compensation principle or the social welfare function, there is another very popular route to enable the economist to participate in policy formation while still remaining an ethically neutral scientist. This view holds that someone else may set the ends, while the economist is justified in telling that person (and in being hired by that person) the correct means for attaining these desired ends. Since the economist takes _someone else’s_ hierarchy of ends as given and only points out the means to attain them, he is alleged to remain ethically neutral and strictly scientific. This viewpoint, however, is a misleading and fallacious one. Let us take an example suggested by a passage in Professor Philbrook’s seminal article; a monetary economist advising the Federal Reserve System.[^51] Can this economist simply take the ends set by the heads of this System and advise on the most efficient means to attain them? _Not unless the economist affirms these ends as being positively good_ , that is, not unless he makes an ethical judgment. For suppose that the economist is convinced that the entire Federal Reserve System is pernicious. In that case, his best course may well be to advise that policy which would make the System highly _inefficient_ in the pursuit of its ends. The economist employed by the System cannot, therefore, give any advice whatever without abandoning ethical neutrality. If he advises the System on the best way to achieve its ends, it must be logically inferred that he supports these ends. His advice involves no less an ethical judgment on his part if he chooses to “tacitly accept the decisions of the community as expressed through the political machinery.”[^52]
 
-#### The End of Welfare Economics?
+###### The End of Welfare Economics?
 
 After twenty years of florid growth, welfare economics is once more confined to an even tighter Unanimity Rule. Its attempts to say anything about political affairs within the confines of this rule have been in vain.
 
@@ -262,7 +262,7 @@ Does the Unanimity Rule then spell the end of _all_ possible welfare economics, 
 
 ## V. Welfare Economics: A Reconstruction
 
-#### Demonstrated Preference and the Free Market
+###### Demonstrated Preference and the Free Market
 
 It is the contention of this paper that the wake for all welfare economics is premature, and that welfare economics can be reconstructed with the aid of the concept of demonstrated preference. This reconstruction, however, will have no resemblance to either of the “old” or “new” edifices that preceded it. In fact, if Reder’s thesis is correct, our proposed resurrection of the patient may be considered by many as more unfortunate than his demise.[^56]
 
@@ -274,7 +274,7 @@ But what about Reder’s bogey: the envious man who hates the benefits of others
 
 We are led inexorably, then, to the conclusion that the processes of the free market always lead to a gain in social utility. And we can say this with absolute validity as economists, without engaging in ethical judgments.
 
-#### The Free Market and the “Problem of Distribution”
+###### The Free Market and the “Problem of Distribution”
 
 Economics, in general, and welfare economics, in particular, have been plagued with the “problem of distribution.” It has been maintained, for example, that assertions of increased social utility on the free market are all very well, but only within the confines of assuming a given distribution of income.[^58] Since changes in the distribution of income seemingly injure one person and benefit another, no statements, it is alleged, can be made about social utility with respect to changes in distribution. And income distribution is always changing.
 
@@ -282,7 +282,7 @@ On the free market, however, there _is_ no such thing as a separate “distribut
 
 The strictures of the critics do apply, however, to cases of State action. When the State takes from Peter and gives to Paul it is effecting a separate _distribution_ process. Here, there does exist a process _separate_ from production and exchange, and hence the concept becomes meaningful. Moreover, such State action obviously _and demonstrably_ benefits one group and injures another, thus violating the Unanimity Rule.
 
-#### The Role of the State
+###### The Role of the State
 
 Until quite recently, welfare economics has never analyzed the role of the State. Indeed, economics in general has never devoted much attention to this fundamental problem. Specific problems, such as public finance, or price controls, have been investigated, but the State itself has been a shadowy figure in the economic literature. Usually, it has vaguely been considered as representing “society” or “the public” in some way. “Society,” however, is not a real entity; it is only a convenient short-hand term for an array of all existing individuals.[^59] The largely unexplored area of the State and State actions, however, can be analyzed with the powerful tools of demonstrated preference and the Unanimity Rule.
 
@@ -296,7 +296,7 @@ Economics, therefore, without engaging in any ethical judgment whatever, and fol
 
 Exchanges between persons can take place either voluntarily or under the coercion of violence. There is no third way. If, therefore, free market exchanges always increase social utility, while no coerced exchange or interference can increase social utility, we may conclude that the maintenance of _a free and voluntary market “maximizes” social utility_ (provided we do not interpret “maximize” in a cardinal sense). Generally, even the most rigorously _Wertfrei_ economists have been willing to allow themselves one ethical judgment: they feel free to recommend any change or process that increases social utility under the Unanimity Rule. Any economist who pursues this method would have to (a) uphold the free market as always beneficial, and (b) refrain from advocating any governmental action. In other words, he would have to become an advocate of _“ultra” laissez-faire_.
 
-#### Laissez-faire Reconsidered
+###### Laissez-faire Reconsidered
 
 It has been quite common to scoff at the French “optimist” _laissez-faire_ school of the nineteenth century. Usually, their “welfare economic” analysis has been dismissed as naive prejudice. Actually, however, their writings reveal that their _laissez-faire_ conclusions were _post-judices_ — were judgments _based_ on their analysis, rather than preconceptions of their analysis.[^62] It was the discovery of the general social benefit from free exchange that led to the rhapsodies over the free exchange process in the works of such men as Frédéric Bastiat, Edmond About, Gustave de Molinari, and the American, Arthur Latham Perry. Their analyses of State action were far more rudimentary (except in the case of Molinari), but their analyses generally needed only the ethical presumption in favor of social utility to lead them to a pure _laissez-faire_ position.[^63] Their treatment of exchange may be seen in this passage from the completely neglected Edmond About:
 
@@ -310,7 +310,7 @@ Samuelson’s only attempt to refute the _laissez-fare_ position was to refer br
 
 Furthermore, it should be stressed that the theorem of maximum social utility applies not to any type of “perfect” or “pure” competition, or even to “competition” as against “monopoly.” It applies simply to any voluntary exchange. It might be objected that a voluntary cartel’s action in raising prices makes many consumers worse off, and therefore that assertion of the benefits of voluntary exchange would have to exclude cartels. It is not possible, however, for an observer scientifically to compare the social utilities of results on the free market from one period of time to the next. As we have seen above, we cannot determine a man’s value-scales over a period of time. How much more impossible for all individuals! Since we cannot discover people’s utilities over time, we must conclude that whatever the institutional conditions of exchange, however large or small the number of participants on the market, the free market at any time will maximize social utility. For all the exchanges are exchanges effected voluntarily by all parties. Then, suppose some producers voluntarily form a cartel in an industry. This cartel makes its exchanges in Period 2. Social utility is again maximized, for again no one’s exchanges are being altered by coercion. If, in Period 2, the government should intervene to prohibit the cartel, it could not increase social utility since the prohibition demonstrably injures the producers.[^68]
 
-#### The State as a Voluntary Institution: A Critique
+###### The State as a Voluntary Institution: A Critique
 
 In the development of economic thought, far more attention has been paid to analysis of free exchange than to State action. Generally, as we have indicated, the State has simply been assumed to be a voluntary institution. The most common assumption is that the State is voluntary because all government must rest on majority consent. If we adhere to the Unanimity Rule, however, it is obvious that a majority is not unanimity, and that therefore economics cannot consider the State as voluntary on this ground. The same comment applies to the majority voting procedures of democracy. The man who votes for the losing candidate, and even more the man who abstains from voting, can hardly be said voluntarily to approve of the action of the government.[^69]
 

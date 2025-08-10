@@ -40,7 +40,7 @@ Part II, “The Legislative Arena,” deals with the post-Jekyll Island timeline
 
 Ultimately, _America’s Bank_ is a mixed bag. Lowenstein tells an important story and describes many aspects of the narrative and the crucial cast in great detail. However, the overall narrative is weakened by the author’s poor understanding of various economic events, and this causes him to write with a pro-central bank bias and be overly supportive of the proponents’ motives, when a more proper understanding would have led to examining rival reforms in greater detail and be more skeptical of the need for a central bank.
 
-#### REFERENCES
+###### REFERENCES
 
 Davis, Joseph H. 2006. “An Improved Annual Chronology of U.S. Business Cycles since the 1790s,” _Journal of Economic History_ 66, no. 1: 103–121.
 

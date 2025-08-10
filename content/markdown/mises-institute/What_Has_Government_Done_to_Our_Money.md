@@ -337,7 +337,7 @@ Rapid and severe debasement was a hallmark of the Middle Ages, in almost every c
 
 ### 5. Gresham's Law and Coinage
 
-#### A. Bimetallism
+###### A. Bimetallism
 
 Government imposes price controls largely in order to divert public attention from governmental inflation to the alleged evils of the free market. As we have seen, “Gresham’s Law”—that an artificially overvalued money tends to drive an artificially undervalued money out of circulation—is an example of the general consequences of price control. Government places, in effect, a maximum price on one type of money in terms of the other. Maximum price causes a shortage—disappearance into hoards or exports—of the currency suffering the maximum price (artificially undervalued), and leads it to be replaced in circulation by the overpriced money.
 
@@ -349,7 +349,7 @@ Now we see the importance of abstaining from patriotic or national names for gol
 
 Finally, after weary centuries of bimetallic disruption, governments picked one metal as the standard, generally gold. Silver was relegated to “token coin” status, for small denominations, but not at full weight. (The minting of token coins was also monopolized by government, and, since not backed 100% by gold, was a means of expanding the money supply.) The eradication of silver as money certainly injured many people who preferred to use silver for various transactions. There was truth in the war-cry of the bimetallists that a “crime against silver” had been committed; but the crime was really the original imposition of bimetallism in lieu of parallel standards. Bimetallism created an impossibly difficult situation, which the government could either meet by going back to full monetary freedom (parallel standards) or by picking one of the two metals as money (gold or silver standard). Full monetary freedom, after all this time, was considered absurd and quixotic; and so the gold standard was generally adopted.
 
-#### B. Legal Tender
+###### B. Legal Tender
 
 How was the government able to enforce its price controls on monetary exchange rates? By a device known as _legal tender laws_. Money is used for payment of past debts, as well as for present “cash” transactions. With the name of the country’s currency now prominent in accounting instead its actual weight, contracts began to pledge payment in certain amounts of “money.” _Legal tender laws_ dictated what that “money” could be. When only the original gold or silver was designated “legal tender,” people considered it harmless, but they should have realized that a dangerous precedent had been set for government control of money. If the government sticks to the original money, its legal tender law is superfluous and unnecessary.[^26] On the other hand, the government may declare as legal tender a lower-quality currency side-by-side with the original. Thus, the government may decree worn coins as good as new ones in paying off debt, of silver and gold equivalent to each other in the fixed ratio.The legal tender laws then bring Gresham’s Law into being.
 

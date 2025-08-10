@@ -27,7 +27,7 @@ It is hoped that this book can serve as an effective introduction to the Austria
 
 ## 2. Social Cooperation and Resource Allocation
 
-## Calculations in Kind in a Primitive Economy
+#### Calculations in Kind in a Primitive Economy
 
 The task of economizing is as applicable to an isolated, self-sufficient person like Robinson Crusoe as it is to someone who lives in a society characterized by extensive division of labor and complex exchange transactions. Robinson Crusoe’s task was to employ the means available to him in ways that he hoped would generate the greatest satisfaction. A process of deciding and choosing was essential to his welfare. Similarly, in modern society vast numbers of interacting individuals try to make the best use of all available means for want satisfaction. This economic problem exists whether the choices and decisions are largely left up to a centralized planning board, as envisioned in the theory of socialism, or whether such choices are made more or less freely on the part of individuals acting in a market economy.
 
@@ -39,7 +39,7 @@ His time and energy would be spent making basic tools, hunting for food, buildin
 
 A self-sufficient household could also manage its economic resources effectively without involved calculations of any sort, particularly if it had gradually developed a tradition of resource utilization. Whatever calculations of outcomes were necessary in these relatively primitive situations could be captured in terms of the various outputs, sometimes referred to as calculations in kind. Because of the absence of exchange relations there would be no medium of exchange and thus no common denominator for calculation purposes.
 
-## Calculations in Kind in an Advanced Economy
+#### Calculations in Kind in an Advanced Economy
 
 Over the centuries an alternative to economic self-sufficiency has evolved to deal with the problem of scarcity. This alternative is social cooperation, the basis of what is called society. Virtually all people have chosen society over self-sufficiency. The enormous increase in productivity resulting from specialization and the division of labor gradually undermined the process of self-sufficient provisioning. Yet despite the comparative abundance of products and services emanating from the process of social cooperation, the economic problem remains: Wants continue to exceed the means or resources for their attainment. The persistence of the problem of scarcity means that even in a modern, highly developed, and productive society decisions have to be made regarding how the various scarce resources should be directed to the satisfaction of the more urgently felt wants of society’s members.
 
@@ -57,7 +57,7 @@ In 1920 Ludwig von Mises challenged the theory of socialism when he contended th
 
 Leading socialist theorists subsequently agreed that their theory was in need of elaboration on this point. They then began to explain how they believed that the process of allocation could be directed by central planners in the absence of competitively established market prices. What this explanation amounted to was the recognition that the planning authorities would require some method of calculating in common terms the effects of alternative economic actions.[^4] They agreed that Mises was right in pointing out that they had failed to confront this matter in all of their previous works. They had been convinced that calculations in kind are insufficient in the management of a modern economy. Their replies largely culminated in the contention that the central planning authorities could establish prices through trial and error, guided by the existence of surpluses and shortages for each particular good. And these prices, stated in terms of the economy’s medium of exchange, would serve as beacons in the task of resource allocation. Shortages called for upward adjustments in the prices of those items; surpluses signaled for price reductions. These price adjustments would lead to proper production adjustments--price increases would induce supply increases while price decreases would effect supply decreases--so that eventually equilibrating prices would be set, thereby removing various shortages and surpluses in both intermediate and finished goods. Resources would be employed rationally through the monetary guides issued by the central pricing and planning authorities. The socialist position now is that a socialist economy is not doomed to calculations in kind, and that, thanks to Mises, they had been spurred to demonstrate this point.[^5]
 
-## The Problem of Coordination and Knowledge
+#### The Problem of Coordination and Knowledge
 
 The overriding difference between self-sufficient production and production on the basis of social cooperation is that only under the latter arrangement are people able to realize the overwhelming benefits of specialization and the division of labor. In addition, while a self-sufficient producer generates goods solely for his own satisfaction, an arrangement of social cooperation necessarily means that producers create products to satisfy other people. Virtually every person in a modern economy devotes his skills and energies to a highly specialized activity that provides a product or service to be used by someone else. We would all be in a sad state if each of us were suddenly compelled to produce only for himself.
 
@@ -77,7 +77,7 @@ The coordination problem is inextricably connected to the fact that all data rel
 
 The driving forces in the market process are the producer-entrepreneurs who see profit opportunities arising from potential improvements in market activities. The process of the market is ongoing because of the relentless search for profit and the resultant alterations in the market effected by competitive producer-entrepreneurs. While other market participants are more or less passive, unaware of or perhaps uninterested in profit-related opportunities, entrepreneur-producers search out and exploit profit potentials. The data they detect and act upon may be erroneous, and the subsequent realization of errors, manifested in monetary losses, provokes further alterations in the market. Once the condition of imperfect knowledge is introduced, price theory and the picture drawn of the market are vastly changed from that of orthodox discussion. The role of entrepreneurial profits and losses will be explored in greater depth in a later section.[^8]
 
-## Suggested Readings
+#### Suggested Readings
 
 Hayek, Friedrich A., ed. _Collectivist Economic Planning._ Clifton: N.J.: Kelley, 1975.
 
@@ -98,11 +98,11 @@ Mises, Ludwig von. _Human Action: A Treatise on Economics._ 3rd rev. ed. Chicago
 
 ## 3. Economic Calculation
 
-## The Role of the Price System
+#### The Role of the Price System
 
 It has been shown that the essence of social cooperation is specialization and the division of both labor and knowledge. This fact has two significant implications for the purposes of this study. The first is that social cooperation results in the production of such a wide range of intermediate and final products that calculations in kind will not allocate scarce resources effectively. A common denominator is indispensable. The second is that the concomitance of decentralized decision-making and social cooperation requires a means of coordinating individual plans that are based upon imperfect knowledge and information. These two requirements are fulfilled simultaneously through the price system of the market economy. Detailed treatment of the workings of the price system will be postponed until later. At this point it will be sufficient to discuss the price system in general terms in order to demonstrate its dual function as a means of economic calculation and as a means of coordinative communication. Actually, as will be shown, these two functions are really of a piece; that is, they relate the same problem of resource allocation under an arrangement of social cooperation and a system of market prices.
 
-## Economic Calculation vs. Technological Calculation
+#### Economic Calculation vs. Technological Calculation
 
 Economic calculation is not a technological problem. Technology can establish quantitatively the causal relations between a particular set of external things that can be used in various combinations to produce a particular result. The nature of technological calculation is that 6a + 4b + 3c + ...xn will likely create the result 8p. But technology cannot say whether the resulting 8p is the most desirable use of those particular quantities of resources a, b, c, etc., as compared with their possible alternative uses as means to the production of other ends. By the same token, technology is not able to say whether that particular formula for the production of 8p is the preferable one when 8p is also producible by means of other formulae or combinations of different resources. Mises has illustrated the problem as follows:
 
@@ -114,7 +114,7 @@ Max Weber made the same point in the following statement:
 
 Technical calculations can only be calculations in kind. They are not sufficient for human decisions and actions because they are devoid of any preferential quality. The ivory-tower theorist may be right in claiming that an excellent tunnel can be built of platinum. But monetary calculation makes the issue an economic one, and the practical engineer is thereby discouraged from disembarking upon such a scheme as long as platinum has uses deemed more important than the construction of tunnels. Technology is neutral to human valuation; it has nothing to say about the subjective use-value of the various objective uses for resources. As Mises has said, “It ignores the economic problem: to employ the available means in such a way that no want more urgently felt should remain unsatisfied because the means suitable for its attainment were employed--wasted--for the attainment of a want less urgently felt.[^11]
 
-## Subjectivity of Value
+#### Subjectivity of Value
 
 The task of resource allocation is to satisfy urgently felt human wants, and therefore resources must be devoted to their most important employments. Yet the question must be raised as to how these most important wants or usages are to be determined. It would appear that some means of measuring the value of things is necessary to make these determinations, but this is not the case. There is no such thing as a measuring unit of value, and this fact means that measuring the value of a thing is impossible. Value is a subjective phenomenon that eludes cardinal quantification. A thing’s value is in the mind of the person who is doing the valuing, and this process of evaluating is not a matter of measurement. Because valuation is always a matter of individual preference, ordinal numbers are the only type of numerical treatment that can be accorded the problem of valuation. This is the subjective theory of value which did not enter economic science until Menger, Jevons, and Walras introduced it in their analysis around 1871. Until that time, economists had searched for a source of value for all goods as if value were intrinsic in each good.
 
@@ -122,7 +122,7 @@ The problem of value measurement is indicated by the fact that not only do diffe
 
 Valuation necessarily is manifested in the act of choosing or preferring. One is able to say he values A more than either B or C, but he is unable to say quantifiably how much more he prefers A over B or C. He may qualitatively indicate that his preference of A over B is far more intense than his preference of A over C. In that case, he would be ranking his preferences from first to last in the order of A, C, and B. But this ranking is strictly an ordinal, and not a cardinal, use of numbers. The allocation of scarce resources cannot be based upon any alleged method of measuring their values; employment of particular increments of resources can be decided only through ranking one incremental choice over alternative incremental uses of the same or different resources. Resources, since they are means to consumer goods, derive their ranking from the relative importance of their ultimate products. A more detailed look at the subjective theory of value is presented in chapter 3.
 
-## Economic Calculation Through Money Prices
+#### Economic Calculation Through Money Prices
 
 It is through the pricing process of the market that the relative importance of the various resources and consumer goods is translated into common terms in the form of money prices. Money enables people to make economic calculations because it is the common medium of exchange. All goods and services that are bought and sold on the market are exchanged for sums of money. These money prices are not measurements of value. Money prices are exchange ratios that are expressive of the ranking of the valuations placed upon increments of goods at a given moment by the participants in market exchanges. Money prices are subject to continuous change because of the changeability of people’s subjective valuations and because of changes in the supply of the particular goods and services. The propensity of humans to conceive of changes they deem improvements in their ways of doing things and in the means of attaining satisfaction prevents the emergence of permanently stable prices in the market economy.
 
@@ -130,7 +130,7 @@ Economic or monetary calculation is essentially a matter of providing a comparis
 
 Economic calculation includes both retrospective and prospective monetary calculations. Retrospective calculation is the determination of past monetary profit or loss, i.e., income, resulting from actions already taken and serves two purposes: (1) to the extent that the past is assumed to be indicative of the future, it has instructive value, and (2) the determination of monetary income reveals the extent to which the future capacity to produce can be maintained after current income is withdrawn. The latter function derives from the complementary concepts of capital and income, the ultimate mental tools of economic calculation, which are discussed in the next section. Prospective calculation, which might well be influenced by retrospective calculations of capital and income, is a matter of anticipating the money profit or loss expected to result from specific actions being contemplated. Note that all economic calculation deals with the future. As all action is meant to cause a beneficial change, all action is directed to the future, whether to the next hour, day, year, or longer. Every step along the path of resource utilization has a prospective orientation.
 
-## The Concepts of Capital and Income
+#### The Concepts of Capital and Income
 
 The essence of modern economic activities is the devotion of resources to the process of production leading to the output of consumer goods and services. The entrepreneur-producer invests funds to acquire productive means by which he hopes to increase his monetary wealth. Through money prices the producer is able to ascertain numerically the economic significance of the factors employed for future production. The determinable amount of money equivalent devoted toward productive activities is called _capital,_ and the aim to keep at least this amount intact is called capital maintenance. Mises defines capital in the following way:
 
@@ -150,7 +150,7 @@ Every productive undertaking is guided by the calculation of anticipated future 
 
 It warrants reiteration at this point that economic or monetary calculation is not a process of measurement. Monetary numbers provide no standard unit of value. The infinite possible uses of productive resources dictate that choices or preferences, not value measurement, characterize the nature of the economic problem. Monetary calculations, through past and anticipated market prices, indicate preferences or the relative importance of alternative undertakings.
 
-## Risk and Uncertainty
+#### Risk and Uncertainty
 
 There is no precision in economic calculation because of the uncertain future that pervades all activities in the market economy. Predicted future costs and revenues are anticipations on the part of the entrepreneur-producer, who possesses no superhuman ability to know the future. This uncertainty no less affects the retrospective calculation of profit and loss because the most recent calculation of capital is tenuously based on a money equivalence that the future may not uphold. An individual decision maker is unable to know precisely the future preferences of consumers, the future changes in technology, the future plans and actions of other producers, and the infinite number of other external events that will occur in the future. The gathering of empirical data as is done in establishing actuarial tables is not sufficient for the purposes of entrepreneurial activities in the market economy. Actuarial science is predicated on determining classes of homogeneous events. Each class is made up of a large number of past similar events that are subject to a statistical analysis that reveals the percentage of instances in which a given event has transpired. But the preponderance of the entrepreneur’s dealings is not with matters of a homogeneous nature. To the extent that he does concern himself with actuarially describable events, he resorts to insurance in order to recognize the probable cost of detrimental happenings. But most of his concerns are of such a comparatively rare nature that the grouping or categorizing of them into classes for the purposes of computing class probabilities is impossible.
 
@@ -164,7 +164,7 @@ Uncertainty is the overwhelming obstacle that each entrepreneur-producer faces i
 
 This does not mean that the future is so uncertain that every business action is a gamble or that each situation is so unusual that there exists no basis for planned action. Experience provides an invaluable guide to action. Past prices are the starting point for predicting future prices. However, for the problems of the entrepreneur-producer, experience is too diverse and complex to enable him to quantify the probability of the success of alternative actions. In the market economy there are no fixed relations. The producer’s reliance on past experience is necessarily judgmental and qualitative.
 
-## The Tenuousness of Economic Calculation
+#### The Tenuousness of Economic Calculation
 
 Since all anticipatory economic calculation deals with an uncertain future, all such calculations are tenuous and indefinite. Because no entrepreneur can know the future, errors in anticipations are inevitable, and success or profit comes to those whose foresight is the least erroneous or most nearly correct. Even the capital arising from the results of past events and transactions and used in determining past profits is but an interim level of wealth since its permanence is not assured in an uncertain future. Mises describes the tenuousness of the figures reported in business financial statements:
 
@@ -172,7 +172,7 @@ Since all anticipatory economic calculation deals with an uncertain future, all 
 
 Monetary calculation may lack preciseness and certainty, but that does not mean it does not fulfill its task of guiding future actions according to a producer’s view of what the future want-satisfactions of other people will be. It is not the fault of the system of economic calculation that uncertain calculations exist. They arise necessarily because human action always occurs in the face of an uncertain future. Under a social organization with an extensive division of labor, producers require a means of calculation on the basis of a common denominator. Monetary calculation affords this means, although it is not definite or certain. Resources are directed to those used that the owner deems the most promising and remunerative as indicated by his money calculations. Monetary calculation is possible only in a market economy in which the factors of production can be related to money prices. There can be no monetary calculation in a barter economy or on Robinson Crusoe’s island. Even socialist theorists have admitted that the allocation of productive resources in a socialized economy would require the establishment of money prices by the central authorities in order to correct discrepancies between supply and demand.
 
-## The Rationalizing Effect of Monetary Calculation
+#### The Rationalizing Effect of Monetary Calculation
 
 The recognition of the significance of economic calculation has not been restricted to Austrian economists. Max Weber attributed to the tool of monetary calculation or capital accounting the dominant rationalizing influence in the technological development of western capitalism:
 
@@ -182,7 +182,7 @@ The instruments of money and monetary calculation are the means by which versati
 
 And yet economic calculation is not without its limitations. Those things that cannot be bought and sold are outside the realm of monetary calculation. A man’s devotion to good character or to another person may not be subject to compromise at any price. In a society that forbids slavery, human life has no money price. A person may own something that he so cherishes for its beauty or for sentimental reasons that he would not exchange it for any amount of money. Such matters cannot be related to money prices. But the existence of these exceptions does not hinder the effectiveness of money prices in guiding the utilization of the vast amount of goods and services that do not fall outside the pale of market activities.
 
-## Coordinative Communication Through Market Prices
+#### Coordinative Communication Through Market Prices
 
 In addition to the need for a common denominator for calculation purposes, we have seen that another requirement of social cooperation based on specialization and division of labor and knowledge is for a means by which the multitude of individual plans and actions can be coordinated into a consistent pattern. The interrelationship of specialized activities demands a system of apprising decision makers of changes relevant to their activities. Each decentralized planner cannot make decisions strictly on the basis of his awareness of his immediate surroundings. His decisions need to be harmonized with those of other planners so that the larger economic system operates as smoothly and effectively as possible.
 
@@ -200,7 +200,7 @@ Let us not fail to recognize that the effective operation of the price system ca
 
 Money prices simultaneously fulfill the needs for a common denominator for calculation purposes and a process by which the individual decisions of dispersed people can be coordinated. Prices established on the market are coordinative precisely because they are a major factor taken into consideration in the economic calculations underlying the actions taken by various decision makers. Past prices are useful guides to the anticipation of prices expected to exist in the immediate future. Perceptions of opportunities for profitable alterations in economic activities engender actions that influence the eventual configuration of future prices. Through such changes in prices additional information is communicated to other market participants. The knowledge problem is further alleviated as such price signals now reflect the new decisions and induce others to plan their affairs in ways consistent with the new market data. The tendency for separate decisions to be consistent with one another was the natural outcome of establishing a medium of exchange that furnished to everyone a common denominator to be used for their economic calculations. Without a common denominator the need for coordinating the plans of various people would not be so great. The reliance on calculations in kind would significantly restrict the development of specialization and division of labor. Exchanges would be limited to pure barter relations. The rational allocation of scarce resources in a system of fruitful and extensive social cooperation is the great advantage emanating from a market economy and its counterpart, monetary calculation.
 
-## Suggested Reading
+#### Suggested Reading
 
 Knight, Frank A. Risk, _Uncertainty and Profit._ New York: Augustus M. Kelley, 1964. Mises, Ludwig von. _Human Action: A Treatise on Economics,_ 3rd rev. ed. Chicago: Henry Regnery and Company, 1966.
 
@@ -224,7 +224,7 @@ Knight, Frank A. Risk, _Uncertainty and Profit._ New York: Augustus M. Kelley, 1
 
 ## 4. The Subjective Theory of Value
 
-## Satisfaction and Valuation
+#### Satisfaction and Valuation
 
 The explanation of all economic activity that takes place in the market economy ultimately rests on the subjective theory of value. The value of various consumer goods and services does not reside objectively and intrinsically in the things themselves, apart from the individual who is making an evaluation. His valuation is a subjective matter that even he cannot reduce to objective terms or measurement. Valuation consists in preferring a particular increment of a thing over increments of alternative things available; the outcome of valuation is the ranking of definite quantities of various goods and services with which the individual is concerned for purposes of decision and action. Theory resorts to the hypothetical concept of the scale of values in seeking to explain and understand the nature of human valuations. The ranking of alternative ends is determined by the person’s expectations of satisfaction from each specific choice faced by him at any moment of decision. He will invariably select the alternative that he believes will yield him the greatest satisfaction.
 
@@ -232,7 +232,7 @@ The subjectiveness of valuation rests in the nature of satisfaction--satisfactio
 
 To relate the matter of valuation to the individual person is not to suggest that each individual is concerned only with the satisfaction of his own appetites and needs. A person may find satisfaction or relief in helping another person. Satisfaction can be and often is derived from the attainment of altruistic as well as “selfish” motives. But the point remains that regardless of the form the satisfaction is to take, each choice arises from subjective valuation on the part of the particular person who is doing the choosing. The uneasiness that he seeks to remove is in his own mind, whether such uneasiness pertains to an immediate problem of his own or to a problem faced by someone else. His choice stems from the preference that he has for the removal of a particular uneasiness over another problem to which he could devote his attention.
 
-## The Principle of Marginal Utility
+#### The Principle of Marginal Utility
 
 Valuation is always directed toward a definite quantity of a particular good or service. Choices and decisions are not concerned with the whole supply of a certain good or service. This marginal orientation was lacking in the classical economists’ groping with the so-called paradox of value. They were unable to resolve the intriguing question of why diamonds had a higher price per unit than water when everyone knew that water was more useful and valuable than diamonds. Only through the principle of diminishing marginal utility could this conceptual dilemma be eliminated. Each additional unit of a particular good is devoted to a use that is less important and urgent than the use to which the preceding unit was applied.
 
@@ -248,7 +248,7 @@ If the amount of a good with which one is concerned is enlarged to encompass sev
 
 The size of the unit used is not important for the operation of value theory. It can be seen that if one were in the impossible position of having to rank all water and all diamonds, one would rate the former first and the latter second, disproving the existence of any paradox of value. It also follows that if the supply of a particular good is so large that some units go unused, the marginal utility of the good is zero; in such case, no value would be attached to any particular unit. The good would not belong to the realm of economics and could be expediently termed a “free” good. This is the case with the ordinary air that we breathe (although problems with air pollution have created certain situations that involve costly, not free, clean air).
 
-## Value and Exchange
+#### Value and Exchange
 
 In a modern economy the purpose of production is to yield goods and services to be used by people other than the producers themselves. This is the essence of specialization and division of labor. In a developed society, production for exchange overshadows production for immediate use. As a result, units of goods and services take on exchange value in addition to the use value that they may have for the producer. And with the overwhelming emphasis on production for exchange, the exchange value of produced goods looms as the value that is of real significance and relevance for most producers, while the use value of goods is the meaningful value for consumers.
 
@@ -258,7 +258,7 @@ Thus any particular good takes on both a use value and an exchange value. Each o
 
 It should be understood that exchange value here refers to the _subjective_ valuation placed by the owner on the good as a means of exchange. The expression “exchange value” is used frequently in the sense of the money price that can be obtained for a given good through its sale. In the context of the subjectivity of value, however, this objective money value would be evaluated subjectively in the same way that a noncash good obtainable through exchange would be evaluated.
 
-## Uses of Money
+#### Uses of Money
 
 In most modern economies, money is primarily fiat money, and its use value in the sense of being employed for consumption purposes is virtually zero. However, where specie is used, money can have a considerable use value. For example, gold and silver can be melted down for jewelry, decoration, and dental applications. Incidents of converting money into other useful products are not common in modern economies; money is valued almost invariably for its exchangeability. Its great service is that is obviates the requirement for a coincidence of product wants among the parties to an exchange, as is required in cases of direct barter.[^27]
 
@@ -268,7 +268,7 @@ The third use is to add the money to one’s cash balance to help pay for future
 
 The principle of diminishing marginal utility is no less applicable to money than to other commodities. Units of money are utilized in such a way that the most urgent goals or needs are met first. Because of the particularly easy divisibility of money, such allocations are made in more incremental steps than is the case with any other commodity. The marginal utility of money, then, equals the least highly valued use that the given unit serves. Just as in the case of the farmer’s five sacks of grain, the satisfaction derived from a unit of money is the satisfaction that would be sacrificed if a unit were lost. The incidence of the loss will always be on the least important use that a unit was intended to serve. Yet this sacrifice is the most important use to which the marginal unit could be put. A person will thus allocate his money among consumption expenditures, production expenditures, and increases in his cash balance in terms of his scale of values or preferences.
 
-## Use and Exchange Value in the Market Economy
+#### Use and Exchange Value in the Market Economy
 
 An important characteristic of the use of commodities, including money, in the productive process under a system of social cooperation is that the user is not concerned only with his own satisfactions or preferences. Since he is engaged in the generation of goods and services that are to be used by other people, the exchange value of the commodities depends on the relative preferences of the other people after the completion of the production process. The number of dollars that the producer anticipates will be the result of his productive efforts hinges ultimately on his perception of the values of other persons.
 
@@ -276,7 +276,7 @@ In a world of certainty, there would be no difficulty in arriving at a money app
 
 It can be seen that in the market economy, characterized by the production of goods and services for subsequent exchange by a common medium of exchange, both use and exchange values are a vital part of the economic process. For the ultimate users of goods and services, the consumers, the satisfaction arising from consumption is the source of value or utility. For producers, the goods and services devoted to production are meaningful only in terms of the money and its exchange value, which they expect to generate from the sale of their product. But the crucial point to remember in distinguishing between these two values is that the exchange value of any productive good tends to be connected with the use value that the consumers attach to its end product. The amount of money that consumers can be expected to allocate to various consumer goods and services is strongly influenced by their subjective preferences. It is this anticipated money inflow that provides the basis for arriving at an exchange value for goods and services devoted to production. An explanation of how the prices of productive resources tend to be derived from the prices of consumer goods will be offered in a later section.
 
-## The Pervasiveness of Subjective Valuation
+#### The Pervasiveness of Subjective Valuation
 
 Subjective valuation underlies all economic activity. Money is not a measure of value; quite the contrary, money is imputed a subjective value as a means of possessing other things. Any subjective valuation is immeasurable and is manifested only through specific choices and actions. Any particular choice is indicative of the decision maker’s preference over all alternative courses of action considered during the time of decision. That this preference can be inferred from his actions does not mean that anything more than a preference is implied. As Rothbard has stated, “We deduce the existence of a specific value scale on the basis of the real act; we have no knowledge of that part of a value scale that is not revealed in real action.”[^29]
 
@@ -298,7 +298,7 @@ Thus, despite the subjectivity of benefits and costs, the terms _money revenues_
 
 However, it must be stressed once more that these money calculations are not in any way measurements of value in the subjective sense. Rothbard has stressed the need to use the term value with care: “It is important to keep distinct the subjective use of the term in the sense of valuation and preference, as against the ‘objective’ use in the sense of purchasing power or price on the market.”[^31]
 
-## Suggested Readings
+#### Suggested Readings
 
 Kirzner, Israel M. _Market Theory and the Price System,_ pp. 45-62.
 
@@ -315,7 +315,7 @@ Mises, Ludwig von. _Human Action: A Treatise on Economics,_ pp. 92-98, 119-142.
 
 ## 5. The Market and Market Prices
 
-## The Nature of the Market
+#### The Nature of the Market
 
 The tendency to ascribe to the market economy the characteristic of being something other than the events caused by the choices and actions of individuals is incorrect. The market arises as a result of the willingness of individuals to interact. Every development in the market is the outcome of purposive actions on the part of individuals who are seeking to improve their own state of affairs.
 
@@ -323,9 +323,9 @@ This process of economic interaction and cooperation is the essence of the marke
 
 > It is customary to speak metaphorically of the automatic and anonymous forces actuating the “mechanism” of the market. In employing such metaphors people are ready to disregard the fact that the only factors directing the market and the determination of prices are purposive acts of men. There is no automatism; there are only men consciously and deliberately aiming at ends chosen. There are no mysterious mechanical forces; there is only the human will to remove uneasiness. There is no anonymity; there is I and you and Bill and Joe and all the rest. And each of us is both a producer and a consumer.... There is nothing inhuman or mystical with regard to the market. The market process is entirely a resultant of human actions. Every market phenomenon can be traced back to definite choices of the members of the market society.[^32]
 
-## Price Determination--Consumer Goods
+#### Price Determination--Consumer Goods
 
-### The Demand Side
+##### The Demand Side
 
 The underlying purpose of all productive effort in the market economy is the generation of goods and services to be consumed. Money prices for consumer goods and services occur continuously as possession of these goods and services moves from the producer to the consumer. A market price is the exchange ratio or relationship between a particular good and the medium of exchange. Although the conventional supply and demand explanation of how equilibrium prices tend to be set in order to clear the market of particular goods is legitimate, it is necessary to examine the real meaning behind the diagram of intersecting curves.
 
@@ -337,7 +337,7 @@ It is in this way that a hypothetical individual’s so-called demand curve can 
 
 What is crucial to the understanding of demand is that the principle of diminishing marginal utility is constantly operating in the consumer’s purchasing decisions. Each additional unit of a given good is applied to a less important use than the former unit acquired. And while the marginal utility of the good continuously falls with each added unit, the marginal utility relating to the remaining money rises. Increases in quantity demanded must be accompanied by decreases in price.
 
-### The Supply Side
+##### The Supply Side
 
 Though the usual discussion of demand recognizes the subjective nature of a consumer’s buying decisions, the supply side of price analysis invariably fails to be related to subjective value, despite the great importance of subjective valuations in the selling decisions of producers.
 
@@ -353,7 +353,7 @@ The law of marginal utility explains the behavior of this producer. The utility 
 
 A total supply curve for the good would entail the summation of all of the individual supply curves, and, thus, its various segments would be either vertical or upward-sloping to the right.
 
-### The Tendency Toward Equilibrium Prices
+##### The Tendency Toward Equilibrium Prices
 
 The day-to-day tendency in the market is toward the establishment of an equilibrium price for each particular consumer good. Prevailing prices tend toward that price at which quantity supplied and quantity demanded are equal, a movement that attests to the price system’s capacity to coordinate the actions of persons engaged in different activities. The typical depiction of this tendency on a graph shows the equilibrium price at the point at which the market supply-and-demand curves intersect. Any price above or below the equilibrium price cannot persist because such a price will result, respectively, in either frustrated sellers or frustrated buyers. Prices are reduced by sellers if the market price is too high to clear the quantity offered; prices are bid upward by buyers if the price is too low to induce sellers to offer a quantity ample enough to satisfy the buyers’ demand.
 
@@ -373,13 +373,13 @@ It is important to emphasize in price analysis that the movement toward market e
 
 The changeability of prices makes inappropriate any reference in the strict sense to prices as present or current prices. As Mises says, “prices are either prices of the past or expected prices of the future.”[^35] To refer to prices as “current” prices is to say that immediate future prices will be the same as the historical prices of the most recent past, say half an hour ago. Since prices generally are not violently restructured from moment to moment in the market, recent past prices are useful starting points in the projection of future prices. But it is future prices that are of primary significance to each actor. Past prices convey directly no certain _knowledge_ about future prices.
 
-### The Irrelevance of Past Costs
+##### The Irrelevance of Past Costs
 
 It should be stressed that this analysis applies to goods already produced; these are the goods that enter into the day-to-day pricing of consumer goods. This is the reason the analysis needs to make no reference to the seller’s money costs of production. The individual seller’s costs were shown to relate to his subjective scale of values--that is, to his own valuation of the good in its next best alternative use of either direct use or future sale. Once the goods have been produced, his past money costs are irrelevant to deciding how to use these goods. As Thirlby has said, “Cost is ephemeral. The cost involved in a particular decision loses its significance with the making of a decision because the decision displaces the alternative course of action.”[^36] Jevons stressed the same truth when he stated, “In commerce bygones are forever bygones and we are always starting clear at each moment, judging the value of things with a view to future utility. Industry is essentially prospective not retrospective.[^37] The seller’s task is to make the best of his situation in light of his possessing a certain stock of goods.
 
 Thus it is not correct to say that prices are determined by demand and by money costs. Money costs enter into the seller’s decisions about the undertaking of production.[^38] This matter of planning production is treated in chapter 5. Once the goods are produced, only subjective valuations expressed by individual buyers and sellers relating to these goods and to their exchange ratios in money terms are effective in the establishment of market prices.
 
-### The Preeminence of Consumer Valuations
+##### The Preeminence of Consumer Valuations
 
 In the final analysis the subjective valuations of the consumers are the principal factor in the determination of market prices of consumer goods in the advanced market economy. It can be seen that the subjective valuations of any given seller in possession of a stock of goods ultimately are concerned with generating the greatest amount of money revenues through the sale of the goods. This is not to say that money measures his satisfaction in any way; it simply recognizes the fact that more money means more to him than does less money in a situation in which nonmonetary factors have already been considered. His preference concerning nonmonetary factors would have been weighed in his decision to undertake the production of the given goods. With more money he is able to acquire more of those things that yield him satisfaction.
 
@@ -387,7 +387,7 @@ Now to reduce the object of his valuations to the money obtainable from consumer
 
 These are the concerns of his subjective valuations, and his own time preference will enter into the valuation of future prices. If he places virtually no value on use value or future exchange value, as reflected by a vertical supply curve, the market price will equal that price necessary to clear the market. On the other hand, if expected prices of the future are high enough to deter current sale of all the goods at any price, as evidenced by a supply curve with upward-sloping segments, his valuation of his goods for future sales purposes is no less dependent on consumer evaluations as he anticipates them to be reflected in future money prices. And eventually, when these goods currently being held back at lower prices are offered for sale, the price willingly paid by consumers will be the determining factor. Exchange value is by definition derived from the valuations of those who are to receive the good in exchange and who willingly pay money for it.
 
-## Suggested Readings
+#### Suggested Readings
 
 Mises, Ludwig von. _Human Action: A Treatise on Economics,_ pp. 257-289 and pp. 327-397.
 
@@ -405,7 +405,7 @@ Rothbard, Murray N. _Man, Economy, and State: A Treatise on Economic Principles.
 
 We must now explain how scarce resources are allocated in the production of various consumer goods in the market economy. The generation of consumer goods, as will be shown, is a complex process in which the production of numerous goods used to make other goods, often called capital goods, plays an essential role. Production requires the creation of capital goods to be used in further production as well as the final goods designed to please the consumer. One can readily observe that in our economy the decisively preponderant form of economic activity is the production of intermediate or capital goods as opposed to final consumption goods. Nature does not bestow an abundance of goods on man in immediately consumable forms. With the exception of the air (and this exception is not everywhere applicable), there is hardly any good that nature supplies that cannot be made far more useful through the application of some productive effort. The question is not whether there should be production, but to what ends should production be directed so that the most desirable goods and services are produced.
 
-## Resource Pricing in an Evenly Rotating Economy (ERE)
+#### Resource Pricing in an Evenly Rotating Economy (ERE)
 
 In order for the owners of productive factors to be willing to contribute resources to the productive process of the market, there must be some means by which they can share in the output arising from production. Their participation is achieved through the price system. Particular units of productive factors are exchanged for specific quantities of money through supply-and-demand forces in the same way that consumer goods are bought and sold. However, there is one crucial difference between the pricing of consumer goods and productive factors: Consumer goods are evaluated directly by consumers as ends or ultimate sources of satisfaction, but consumers do not evaluate the resources used to generate the final goods. It should be clear that effective allocation of scarce resources requires a system in which specific employments are considered in terms of the relative importance of alternative results. If certain ends or consumer goods are more important than others, then resources versatile enough to serve a variety of ends should be directed to the creation of the most important ones. An explanation of the pricing of units of resources will show how this goal is accomplished.
 
@@ -431,7 +431,7 @@ This process of resource pricing would apply to factor service units, whether pu
 
 The supply curve for each productive resource in each line of use would be upward-sloping to the right, reflecting the fact that resource units, possessing a versatility of productiveness in alternative uses, would be shifted away from the given use to other uses at lower prices and would be attracted to the given use from alternative lines of employment at higher prices. The curve would probably be flatter for factors of labor than for land and capital goods factors because of the relatively greater degree of nonspecificity and flexibility in the nature of the labor resources.
 
-## Resource Supply, Entrepreneurial Activity, and Subjective Valuation
+#### Resource Supply, Entrepreneurial Activity, and Subjective Valuation
 
 The theory of subjective value must not be overlooked in the discussion of factor supply curves. The owners of the units of factor service will subjectively determine the various quantities of service units that they are willing to offer to producers for each possible price per service unit in each particular use of the factor. They will weigh subjectively the monetary and nonmonetary results of committing the various possible quantities of service units to production. For example, the laborer will consider the value of leisure as well as other nonmonetary factors like working conditions in reaching his decision about employment. Those lines of work associated with significantly favorable nonmonetary characteristics would attract a greater number of workers than those characterized by noticeably unfavorable working conditions. Higher wage rates or prices than otherwise necessary would be paid those working in the generally disliked jobs; conversely, lower wages than otherwise required would be paid to those employed in the generally favored jobs.
 
@@ -439,7 +439,7 @@ These results are consistent with the principle of declining marginal value prod
 
 In hiring or purchasing factors of production, the producer, like all other market participants, is acting on his own subjective value judgments.[^40] His willingness to invest specific amounts of money or commit himself to the investment of amounts of money obtained from others, who likewise act on personal valuations, reflects his decision that taking other actions instead would contribute less satisfaction to him than pursuing his business plan. His subjective evaluation of expected “money costs” and other forms of sacrifice, i.e., forgone alternative satisfaction, or in Buchanan’s terms, his “choice-influencing” costs, is lower than the subjective value expected to be realized from the action chosen.
 
-## The Efficiency of Resource Allocation in an ERE
+#### The Efficiency of Resource Allocation in an ERE
 
 In an advanced economy the time between the inception of virtually every consumer good and its fruition is exceedingly long. In order to obtain goods that they desire and can consume, people are able to resort ultimately to only two types of productive resources, themselves and nature. Because either the goods that come from nature are not completely accessible to humans, or the resources of nature are not always usable in their natural state, humans inject their own efforts into the natural process. This productive effort transforms and combines the gifts of nature into more satisfactory goods. All such production must take place through time; thus, the fundamental and ultimate requirements for production are nature, man, and time.
 
@@ -447,7 +447,7 @@ Humans can combine their own efforts with the gifts of nature to produce consuma
 
 The advantage of roundabout or indirect production is not confined to making it easier to acquire goods that already exist in consumable form, such as water. A far greater advantage is its capacity to produce consumer goods that otherwise could never be made available. All modern conveniences such as cars, communications devices, refrigerators, eyeglasses, and countless others would be nonexistent were their production not preceded by the creation of tools and equipment. In an advanced economy, units of these capital goods are a significant part of the factors being purchased for production purposes. In the ERE, each particular type would be priced per service unit at an amount equal to its discounted marginal value product. The price of the whole capital good would equal the capitalization of its future marginal value products.
 
-## Time Preference and Interest
+#### Time Preference and Interest
 
 Because of the time-consuming element of production, the price paid each factor unit in the ERE is its discounted marginal value product and not its full marginal value product. The principle of time-preference, which holds that people prefer present goods to future goods, underlies the requirement that future marginal value products be discounted to their present values. People who save some of their purchasing power and invest in productive undertakings thereby forgo the enjoyment of consumption goods that purchasing power could have obtained. They exchange present goods for future goods. When they purchase units of productive factors in the expectation of generating future purchasing power, i.e., future goods, they provide the former owners of these resources with a means to acquire present goods. However, since they prefer present goods over future goods, future goods are valued less in the present than are present goods, and it is this lesser value that is presently imputed to the marginal value product of each productive factor. This is why in an ERE producers would earn an interest income, the difference between the money value of consumer goods and the money value of productive resources purchased at earlier points in time.
 
@@ -463,7 +463,7 @@ Even Bohm-Bawerk, who played such a vital role in developing interest theory, co
 
 Interest is not a return peculiarly characteristic of the use of capital goods, as has often been contended. The classical association of interest only with capital goods is not tenable because interest permeates all economic activity in which present goods are furnished in exchange for future goods. Thus interest arises in consumer loans as well as producer loans. The phenomenon of interest operates as well in the price paid for land and labor whose benefits or proceeds are to be received in the future. In fact, if it were not for the element of time-preference, the prices of parcels of land would be infinite.
 
-## Suggested Readings
+#### Suggested Readings
 
 Mises, Ludwig von. _Human Action: A Treatise on Economics,_ pp. 244-56 and pp. 479-537.
 
@@ -496,7 +496,7 @@ All of this is not to say that businessmen have absolutely no sense of what futu
 
 > It is a world of change in which we live, and a world of uncertainty. We live only by knowing _something_ about the future; while the problems of life, or of conduct at least, arise from the fact that we know so little. This is as true of business as of other spheres of activity. The essence of the situation is action according to _opinion,_ of greater or less foundation and value, neither entire ignorance nor complete and perfect information, but partial knowledge.[^45]
 
-## Entrepreneurial Profits and Losses
+#### Entrepreneurial Profits and Losses
 
 Profit theory has often explained the emergence of money profits in the market economy either as a reward for taking risks or as the natural income earned by capital (as opposed to the rents of land and wages of labor) in the classical sense. Both of these analyses are incorrect. In the competitive market, all business activity is risky in the sense of being uncertain; yet not every business venture is monetarily profitable. A businessman who makes too many mistakes is not automatically rewarded with profits simply because he undertook ventures of a risky nature. Profits cannot be called simply a reward for risk-taking. The classical thesis that profits are the return peculiar to the category of capital or capital goods is an empty explanation because it fails to show just why something extra should arise from the usage of capital and not from the usage of the other factors of land and labor. At times this theory borders on a sort of normal interest theory, but it lacks the principle of time-preference and is mistaken in tying interest only to capital goods. As has been shown, the phenomenon of interest is present in all matters involving the exchange of present goods for future goods.
 
@@ -512,7 +512,7 @@ A theory of profits should also include a corollary explanation of losses. The p
 
 It should be realized that the phenomenon of entrepreneurial profits and losses continues to occur only because there are persistent changes in market conditions. This is what was meant when it was earlier stated that the concept of the evenly rotating economy provides an understanding of the goal toward which the market continuously moves but never reaches. If new changes in market data were not to constantly occur, the prices of all complementary resources would be finally set so that total money costs would equal total money revenues and there would be nothing left for profits and losses. There is an inherent tendency for profits and losses to disappear as entrepreneurs make adjustments in their plans, moving into profitable lines and away from unprofitable ones. It is the recurrence of change and discovery in market conditions that precludes the permanent and complete elimination of profits and losses.
 
-## Consumer Valuations and Productive Resources
+#### Consumer Valuations and Productive Resources
 
 It has already been shown that the subjective valuations of consumers are the principal determinant in establishing prices of consumer goods. And the vital connection between the prices of consumer goods and the prices of factors of production was demonstrated in describing the conditions of the evenly rotating economy. In the ERE the prices of resources are derived from the money value of the product created. This essential relationship between the prices of final and intermediate goods and services is no less applicable in the dynamic market economy. Just as in the ERE, entrepreneurs bid for units of resources in the real market in light of their expected marginal value product. Prices of consumer goods are not set by simply adding up the money costs of production. The value scales of consumers determine the prices of produced consumer goods, and it is these expected prices of consumer goods that provide the basis for entrepreneurial bidding for units of scarce resources that are utilized in the generation of consumer goods. The process is the same as it would be in the ERE, except that in the real world product value cannot be imputed to the means of production with certainty.
 
@@ -532,7 +532,7 @@ At any given moment capital goods are appraised exclusively from the point of vi
 
 It can then be seen that nonspecific resources like raw iron and labor can be used to produce a specialized machine whose product is no longer important to the consuming public. This means that the money value of the machine would bear no relationship to the money costs of the versatile inputs whose usefulness has been dissipated in the conversion process. In retrospect, it would have been better had the versatile resource units been devoted to more desirable conversions. But such mistakes are likely to occur in the absence of perfect knowledge of the future.
 
-## The Consequences of the Past
+#### The Consequences of the Past
 
 Although all action is oriented to the future, one must not overlook the influence of the past on production. The fact that changes in market conditions render an inconvertible capital is necessarily economically feasible to abandon the inferior good and shift to the superior one. One is certainly justified in saying that in retrospect committing resources to a form that eventually becomes inferior is economically wasteful. The entry of the asset on the owner’s books would show this economic loss. It may be, however, that the inferior machine can still be used in competition with the superior one. Whether the inferior machine should remain in use or be abandoned for the more modern one depends on how well the latter performs.
 
@@ -542,7 +542,7 @@ The complaint that things would be better if the inferior machine had never been
 
 The influence of the past has the same application to the question of advantageous and disadvantageous locations of inconvertible capital goods. Changes in market conditions can result in a plant’s location becoming less desirable than some other place of operation, but costs of relocating can prohibit a shift in spite of the desirability of the new location.
 
-## Unrestricted and Restricted Markets
+#### Unrestricted and Restricted Markets
 
 The economic analysis in this book deals primarily with a market economy in which there exist comparatively few artificial restrictions on the economic activities of its members. It is this relatively unhampered market that tends to direct resources so that, as Mises says, “No want more urgently felt should remain unsatisfied because the means suitable for its attainment were employed--wasted--for the attainment of a want less urgently felt.” The importance of the subjective valuations of producers and consumers has been emphasized already. The unhampered market recognizes the wants of every individual, regardless of his function as a buyer or seller. (Actually, each able person performs both roles in the market economy.)
 
@@ -550,7 +550,7 @@ The significant point here is that although the wants of the consumers are preem
 
 It should be clear, however, that artificial restrictions that are granted to some producers and denied to others can be and have been superimposed on the otherwise unhampered market. As a result, restrictions like monopoly rights, patents, and copyrights emerge on the market as economic factors in the same way that other resources gain economic significance. The process of monetary calculation results in the association of economic value with each factor to the extent of its expected contribution to money revenues, which means that market prices can exist for such restrictive factors as transferable franchises, patents, and copyrights. The pricing of such restrictive factors is thus no different from the pricing of resource factors that are not artificially created.[^50]
 
-## The Social Role of Profits
+#### The Social Role of Profits
 
 The objective of entrepreneurial activity in the market economy is to capitalize on opportunities to invest in factors of production at costs that are adequately lower than the revenues subsequently generated by productive activities. Those who are able to achieve this objective successfully receive money profits. The important result of profitable business operations is that resources are thereby diverted away from less desirable uses into uses that better suit the wishes of consumers. Profits, then, serve a vital social purpose. In a changing world there is always an opportunity to improve the way things are done. Improvements may take the form of more satisfying products and services or more efficient ways of generating presently preferred products and services.
 
@@ -574,7 +574,7 @@ Efficient resource utilization necessitates some means by which prospective alte
 
 It bears repeating that monetary calculation is not concerned with the measurement of value. The task of resource allocation can be accomplished if calculations afford guidance to the relative importance of various uses and products. Monetary profits and losses indicate the more desirable and the less desirable applications of units of scarce resources. Although it is prospective monetary calculation that is primary, retrospective calculations of profit and loss are important both instructionally and in guiding decisions about capital maintenance and capital consumption. The concepts of capital and income, profit and loss, revenues and costs, provide the rational basis for resource allocations in the market economy. The allocation process is thereby purposive and not haphazard.
 
-## Suggested Readings
+#### Suggested Readings
 
 Kirzner, Israel M. _Competition and Entrepreneurship._ Chicago: University of Chicago Press, 1973.
 
@@ -624,7 +624,7 @@ The evidence of recent years indicates that it is unlikely that the credit expan
 
 It is important to see that the intervening in the market by increasing the money supply sidetracks the market process from its natural tendency to coordinate the actions of various market participants. The problem of inflation, then, is not merely a problem of a deteriorating monetary unit. The problem with inflation is that it cuts at the heart of the market process, producing at best intermittent and disruptive cyclical swings and at worst the disastrous cessation of market exchange as it is known in highly industrialized societies.
 
-## Suggested Readings
+#### Suggested Readings
 
 Hayek, Friedrich A. _Monetary Theory and the Trade Cycle._ Clifton, N.J.: Kelley, 1975.
 

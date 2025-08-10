@@ -30,21 +30,21 @@ Friedrich August Hayek, Dr Jur, Dr Sc Pol (Vienna), DSc (Econ.) (London), Visiti
 
 Professor Hayek’s most important publications include _Monetary Theory and the Trade Cycle_ (1933), _The Pure Theory of Capital_ (1941), _The Road to Serfdom_ (1944), _Individualism and Economic Order_ (1948), _The Counter-Revolution of Science_ (1952), and _The Constitution of Liberty_ (1960). His latest works are col1ections of his writings under the titles _Studies in Philosophy, Politics and Economics_ (1967) and _Law, Legislation and Liberty_ (Vo1. I, 1973). He has also edited several books and has published artic1es in the _Economic Journal, Economica_ and other journals. The IEA has published his _The Confusion of Language in Political Thought_ (Occasional Paper 20, 1968), his Wincott Memoria1 Lecture, _Economic Freedom and Representative Government_ (Occasiona1 Paper 39, 1973), a collection of his writings with a new essay (assembled by Sudha Shenoy), _A Tiger by the Tail_ (Hobart Paperback 4, 1972), an essay in _Verdict on Rent Control_ (IEA Readings NO.7, 1972), and _Full Employment at Any Price?_ (Occasional Paper 45, 1975).
 
-### 1\. Money, Keynes, and History[^1]
+##### 1\. Money, Keynes, and History[^1]
 
 The chief root of our present monetary troubles is, of course, the sanction of scientific authority which Lord Keynes and his disciples have given to the age-old superstition that by increasing the aggregate of money expenditure we can lastingly ensure prosperity and full employment. It is a superstition against which economists before Keynes had struggled with some success for at least two centuries.[^2] It had governed most of earlier history. This history, indeed, has been largely a history of inflation; significantly, it was only during the rise of the prosperous modern industrial systems and during the rule of the gold standard, that over a period of about two hundred years (in Britain from about 1714 to 1914, and in the United States from about 1749 to 1939) prices were at the end about where they had been at the beginning. During this unique period of monetary stability the gold standard had imposed upon monetary authorities a discipline which prevented them from abusing their powers, as they have done at nearly all other times. Experience in other parts of the world does not seem to have been very different: I have been told that a Chinese law attempted to prohibit paper money for all times (of course, ineffectively), long before the Europeans ever invented it!
 
-#### Keynesian rehabilitation
+###### Keynesian rehabilitation
 
 It was John Maynard Keynes, a man of great intellect but limited knowledge of economic theory, who ultimately succeeded in rehabilitating a view long the preserve of cranks with whom he openly sympathised. He had attempted by a succession of new theories to justify the same, superficially persuasive, intuitive belief that had been held by many practical men before, but that will not withstand rigorous analysis of the price mechanism: just as there cannot be a uniform price for all kinds of labour, an equality of demand and supply for labour in general cannot be secured by managing _aggregate_ demand. The volume of employment depends on the correspondence of demand and supply _in each sector_ of the economy, and therefore on the wage structure and the distribution of demand between the sectors. The consequence is that over a longer period the Keynesian remedy does not cure unemployment but makes it worse.
 
 The claim of an eminent public figure and brilliant polemicist to provide a cheap and easy means of permanently preventing serious unemployment conquered public opinion and, after his death, professional opinion too. Sir John Hicks has even proposed that we call the third quarter of this century, 1950 to 1975, the age of Keynes, as the second quarter was the age of Hitler.[^3] I do not feel that the harm Keynes did is really so much as to justify _that_ description. But it is true that, so long as his prescriptions seemed to work, they operated as an orthodoxy which it appeared useless to oppose.
 
-#### Personal Confession
+###### Personal Confession
 
 I have often blamed myself for having given up the struggle after I had spent much time and energy criticising the first version of Keynes’s theoretical framework. Only after the second part of my critique had appeared did he tell me he had changed his mind and no longer believed what he had said in the _Treatise on Money_ of 1930 (somewhat unjustly towards himself, as it seems to me, since I still believe that volume II of the _Treatise_ contains some of the best work he ever did). At any rate, I felt it then to be useless to return to the charge, because he seemed so likely to change his views again. When it proved that this new version—the _General Theory_ of 1936—conquered most of the professional opinion, and when in the end even some of the colleagues I most respected supported the wholly Keynesian Bretton Woods agreement, I largely withdrew from the debate, since to proclaim my dissent from the near-unanimous views of the orthodox phalanx would merely have deprived me of a hearing on other matters about which I was more concerned at the time. (I believe, however, that, so far as some of the best British economists were concerned, their support of Bretton Woods was determined more by a misguided patriotism—the hope that it would benefit Britain in her post-war difficulties than by a belief that it would provide a satisfactory international monetary order.)
 
-### 2\. The Manufacture of Unemployment
+##### 2\. The Manufacture of Unemployment
 
 I wrote 36 years ago on the crucial point of difference:
 
@@ -54,51 +54,51 @@ To this I would now like to add, in reply to the constant deliberate misrepresen
 
 > The truth is that by a mistaken theoretical view we have been led into a precarious position in which we cannot prevent substantial unemployment from re-appearing: not because, as my view is sometimes misrepresented, this unemployment is deliberately brought about as a means to combat inflation, but because it is now bound to appear as a deeply regrettable but _inescapable_ consequence of the mistaken policies of the past as soon as inflation ceases to accelerate.[^5]
 
-#### Unemployment via ‘full employment policies’
+###### Unemployment via ‘full employment policies’
 
 This manufacture of unemployment by what are called ‘full employment policies’ is a complex process. In essence it operates by temporary changes in the distribution of demand, drawing both unemployed and already employed workers into jobs which will disappear with the end of inflation. In the periodically recurrent crises of the pre-1914 years the expansion of credit during the preceding boom served largely to finance industrial investment, and the over-development and subsequent unemployment occurred mainly in the industries producing capital equipment. In the engineered inflation of the last decades things were more complex.
 
 What will happen during a major inflation is illustrated by an observation from the early 1920s which many of my Viennese contemporaries will confirm: in the city many of the famous coffee houses were driven from the best comer sites by new bank offices and returned after the ‘stabilization crisis’, when the banks had contracted or collapsed and thousands of bank clerks swelled the ranks of the unemployed.
 
-#### The lost generation
+###### The lost generation
 
 The whole theory underlying the full employment policies has by now of course been thoroughly discredited by the experience of the last few years. In consequence the economists are also beginning to discover its fatal intellectual defects which they ought to have seen all along. Yet I fear the theory will still give us a lot of trouble: it has left us with a lost generation of economists who have learnt nothing else. One of our chief problems will be to protect our money against those economists who will continue to offer their quack remedies, the short-term effectiveness of which will continue to ensure them popularity. It will survive among blind doctrinaires who have always been convinced that they have the key to salvation.
 
-#### The 1863 penny
+###### The 1863 penny
 
 In consequence, though the rapid descent of Keynesian doctrine from intellectual respectability can be denied no longer, it still gravely threatens the chances of a sensible monetary policy. Nor have people yet fully realised how much irreparable damage it has already done, particularly in Britain, the country of its origin. The sense of financial respectability which once guided British monetary policy has rapidly disappeared. From a model to be imitated Britain has in a few years descended to be a warning example for the rest of the world. This decay was recently brought home to me by a curious incident: I found in a drawer of my desk a British penny dated 1863 which a short 12 years ago, that is, when it was exactly a hundred years old, I had received as change from a London bus conductor and had taken back to Germany to show to my students what long-run monetary stability meant. I believe they were duly impressed. But they would laugh in my face if I now mentioned Britain as an instance of monetary stability.
 
-### 3\. The Weakness of Political Control of Money
+##### 3\. The Weakness of Political Control of Money
 
 A wise man should perhaps have foreseen that less than 30 years after the nationalisation of the Bank of England the purchasing power of the pound sterling would have been reduced to less than one-quarter of what it had been at that date. As has sooner or later happened everywhere, government control of the quantity of money has once again proved fatal. I do not want to question that a very intelligent and wholly in dependent national or international monetary authority _might_ do better than an international gold standard, or any other sort of automatic system. But I see not the slightest hope that any government, or any institution subject to political pressure, will ever be able to act in such a manner.
 
-#### Group interests harmful
+###### Group interests harmful
 
 I never had much illusion in this respect, but I must confess that in the course of a long life my opinion of governments has steadily worsened: the more intelligently they try to act (as distinguished from simply following an established rule ), the more harm they seem to do—because once they are known to aim at particular goals (rather than merely maintaining a self correcting spontaneous order) the less they can avoid serving sectional interests. And the demands of all organised group interests are almost invariably harmful—except only when they protest against restrictions imposed upon them for the benefit of other group interests. I am by no means re-assured by the fact that, at least in some countries, the civil servants who run affairs are mostly intelligent, well-meaning, and honest men. The point is that, if governments are to remain in office in the prevailing political order, they have no choice but to use their powers for the benefit of particular groups—and one strong interest is always to get additional money for extra expenditure. However harmful inflation is in general seen to be, there are always substantial groups of people, including some for whose support collectivist-inclined governments primarily look, which in the short run greatly gain by it—even if only by staving off for some time the loss of an income which it is human nature to believe will be only temporary if they can tide over the emergency.
 
-#### Rebuilding the resistances to inflation
+###### Rebuilding the resistances to inflation
 
 The pressure for more and cheaper money is an ever-present political force which monetary authorities have never been able to resist, unless they were in a position credibly to point to an absolute obstacle which made it impossible for them to meet such demands. And it will become even more irresistible when these interests can appeal to an increasingly unrecognisable image of St Maynard. There will be no more urgent need than to erect new defenses against the onslaughts of popular forms of Keynesianism, that is, to replace or restore those restraints which, under the influence of his theory, have been systematic ally dismantled. It was the main function of the gold standard, of balanced budgets, of the necessity for deficit countries to contract their circulation, and of the limitation of the supply of ‘international liquidity’, to make it impossible for the monetary authorities to capitulate to the pressure for more money. And it was exactly for that reason that all these safeguards against inflation, which had made it possib le for representative governments to resist the demands of powerful pressure groups for more money, have been removed at the instigation of economists who imagined that, if governments were released from the shackle s of mechanical rules, they would be able to act wisely for the general benefit.
 
 I do not believe we can now remedy this position by _constructing_ some new international monetary order, whether a new international monetary authority or institution, or even an international agreement to adopt a particular mechanism or system of policy, such as the classical gold standard. I am fairly convinced that any attempt now to re-instate the gold standard by international agreement would break down within a short time and merely discredit the ideal of an international gold standard for even longer. Without the conviction of the public at large that certain immediately painful measures are occasionally necessary to preserve reasonable stability, we cannot hope that any authority which has power to determine the quantity of money will long resist the pressure for, or the seduction of, cheap money.
 
-#### Protecting money from politics
+###### Protecting money from politics
 
 The politician, acting on a modified Keynesian maxim that in the long run we are all out of office, does not care if his successful cure of unemployment is bound to produce more unemployment in the future. The politicians who will be blamed for it will not be those who created the inflation but those who stopped it. No worse trap could have been set for a democratic system in which the government is forced to act on the beliefs that the people think to be true. Our only hope for a stable money is indeed now to find a way to protect money from politics.
 
 With the exception only of the 200-year period of the gold standard, practically all governments of history have used their exclusive power to issue money in order to defraud and plunder the people. There is less ground than ever for hoping that, so long as the people have no choice but to use the money their government provides, governments will become more trustworthy. Under the prevailing systems of government, which are supposed to be guided by the opinion of the majority but under which in practice any sizeable group may create a ‘political necessity’ for the government by threatening to withhold the votes it needs to claim majority support, we cannot entrust dangerous instruments to it. Fortunately we need not yet fear, I hope, that governments will start a war to please some in dispensable group of supporters, but money is certainly too dangerous an instrument to leave to the fortuitous expediency of politicians—or, it seems. economists.
 
-#### A dangerous monopoly
+###### A dangerous monopoly
 
 What is so dangerous and ought to be done away with is not governments’ right to issue money but the _exclusive_ right to do so and their power to force people to use it and to accept it at a particular price. This monopoly of government, like the postal monopoly, has its origin not in any benefit it secures for the people but solely in the desire to enhance the coercive powers of government. I doubt whether it has ever done any good except to the rulers and their favorites. All history contradicts the belief that governments have given us a safer money than we would have had without their cla iming an exclusive right to issue it.
 
-### 4\. Choice of Money in Contracts
+##### 4\. Choice of Money in Contracts
 
 But why should we not let people choose freely what money they want to use? By ‘people’ I mean the individuals who ought to have the right to decide whether they want to buy or sell for francs, pounds, dollars, D-marks, or ounces of gold. I have no objection to governments issuing money, but I believe their claim to a _monopoly,_ or their power to _limit_ the kinds of money in which contracts may be concluded within their territory, or to determine the _rates_ at which monies can be exchanged, to be wholly harmful.
 
 At this moment it seems that the best thing we could wish governments to do is for, say, all the members of the European Economic Community, or, better still, all the governments of the Atlantic Community, to bind themselves mutually not to place any restrictions on the free use within their territories of one another’s—or any other—currencies, including their purchase and sale at any price the parties decide upon, or on their use as accounting units in which to keep books. This, and not a utopian European Monetary Unit, seems to me now both the practicable and the desirable arrangement to aim at. To make the scheme effective it would be important, for reasons I state later, also to provide that banks in one country be free to establish branches in any of the others.
 
-#### Government and legal tender
+###### Government and legal tender
 
 This suggestion may at first seem absurd to all brought up on the concept of ‘legal tender’. Is it not essential that the law designate one kind of money as the legal money? This is, however, true only to the extent that, _if_ the government does issue money, it must also say what must be accepted in discharge of debts incurred in that money. And it must also determine in what manner certain non-contractual legal obligations, such as taxes or liabilities for damage or torts, are to be discharged. But there is no reason whatever why people should not be free to make contracts, including ordinary purchases and sales, in any kind of money they choose, or why they should be obliged to sell against any particular kind of money.
 
@@ -106,19 +106,19 @@ There could be no more effective check against the abuse of money by the governm
 
 The first reaction of many readers may be to ask whether the effect of such a system would not according to an old rule be that the bad money would drive out the good. But this would be a misunderstanding of what is called Gresham’s Law. This indeed is one of the oldest insights into the mechanism of money, so old that 2,400 years ago Aristophanes, in one of his comedies, could say that it was with politicians as it is with coins, because the bad ones drive out the good.[^6] But the truth which apparently even today is not generally understood is that Gresham’s Law operates _only_ if the two kinds of money have to be accepted at a prescribed rate of exchange. Exactly the opposite will happen when people are free to exchange the different kinds of money at whatever rate they can agree upon. This was observed many times during the great inflations when even the most severe penalties threatened by governments could not prevent people from using other kinds of money&emdash;even commodities like cigarettes and bottles of brandy rather than the government money—which clearly meant that the good money was driving out the bad.[^7]
 
-#### Benefits of free currency system
+###### Benefits of free currency system
 
 Make it merely legal and people will be very quick indeed to refuse to use the national currency once it depreciates noticeably, and they will make their dealings in a currency they trust. Employers, in particular, would find it in their interest to offer, in collective agreements, not wages anticipating a foreseen rise of prices but wages in a currency they trusted and could make the basis of rational calculation. This would deprive government of the power to counteract excessive wage increases, and the unemployment they would cause, by depreciating their currency. It would also prevent employers from conceding such wages in the expectation that the national monetary authority would bail them out if they promised more than they could pay.
 
 There is no reason to be concerned about the effects of such an arrangement on ordinary men who know neither how to handle nor how to obtain strange kinds of money. So long as the shopkeepers knew that they could turn it instantly at the current rate of exchange into whatever money they preferred, they would be _only_ too ready to sell their wares at an appropriate price for any currency. But the malpractices of government would show themselves much more rapidly if prices rose _only_ in terms of the money issued by it, and people would soon learn to hold the government responsible for the value of the money in which they were paid. Electronic calculators, which in seconds would give the equivalent of any price in any currency at the current rate, would soon be used everywhere. But, unless the national government all too badly mismanaged the currency it issued, it would probably be continued to be used in everyday retail transactions. What would be affected mostly would be not so much the use of money in daily payments as the willingness to _hold_ different kinds of money. It would mainly be the tendency of all business and capital transactions rapidly to switch to a more reliable standard (and to base calculations and accounting on it) which would keep national monetary policy on the right path.
 
-### 5\. Long-Run Monetary Stability
+##### 5\. Long-Run Monetary Stability
 
 The upshot would probably be that the currencies of those countries trusted to pursue a responsible monetary policy would tend to displace gradually those of a less reliable character. The reputation of financial righteousness would become a jealously guarded asset of all issuers of money, since they would know that even the slightest deviation from the path of honesty would reduce the demand for their product.
 
 I do not believe there is any reason to fear that in such a competition for the most general acceptance of a currency there would arise a tendency to deflation or an increasing value of money. People will be quite as reluctant to borrow or incur debts in a currency expected to appreciate as they will hesitate to lend in a currency expected to depreciate. The convenience of use is decidedly in favour of a currency which can be expected to retain an approximately stable value. If governments and other issuers of money have to compete in inducing people to _hold_ their money, and make long-term contracts in it, they will have to create confidence in its long-run stability.
 
-#### ‘The universal prize’
+###### ‘The universal prize’
 
 Where I am not sure is whether in such a competition for reliability any government-issued currency would prevail, or whether the predominant preference would not be in favour of some such units as ounces of gold. It seems not unlikely that gold would ultimately re-assert its place as ‘the universal prize in all countries, in all cultures, in all ages’, as Jacob Bronowski has recently called it in his brilliant book on _The Ascent of Man,_[^8] if people were given complete freedom to decide what to use as their standard and general medium of exchange&emdash;more likely, at any rate, than as the result of any organized attempt to restore the gold standard.
 
@@ -126,7 +126,7 @@ The reason why, in order to be fully effective, the free international market in
 
 It would probably also impose the most effective discipline on governments if they felt immediately the effects of their policies on the attractiveness of investment in their country. I have _just_ read in an English Whig tract more than 250 years old: ‘Who would establish a Bank in an arbitrary country, or trust his money constantly there?’[^9] The tract, incidentally, tells us that yet another 50 years earlier a great French banker, Jean Baptist Tavernier, invested all the riches he had amassed in his long rambles over the world in what the authors described as ‘the barren rocks of Switzerland’; when asked why by Louis XIV, he had the courage to tell him that ‘he was willing to have something which he could call his own!’ Switzerland, apparently, laid the foundations of her prosperity earlier than most people realise.
 
-#### Free dealings in money better than monetary union
+###### Free dealings in money better than monetary union
 
 I prefer the freeing of all dealings in money to any sort of monetary union also because the latter would demand an international monetary authority which I believe is neither practicable nor even desirable -and hardly to be more trusted than a national authority. It seems to me that there is a very sound element in the widespread disinclination to confer sovereign powers, or at least powers to command, on any international authority. What we need are not international authorities possessing powers of direction, but merely international bodies (or, rather, international treaties which are effectively enforced) which can prohibit certain actions of governments that will harm other people. Effectively to prohibit all restrictions on dealings in (and the possession of) different kinds of money (or claims for money) would at last make it possible that the absence of tariffs, or other obstacles to the movement of goods and men, will secure a genuine free trade area or common market -and do more than anything else to create confidence in the countries committing themselves to it. It is now urgently needed to counter that monetary nationalism that I first criticized almost 40 years ago[^10] and which is becoming even more dangerous when, as a consequence of the close kinship between the two views, it is turning into monetary socialism. I hope it will not be too long before complete freedom to deal in any money one likes will be regarded as the essential mark of a free country.[^11]
 
@@ -170,7 +170,7 @@ F.A.H.
 
 ## Commentaries
 
-### Ivor Pearce
+##### Ivor Pearce
 
 Professor of Economics and Head of Department, University of Southampton, 1962–72
 Director of Research, Econometric Model Building Unit, University of Southampton, 1973–75
@@ -188,7 +188,7 @@ Nor is this the worst of it. Keynesian theory affords a cloak of respectability 
 
 Professor Hayek proposes that a free-market watchdog should be legalised so that good private money might drive out bad government money, if it is bad. There is room for argument whether this would prove more or less effective than, say, control by a revitalised and independent Bank of England; but there can be no dispute whatever that some kind of watchdog must be appointed, and quickly.
 
-### Harold Rose
+##### Harold Rose
 
 Esmée Fairbairn Professor of Finance, London Graduate School of Business Studies
 Economic Adviser to Barclays Bank
@@ -200,7 +200,7 @@ Put in this way, Professor Hayek’s prescription becomes less revolutionary tha
 
 Whether governments would in practice be any more ready to affirm their financial virtue by abolishing exchange control than by submitting themselves to more direct financial disciplines, such as the limitation of the money supply, is to be doubted. But Professor Hayek’s analysis is undoubtedly correct in pointing to the operation of a kind of Gresham’s Law if our inflation continues. Sooner or later the evasion of exchange control will spread; and the ordinary citizen, with no means of defending himself, will have the worst of all worlds.
 
-### Douglas Jay, PC, MP
+##### Douglas Jay, PC, MP
 
 Fellow of All Souls College, Oxford, 1930–37, 1968-
 Economic Secretary to the Treasury, 1947–50
@@ -216,7 +216,7 @@ Of course, Professor Hayek is right in saying that many governments (and banking
 
 But in thinking you can take control of the currency out of the hands of modern elected governments, and put it in the hands of some mysterious wise men meditating in some ivory tower, Professor Hayek is flying in the face of reality. The public simply will not allow control of money to be put beyond their control any more than control of laws or taxes. The only hope, even if a frail one, is to educate governments to act sensibly.
 
-### Sir Keith Josepth, BT., PC, MP
+##### Sir Keith Josepth, BT., PC, MP
 
 Fellow of All Souls College, Oxford, 1946–60, 1972-
 Secretary of State for Social Services, Dept. of Health and Social Security, 1970–74
@@ -237,25 +237,25 @@ Compiled and introduced by Sudha Shenoy
 Lecturer in Economics, University of Newcastle, New South Wales, 1973–74
 Lecturer in Economics, Cranfield School of Management, 1974
 
-### 1\. Theory
+##### 1\. Theory
 
-#### (i) Political Law or Commercial Acceptability?
+###### (i) Political Law or Commercial Acceptability?
 
-##### Professor Ludwig von Mises made the essential point in this extract: a currency is used as a medium of exchange _not_ because it is declared to be legal tender but because it is generally acceptable.
+###### Professor Ludwig von Mises made the essential point in this extract: a currency is used as a medium of exchange _not_ because it is declared to be legal tender but because it is generally acceptable.
 
 . . . The law may declare anything it likes to be a medium of payment, and this ruling will be binding on all courts and on all those who enforce the decisions of the courts. But bestowing the property of legal tender on a thing does not suffice to make it money in the economic sense. Goods can become common media of exchange only through the practice of those who take part in commercial transactions; and it is the valuations of these persons alone that determine the exchange-ratios of the market. Quite possibly, commerce may take into use those things to which the state has ascribed the power of payment; but it _need_ not do so. It may, if it likes, reject them.
 
 Three situations are possible when the state has declared an object to be a legal means of fulfilling an outstanding obligation. First, the legal means of payment may be identical with the medium of exchange that the contracting parties had in mind when entering into their agreement; or, if not identical, it may yet be of equal value with this medium at the time of payment. For example, the state may proclaim gold as a legal medium for settling obligations contracted in terms of gold, or, at a time when the relative values of gold and silver are as 1 to 15½, it may declare that liabilities in terms of gold may be settled by payment of 15½ times the quantity of silver. Such an arrangement is merely the legal formulation of the presumable intent of the agreement. It damages the interests of neither party. It is economically neutral. The case is otherwise when the state proclaims as medium of payment something that has a higher or lower value than the contractual medium. The first possibility may be disregarded; but the second, of which numerous historical examples could be cited, is important. From the legal point of view, in which the fundamental principle is the protection of vested rights, such a procedure on the part of the state can never be justified, although it might sometimes be vindicated on social or fiscal grounds. But it always means, not the fulfilment of obligations, but their complete or partial cancellation. When notes that are appraised commercially at only half their face-value are proclaimed legal tender, this amounts fundamentally to the same thing as granting debtors legal relief from half of their liabilities.
 
-##### Depreciation and commercial prudence
+###### Depreciation and commercial prudence
 
 State declarations of legal tender affect only those monetary obligations that have already been contracted. But commerce is free to choose between retaining its old medium of exchange or creating a new one for itself, and when it adopts a new medium, so far as the legal power of the contracting parties reaches, it will attempt to make it into a standard of deferred payments also, in order to deprive of its validity, at least for the future, the standard to which the state has ascribed complete powers of debt-settlement. When, during the last decade of the 19th century, the bi-metallist party in Germany gained so much power that the possibility of experiment with its inflationist proposals had to be reckoned with, gold clauses began to make their appearance in long-term contracts. The recent period of currency depreciation has had a similar effect. If the state does not wish to render all credit transactions impossible, it must recognise such devices as these and instruct the courts to acknowledge them. And, similarly, when the state itself enters into ordinary business dealings, when it buys or sells, guarantees loans or borrows, makes payments or receives them, it must recognise the common business medium of exchange as money. The legal standard, the particular group of things that are endued with the property of unlimited legal tender, is in fact valid only for the settlement of existing debts, unless business usage itself adopts it as a general medium of exchange.
 
 (Ludwig von Mises, _Theory of Money and Credit,_ Foundation for Economic Education, Irvington-on-Hudson, New York, 1971 reprint of 1953 edition, pp. 70–71.)
 
-#### (ii) Bad Money Drives out Good—Gresham’s Law or Government Price-Fixing?
+###### (ii) Bad Money Drives out Good—Gresham’s Law or Government Price-Fixing?
 
-##### Gresham’s Law is usually formulated as bad money driving good out of circulation. But this phenomenon occurs only where the government _fixes_ the exchange rate between the two currencies. As circumstances change, one currency or the other becomes over-valued or undervalued. The under-valued currency then disappears from circulation.
+###### Gresham’s Law is usually formulated as bad money driving good out of circulation. But this phenomenon occurs only where the government _fixes_ the exchange rate between the two currencies. As circumstances change, one currency or the other becomes over-valued or undervalued. The under-valued currency then disappears from circulation.
 
 Mintage has long been a prerogative of the rulers of the country. However, this government activity had originally no objective other than the stamping and certifying of weights and measures. The authority’s stamp placed upon a piece of metal was supposed to certify its weight and fineness. When later princes resorted to substituting baser and cheaper metals for a part of the precious metals while retaining the customary face and name of the coins, they did it furtively and in full awareness of the fact that they were engaged in a fraudulent attempt to cheat the public. As soon as people found out these artifices, the debased coins were dealt with at a discount as against the old better ones. The governments reacted by resorting to compulsion and coercion. They made it illegal to discriminate in trade and in the settlement of deferred payments between ‘good’ money and ‘bad’ money and decreed maximum prices in terms of ‘bad’ money. However, the result obtained was not that which the governments aimed at. Their decrees failed to stop the process which adjusted commodity prices (in terms of the debased currency) to the actual state of the money relation. Moreover, the effects appeared which Gresham’s Law describes.
 
@@ -265,41 +265,41 @@ Champions of the government’s coinage monopoly have claimed that money _is_ di
 
 ‘Bad money drives out good money’, then, _not_ on the free market, but as the direct result of governmental intervention in the market.
 
-##### Legal tender.
+###### Legal tender.
 
 . . . How was the government able to enforce its price controls on monetary exchange rates? By a device known as _legal tender laws._ Money is used for payment of past debts, as well as for present ‘cash’ transactions. _With_ the name of a country’s currency now prominent in accounting instead of _its_ actual weight, contracts began to pledge payment in certain amounts of ‘money’. _Legal tender laws_ dictated what that ‘money’ could be. When only the original gold or silver was designated ‘legal tender’, people considered _it_ harmless, but they should have realised that a dangerous precedent had been set for government control of money. If the government sticks to the original money, _its_ legal tender law is superfluous and unnecessary.[^14] On the other hand, the government may declare as legal tender a lower-quality currency side-by-side with the original. Thus, the government may decree worn coins as good as new ones in paying off debt, or silver and gold equivalent to each other in the fixed ratio. The legal tender laws then bring Gresham’s Law into being.
 
 (Murray N. Rothbard, _What Has Government Done to Our Money?,_ Rampart College, Santa Ana, California, 1974, pp. 9–10, 35.)
 
-#### (iii) The Solution
+###### (iii) The Solution
 
-##### Professor Hayek first advocated the use of alternative currencies in 1960.
+###### Professor Hayek first advocated the use of alternative currencies in 1960.
 
 Though I am convinced that modern credit banking as it has developed requires some public institutions such as the central banks, I am doubtful whether it is necessary or desirable that they (or the government) should have the _monopoly_ of the issue of all kinds of money. The state has, of course, the right to protect the name of the unit of money which it (or anybody else) issues and, if it issues ‘dollars’, to prevent anybody else from issuing tokens with the same name. And as it is its function to enforce contracts, it must be able to determine what is ‘legal tender’ for the discharge of any obligation contracted. But there seems to be no reason whatever why the state should ever prohibit the use of _other_ kinds of media of exchange, be it some commodity or money issued by another agency, _domestic or foreign._ One of the most effective measures for protecting the freedom of the individual might indeed be to have constitutions _prohibiting_ all peacetime restrictions on transactions in any kind of money or the precious metals. (Editorial italics.)
 
 (F. A. Hayek, _The Constitution of Liberty,_ University of Chicago Press, Chicago, and Routledge & Kegan Paul, London, 1960, pp.520–521.)
 
-### 2\. History
+##### 2\. History
 
-#### (i) France, 1789 . . . Assignats and Legal Tender by Penalty of Death
+###### (i) France, 1789 . . . Assignats and Legal Tender by Penalty of Death
 
-##### This extract is taken from an account of the French experience with the assignats issued after the French Revolution. As larger and larger quantities were issued, their value declined progressively — i.e. prices rose. Attempts at price control failed despite the severest penalties. Since gold and silver coins were also in circulation, the French began to reject assignats in their favour because they retained their value. Professor Andrew Dickson White here chronicles the failure of the French government to force the French to accept assignats at the same value as the metallic currencies.
+###### This extract is taken from an account of the French experience with the assignats issued after the French Revolution. As larger and larger quantities were issued, their value declined progressively — i.e. prices rose. Attempts at price control failed despite the severest penalties. Since gold and silver coins were also in circulation, the French began to reject assignats in their favour because they retained their value. Professor Andrew Dickson White here chronicles the failure of the French government to force the French to accept assignats at the same value as the metallic currencies.
 
 . . . As far back as November 1792, the Terrorist associate of Robespierre, St Just, in view of the steady rise in prices of the necessaries of life, had proposed a scheme by which these prices should be established by law, at a rate proportionate to the wages of the working classes. This plan lingered in men’s minds, taking shape in various resolutions and decrees until the whole culminated on 29 September, 1793, in the Law of the Maximum.
 
 . . . Committees of experts were appointed to study the whole subject of prices, and at last there were adopted the great ‘four rules’ which seemed to statesmen of that time a masterly solution of the whole difficulty.
 
-##### The Law of the Maximum
+###### The Law of the Maximum
 
 _First,_ the price of each article of necessity was to be fixed at one and one-third its price in 1790. _Secondly,_ all transportation was to be added at a fixed rate per league. _Thirdly,_ 5 per cent was to be added for the profit of the wholesaler. _Fourthly,_ 10 per cent was to be added for the profit of the retailer. Nothing could look more reasonable. Great was the jubilation. The report was presented and supported by Barrere — ‘the tiger monkey’ — then in all the glory of his great orations: now best known from his portrait by Macaulay. Nothing could withstand Barrere’s eloquence. He insisted that France had been suffering from a _‘Monarchical_ commerce which only sought wealth’, while what she needed and what she was now to receive was a _‘Republican_ commerce — a commerce of moderate profits and virtuous’. He exulted in the fact that ‘France alone enjoys such a commerce — that it exists in no other nation’. He poured contempt over political economy as ‘that science which quacks have corrupted, which pedants have obscured, and which academicians have depreciated’. France, he said, has something better, and he declared in conclusion, ‘The needs of the people will no longer be spied upon in order that the co mmercial classes may arbitrarily take advantage’.
 
 The first result of the Maximum was that every means was taken to evade the fixed price imposed, and the farmers brought in as little produce as they possibly could. This increased the scarcity, and the people of the large cities were put on an allowance. Tickets were issued authorising the bearer to obtain at the official prices a certain amount of bread or sugar or soap or wood or coal to cover immediate necessities.
 
-##### Price-fixing a failure
+###### Price-fixing a failure
 
 But it was found that the Maximum, with its divinely revealed four rules, could not be made to work well — even by the shrewdest devices. In the greater part of France it could not be enforced. As to merchandise of foreign origin or merchandise into which any foreign product entered, the war had raised it far above the price allowed under the first ru1e, namely, the price of 1790 with an addition of one-third. Shopkeepers therefore could not sell such goods without ruin. The result was that very many went out of business, and the remainder forced buyers to pay enormous charges under the very natural excuse that the seller risked his life in trading at all. That this excuse was valid is easily seen by the daily lists of those condemned to the guillotine, in which not infrequently figure the names of men charged with violating the Maximum laws. Manufactures were very generally crippled and frequently destroyed, and agriculture was fearfully depressed. To detect goods concealed by farmers and shopkeepers, a spy system was established with a reward to the informer of one-third of the value of the goods discovered. To spread terror, the Criminal Tribunal at Strassburg was ordered to destroy the dwelling of anyone found guilty of selling goods above the price set by law. The farmer often found that he could not raise his products at anything like the price required by the new law; and when he tried to hold back his crops or cattle, alleging that he could not afford to sell them at the prices fixed by law, they were frequently take n from him by force and he was fortunate if paid even in the depreciated fiat money fortunate, indeed, if he finally escaped with his life.
 
-##### Death for refusal of legal tender
+###### Death for refusal of legal tender
 
 Involved in all these perplexities, the Convention tried to cut the Gordian knot. It decreed that any person selling gold or silver coin, or making any difference in any transaction between paper and specie, should be imprisoned in irons for six years; that anyone who refused to accept a payment in assignats, or accepted assignats at a discount, should pay a fine of 3,000 francs; and that anyone committing this crime a second time shou1d pay a fine of 6,000 francs and suffer imprisonment 20 years in irons. Later, on 8 September, 1793, the penalty for such offences was made death, with confiscation of the criminal’s property, and a reward was offered to any person informing the authorities regarding any such criminal transaction. To reach the climax of ferocity, the Convention decreed, in May 1794, that the death penalty should be inflicted on any person convicted of ‘having asked, before a bargain was concluded, in what money payment was to be made’. Nor was this all. The great finance minister, Cambon, soon saw that the worst enemies of his policy were gold and silver. Therefore it was that, under his lead, the Convention closed the Exchange and finally, on 13 November, 1793, under terrifying penalties, suppressed all commerce in the precious metals.
 
@@ -307,29 +307,29 @@ Involved in all these perplexities, the Convention tried to cut the Gordian knot
 
 Month after month, year after year, new issues went on. Meanwhile, everything possible was done to keep up the value of paper. The city authorities of Metz took a solemn oath that the assignats should bear the same price whether in paper or specie, and whether in buying or selling, and various other official bodies throughout the nation followed this example. In obedience to those who believed with the market women of Paris, as stated in their famous petition, that ‘laws should be passed making paper money as good as gold’, Couthon, in August 1793, had proposed and carried a law punishing any person who should sell assignats at less than their nominal value with imprisonment for 20 years in chains, and later carried a law making investments in foreign countries by Frenchmen punishable with death.
 
-##### ‘Fiat’ money obeyed natural laws of finance
+###### ‘Fiat’ money obeyed natural laws of finance
 
 But to the surprise of the great majority of the French people, the value of the assignats was found, after the momentary spasm of fear had passed, not to have been permanently increased by these measures. On the contrary, this ‘fiat’ paper persisted in obeying the natural laws of finance and, as new issues increased, their value decreased.
 
 . . . The issues of paper money continued. Toward the end of 1794 seven thousand millions in assignats were in circulation. By the end of May 1795, the circulation was increased to ten thousand millions; at the end of July, to fourteen thousand millions; and the value of one hundred francs in paper fell steadily, first to four francs in gold, then to three, then to two and one-half.
 
-##### The powerless guillotine and the power of gold
+###### The powerless guillotine and the power of gold
 
 . . . Interesting is it to note in the midst of all this the steady action of another simple law in finance. Prisons, guillotines, enactments inflicting 20 years’ imprisonment in chains upon persons twice convicted of buying or selling paper money at less than its nominal value, and death upon investors in foreign securities, were powerless. The National Convention, fighting a world in arms and with an armed revolt on its own soil, showed titanic power, but in its struggle to circumvent one simple law of nature its weakness was pitiable. The _louis d’or_ stood in the market as a monitor, noting each day, with unerring fidelity, the decline in value of the assignat; a monitor not to be bribed, not to be scared. As well might the National Convention try to bribe or scare away the polarity of the mariner’s compass. On 1 August, 1795, this gold louis of 25 francs was worth in paper, 920 francs; on 1 September, 1,200 francs; on 1 November, 2,600 francs; on 1 December, 3,050 francs. In February 1796, it was worth 7,200 francs or one franc in gold was worth 288 francs in paper. Prices of all commodities went up nearly in proportion.
 
 (Andrew Dickson White, _Fiat Money: Inflation in France,_ Foundation for Economic Education, Irvington-on-Hudson, New York, 1959, pp. 75–89; first published in 1912 as revised version of 1876 lecture.)
 
-### (ii) USA, before 1857 (five foreign currencies legal tender) and after (only the dollar)
+##### (ii) USA, before 1857 (five foreign currencies legal tender) and after (only the dollar)
 
-##### The United States up to the 1850s offers an important historical instance of the use of a wide variety of currencies. Dutch, English, French, Portuguese, and Spanish coins circulated freely as legal tender. Prices were quoted in Spanish dollars. After 1834 increasing quantities of American coins were minted, and in 1857 foreign coins were declared to be legal tender no longer.
+###### The United States up to the 1850s offers an important historical instance of the use of a wide variety of currencies. Dutch, English, French, Portuguese, and Spanish coins circulated freely as legal tender. Prices were quoted in Spanish dollars. After 1834 increasing quantities of American coins were minted, and in 1857 foreign coins were declared to be legal tender no longer.
 
 (Based on Ernest L. Bogart and Donald L. Kemmerer, _An Economic History of the American People,_ Longmans Green and Co, New York, 1942, pp. 360–361; and Hermann E. Knooss, _American Economic Development,_ Prentice Hall, Englewood Cliffs, N.]., 1974, pp. 271–272.)
 
-### (iii) Germany, 1920–23
+##### (iii) Germany, 1920–23
 
-##### We now take two extracts from Professor Constantino Bresciani-Turroni’s book, _The Economics of Inflation_ , on the great German inflation of 1920–23. Together, they illustrate how foreign currencies, and a host of illegal monies, replaced the hyper-inflated paper mark, in the last stages of the inflation. These alternative currencies were replaced, in turn, by the stabilised rentenmark. Although the hyper-inflated mark was legal tender, it was eventually rejected by the Germans. Its rejection forced the government to stabilise the currency.
+###### We now take two extracts from Professor Constantino Bresciani-Turroni’s book, _The Economics of Inflation_ , on the great German inflation of 1920–23. Together, they illustrate how foreign currencies, and a host of illegal monies, replaced the hyper-inflated paper mark, in the last stages of the inflation. These alternative currencies were replaced, in turn, by the stabilised rentenmark. Although the hyper-inflated mark was legal tender, it was eventually rejected by the Germans. Its rejection forced the government to stabilise the currency.
 
-##### Professor Bresciani-Turroni here describes how substantial quantities of foreign exchange and various illegal paper currencies began to circulate in Germany towards the end of the inflation. As there were no quantitative restraints on these illegal monies, they too depreciated in value. But they continued to be accepted in preference to the mark, which was depreciating even faster. Before the issue of the stabilised rentenmark (in November 1923), emergency notes were introduced, printed with the words ‘stable value’. The phrase was fictitious, but by now the Germans were ready to accept any currency other than the hyper-inflated mark.
+###### Professor Bresciani-Turroni here describes how substantial quantities of foreign exchange and various illegal paper currencies began to circulate in Germany towards the end of the inflation. As there were no quantitative restraints on these illegal monies, they too depreciated in value. But they continued to be accepted in preference to the mark, which was depreciating even faster. Before the issue of the stabilised rentenmark (in November 1923), emergency notes were introduced, printed with the words ‘stable value’. The phrase was fictitious, but by now the Germans were ready to accept any currency other than the hyper-inflated mark.
 
 In this last phase the legal paper money was replaced by other monies (which had no legal recognition), not only as ‘a store of value’ and as ‘a standard of value’, but also as a means of payment. Little by little foreign money, or the old national metallic money (which had been hoarded), or new money created by private firms, entered the circulation. The legal money was rejected by the public. . . .
 
@@ -337,7 +337,7 @@ The replacements of the legal money by other monies in Germany developed in an i
 
 In the summer of 1923, the need for a circulating medium being at times very acute, because of the rapid fall in the total real value of paper marks, the ‘emergency monies’ (which had from time to time appeared in the circulation... regulated by the law of 17 July, 1922) were multiplied. State and local governments, industrial associations, chambers of commerce, and private traders issued great quantities of paper ‘money’. Sometimes the issues were authorised and came under certain guarantees (see the decree of 26 October, 1923), but most were illegal issues, which, thanks to the rapid depreciation of notes, yielded considerable profits to the issuers. Illegal issues were especially frequent in the occupied territories. It is said that in the autumn of 1923 there were two thousand different kinds of emergency money in circulation! The abuses which arose from these issues constitute one of the most unhappy chapters in the history of the mark.
 
-##### From the mark to the rentenmark
+###### From the mark to the rentenmark
 
 Towards mid-October 1923 it was obvious that the monetary chaos could not go on any longer without involving the entire economic system in complete catastrophe. On 13 October the law granting full powers was passed, and on 15 October the decree which instituted the ‘Rentenbank’ provided for the issue of a new money, the rentenmark, beginning from 15 November, 1923.
 
@@ -355,7 +355,7 @@ Indeed, the law of 14 August, 1923, on the Gold Loan of 500 million gold marks, 
 
 These vague words constituted the entire guarantee behind the Gold Loan! Nevertheless, the Gold Loan Bonds and the notes issued against the Gold Loan deposits did not depreciate in value. The public allowed itself to be hypnotised by the word ‘wertbeständig; (stable-value) written on the new paper money. And the public accordingly accepted and hoarded these notes (the Gold Loan Bonds almost disappeared from circulation) even whilst it rejected the old paper mark — preferring not to trade rather than receive a currency in which it had lost all faith.[^15]
 
-##### Rejection of legal tender
+###### Rejection of legal tender
 
 Together with the introduction of foreign currencies and exchange, the creation of the ‘emergency money’ (which became important in the German circulation in the autumn of 1923 — indeed, the total value of the emergency money became considerably higher than the total value of the legal tender money) was evidence of _the spontaneous reaction of the economic organism against the depreciation of the legal currency._[^16] (Editorial italics.)
 
@@ -363,17 +363,17 @@ It is impossible to show in any precise fashion the amount of foreign exchange c
 
 (C. Bresciani-Turroni, _The Economics of Inflation,_ Augustus M. Kelley, New York, 1968 reprint of 1937 edition, pp. 341–345.)
 
-##### The rentenmark was accepted only because its issue was strictly limited. It replaced _not_ the old hyper-inflated mark but all the ‘emergency monies’ issued in the last stages of the hyper-inflation as well as the foreign exchange also circulating illegally.
+###### The rentenmark was accepted only because its issue was strictly limited. It replaced _not_ the old hyper-inflated mark but all the ‘emergency monies’ issued in the last stages of the hyper-inflation as well as the foreign exchange also circulating illegally.
 
 . . . In October and in the first half of November [1923] lack of confidence in the German legal currency was such that, as Luther wrote, ‘any piece of paper, however problematical its guarantee, on which was written “constant value” was accepted more willingly than the paper mark’.
 
 . . . But on the basis of the simple fact that the new paper money [the rentenmark] had a different name from the old, the public thought it was something different from the paper mark, believed in the efficacy of the mortgage guarantee and had confidence. The new money was accepted, despite the fact it was an inconvertible paper curre ncy. It was held and not spent rapidly, as had happened in the last months with the paper mark.
 
-##### Confidence in rentenmark dependent on limited issue
+###### Confidence in rentenmark dependent on limited issue
 
 Undoubtedly this confidence, thanks to which the rentenmark could enter the channels of circulation immediately, would have been quickly dissipated if the public had been led to expect that, despite the obligation imposed on the Rentenbank by decree, the Government would exceed the pre-arranged limit to issues.[^17] An attempt to violate these obligations was made by the Government in December 1923, but it was confronted by a determined refusal by the management of the Rentenbank. The incident helped to strengthen confidence in the new money. The limitation of the quantity was then of primary and fundamental importance.
 
-##### . . . the rentenmark and the new paper marks took the place of the various auxiliary monies, legal and illegal, which had been issued in the autumn of 1923, and of foreign exchange.
+###### . . . the rentenmark and the new paper marks took the place of the various auxiliary monies, legal and illegal, which had been issued in the autumn of 1923, and of foreign exchange.
 
 In fact, from German monetary statistics it appears that the circulation of the ‘Notgeld’ and of the ‘Goldanleihe’ notes fell continually after the introduction of the rentenmark. The amount of authorised emergency money, of railway emergency money and of Gold Loan notes in circulation, which was 728 million gold marks on 31 December, 1923, was reduced to 348 millions on 31 March, 1924, and to 38 millions on 31 July following.
 
@@ -393,7 +393,7 @@ The phenomenon of the replacement of foreign exchange by German money showed its
 
 ## And A Portent...?
 
-### Currency option for foreign creditors[^19]
+##### Currency option for foreign creditors[^19]
 
 The House of Lords decided yesterday that foreign creditors should not suffer in English courts from the combination of sterling’s falling exchange rate and the ancient procedural rule that English courts can award money payments only in sterling.
 
@@ -401,7 +401,7 @@ By a majority of four to one, the Law Lords ruled that in English courts, foreig
 
 The decision is of great significance for trade, improving the prospects for foreign creditors facing the possibility of litigation in English courts. But the very breadth of issues involved led Lord Simon of Glaisdale to dissent. He held that the issue was unsuitable for judicial reform as it required a wide range of official and commercial advice.
 
-##### Fluctuations
+###### Fluctuations
 
 The Law Lords confirmed the view that world currency fluctuations called for a change which would enable the foreign creditor to get what he bargained for in his contract — a view taken for the first time by the Court of Appeal with Lord Denning presiding, in _Schorsch Meier ‘D. Hennin_ in November 1974.
 

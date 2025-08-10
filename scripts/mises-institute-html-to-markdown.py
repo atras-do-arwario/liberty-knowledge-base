@@ -1,9 +1,9 @@
-# written by Grok 3 and ChatGPT-5
+# written by Grok 4 and ChatGPT-5
 
-import re
-import os
-from bs4 import BeautifulSoup, NavigableString
 import html2text
+from bs4 import BeautifulSoup, NavigableString
+import os
+import re
 
 
 def escape_mathjax_in_text_nodes(soup):
@@ -105,6 +105,14 @@ def convert_html_to_markdown(html_content):
 
         for child in article.children:
             if child.name == 'div':
+                # Shift heading levels inside the div by the current level to add two extra levels
+                for heading in child.find_all(re.compile(r'^h[1-6]$')):
+                    num = int(heading.name[1])
+                    new_num = num + level
+                    if new_num > 6:
+                        new_num = 6
+                    heading.name = f'h{new_num}'
+
                 footnote_refs = child.find_all(
                     'a', class_='footnote__citation')
                 section_footnote_defs = {}

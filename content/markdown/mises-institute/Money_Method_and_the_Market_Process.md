@@ -14,7 +14,7 @@ September 1989
 
 ## Introduction by Richard Ebeling
 
-#### **I**
+###### **I**
 
 In the 1920s and the 1930s, Ludwig von Mises was recognized as one of the leading economic theorists on the European Continent.[^1] F. A. Hayek has said that Mises’s critique of the possibilities for economic calculation under socialism had “the most profound impression on my generation. ... To none of us ... who read [his] book [_Socialism_] when it appeared was the world ever the same again.”[^2] Lord Lionel Robbins, in introducing the Austrian School literature on money and the trade cycle to English-speaking readers in 1931, emphasized the “marvelous renaissance” the “School of Vienna” had experienced “under the leadership of ... Professor Mises.”[^3] In his comprehensive study of _German Monetary Theory_ , Howard Ellis insisted that Mises’s _Theory of Money and Credit_ was “one of the most substantial treatises upon monetary theory in the German literature” and that his personal role in bringing an end to the Austrian hyperinflation of the early 1920s made “Mises a significant figure.”[^4] Fritz Machlup pointed out that in the early 1920s, “Ludwig v. Mises was the first, so far as I know, to point to the phenomena of the consumption of capital” due to the distortion of capital accounts caused by inflation and the fiscal policies of the Austrian State.[^5] And in a study of the evolution of the theory of cost in economics, James M. Buchanan has emphasized that “Ludwig von Mises was one of the chief sources for the subjectivist economics” expounded in the 1930s at the London School of Economics and developed further, more recently, by the latest generation of the Austrian School.[^6]
 
@@ -24,7 +24,7 @@ During the 1970s, the intellectual terrain began to shift. In the wake of the di
 
 The decline of Keynesianism has brought about a new spirit of open, intellectual competition among economists the likes of which has not been seen since the early 1930s. And occupying a prominent place in this competition have been the ideas of Ludwig von Mises and the Austrian School of Economics, of which he was an illustrious member.
 
-#### **II**
+###### **II**
 
 The 1871 publication of Carl Menger’s _Grundsätze der Volkswirtschaftslehre[^7] _ marks the beginning of the Austrian School. Carl Menger is usually classified along with William Stanley Jevons and Léon Walras as one of the co-founders of the “Marginalist Economics” which replaced the Classical School and its labor theory of value. In his landmark volume, however, Menger produced a pioneering contribution to economic theory which distinguishes him uniquely from Jevons and Walras.
 
@@ -38,7 +38,7 @@ The economic analysis derived from Jevons and Walras took on a fundamentally sta
 
 The foundations laid by Menger in 1871 were developed further in the last two decades of the nineteenth century and in the first decade of the twentieth century. The two most notable contributors to this endeavor and, in fact, the ones who gave the Austrian School its world-wide recognition, were Eugen von Böhm-Bawerk and Friedrich von Wieser. Böhm-Bawerk extended Menger’s analysis to questions concerning the theory of capital and the origin and formation of interest.[^10] Wieser, appreciating Menger’s insight that marginal utility and valuation are subjective estimates by the individual decision-maker, demonstrated that cost was a subjective phenomenon as well, nothing more than the next best alternative or opportunity set aside or foregone when a choice and an exchange are made.[^11]
 
-#### **III**
+###### **III**
 
 Ludwig von Mises’s contributions to the Austrian School spanned six decades and touched upon almost every aspect of economic science. The most controversial of Mises’s writings have undoubtedly been those devoted to questions of methodology. Yet, at the same time, they are probably the most important of all his works. Indeed, what Mises attempted was the laying of a philosophical foundation for the entire edifice of economic science as it had developed from Adam Smith’s first analysis of the spontaneous market order to Carl Menger’s restatement of the principles of that spontaneous order on the basis of a conscious use of methodological individualism.[^12] ,[^13]
 
@@ -84,7 +84,7 @@ _Real_ market prices—reflecting _real_ preferences, _real_ expectations, real 
 
 We also see in Mises’s critique of interventionism the same micro-economic process analysis that is visible in his monetary studies. An intervention impinges upon the economic system at some point. The relative price and production relations of the market are disturbed, resulting in modifications in the actions of various market participants that distorts the market order. These modified actions, in turn, influence the behavior and response of still others, resulting in even further imbalances and distortions between various supplies and demands. The implication that Mises drew was that the longer-term, complex ramifications from any specific intervention can, therefore, tend to have the consequence of making worse any initial market condition that the intervention was meant to remedy. Thus, with the tools of modern economic theory, Mises was able to construct a sophisticated sequence analysis that reinforced the older arguments of the Classical Economists concerning the importance of understanding both what is seen (the initial, short-run effect of an intervention) and what is unseen (the longer-run consequences) in the implementation of economic policy.
 
-#### **IV**
+###### **IV**
 
 In the post-war years, the methodological thrust implicit in Mises’s writings was inevitably bound to conflict with the Keynesian spirit of the times. For a wide range of theoretical and policy issues, microeconomics was declared a defective analytical device. A “subjectivist” microeconomic approach such as Mises’s was certain to be rejected. Instead, for special “macro”-economic problems, different tools, it was said, needed to be forged. The search was made to discover quantitative “functional” relationships that were postulated to exist between certain economic aggregates, e.g., total investment and total employment, and total income and total consumption. The search has ended in dismal failure; it was bound to fail.
 
@@ -116,7 +116,7 @@ Such an approach, it is important to bring out, has significance for more than �
 
 The present times, however, seem to offer a chance for a change. With orthodox Keynesianism in disrepute, with a new and growing awareness and sympathy for the free market among economists and with increasing concern among the general public over the degree of government intervention in social and economic affairs, a reversal might just be possible.
 
-#### **V**
+###### **V**
 
 The present volume, by one of the leading figures of twentieth century economic thought, and touching on almost every major issue of the day, could serve as an important handbook in bringing about such a reversal in both theory and policy.
 
@@ -186,7 +186,7 @@ September 1989
 
 ### 1. Social Science and Natural Science
 
-#### I**[^42] **
+###### I**[^42] **
 
 The foundations of the modern social sciences were laid in the eighteenth century. Up to this time we find history only. Of course, the writings of the historians are full of implications which purport to be valid for all human action irrespective of time and milieu, and even when they do not explicitly set forth such theses they necessarily base their grasp of the facts and their interpretation on assumptions of this type. But no attempt was made to clarify these tacit suppositions by special analysis.
 
@@ -196,7 +196,7 @@ Then in the eighteenth century came a radical change. The founders of Political 
 
 Since the days of Cantillon, Hume, the Physiocrats and Adam Smith, economic theory has made continuous—although not steady—progress. In the course of this development it has become much more than a theory of market operations within the frame of a society based on private ownership of the means of production. It has for some time been a general theory of human action, of human choice and preference.
 
-#### II
+###### II
 
 The elements of social cognition are abstract and not reducible to any concrete images that might be apprehended by the senses. To make them easier to visualize one likes to have recourse to metaphorical language. For some time the biological metaphors were very popular. There were writers who overworked this metaphor to ridiculous extremes. It will suffice to cite the name of Lilienfeld.[^43]
 
@@ -230,7 +230,7 @@ The case is similar with the use of curves. We may represent the price of a comm
 
 The mathematical economist is prone to consider the price either as a measurement of value or as equivalent to the commodity. To this we have to say that prices are not measured in money but that they are the amount of money exchanged for a commodity. The price is not equivalent to the commodity. A purchase takes place only when the buyer values the commodity higher than the price, and the seller values it lower than the price. Nobody has the right to abstract from this fact and to assume an equivalence where there is a difference in valuation. When either one of the parties considers the price as the equivalent of the commodity no transaction takes place. In this sense we may say every transaction is for both parties a “bargain.”
 
-#### III
+###### III
 
 Physicists consider the objects of their study from without. They have no knowledge of what is going on in the interior, in the “soul,” of a falling stone. But they have the opportunity to observe the falling of the stone in experiments and thereby to discover what they call the laws of falling. From the results of such experimental knowledge they build up their theories proceeding from the special to the more general, from the concrete to the more abstract.
 
@@ -262,7 +262,7 @@ To the obvious question, how a purely logical deduction from aprioristic princip
 
 The relation between historical experience—for every economic experience is historical in the sense that it is the experience of something past—and economic theory is therefore different from that generally assumed. Economic theory is not derived from experience. It is on the contrary the indispensable tool for the grasp of economic history. Economic history can neither prove nor disprove the teachings of economic theory. It is on the contrary economic theory which makes it possible for us to conceive the economic facts of the past.
 
-#### IV
+###### IV
 
 But to orient ourselves in the world of human actions we need to do more than merely conceive the meaning of human action. Both the acting man and the purely observing historian have not only to conceive the categories of action as economic theory does; they have besides to understand (_verstehen_) the meaning of human choice.
 
@@ -276,7 +276,7 @@ It is not the task of history to reproduce the past. An attempt to do so would b
 
 The type-concepts of the historical or moral sciences (_Geisteswissenschaften_) are not statistical averages. Most of the features used for classification are not subject to numerical determination, and this alone renders it impossible to construct them as statistical averages. These type-concepts (in German one uses the term _Ideal-Typus_ in order to distinguish them from the type-concepts of other sciences, especially of the biological ones) ought not to be confused with the praxeological concepts used for the conceiving of the categories of human action. For instance: the concept “entrepreneur” is used in economic theory to signify a specific function, that is the provision for an uncertain future. In this respect everybody has to some extent to be considered as an entrepreneur. Of course, it is not the task of this classification in economic theory to distinguish men, but to distinguish functions and to explain sources of profit or loss. Entrepreneur in this sense is the personification of the function which results in profit or loss. In economic history and in dealing with current economic problems the term “entrepreneur” signifies a class of men who are engaged in business but who may in many other respects differ so much that the general term entrepreneur seems to be meaningless and is used only with a special qualification, for instance big (medium-sized, small) business, “Wall Street,” armaments business, German business, etc. The type entrepreneur as used in history and politics can never have the conceptual exactitude which the praxeological concept entrepreneur has. You never meet in life men who are nothing else than the personification of one function only.[^45]
 
-#### V
+###### V
 
 The preceding remarks justify the conclusion that there is a radical difference between the methods of the social sciences and those of the natural sciences. The social sciences owe their progress to the use of their particular methods and have to go further along the lines which the special character of their object require. They do not have to adopt the methods of the natural sciences.
 
@@ -291,7 +291,7 @@ The reformers who wish to improve the social sciences by adopting the methods of
 
 ### 2. The Treatment of "Irrationality" in the Social Sciences
 
-#### I[^46]
+###### I[^46]
 
 One of the manifestations of the present-day “revolt against reason” is the tendency to find fault with the social sciences for being purely rational. Life and reality, say the critics, are irrational; it is quite wrong to deal with them as if they were rational and open to interpretation by reasoning. Rationalism fixes its eyes upon accessory matters only; its cognition is shallow and lacks profundity; it does not penetrate to the essence of things. It is an absurdity to press into dry rational schemes and into bloodless abstractions the finite variety of life’s phenomena. What is needed is a science of irrationality and an irrational science.
 
@@ -305,7 +305,7 @@ It would be logical to provide at the outset of a study devoted to the problems 
 
 The problem which we have to investigate is this. Is it true or not that the social sciences lost the right way because they apply discursive reasoning? Do we have to look for other avenues of approach than those provided by ratiocination and historical experience?
 
-#### II
+###### II
 
 The scope of the social sciences is human action. History deals with past events, representing them from the viewpoint of various aspects. It embraces history proper, philology, ethnology; anthropology is a branch of history as far as it is not a part of biology, and psychology as far as it is neither physiology nor epistemology or philosophy. Economic history, descriptive economics, and economic statistics are, of course, history. The term sociology is used in two different meanings. Descriptive sociology deals with those historical phenomena of human action which are not viewed in descriptive economics; it overlaps to some extent the field claimed by ethnology and anthropology. General sociology, on the other hand, approaches historical experience from a more nearly universal viewpoint than that of the other historical branches. History proper, for instance, deals with an individual town or with towns in a definite period or with an individual people or with a certain geographical area. Max Weber in his main treatise deals with the town in general, i.e., with the whole historical experience concerning towns without any limitation to historical periods, geographical areas, or individual peoples, nations, races, and civilizations.[^48] The subject-matter of all historical sciences is the past, they cannot teach us anything which would be valid for all human actions, that means for the future too.
 
@@ -339,7 +339,7 @@ The motives and springs of action are without concern for the praxeological inve
 
 Yet, modern psychology has brought about some results which may arouse the interest of praxeology. It was once usual to consider the behavior of lunatics and neurotics as quite nonsensical and “irrational.” It is the great merit of Breuer and Freud that they have disproved this opinion. Neurotics and lunatics differ from those whom we call sane and normal with regard to the means which they choose for the attainment of satisfaction and with regard to the means which they apply for the attainment of these means. Their “technology” is different from that of sane people, but they do not act in a categorically different way.[^54] They aim at ends and they apply means in order to attain their ends. A mentally troubled person with whom there is still left a trace of reason and who has not been literally reduced to the mental level of an animal, is still an acting being. Whoever has the remnants of a human mind cannot escape the necessity of acting.
 
-#### III
+###### III
 
 Every human action aims at the substitution of more satisfactory conditions for less satisfactory. Man acts because he feels uneasy and believes that he has the power to relieve to some extent his uneasiness by influencing the course of events. A man perfectly content with the state of his affairs would not have any incentive to change things; he would have neither wishes nor desires, he would not act because he would be perfectly happy. Neither would a man act who, although not content with his condition, does not see any possibility of improving it.
 
@@ -347,7 +347,7 @@ Strictly speaking, only the increase of satisfaction (decrease of uneasiness) sh
 
 From this point of view we have to appreciate the statements of eudaemonism, hedonism, and utilitarianism. All the objections raised against these schools are invalid, if one attaches to the terms happiness, pain, pleasure, and utility formal meaning. Happiness and pleasure are what people consider as such; useful are things which people consider as appropriate means for the attainment of aims sought. The concept of utility as developed by modern economics means suitability to render some services which are deemed as useful from any point of view. This is the meaning of the axiological subjectivism [subjectivism in value theory] of modern economics. It is at the same time the test of its impartiality and scientific objectivity. It does not deal with the _ought_ , but with the _is_. Its subject matter is, e.g., the explanation of the formation of prices as they really are, not as they should be or would be if men were to act in a way different from what they really do.
 
-#### IV
+###### IV
 
 Praxeology does not employ the term _rational_. It deals with purposive behavior, i.e., human action. The opposite of action is not _irrational behavior_ , but a reactive response to stimuli on the part of the bodily organs and of the instincts, which cannot be controlled by volition. If we were to assign a definite meaning to the term _rationality_ as applied to behavior, we could not find another meaning than: the attitude of men intent on bringing about some effects.
 
@@ -361,7 +361,7 @@ Economics does not deal with an imaginary _homo oeconomicus_ as ineradicable fab
 
 It is the scope of history and not of praxeology to investigate what ends people aim at and what means they apply for the realization of their plans.
 
-#### V
+###### V
 
 It is a frequent mistake to assume that the desire to procure the base necessities of life and health is more rational than the striving after other amenities. It is true that the appetite for food and warmth is common to men and other mammals and that as a rule a man who lacks food and shelter concentrates his efforts upon the satisfaction of these urgent needs and does not care for other things. The impulse to live, to preserve one’s own life and to take advantage of every opportunity of strengthening one’s vital force is a primal feature of life, present in every living being. However, to yield to this impulse is not—for man—an inextricable necessity.
 
@@ -371,7 +371,7 @@ It is the same with the desire to live in affluence. The very fact of asceticism
 
 On the other hand, it is arbitrary to consider only the satisfaction of the body’s physiological needs as “natural” and therefore as “rational” and everything else as “artificial” and therefore as “irrational.” It is the characteristic feature of human nature that man seeks not only food and shelter like all other animals, but that he aims also at other kinds of satisfaction, that he has specifically human needs too. It was the fundamental error of the iron law of wages that it ignored this fact.
 
-#### VI
+###### VI
 
 The concrete judgments of value are not open to further analysis. We may assume that they are absolutely dependent upon and conditioned by their causes. But as long as we do not know how external (physical and physiological) facts produce in a human “soul” definite thoughts and volitions resulting in concrete acts, we have to face an insurmountable dualism. In the present state of our knowledge, the fundamental statements of positivism and monism are mere metaphysical postulates devoid of any scientific foundation. Reason and experience show us two separate realms: the external world of physical and physiological events and the internal world of thought, feeling, and purposeful action. No bridge connects—as far as we can see today—these two spheres. Identical external events result sometimes in different human responses, and different external events produce sometimes the same human response. We do not know why.
 
@@ -409,7 +409,7 @@ Understanding entitles the historian to determine the role played by the two pri
 
 Human knowledge can never transcend the cognition conveyed by reason and experience. If there is any “higher sense” in the course of events, it is inaccessible to the human mind.
 
-#### VII
+###### VII
 
 A school of thought teaches that there is an eternal, irreconcilable antagonism between the interests of the individual and those of the collectivity. If the individual selfishly seeks after his own happiness, society comes to grief. Social cooperation and civilization are only possible at the cost of the individual’s well-being. The existence of society and its flowering require permanent sacrifices on the part of its members. Therefore, it is unthinkable to imagine a human and purely rational origin of moral law and social cooperation. Some supernatural being has blessed mankind with the revelation of the moral code and has entrusted great leaders with the mission of enforcing this law. History is not the interplay of natural factors and purposive human activity which, within certain limits, are open to an elucidation by reason, but the result of the interference of transcendental factors, repeated again and again. History is destiny, and reason can never fathom its depths.
 
@@ -421,7 +421,7 @@ We do not have to enter into a detailed critique of the statements of the collec
 
 There is no appeal to the “irrational” in this purely rational—although not reasonable—reasoning. But even if the collectivist doctrine were correct, and people, in forsaking other advantages, aimed at the flowering of the Collective only under the persuasion or compulsion exercised on the part of the superhuman leaders, all the statements of praxeology would remain unshaken and history would not have any reason to change its methods of approach.
 
-#### VIII
+###### VIII
 
 The real reason for the popular disparagement of the social sciences is reluctance to accept the restrictions imposed by nature on human endeavors. This reluctance is potentially present in everybody and is overwhelming with the neurotic. Men feel unhappy because they cannot have two incompatible things together, because they have to pay a price for everything and can never attain full satisfaction. They blame the social sciences for demonstrating the scarcity of the factors which preserve and strengthen the vital forces and remove uneasiness. They disparage them for describing the world as it really is and not as they would like to have it, i.e., as a cosmos of unlimited opportunities. They are not judicious enough to comprehend that life is exactly an active resistance against adverse conditions and manifests itself only in this struggle, and that the notion of a life free from any limitations and restrictions is even inconceivable for a human mind. Reason is man’s foremost equipment in the biological struggle for the preservation and expansion of his existence and survival. It would not have any function and would not have developed at all in a fool’s paradise.[^62]
 
@@ -431,7 +431,7 @@ That man has to pay a price for the maintenance of social institutions enabling 
 
 If the “rational” methods of economic theory demonstrate that an _a_ results in a _p_ , no appeal to irrationality can make _a_ result in a _q_. If the theory was wrong, only a correct theory can refute it and substitute a correct solution for an incorrect one.
 
-#### IX
+###### IX
 
 The social sciences have not neglected to give full consideration to all those phenomena which people may have in mind in alluding to irrationality. History has developed a special method for dealing with them: understanding. Praxeology has built up its system in such a way that its theorems are valid for all human action without any regard to whether the ends aimed at are qualified, from whatever point of view, as rational or irrational. It is simply not true that the social sciences are guilty of having left untouched a part of the field which they have to elucidate. The suggestions for the construction of a new science whose subject matter has to be the irrational phenomena are of no account. There is no untilled soil left for such a new science.
 
@@ -461,7 +461,7 @@ Economic theory is not perfect. No human work is built for eternity. New theorem
 
 ### 3. Epistemological Relativism in the Sciences of Human Action
 
-#### I**[^63] **
+###### I**[^63] **
 
 Up to the eighteenth century, historians paid little or no attention to the epistemological problems of their craft. In dealing with the subject of their studies, they again and again referred to some regularities that—as they themselves and their public assumed—are valid for any kind of human action irrespective of the time and the geographical scene of the action as well as of the actors’ personal qualities and ideas. But they did not raise the question whether these regularities were of an extraneous character or inherent in the very nature of human action. They knew very well that man is not able to attain all that he wants to attain. But they did not ask whether the limits of a man’s power are completely described by reference to the laws of nature and to the Deity’s miraculous interference with them, on the one hand, and to the superior power of more puissant men, on the other hand.
 
@@ -479,7 +479,7 @@ In dealing with this brand of relativism, we must take into account that its pop
 
 However, the establishment of this fact must not induce us to belittle the seriousness and importance of the problems involved. Epistemological relativism as expressed in the writings of some of the historicists, e.g., Karl Knies and Max Weber, was not motivated by political zeal. These two outstanding representatives of historicism were, as far as this was humanly possible in the milieu of the German universities of their age, free from an emotional predilection in favor of interventionist policies and from chauvinistic prejudice against the foreign, i.e., British, French, and Austrian science of economics. Besides, Knies[^64] wrote a remarkable book on money and credit, and Weber[^65] gave the deathblow to the methods applied by the schools of Schmoller and Brentano[^66] by demonstrating the unscientific character of judgments of value. There were certainly in the argumentation of the champions of historical relativism points that call for an elucidation.
 
-#### II
+###### II
 
 Before entering into an analysis of the objections raised against the “absolutism” of economics, it is necessary to point out that the rejection of economics by epistemological relativism has nothing to do with the positivist rejection of the methods actually used by historians.
 
@@ -493,7 +493,7 @@ Now, of course, neither Rickert and the other authors of the group to which he b
 
 The positivist dogma that Dilthey, Windelband, Rickert, and their followers demolished was not relativistic. It postulated a science—sociology—that would derive from the treatment of the empirical data provided by history a body of knowledge that would render to the mind the same services with regard to human action that physics renders with regard to events in the sphere of nature. These German philosophers demonstrated that such a general science of action could not be elaborated by a posteriori reasoning. The idea that it could be the product of a priori reasoning did not occur to them.
 
-#### III
+###### III
 
 The deficiency of the work of the classical economists consisted in their attempt to draw a sharp line of demarcation between “purely economic activities” and all other human concerns and actions. Their great feat was the discovery that there prevails in the concatenation and sequence of market phenomena a regularity that can be compared to the regularity in the concatenation and sequence of natural events. Yet, in dealing with the market and its exchange ratios, they were baffled by their failure to solve the problem of valuation. In interpersonal exchange transactions objects are not valued according to their utility, they thought, because otherwise “iron” would be valued more highly than “gold.” They did not see that the apparent paradox was due only to the vicious way they formulated the question. Value judgments of acting men do not refer to “iron” or to “gold” as such, but always to definite quantities of each of these metals between which the actor is forced to choose because he cannot have both of them. The classical economists failed to find the law of marginal utility. This shortcoming prevented them from tracing market phenomena back to the decisions of the consumers. They could deal only with the actions of the businessmen, for whom the valuations of the consumers are merely data. The famous formula “to buy on the cheapest and to sell on the dearest market” makes sense only for the businessman. It is meaningless for the consumer.
 
@@ -507,7 +507,7 @@ The enormous quantity of antieconomic literature published in the last hundred a
 
 It is customary in German political literature to distinguish between an older and a later Historical School.[^68] As the champions of the older school, Roscher, Bruno Hildebrand, and Knies are named. The younger school consists of the followers of Schmoller who after the establishment of the Reich in 1870 held the chairs of economics at the German universities. This way of subdividing into periods the history of ideas is an outcome of the parochialism that induced German authors to slight all that was accomplished abroad. They failed to realize that the “historical” opposition against what was called the absolutism of economics was inaugurated outside of Germany. Its outstanding representative was Sismondi[^69] rather than Roscher and Hildebrand. But it is much more important to realize the fact that all those who in Germany as well as in other countries after the publication of the books of Jevons, Menger, and Walras criticized economic doctrine on account of its alleged materialism were fighting against windmills.
 
-#### IV
+###### IV
 
 Max Weber’s concept of a general science of human action—to which he applied the name sociology—no longer refers to the distinction between economic action and other activities. But Weber virtually endorsed the objections raised by historicism against economics by distinguishing between genuinely rational action, on the one hand, and other kinds of action. His doctrine is so closely connected with some untranslatable peculiarities of the German language that it is rather difficult to expound it in English.
 
@@ -521,7 +521,7 @@ Most of our contemporaries are guided by the idea that it is the worst of all cr
 
 The surgeons who accompanied the armies of ages past did their best to save the lives of the wounded warriors. But their therapeutic knowledge was pitifully inadequate. They bled the injured man whom only a transfusion of blood could have saved and thus virtually killed him. Because of their ignorance, their treatment was contrary to purpose. It would be misleading and inexpedient to call it irrational. Present-day doctors are not irrational, although probably better informed physicians of the future will qualify some of their therapeutical techniques as detrimental and contrary to purpose.
 
-#### V
+###### V
 
 Whenever the distinction between rational and irrational is applied to ultimate ends, the meaning is that the judgments of value underlying the choice of the end in question meet with approval or disapproval on the part of the speaker or writer. Now the promulgation of judgments of value is not the business of a man in his capacity as a praxeologist, economist, or historian. It is rather the task of religion, metaphysics, or ethics. History of religion is not theology, and theology is not history of religion.
 
@@ -529,7 +529,7 @@ When the distinction between rational and irrational is applied to means, the me
 
 This holds true also with regard to the way in which the terms “rational” and “irrational” are employed by psychoanalysts. They “call behavior irrational that is predominately emotional or instinctual,” and furthermore “all unconscious functions” and in this sense distinguish between “irrational (instinctual or emotional) action as opposed to rational action, and irrational as opposed to rational thinking.”[^71] Whether this terminology is expedient for the treatment of the therapeutic problems of psychoanalysis may be left to the psychoanalysts. From the praxeological point of view, the spontaneous reactions of the human body’s organs and the activity of instinctual drives are not action. On the other hand, it is manifestly the outcome of a personal judgment of value to call emotional actions—e.g., the action with which a man may react to the awareness of his fellowmen’s distress—irrational. It is further obvious that no other meaning can be ascribed to the term “irrational thinking” than that it is logically invalid thinking and leads to erroneous conclusions.
 
-#### VI
+###### VI
 
 The philosophy of historical relativism—historicism—fails to see the fact that there is something unchanging that, on the one hand, constitutes the sphere of history or historical events as distinct from the spheres of other events and, on the other hand, enables man to deal with these events, i.e., to record their succession and to try to find out their concatenation, in other words, to understand them. This unchanging phenomenon is the fact that man is not indifferent to the state of his environment (including the conditions of his own body) and that he tries, as far as it is possible for him to do so, to substitute by purposive action a state that he likes better for a state he likes less. In a word: man acts. This alone distinguishes human history from the history of changes going on outside the field of human action, from the study of “natural history” and its various subdivisions as, e.g., geology or the evolution of various species of living beings. In human history we are dealing with the ends aimed at by the actors, that is, with final causes.[^72] In natural history, as in the other branches of the natural sciences, we do not know anything about final causes.
 
@@ -543,7 +543,7 @@ The radical empiricism of the historicists went astray in ignoring this fact. No
 
 Willy nilly, people realize that there are things they cannot achieve because they are contrary to the laws of nature. But they are loath to admit that there are things that even the most powerful government cannot achieve because they are contrary to praxeological law.
 
-#### VII
+###### VII
 
 Different from the case of the historians who are loath to take cognizance of the praxeological a priori is the case of the authors who belong to the various historical, “realistic,” and institutional schools of economics. If these scholars were consistent, they would limit their studies to what is called economic history; they would deal exclusively with the past and would carefully abstain from asserting anything about the future. Prediction about events to come can be made only on the ground of knowledge of a regularity in the succession of events that is valid for every action irrespective of the time and the geographical and cultural conditions of its occurrence. Whatever economists committed to historicism or institutionalism do, whether they advise their own governments or those backward foreign countries, is self-contradictory. If there is no universal law that describes the necessary effects of definite ways of acting, nothing can be predicted and no measure to bring about any definite results can be recommended or rejected.
 
@@ -551,7 +551,7 @@ It is the same with those authors who, while rejecting the idea that there are e
 
 Another variety of the denial of economics is the trend doctrine. Its supporters blithely assume that trends of evolution as manifested in the past will go on. However, they cannot deny that in the past trends did change and that there is no reason whatever to assume that present trends will not one day change too. Thus, this becomes especially manifest when businessmen, concerned about the continuation of prevailing trends, consult economists and statisticians. The answer they get is invariably this: statistics show us that the trend you are interested in was still continuing on the day to which our most recent statistical data refer; if no disturbing factors turn up, there is no reason why the trend should change; however, we do not know anything about the question whether or not such new factors will present themselves.
 
-#### VIII
+###### VIII
 
 Epistemological relativism, the essential doctrine of historicism, must be clearly distinguished from the ethical relativism of other schools of thought. There are authors who combine praxeological relativism with ethical relativism. But there are also authors who display ethical absolutism while rejecting the concept of universally valid praxeological laws. Thus, many adepts of the Historical School of economics and of institutionalism judge the historical past from the point of view of what they consider as indisputable, never-changing moral precepts, e.g., equality of wealth and incomes. In the eyes of some of them private property is as such morally objectionable. They blame the economists for an alleged praise of material wealth and disparagement of more noble concerns. They condemn the system of private enterprise as immoral and advocate socialism on account of its presumed higher moral worth. As they see it, Soviet Russia complies better with the immutable principles of ethics than the nations of the West committed to the cult of Mammon.
 
@@ -579,7 +579,7 @@ But it is also necessary to note that the special role of money among economic g
 
 Roscher’s often quoted remark, “[that] the wrong definitions of money can be divided into two main groups: Those which think of it as more and those which think of it as less than the most saleable good,”[^77] applies not only to the question of the definition of money. Even a number of those who consider the theory of money a part of catallactics go too far in emphasizing its special position. This branch of our science offers plenty of difficulties and it is not necessary to construct artificial problems; the existing ones provide enough challenge.
 
-#### I. Monetary Services and the Value of Money
+###### I. Monetary Services and the Value of Money
 
 It is clear that the naive conception of the layman that things have value in themselves, i.e., intrinsic value, necessarily leads to a position which draws the dividing line between money and money substitutes differently from the position according to which the value of a thing is derived from its usefulness. Those who conceive of value as the result of properties inherent in things must necessarily make a distinction between physically valuable money and means of exchange which provide monetary services but are without material value. This approach inescapably leads to a contrasting of normal money with bad and abnormal money, which, in reality, is not money at all.
 
@@ -607,7 +607,7 @@ But an even cruder materialism was the view which wanted to deny monetary servic
 
 All of those who denied the ability of the services of money to determine its exchange value failed to recognize that the only decisive element is demand. The fact that there exists a demand for money—the most marketable (most saleable) good, for which the owners of other goods are prepared to exchange—means that the monetary function is capable of creating value.
 
-#### II. Money Supply and Money Demand: The “Velocity of Circulation” of Money
+###### II. Money Supply and Money Demand: The “Velocity of Circulation” of Money
 
 The most disastrous of the unjustified deviations of monetary theory from the theory of direct exchange was the failure to base the analysis of the fundamental problem of the theory of the value of money on the relation between the stock of money and the demand for it by the individual economic units, or between the demand for money and the supply of money on the market. Rather, the analysis began with the objective usefulness of the monetary unit for the aggregate economy, which was expressed as the velocity of money relative to the money stock and which was then compared to the sum of transactions.
 
@@ -623,7 +623,7 @@ The service of money is not confined to transactions. It fulfills its task not o
 
 It is an arbitrary procedure to divide the money stock into two parts: that which is designated to perform money services proper and that which serves as a money hoard. Of course, no damage will be done if, on the one hand, the demand for money is separated into a demand for hoarding and a demand to perform the monetary service proper. But a formula which portrays and solves only an arbitrarily delineated part of the problem must be rejected if we are able to show another one which will deal with and solve the whole problem in a uniform fashion.
 
-#### III. Fluctuations in the Value of Money
+###### III. Fluctuations in the Value of Money
 
 One of the most peculiar phenomena in the history of monetary theory is the stubborn resistance encountered by the quantity theory. The imperfect formulation given to it by many of its advocates inevitably ran into opposition, with many—as, for example, Benjamin Anderson[^85] —ascribing to the concept a meaning quite different from that commonly accepted. As a result, what they call the quantity theory, and oppose as such, is not the theory itself but only a variation of it. This is not particularly astonishing. But what is quite surprising is that an attempt was made and sometimes is still made today to deny that changes in the relation between money supply and money demand will modify the purchasing power of the monetary unit. It is not sufficient to base an explanation on the special interests of inflationists, statists and socialists, of civil servants and politicians who would be harmed by a spreading of knowledge concerning monetary policy. We will never arrive at an answer by following the path of the Historical-Realistic School, which (following the Marxian example) explains all ideas by ideologies. It had never been a problem to explain why a particular ideology is developed and advocated by certain classes who believe they can benefit from it directly (even if this direct advantage is more than outweighed by indirect disadvantages). What has to be explained, however, is rather how incorrect theories come about and find followers. How does it come about that many people, without justification, come to assume that a certain policy benefits either the entire society or many groups in that society?
 
@@ -633,7 +633,7 @@ As is the case with so many theories, the advocates of the quantity theory have 
 
 Nowhere has the practice of working with formulas modeled after mechanics, instead of paying attention to the problem of the influence of market factors, taken a greater toll than in this case. Economists wanted to operate with the equation of exchange without noticing that the changes in the volume of money and the demand for money can come about in only one way: at first, the evaluations and with them the actions of only a few economic subjects will be influenced, with the resulting changes in the purchasing power of the monetary unit only spreading through the economy in a step-by-step pattern. In other words, the problem of changes in the value of money have been treated with the method of “statics,” although there should never have been any doubt concerning the dynamic character of the problem.
 
-#### IV. Money Substitutes
+###### IV. Money Substitutes
 
 The most difficult and most important special problem of monetary theory is that of money substitutes. The fact that money services can also be rendered by secure money claims redeemable on demand, presents considerable difficulties to the monetary theorists’ attempt to define the supply of money and the demand for money. This difficulty could not be overcome as long as money substitutes were not clearly defined and separated into money certificates and fiduciary media, in order to treat the granting of credit through the issue of fiduciary media separately from all other types of credit.
 
@@ -641,7 +641,7 @@ Loans which do not involve the issuing of fiduciary media (i.e., bank notes or d
 
 Everything depends on the clear separation of money from money substitutes and within the category of money substitutes a distinction between money certificates (a money substitute fully backed by money) and the fiduciary medium (the money substitute not backed by money). But this is above all a question of terminological appropriateness. However, this question gains in importance in view of the difficulty and complexity of the problems. It is not—as so often is still maintained—the “granting of credit” but the issuing of fiduciary media which causes those effects on prices, wages, and interest rates, which banking theory has to deal with. It is, therefore, not inappropriate to refer to banking theory as the theory of fiduciary media.
 
-#### V. Economic Calculation and the Problem of “Value Stability”
+###### V. Economic Calculation and the Problem of “Value Stability”
 
 The old and widely accepted conception of money as a measure of price and value is out of the question for modern theory. But it was not an entirely harmless oversight of the subjective theory that it has not paid more attention to the importance of money for economic calculation, as well as the problem of economic calculation in general.
 
@@ -747,19 +747,19 @@ I do not wish to infringe more upon your time and so I wish only to add some rem
 
 ### 6. The Suitability of Methods of Ascertaining Changes in Purchasing Power for the Guidance of International Currency and Banking
 
-#### Introduction[^96]
+###### Introduction[^96]
 
 The expressions, “fluctuations in the purchasing power of gold” and “measurement of the fluctuations in the purchasing power of gold” cannot be used unless we have, at the same time, a conception of the purpose for the attainment of which it is essential to have an exact definition of these terms. They have been evolved to meet mainly practical requirements, not purely theoretical ones. Being conscious of the undesirable effects of certain changes in prices, we seek ways and means of eliminating their undesirable effects or, even better, the causes which generate them. Consequently, any study referring to these expressions must take as its starting-point a consideration of what it is we find undesirable, why we find it undesirable and what can be done with a view towards its removal without putting something more undesirable in its place.
 
-#### I. The Social Effects of Changes in the Purchasing Power of Gold
+###### I. The Social Effects of Changes in the Purchasing Power of Gold
 
 There are two distinct reasons why changes in the purchasing power of gold affect income and capital conditions. If it were not for the operation of these factors, changes in purchasing power would be a matter of no more importance, so far as social effects are concerned, than changes in the system of weights and measures or changes in the calendar. If (a) there were no deferred payments, i.e., no debts or claims expressed in terms of gold, with all money transactions being cash transactions and (b) if changes in the purchasing power of money affected the whole economic system and every particular commodity simultaneously and to the same extent, we would have no reason to concern ourselves with the effects of changes in the purchasing power of gold.
 
-### (a) Changes in Purchasing Power and Indebtedness
+###### (a) Changes in Purchasing Power and Indebtedness
 
 Changes in purchasing power affect debt contracts expressed in terms of gold due to the fact that the parties contracting such liabilities do not make allowance for changes in the purchasing power of gold. In general, the world clings to the view that gold is of “stable value,” naive as that view may be and as incapable as it may be of withstanding any exact analysis. However, even if this view was not prevalent, in the case of long-term commitments it would not be possible to adjust for changes in the purchasing power of gold; there is no means of making any sort of estimate about either the direction or the extent of future changes in purchasing power over a considerable future time-period. The case of short-term liabilities is different. If it is anticipated that the prices of commodities will rise in the course of the next few weeks or months, the rate of interest for short-term loans correspondingly rises, and it falls if it is expected that commodity prices will fall. Therefore, the problem of the effect of changes in purchasing power arises only in the case of long-term debt contracts, and not in the case of short-term liabilities.
 
-### (b) The Second Category of Consequences of Changes in Purchasing Power
+###### (b) The Second Category of Consequences of Changes in Purchasing Power
 
 English and American writers have investigated the influence of changes in purchasing power on the tenor of debt contracts with exceptional thoroughness for more than a century, at a time when this problem was almost entirely neglected on the Continent and, especially, in Germany. On the other hand, English and American writers have devoted very little attention to the second category of consequences that are caused by changes in purchasing power. As a result, the numerous projects and proposals for the elimination of the unfavorable consequences of such changes have, as a rule, been concerned exclusively with the effect on debt contracts, while leaving other effects of such changes unaccounted for.
 
@@ -771,7 +771,7 @@ Study of the social consequences of changes in purchasing power cannot be restri
 
 But it is just when we endeavor to do this that we become aware of the immense difficulties in the way. If we only consider the effect of changes of purchasing power on indebtedness we are prone to assume that all that is required is to determine an average figure for the purchasing power of money, leaving the rise of one price to be off-set by the fall of another. But this is not enough, if we take the second category of consequences of changes in purchasing power into account; for these consequences are due precisely to the fact that some prices have risen while others are still lagging behind. Therefore, if we proceed along the lines of the proposals for the stabilization of purchasing power, i.e., by correcting changes in purchasing power _after they have occurred_ in accordance with some system of index-numbers, we shall have done nothing to eliminate this particular category of social effects.
 
-#### II. Analysis of Attempts at Stabilization
+###### II. Analysis of Attempts at Stabilization
 
 Obviously, before we enter upon the task set by our topic, we must understand the object towards which these measures are to be applied.
 
@@ -793,7 +793,7 @@ If this is borne in mind, it will be realized that radical though these proposal
 
 Has anything happened to disappoint the expectations entertained some decades ago by the English and Continental adherents of the classical gold standard?
 
-#### III. Causes of the Changes in Purchasing Power the Last Few Decades
+###### III. Causes of the Changes in Purchasing Power the Last Few Decades
 
 Since the second half of the last decade of the nineteenth century, the purchasing power of gold has steadily declined. There is no need to go into what has been generally written about the extent of this change or the reasons for it. But one point must be emphasized with special insistence, because, as a rule, it has unfortunately been completely overlooked in recent discussions of the problem. I refer to the fact that the chief cause behind the fall in the purchasing power of gold during the period in question is to be found in the monetary policies of the various governments, rather than in the conditions of gold production. In their monetary policies, the various governments have consciously aimed at an “economizing” of gold, with these efforts leading to a much greater fall in the purchasing power of gold than would have been the case if endeavors had not been made to drive gold out of effective circulation. If we had gold coins in actual daily circulation everywhere in the world, as was the case some decades ago in Germany and England, and if the banks of issue of the smaller and poorer States kept their currency reserves in actual gold and not principally in gold claims on foreign countries, the depreciation of gold would either not have taken place at all, or at least not to anything like the extent to which this actually occurred between 1896 and 1920.
 
@@ -811,7 +811,7 @@ The businessmen, who want cheap money through the intervention of the banks, pay
 
 Those believing that changes in purchasing power are susceptible to exact measurement are quite consistent in demanding that banking policy should be tied to the results of these measurements in such a way that the banks should be required to make the goal of their credit policy the stability of the purchasing power of the monetary unit. Therefore, before going further, we must consider the question whether the various methods proposed for measuring fluctuations in purchasing power do, in fact, provide an instrument that can profitability be used for the purposes of economic policy.
 
-#### IV. The Various Methods of Measuring Fluctuations in Purchasing Power and Their Importance for the Problem of Stabilization
+###### IV. The Various Methods of Measuring Fluctuations in Purchasing Power and Their Importance for the Problem of Stabilization
 
 The assumption that changes in the purchasing power of money are susceptible to exact measurement is based on the belief that modifications in the exchange relationships of particular commodities and services are sufficiently taken into account when a general average is taken. It is upon this fiction that the conception of a “level” of prices is based; all that appears to be necessary is an ascertainment of whether this “level” has risen or fallen as a whole. The avowed neglect of changes taking place among the prices of particular commodities and services relative to one another has been fostered by the fact that among the effects of changes in purchasing power those mainly considered are the ones arising out of money’s function as a standard of deferred payment; the other social consequences of changes in purchasing power, caused by the fact that all commodities and services do not feel their incidence at the same time or to the same extent, have been almost completely left out of account.
 
@@ -833,7 +833,7 @@ The above arguments may appear not only as drastic and skeptical, but at first s
 
 These objections are especially weighty when the problem is considered from the international standpoint. It is astonishing that even people who are aware of the importance of the international exchange of commodities and money take the standpoint that the stability of domestic prices is more important than the stability of the international exchanges. The consequence of such proposals, if they were put into force, would be that each separate country would pursue a monetary policy based on the index system it considered best, with the result of exposing the international exchanges (the movements of which, under the gold standard, are confined within narrow limits) to abrupt and extensive fluctuations. No one can fail to see that this would introduce a major factor of instability and uncertainty into international commercial relations and, more importantly, into the conditions of international indebtedness.
 
-#### V. The Pure Gold Standard and the Gold Standard Influenced by the Banks
+###### V. The Pure Gold Standard and the Gold Standard Influenced by the Banks
 
 Before considering the function of international cooperation in the field of currency policy, something must be said about the influence of banking policy on purchasing power.
 
@@ -851,7 +851,7 @@ Consider what would happen if the banks were to perpetually continue a policy of
 
 Therefore, when it is argued in various quarters that the recent fall in prices is due to the change in the policy of the banks, it is, literally speaking, true. A closer scrutiny of the facts, however, will show that sooner or later the policy of expanding credits must come to an end and that the evil consequences for which it is responsible will be the more serious the longer it has been pursued. The evil is not in the restrictions, but in the expansionist policy which preceded them. One ultimate reason for the present drop in prices is the circumstance that the banks—with the assent of public opinion, and indeed at the direct instigation of the press, the business world, and the Governments—have made use of their power to issue additional circulation, i.e., to increase credit artificially. If the banks were to make no use of this power—which could only be the case either if the Central Banks were explicitly prohibited in their reserve-issuing privileges or if public opinion rigorously condemned the practice—we should have no economic fluctuations. We would probably have slowly falling prices, since the purchasing power of money would depend exclusively on the production of gold. But we should certainly not have the abrupt transitions from a sharp rise in prices to an equally sharp fall in prices, such as we have been through twice during the last ten years.
 
-#### VI. Attainable Reform Objectives
+###### VI. Attainable Reform Objectives
 
 From the outset any systematic policy of influencing the purchasing power of money should be kept within narrow limits, if it is not to do more harm than would result from leaving events to take their own course. To begin with, it is necessary to completely get away from the attempt, as unscientific as it is impracticable, to maintain the purchasing power of money “stable.” Furthermore, we have to rid ourselves of the notion that a decline in purchasing power is in some way better than an increase in purchasing power. Lastly, we have to realize that theories based on the idea that the rate of interest can be lowered by banking policy are wrong; all endeavors in this direction may, indeed, at first provoke an expansion of business, but in the end it can only lead to crisis and depression owing to the diversion of capital into wrong channels.
 
@@ -863,7 +863,7 @@ Any other policy followed by a single country would lead to serious conflicts be
 
 It is not the object of this memorandum to investigate the measures which should be taken for the attainment of these aims. Its objective is merely to consider which method of ascertaining changes in purchasing power is the best. The above explanatory digression was necessary in order to answer this question. We can now proceed to give a concrete reply.
 
-#### VII. The Measurement of Changes in Purchasing Power as a Standard for Currency and Banking Policy
+###### VII. The Measurement of Changes in Purchasing Power as a Standard for Currency and Banking Policy
 
 The considerations set forth above considerably restrict the functions which an instrument for the measurement of changes in purchasing power would perform. The problem is no longer that of satisfying the impossible demand for an exact standard for measuring changes in the purchasing power of money: the question is only one of forming an approximate estimate of the direction which those changes are taking. Up to the present, nearly all the proposals that have been made have been aiming at a correct standard—the one “correct” standard, the one “scientific” standard—of measurement. We must realize, however, that all we are looking for is a conventional standard, which means an arbitrarily selected standard. That is not a reproach to our proposal, since any and every standard is open to weighty objections and whatever standard _is_ decided upon, the decision must always be an arbitrary one. The justification for our proposal is simply the fact that, at the outset, we set up much narrower aims for the currency and banking policy which would be guided by our standard, as opposed to the schemes which aim at stabilization. Our policy only comes into operation when the change in purchasing power has been ascertained over a considerable period with such unquestionable certainty that no one can dispute it; it ceases to operate as soon as it has been successful in bringing purchasing power back to a point at which it is possible for doubts to arise as to whether the tendency which it is desired to combat still exists or not. Under these circumstances, there is no need to criticize particular proposals which have been made for the measurement of changes in purchasing power. Dozens of volumes have been written on the subject and the acutest economists have dealt with it. It would be altogether a mistake to attempt to add a new proposal to those which have already been made. But what must be realized is that any proposal of this kind is inevitably defective.
 
@@ -879,7 +879,7 @@ With the adoption of such a policy as has been indicated above, the problem of t
 
 ### 7. The Great German Inflation
 
-#### I[^99]
+###### I[^99]
 
 All the misfortunes from which Europe has suffered in the last two decades have been the inevitable result of the application of the theories which have dominated the social and economic philosophy of the last fifty years. Our troubles are the upshot of much laborious thought. The German inflation, above all, was the outcome of the monetary and banking theory which for many years had obsessed the men who occupied the chairs of economics at the Universities, the men who governed the financial policy of the Reich, and the editors of the most influential newspaper and periodicals.
 
@@ -899,7 +899,7 @@ It would be very interesting to show that this attitude was the necessary sequel
 
 But to trace this evolution would involve writing the entire history of the transition of the German mind from the liberal thought of Goethe, Schiller, and Humboldt to the militarist ideas of Treitschke, Schmoller, and Houston Stewart Chamberlain. It would involve writing the history of the Prussian hegemony of the nation which has been styled the nation of poets and thinkers, and the history of the Reich founded by Bismarck and lost by Wilhelm II. It is obvious that this would exceed the purpose of these lines.
 
-#### II
+###### II
 
 In these circumstances it is easy to understand that the German books dealing with the history of the Inflation Period are for the greater part of little value. They are so full of prejudices, and are often so entirely lacking in the theoretical insight which must necessarily precede all historical description that they cannot even give an adequate picture of the great historical event. For this reason this work by a learned American is all the more welcome. In his _Exchange, Prices and Production in Hyper-Inflation: Germany, 1920–1923_ , Professor F. D. Graham of Princeton University has taken great pains to provide a reliable narrative.
 
@@ -913,7 +913,7 @@ It took years for German business men to understand that the mark was no longer 
 
 As long as the inflation was working, socialist labor leaders and the socialists of the chair were all in its favor and taught that not the increase in quantity of money but the unpatriotic behavior of the profiteers was the cause of the depreciation of the Mark. After inflation was over they changed their minds. Now they accuse the “capitalists” of having of set purpose made the inflation to enrich themselves. For the German public mind every misfortune is due to the machinations of the “exploiter class.”
 
-#### III
+###### III
 
 For the economist the German inflation brought some interesting illustrations of his theoretical principles, but no experience which did not conform to them. In this instance monetary and economic theory had nothing new to learn. Of course, the German politico-economic science of the Schmoller-Knapp type had everything to learn from it. But in fact, with the exception of some of the younger men, they have declined to draw the conclusion. Unteachable as they are, they still believe in the theory which attributes changes in the value of a national currency to variations in the national balance of payments. The failure of the policy of inflation they attribute to lack of energy on the part of the government and to lack of patriotism on the part of the people.
 
@@ -973,7 +973,7 @@ To sum up, we are not entitled to say that Senior in his writings on money and m
 
 ### 9. The Disintegration of the International Division of Labor
 
-#### Introduction[^109]
+###### Introduction[^109]
 
 The international division of labor was an achievement of the spirit of Liberalism. International trade has to some extent existed from the oldest times. There was a regular commerce in some commodities the production of which was limited to special geographical conditions. There was occasional trade when some extraordinary event offered unusual opportunities. But however important the civilizatory consequences of this international traffic were and however important its amount was when compared with the technical difficulties that transport had to overcome, the role played by it in supplying the wants of the markets was negligible. A very small part only of the common man’s daily consumption was dependent on foreign produce. The commodities imported might for the most part be regarded as luxury goods, as people could do without them without suffering too great privation. At the beginning of the nineteenth century Napoleon’s continental blockade even if it had been strictly enforced would not have had any noteworthy consequences on the daily consumption of the masses in Central Europe. In those days for the ordinary man’s supply of even sugar (of course, in those days cane sugar only) and cotton were luxuries.
 
@@ -987,7 +987,7 @@ The infant industry argument played an important role both in economic writings 
 
 The infant industry argument is today a thing of the past. In the present world other arguments have to be credited with the responsibility of protectionism and its logical outcome: the aim of self-sufficiency. These arguments are: the argument of national prestige, the war argument, the wages argument, the over-population argument, and the monetary or foreign exchange argument.
 
-#### I. The Argument of National Prestige
+###### I. The Argument of National Prestige
 
 According to List,[^110] every nation has to go through different stages of economic evolution. At the highest stage the nation has not only developed agriculture but trade and industry too. Until a nation has reached this last and highest stage it cannot harmoniously evolve all its productive forces. From this philosophy all the nations of the world which were backward in industrial production inferred that not to have a modern industry and modern big scale production was a sign of inferiority. Whereas the Romantics in the industrial countries wish to bring back the bygone days of a more agricultural age, the Romantics of the agricultural countries yearn for the industrialization of their own country. They think that a nation whose wealth is based on agriculture and the production of raw materials only can never attain the level of moral and intellectual civilization peculiar to the leading nations of the Western world. They long for industry because they desire the perfections of modern culture.
 
@@ -1001,7 +1001,7 @@ In the opposite way in which the regard for population figures influenced the co
 
 Under present conditions, where migrations are reduced to a minimum and where no important country is ready to open its doors to newcomers, such considerations no longer play any role at all. We shall speak of the part played by the immigration barriers later in the essay.
 
-#### II. The War Argument
+###### II. The War Argument
 
 The foremost reason for protection and the drive towards self-sufficiency in the world today is the war motive. For the militarist countries the readiness to make war is the primary goal of their policy and war itself the regular means of attaining their objects. They therefore consider peace nothing but the time to prepare the coming war. The economic activities of the country have already in peace time been organized in such a way that they may later serve the interests of war. This scheme includes self-sufficiency for all kinds of produce necessary to a war-making nation.
 
@@ -1041,7 +1041,7 @@ It is the paradox of self-sufficiency as economic preparation for war that it we
 
 In time of peace every nation can buy all the raw materials and foodstuffs it requires and is ready to pay for. Of course, this makes the nation depend on foreign supplies and involves it in the international division of labor. But to consider this as a drawback because it renders war-making impossible is an atavistic view.
 
-#### III. The War Argument in Neutral Countries
+###### III. The War Argument in Neutral Countries
 
 There are fortunate countries which have decided to remain neutral in all wars. For such a country the war argument for self-sufficiency as advanced by the militarists is nil. They do not intend to make conquests and they wish nothing but to live in peace and to have business always undisturbed. But even if they succeed in this policy and if they continue to be a peaceful island in an ocean of blood they may suffer from the consequences of war. Typical in this respect was Switzerland’s situation during the World War. Its supply of imported foodstuffs and raw materials was at the mercy of the belligerents. But for the agreements with the belligerents the Swiss would have had neither fuel nor food and would have starved.
 
@@ -1049,7 +1049,7 @@ In such a country a policy in favor of self-sufficiency to provide for the dange
 
 The trend for self-sufficiency is in these cases too the consequence of the warlike spirit which is now infecting the world. The menace of coming wars endangers the maintenance of the international division of labor and every government, even the most peaceful and internationally minded, has to provide for the event.
 
-#### IV. The Wages Argument
+###### IV. The Wages Argument
 
 It is one of the effects of the international division of labor that it creates an interdependency of wages all over the world.
 
@@ -1075,7 +1075,7 @@ It is hopeless to try to do away with unemployment by a policy of trade barriers
 
 If a country tries to keep out the influence of the foreign labor markets from its home market it has to withdraw from the international division of labor. But then it deprives its people of all the advantages of international economic cooperation. That means that in the long run commodity wages have to go down. The policy of economic isolation is in no way the right means of improving a nation’s standard of living.
 
-#### V. The Over-Population Argument
+###### V. The Over-Population Argument
 
 The over-population argument for protection is nothing but the wages argument as seen from the point of view of the over-populated countries. In these countries wages are low and there is under the present conditions of migration barriers no hope of making the wages higher by emigration.
 
@@ -1087,7 +1087,7 @@ The recriminations of the over-populated countries against the more fortunate co
 
 In this case, too, protection and self-sufficiency are remedies that only increase the evil.
 
-#### VI. The Monetary or Foreign Exchange Argument
+###### VI. The Monetary or Foreign Exchange Argument
 
 The monetary or foreign exchange argument in favor of protection differs from most other arguments in that it is purely economic. Unfortunately, it is like the other arguments a fallacious one.
 
@@ -1119,7 +1119,7 @@ In an economic system based on barter and direct exchange between two parties on
 
 The gold standard was and is still the best and even the only practical solution to an international organization of triangular trade. That it no longer works is not due to inherent defects or to a change in the conditions it presupposes. It is simply the consequence of the fact that governments no longer wish to let its mechanism work. They combat the international division of labor and they therefore intend to destroy the most important tool of international trade. It is not the breakdown of the gold standard, and it is not the unsatisfactory state of the world’s monetary system which necessitate a policy of trade restrictions for monetary reasons. On the contrary. The gold standard and the world’s monetary system collapsed because the governments destroyed them purposely for the sake of doing away with international trade.
 
-#### VII. Protection from the Point of View of Home Policy
+###### VII. Protection from the Point of View of Home Policy
 
 The nations went in for protection because they believed that in trade the national interests were in conflict with the interests of other nations and that it was therefore necessary to protect the home market against foreign commodities. But even if these erroneous considerations of national interests as contrasted with the international point of view had not worked, considerations of home policy only would have brought about the same effect.
 
@@ -1131,7 +1131,7 @@ It seems to our contemporaries justified that our fellow citizens who find it di
 
 But it would be too simple an explanation to say that at the bottom of protection is the selfishness of particular interests as contrasted with the general interest. These particular interests are always the interests of minority groups. The producers—both entrepreneurs and workers—of every single commodity are always a minority if compared with the bulk of the consumers. They succeed in getting their particular interests protected against the greater interest of the majority only because they are supported by public opinion, which considers such protection as beneficial for the nation. A hundred years ago the coachmen and the postilions did not find protection against the overwhelming competition of the steam-engine and the railway, because in those days the Liberal spirit was opposed to privilege which benefited a small group to the disadvantage of the public. Today, the claim of the railways for safeguard against the motor-car seems justified to the legislator. Today every particular interest is sure to find support in public opinion. It is this attitude of public opinion which is responsible for the privileges and not the desire of those who wish to enjoy a privilege. Seen from the point of view of home policy, protection is but a category of measures in the system of government interference.
 
-#### VIII. The International Conflict of Economic Interests
+###### VIII. The International Conflict of Economic Interests
 
 In our world of migration barriers there are very grave conflicts of economic interests between nations. In restricting immigration figures some nations succeed in making wages for their citizens higher, but only at the expense of the citizens of other nations. The international clash of economic interests is due to this fact. There are no serious conflicts about raw materials or colonies in a world of peace and peaceful trade, where everybody has the right to buy on the same terms as everybody else. But there is a conflict when the citizens of some countries of Europe and Asia are prevented from moving to the countries where they may earn more than in their own country. The high standard of living in the United States and in the British Dominions has its corollary in the low standard of living in Eastern, Central and Southern Europe, in India, China, and Japan.
 
@@ -1153,7 +1153,7 @@ But neither is war a solution for the present conflicts. Given the geographical 
 
 It would be ostrich policy to deny the existence of very grave conflicts between the nations of our world. But we have to realize that neither war nor protectionism and self-sufficiency can provide a solution for the problems involved.
 
-#### Conclusion
+###### Conclusion
 
 Liberalism is a philosophy of peace and international cooperation. It is the basic point of its social and economic theory that, rightly conceived, the interests of all individuals and of all nations are harmonious in a society of private ownership and free trade. For the Liberal democracy and peace are the outcome of his ideas on life, work, and human cooperation.
 
@@ -1176,7 +1176,7 @@ What the world needs is not more conferences and conventions but a radical chang
 
 ### 10. Autarky and Its Consequences
 
-#### I. Terminological Remarks[^115]
+###### I. Terminological Remarks[^115]
 
 There is considerable ambiguity concerning the terminology to be used in dealing with the problems of international economic relations. It seems therefore expedient to start with a clear definition of some terms.
 
@@ -1200,7 +1200,7 @@ The noble-minded founders of the League of Nations were guided by this type of p
 
 _Autarky_ or _economic self-sufficiency_ is a state of affairs where there is no foreign trade at all; every nation consumes only goods produced within its own borders. No contemporary nation is ready to admit openly that it strives toward autarky. But as every nation is anxious to restrict imports and as exports must needs fall concomitantly, we can characterize the economic policies of the last decade preceding the present war as autarkic.
 
-#### II. The Rise of Modern Protectionism
+###### II. The Rise of Modern Protectionism
 
 In the ’sixties of the nineteenth century, public opinion was almost unanimous in the assumption that the world was on the eve of an age of everlasting free trade and peace. True, there was only one big nation which had unconditionally espoused the principle of free trade: Great Britain. But there seemed to prevail a general tendency all over Europe toward a step-by-step abolition of trade barriers. Every new commercial treaty between civilized and politically advanced nations brought a reduction in tariffs and included the most favored nation clause. The teachings of Ricardo and John Stuart Mill, of Cobden and Bastiat, met with general approval. People were optimistic enough to expect that trade barriers and war were doomed to disappear with other remnants of the dark ages like despotism, intolerance, slavery and serfdom, superstition, and torture.
 
@@ -1212,7 +1212,7 @@ There were, on the other hand, the former colonies, the countries peopled by the
 
 The optimists were entirely wrong. The protectionist nations did not abandon protection, but raised their tariffs; furthermore, the free trade countries themselves turned toward protection. Great Britain and Switzerland, once the champions of free trade, are today fanatically devoted to the most radical methods of economic nationalism.
 
-#### III. Remarks on the Theory of Foreign Trade
+###### III. Remarks on the Theory of Foreign Trade
 
 The return to protectionism, the progressive aggravation of trade restrictions through the multiplication of import duties and through the application of new methods for prevention of imports, and the evolution of the tariff system into a system under which all kinds of commercial transactions with foreigners (even tourism, the consultation of foreign doctors and education at foreign schools) require a special license on the part of the authorities—all these are not the outcome of a change in the theory of foreign trade. The desperate attempts of the advocates of protection to refute the statements of the classical economists concerning the consequences of free trade and protection failed lamentably. All they could demonstrate was that under special conditions the interests of some groups of the population can derive temporary benefits from protection. But the economists have never denied this. What they asserted was:
 
@@ -1234,7 +1234,7 @@ In a world of immobility of men some countries are comparatively overpopulated, 
 
 Ricardo has demonstrated what the consequences of free trade in such a world are. His law of comparative cost has never been disproved. Even if all other countries cling to protection, every nation best serves its own interests by free trade.
 
-#### IV. Big Business and Protection
+###### IV. Big Business and Protection
 
 For the self-styled “progressives” big business is the scape-goat for all evils. The selfish class interests of the capitalists and entrepreneurs, they say, have pushed the nations toward hyper-protectionism. Modern nationalism is but the ideological disguise of the class interests of the exploiters.
 
@@ -1258,7 +1258,7 @@ The comparatively high state of market real wage rates, i.e., wage rates as they
 
 Money wage rates may drop. But they would drop less than the prices of consumers’ goods, now artificially raised by protection.
 
-#### V. Protection and Defense
+###### V. Protection and Defense
 
 It has been asserted that the nations strive after autarky because they are warlike and want to be independent of foreign supply.
 
@@ -1268,7 +1268,7 @@ Moreover, economic nationalism is not a phenomenon peculiar to aggressive nation
 
 It may be reasonable to explain the protection (operated by a government wheat monopoly) which Switzerland grants to its domestic wheat production as a defense measure. But it is impossible to apply the same explanation to the Swiss import restrictions upon china, glassware, and silver plates. The country applies the quota system to passenger cars although there is no domestic production and no hope that such a production could be bolstered up!
 
-#### VI. Protection and Government Control of Business
+###### VI. Protection and Government Control of Business
 
 A nation’s policy forms an integral whole. Foreign policy and domestic policy are closely linked together, they are but one system. Economic nationalism is the corollary of the present-day domestic policies of government interference with business and of national planning as free trade was the complement of domestic economic freedom. There can be protectionism in a country with domestic free trade, but where there is no domestic free trade, protectionism is indispensable. A national government’s might is limited to the territory subject to its sovereignty. It does not have the power to interfere directly with conditions abroad. Where there is free trade, foreign competition would in the short run already frustrate the aims sought by the various measures of government intervention with domestic business. When the domestic market is not to some extent insulated from the foreign markets, there can be no question of government control. The farther a nation goes on the way toward public regulation and regimentation, the more it is pushed toward economic isolation.
 
@@ -1294,7 +1294,7 @@ We have to realize that even protectionism cannot make government interference w
 
 Economic nationalism is the necessary complement of the endeavors to interfere with domestic business conditions.
 
-#### VII. Protectionism on the Part of Creditor Nations
+###### VII. Protectionism on the Part of Creditor Nations
 
 The tariff barriers against imports are especially nonsensical when erected by creditor nations. If the debtor nations in accordance with the terms stipulated pay interest and repay the principal of the debts and if they do not hinder the foreign investors taking out the business profits earned, their balance of trade must show an excess over imports, i.e., become favorable. Concomitantly the balance of trade of the creditor nations becomes unfavorable. The terms “favorable” and “unfavorable” are, of course, misleading. It is not unfavorable to be a rich nation and to receive large payments of interest, dividends, and profits from abroad. Great Britain was in the past century the world’s richest nation, not although, but because it had a very “unfavorable” balance of trade.
 
@@ -1306,7 +1306,7 @@ The policy of the creditor nations was especially paradoxical in the case of the
 
 The same holds true with regard to the inter-Allied debts.
 
-#### VIII. Totalitarianism and Autarky
+###### VIII. Totalitarianism and Autarky
 
 Ferdinand Lassalle, the founder of the German Social Democrat Party and the eloquent champion of government control of business, is credited with the dictum: “The State is God.” Eminent scholars, for instance Ambassador Carlton Hayes, call nationalism a new religion, the creed of our day.
 
@@ -1320,7 +1320,7 @@ Protectionism and autarky mean discrimination against foreign labor and capital.
 
 There are nations which for lack of adequate resources cannot feed and clothe their population out of domestic resources. These nations cannot aim at autarky, but by embarking upon a policy of conquest. With them bellicosity and lust of aggression are the outcome of their adherence to the principles of government control of business. This was the case with Germany, Italy, and Japan. They said that they wanted to get a fair share of the earth’s resources, thus they aimed at a new distribution of the areas producing raw materials. But these other countries were not empty; their inhabitants were not prepared to consider themselves as an appurtenance of their mines and plantations. They did not long for German or Italian rule. Thus there originated conflicts.
 
-#### IX. Sovereignty in the Present World
+###### IX. Sovereignty in the Present World
 
 The principle of national sovereignty does not stand in the way of international division of labor and of peaceful collaboration of all nations within the framework of the world-embracing Great Society, provided that every nation unswervingly clings to the policies of democracy and capitalism. In the socio-economic setting of market society (laissez faire, laissez passer) the state is not an omnipotent God, but—as Lassalle used to say disparagingly—just a “night-watchman.” The state is not an end, much less the only and supreme end, but simply a means for the promotion of the citizens’ welfare. The acknowledgment of the indispensableness of private ownership of the means of production and of unhampered market exchange restricts the exercise of sovereignty. Although formally free in the exercise of their powers, the individual governments are subject to the supremacy of a principle which prevents the rise of international conflicts.
 
@@ -1336,7 +1336,7 @@ Protectionism and autarky result in a state of affairs in which a country’s re
 
 A country’s economic insulation impairs not only the material well-being of its own citizens. It is no less detrimental to the economic interests of foreigners. This is why, in the middle of the past century, Great Britain and France induced China to open its harbors and why the United States applied a similar policy with regard to Japan.
 
-#### X. The United States and World Affairs
+###### X. The United States and World Affairs
 
 Not only economic isolation, political isolation too is unfeasible in the present world.
 
@@ -1458,7 +1458,7 @@ But be this as it may, the main issue is that the governments of the world’s t
 
 ### 12. The Plight of the Underdeveloped Nations
 
-#### I.[^127]
+###### I.[^127]
 
 Foreign investment was an achievement of laissez-faire capitalism. It developed step by step only in the nineteenth century. Writing in 1817, Ricardo could still assert that most men of property are “satisfied with a low rate of profits in their own country, rather that seek a more advantageous employment for their wealth in foreign nations.”[^128]
 
@@ -1478,7 +1478,7 @@ If the foreign government resorts to the _ultima ratio regum_ , to military inte
 
 The pundits of international law and the lawyers of the United Nations will certainly write very profound reports and treatises about the legal aspect of the Anglo-Iranian conflict. Such utterances are not worth the paper on which they are printed. The simple truth is that if the government of Iran does not of its own accord change its mind because it may expect some immediate political and material gain from such a change, nothing can prevent it from expropriating the oil industry. For it is obvious that Great Britain cannot win anything by military measures. Even in the unlikely event of a British success, the British would discover that bayonets are very uncomfortable to sit upon in a business office. Besides there is the spectre of a Russian occupation of the greater part of Iran and the still more threatening danger of a new world war.
 
-#### II.
+###### II.
 
 The immediate consequences of the Iranian oil expropriation are very sad indeed. It seriously affects the military plans of the Western powers and revolutionizes conditions on the world oil market.
 
@@ -1486,7 +1486,7 @@ Still more important are the remoter consequences of the affair. Foreign investm
 
 The American Administration recommends as an adequate substitute for private investment abroad public investment and loans either granted directly by the governmental (national or international) banks or guaranteed by such banks. The idea is that the governments, first of all the American government, should fill the gap that the anti-capitalistic policies of the underdeveloped countries have willfully created. But the example of Iran shows that such governmental investments and loans are also not safe against predatory ventures. Why should the American government pump American funds into Ruritania if the Ruritanian parliament is free to deal with them as it pleases? Are there no investment opportunities left within the United States? It is rather unrealistic to assume that Congress will continue to tolerate a policy that subsidizes foreign countries at the expense of the American taxpayer. There is no use in fooling ourselves. The hopes that the much talked about Point Four[^130] may work as a satisfactory substitute for the disintegrated international capital market have proved fallacious.
 
-#### III.
+###### III.
 
 It is this disintegration of the international capital market that creates the plight of the underdeveloped countries.
 
@@ -1527,7 +1527,7 @@ In no other way can the United States contribute to the improvement of the econo
 
 ### 13. Capitalism versus Socialism
 
-#### **I.**[^131]
+###### **I.**[^131]
 
 Most of our contemporaries are highly critical of what they call “the unequal distribution of wealth.” As they see it, justice would require a state of affairs under which nobody enjoys what are to be considered superfluous luxuries as long as other people lack things necessary for the preservation of life, health, and cheerfulness. The ideal condition of mankind, they pretend, would be an equal distribution of all consumers’ goods available. As the most practical method to achieve this end, they advocate the radical expropriation of all material factors of production and the conduct of all production activities by society, that is to say, by the social apparatus of coercion and compulsion, commonly called government or state.
 
@@ -1557,7 +1557,7 @@ Such is the alternative. Mankind has to choose: on the one side—private proper
 
 If one does not permit individuals to keep as their property the things produced for temporally deferred utilization, one removes any incentive to create such things and thus makes it impossible for acting man to raise his condition above the level of non-human animals. Thus the anti-property (i.e., socialist or communist) authors had to construct the design of a society in which all men are forced to obey unconditionally the orders issued from a central authority, from the great god called state, society, or mankind.
 
-#### II.
+###### II.
 
 The social meaning and the economic function of private property have been widely misunderstood and misinterpreted because people confuse conditions of the market economy with those of the militaristic systems vaguely labeled feudalism. The feudal lord was a conqueror or a conqueror’s accomplice. He was anxious to deprive all those who did not belong to his own cluster of any opportunity to make a living otherwise than by humbly serving him or one of his class comrades. All the land—and this means in a primitive society virtually all the material factors of production—was owned by members of the proprietary caste and to the others, to those disdainfully called the “villains,” nothing was left but unconditional surrender to the armed hereditary nobility. Those not belonging to this aristocracy were serfs or slaves, they had to obey and to drudge while the products of their toil were consumed by their masters.
 
@@ -1579,7 +1579,7 @@ The characteristic feature of capitalism is the traders’ unconditional depende
 
 The market is the prototype of what are called democratic institutions. Supreme power is vested in the buyers, and vendors succeed only by satisfying in the best possible way the wants of the buyers. Private ownership of the factors of production forces the owners—enterprisers—to serve the consumers. Eminent economists have called the market a democracy in which every penny gives a right to vote.
 
-#### III.
+###### III.
 
 Both the political or constitutional democracy and the economic or market democracy are administered according to the decisions of the majority. The consumers, by their buying or abstention from buying, are as supreme in the market as the citizens through their voting in plebiscites or in the election of officers are supreme in the conduct of the affairs of state. Representative government and the market economy are the product of the same evolutionary process, they condition one another, and it would seem today that they are disappearing together in the great reactionary counter-revolution of our age.
 
@@ -1601,7 +1601,7 @@ Let us look upon one special case. In the precapitalistic ages, saving and there
 
 But unfortunately the policies of practically all nations sabotage this evolution in the most disgraceful manner. The governments of the United States, Great Britain, France, and Germany, not to speak of most of the smaller nations, were or are still committed to the most radical inflationist policies. While continually talking about their solicitude for the common man, they have without shame, again and again through government-made inflation, robbed the people who have taken out insurance policies, who are working under pension plans, who own bonds or savings deposits.
 
-#### IV.
+###### IV.
 
 The authors who in Western Europe at the end of the eighteenth century and in the first decades of the nineteenth century developed plans for the establishment of socialism were not familiar with the social ideas and conditions in Central Europe. They did not pay any attention to the _Wohlfahrtsstaat_ , the welfare-state of the German monarchical governments of the eighteenth century. Neither did they read the classical book of German socialism, Fichte’s _Geschlossener Handelsstaat_ , published in the year 1800. When much later—in the last decades of the nineteenth century—the nations of the West, first among them England, embarked upon the Fabian methods of a temperate progress toward socialism, they did not raise the question why continental governments whom they despised as backward and absolutist had long before already adopted the allegedly new and progressive principles of social reform.
 
@@ -1640,7 +1640,7 @@ Socialism started in the age of Saint-Simon as an attempt to give articulation t
 
 ### 14. On Equality and Inequality
 
-#### I.[^139]
+###### I.[^139]
 
 The doctrine of natural law that inspired the eighteenth century declarations of the rights of man did not imply the obviously fallacious proposition that all men are biologically equal. It proclaimed that all men are born equal in rights and that this equality cannot be abrogated by any man-made law, that it is inalienable or, more precisely, imprescriptible. Only the deadly foes of individual liberty and self-determination, the champions of totalitarianism, interpreted the principle of equality before the law as derived from an alleged psychical and physiological equality of all men. The French declaration of the rights of the man and the citizen of November 3, 1789, had pronounced that all men are born and remain equal in rights. But, on the eve of the inauguration of the regime of terror, the new declaration that preceded the Constitution of June 24, 1793, proclaimed that all men are equal “ _par la nature_.” From then on this thesis, although manifestly contradicting biological experience, remained one of the dogmas of “leftism.” Thus we read in the _Encyclopaedia of the Social Sciences_ that “at birth human infants, regardless of their heredity, are as equal as Fords.”[^140]
 
@@ -1658,7 +1658,7 @@ It is hardly possible to misconstrue more thoroughly the state of affairs prevai
 
 What has multiplied the “productivity of labor” is not some degree of effort on the part of manual workers, but the accumulation of capital by the savers and its reasonable employment by the entrepreneurs. Technological inventions would have remained useless trivia if the capital required for their utilization had not been previously accumulated by thrift. Man could not survive as a human being without manual labor. However, what elevates him above the beasts is not manual labor and the performance of routine jobs, but speculation, foresight that provides for the needs of the—always uncertain—future. The characteristic mark of production is that it is behavior directed by the mind. This fact cannot be conjured away by a semantics for which the word “labor” signifies only manual labor.
 
-#### II.
+###### II.
 
 To acquiesce in a philosophy stressing the inborn inequality of men runs counter to many people’s feelings. More or less reluctantly, people admit that they do not equal the celebrities of art, literature, and science, at least in their specialties, and that they are no match for athletic champions. But they are not prepared to concede their own inferiority in other human matters and concerns. As they see it, those who outstripped them in the market, the successful entrepreneurs and businessmen, owe their ascendancy exclusively to villainy. They themselves are, thank God, too honest and conscientious to resort to those dishonest methods of conduct that, as they say, alone make a man prosper in a capitalistic environment.
 
@@ -1676,7 +1676,7 @@ This philosophy is not only based on the doctrine depicting the common people as
 
 We need not consider all the problems raised by the ample literature on the alleged stupidity of the consumers and their need for protection by a paternal government. What is important here is the fact that, notwithstanding the popular dogma of the equality of all men, the thesis that the common man is unfit to handle the ordinary affairs of his daily life is supported by a great part of popular “leftist” literature.
 
-#### III.
+###### III.
 
 The doctrine of the inborn physiological and mental equality of men logically explains differences between human beings as caused by postnatal influences. It emphasizes especially the role played by education. In the capitalistic society, it is said, higher education is a privilege accessible only to the children of the “bourgeoisie.” What is needed is to grant every child access to every school and thus educate everyone.
 
@@ -1688,7 +1688,7 @@ But the success of this plan is merely apparent. It was made possible only by a 
 
 The experience of the last decades in American education bears out the fact that there are inborn differences in man’s intellectual capacities that cannot be eradicated by any effort of education.
 
-#### IV.
+###### IV.
 
 The desperate, but hopeless attempts to salvage, in spite of indisputable proofs to the contrary, the thesis of the inborn equality of all men are motivated by a faulty and untenable doctrine concerning popular government and majority rule.
 
@@ -1698,7 +1698,7 @@ The supporters of this doctrine must consider any doubt of the intellectual and 
 
 However, the arguments advanced in favor of representative government by the liberals of the nineteenth century—the much-maligned Manchestermen and champions of laissez faire—have nothing in common with the doctrines of the natural inborn equality of men and the superhuman inspiration of majorities. They are based upon the fact, most lucidly exposed by David Hume, that those at the helm are always a small minority as against the vast majority of those subject to their orders. In this sense every system of government is minority rule and as such can last only as long as it is supported by the belief of those ruled that it is better for themselves to be loyal to the men in office than to try to supplant them by others ready to apply different methods of administration. If this opinion vanishes, the many will rise in rebellion and replace by force the unpopular office-holders and their systems by other men and another system. But the complicated industrial apparatus of modern society could not be preserved under a state of affairs in which the majority’s only means of enforcing its will is revolution. The objective of representative government is to avoid the reappearance of such a violent disturbance of the peace and its detrimental effects upon morale, culture, and material well-being. Government by the people, i.e., by elected representatives, makes peaceful change possible. It warrants the agreement of public opinion and the principles according to which the affairs of state are conducted. Majority rule is for those who believe in liberty not as a metaphysical principle, derived from an untenable distortion of biological facts, but as a means of securing the uninterrupted peaceful development of mankind’s civilizing effort.
 
-#### V.
+###### V.
 
 The doctrine of the inborn biological equality of all men begot in the nineteenth century a quasi-religious mysticism of the “people” that finally converted it into the dogma of the “common man’s” superiority. All men are born equal. But the members of the upper classes have unfortunately been corrupted by the temptation of power and by indulgence in the luxuries they secured for themselves. The evils plaguing mankind are caused by the misdeeds of this foul minority. Once these mischief makers are dispossessed, the inbred nobility of the common man will control human affairs. It will be a delight to live in a world in which the infinite goodness and the cogenital genius of the people will be supreme. Never-dreamt-of happiness for everyone is in store for mankind.
 
@@ -1710,7 +1710,7 @@ It is vain to explain to these men what the condition of the common man both in 
 
 Let us not fool ourselves. It is not the progress of socialism among the backward nations, those that never surpassed the stage of primitive barbarism and those whose civilizations were arrested many centuries ago, that shows the triumphant advance of the totalitarian creed. It is in our Western circuit that socialism makes the greatest strides. Every project to narrow down what is called the “private sector” of the economic organization is considered as highly beneficial, as progress, and is, if at all, only timidly and bashfully opposed for a short time. We are marching “forward” to the realization of socialism.
 
-#### VI.
+###### VI.
 
 The classical liberals of the eighteenth and nineteenth centuries based their optimistic appreciation of mankind’s future upon the assumption that the minority of eminent and honest men would always be able to guide by persuasion the majority of inferior people along the way leading to peace and prosperity. They were confident that the elite would always be in a position to prevent the masses from following the pied pipers and demagogues and adopting policies that must end in disaster. We may leave it undecided whether the error of these optimists consisted in overrating the elite or the masses or both. At any rate it is a fact that the immense majority of our contemporaries is fanatically committed to policies that ultimately aim at abolishing the social order in which the most ingenious citizens are impelled to serve the masses in the best possible way. The masses—including those called the intellectuals—passionately advocate a system in which they no longer will be the customers who give the orders but wards of an omnipotent authority. It does not matter that this economic system is sold to the common man under the label “to each according to his needs” and its political and constitutional corollary, unlimited autocracy of self-appointed office-holders, under the label “people’s democracy.”
 
@@ -1720,7 +1720,7 @@ The tenor of the arguments of such “progressive” businessmen runs this way: 
 
 There is of course, no more sense in the self deception of these capitalists and entrepreneurs than in the daydreams of the socialists and communists of all varieties.
 
-#### VII.
+###### VII.
 
 As ideological trends are today, one has to expect that in a few decades, perhaps even before the ominous year 1984, every country will have adopted the socialist system. The common man will be freed from the tedious job of directing the course of his own life. He will be told by the authorities what to do and what not to do, he will be fed, housed, clothed, educated, and entertained by them. But, first of all, they will release him from the necessity of using his own brains. Everybody will receive “according to his needs.” But what the needs of an individual are, will be determined by the authority. As was the case in earlier periods, the superior men will no longer serve the masses, but dominate and rule them.
 
@@ -1738,7 +1738,7 @@ Yet, this outcome is not inevitable. It is the goal to which the prevailing tren
 
 ### 15. The Clash of Group Interests
 
-#### I.[^148]
+###### I.[^148]
 
 To apply the term “group tensions” to denote contemporary antagonisms is certainly a euphemism. What we have to face are conflicts considered as irreconcilable and resulting in almost continual wars, civil wars, and revolutions. As far as there is peace, the reason is not, to be sure, love of peace based on philosophical principles, but the fact that the groups concerned have not yet finished their preparations for the fight and, for considerations of expediency, are waiting for a more propitious moment to strike the first blow.
 
@@ -1754,7 +1754,7 @@ The very way in which social scientists, historians, editors, and politicians ap
 
 Our wars and civil wars are not contrary to the social doctrines generally accepted today. They are precisely the logical outcome of these doctrines.
 
-#### II.
+###### II.
 
 The first question we must answer is: What integrates those groups whose conflicts we are discussing?
 
@@ -1782,7 +1782,7 @@ The root causes of present-day group antagonisms must be seen in the fact that w
 
 We do not have to discuss the problem whether or not it is true that the preservation and the further development of occidental civilization require the maintenance of the geographical segregation of various racial groups. The task of this paper is to deal with the economic aspects of group conflicts. If it is true that racial considerations make it inexpedient to provide an outlet for the colored inhabitants of comparatively overpopulated areas, this would not contradict the statement that in an unhampered capitalist society there are no irreconcilable conflicts of group interests. It would only demonstrate that racial factors make it inexpedient to carry the principle of capitalism and market economy to its utmost consequences and that the conflict among various races is, for reasons commonly called noneconomic, irreconcilable. It would certainly not disprove the statement of the liberals that within a society of free enterprise and free mobility of men, commodities, and capital, there are no irreconcilable conflicts of the rightly understood interests of various individuals and groups of individuals.
 
-#### III.
+###### III.
 
 The belief that there prevails an irreconcilable conflict of group interests is age-old. It was the essential proposition of Mercantilist doctrine. The Mercantilists were consistent enough to deduce from this principle that war is an inherent and eternal pattern of human relations. Mercantilism was a philosophy of war.
 
@@ -1808,7 +1808,7 @@ There is no social doctrine other than that of the “orthodox” and “reactio
 
 This is meager consolation indeed. At any rate, such statements do not invalidate the proposition that nationalists and Marxians consider their violent conflict of group interests as a necessary phenomenon of our time and that they attach a moral value either to international war or to class war.
 
-#### IV.
+###### IV.
 
 The most remarkable fact in the history of our age is the revolt against rationalism, economics, and utilitarian social philosophy; it is at the same time a revolt against freedom, democracy, and representative government. It is usual to distinguish within this movement a left-wing and a right-wing. The distinction is spurious. The proof is that it is impossible to classify in either of these groups the great leaders of the movement. Was Hegel a man of the Left or of the Right? Both the left wing and the right wing Hegelians were undoubtedly correct in referring to Hegel as their master. Was Georges Sorel a Leftist or a Rightist? Both Lenin and Mussolini were his intellectual disciples. Bismarck is commonly regarded as a reactionary. But his social-security scheme is the acme of present-day progressivism. If Ferdinand Lassalle had not been the son of Jewish parents, the Nazis would call him the first German labor leader and the founder of the German Socialist Party, one of their greatest men. From the point of view of true liberalism, all the supporters of the conflict doctrine form one homogenous party.
 
@@ -1826,7 +1826,7 @@ One of the objections raised against the liberal philosophy recommending a free-
 
 However, what these would-be progressives are supporting is tantamount to a return to the social organization of the ages preceding the Industrial Revolution. The various measures of economic nationalism are a replica of the policies of Mercantilism. The jurisdictional conflicts between labor unions do not essentially differ from the struggles between medieval guilds and inns. Like the absolute princes of seventeenth-and eighteenth-century Europe, these moderns are aiming at a system under which the government undertakes the direction of all economic activities of its citizens. It is not consistent to exclude beforehand the return to the policies of Richard Cobden and John Bright if one does not find any fault in returning to the policies of Louis XIV and Jean-Baptiste Colbert.
 
-#### V.
+###### V.
 
 It is a fact that the living philosophy of our age is a philosophy of irreconcilable conflict and dissociation. People value their party, class, linguistic group, or nation as supreme, believe that their own group cannot thrive but at the expense of other groups, and are not prepared to tolerate any measures which in their opinion would have to be considered as an abandonment of vital group interests. Thus a peaceful arrangement with other groups is out of the question. Take for instance the implacable intransigence of Leninism or of the French _nationalisme integral_ or of the Nazis. It is the same with regard to domestic affairs. No pressure group is ready to renounce the least of its pretensions for considerations of national unity.
 
@@ -1841,7 +1841,7 @@ It is true that powerful forces are fortunately still counteracting these tenden
 
 ### 16. A Hundred Years of Marxian Socialism
 
-#### I.[^154]
+###### I.[^154]
 
 In this year 1967, in which the University of Chicago celebrates its seventy-fifth anniversary, the present-day world’s most powerful political movement, Marxism, commemorates the two most important dates of its history. A hundred years ago the literary foundation of Marxism was laid by the publication of the first volume of _Das Kapital_ , the only volume published by Marx himself. And fifty years later, in 1917, the first Marxian government was established in the vast expanses up to that time subject to the rule of the Tsars of Russia. It seems appropriate to choose these jubilees for an appreciation of the role Marxism played and still plays in the evolution of the modern world.
 
@@ -1877,7 +1877,7 @@ In the liberal age of the nineteenth century the most consistent liberal group, 
 
 The philosophy of the Enlightenment considered as its most precious achievement the principle of toleration, the liberty to uphold one’s opinions in religious and philosophical matters without being harassed by the government. It was no less anxious to give to everybody the right to choose the way by which he planned to integrate himself into the system of social cooperation. The great ideal of the age of classical liberalism was liberty, the freedom to make the plans for one’s own life. Today people are longing and fighting for the substitution of “planning” for the market economy. Planning, as they employ the term, means: plans made by others will prescribe to me what I am to do and how to do it. All my life I will live like the boy in the boarding school, like the soldier in the army, like the prisoner in his cell. I will see, hear, read and learn what my superiors will consider as fit for me. I will be a cog in a vast machine the operation of which is directed by the authorities. There is only one philosophy, one ideology, one quasi-religion that people are free to profess and to propagate. Any deviation from the tenets of this dogmatism is a death-deserving crime.
 
-#### II.
+###### II.
 
 Thus Marxism is the most radical and unconditional rejection of all the ideals of freedom and liberty. It does not acknowledge any dissenting opinion’s right to existence. In its endeavors to extirpate all traces of any view it deems heretical, it is in no way inferior to any persecutors, inquisitors and witch-hunters of the darkest ages. But it parades as the only legitimate continuation of all the past struggles for freedom.
 
@@ -1893,7 +1893,7 @@ This alleged law of the inevitably progressing pauperization of the working clas
 
 This alleged iron law of wages declares that wages can never rise above the minimum requisite to keep the laborer in bare existence as a laborer. Any increase in wages above this height will lead to an increase in population, and then the competition of increased numbers for employment will force wages down again to the minimum. We do not have to deal with the inherent fallacy of this pseudo-law. But if one adopts its reasoning in order to demonstrate that in the long run no rise in the average wage rate above the minimum is possible, one must also imply that no fall in the average rate can occur. The progressive impoverishment of the working masses which those famous observations at the end of the twenty-fourth chapter of _Das Kapital_ describe cannot happen in the capitalistic system as depicted and analyzed by Marx in the preceding chapters of this book. The main thesis of Marx’s great historical prognostication, the progressive impoverishment of the wage-earning masses, contradicts the main thesis of Marx’s economic doctrine, the iron law of wages. Besides, as has been said already, it has been spectacularly refuted by the facts.
 
-#### III.
+###### III.
 
 To appreciate correctly the meaning and the historical effects of the Marxian philosophy we must confront it with the economic teachings prevalent in the middle of the nineteenth century. By and large economists at that time agreed in the statement that the improvement of the material well-being of all strata of the population depends on the accumulation of capital. Not only the capitalists but also all other people gain by the increase of the her-head quota of capital available. There are no means by which the wages of all those eager to sell their labor can be raised other than by accelerating the increase of capital as compared with population.
 
@@ -1931,7 +1931,7 @@ A characteristic mark of all anticapitalistic ideas is their failure to comprehe
 
 Nature has endowed many parts of the earth’s surface much better than the territories originally inhabited by the white men who have developed the modern capitalistic methods of production. All the achievements of Western civilization were made possible by the establishment of moral and legal institutions that protected the individuals’ savings and their investment for productive purposes against the rapacity of the rulers. While in the East private property was practically at the mercy of the officeholders, the West’s legal systems considered it the basic principle of society’s organization.
 
-#### IV.
+###### IV.
 
 The market economy and the capitalistic system have been described as a consumers’ democracy in which every penny gives a right to vote.[^156] Such metaphorical descriptions are always optional. But if we accept the metaphor in this case, we must not forget to point out some very momentous differences between the two systems of what is called democracy.
 
@@ -1953,7 +1953,7 @@ As present to our mind, the history of economic activities and technological ach
 
 The economic history of the last two or three centuries provides ample illustration for the beneficial effect of this capitalistic method. The average standard of living of the masses of Western and Central Europe was, seen from our present-day point-of-view, shockingly bad. What brought about a radical change was not authoritarian decrees, but the ideas and the deeds of enterprising men whose energy and diligence were challenged by the profit motive. It was such men that in a process that fortunately is still going on transformed the almost completely autarkic economies of their nations into predominantly industrial systems and the isolation of various economic regions into the world market. The present standard of living of these countries—a very high one when compared with that of all other countries but that of the United States—is entirely due to the export of manufactured goods, most of which are produced out of imported raw materials. Economic calculation enabled all these improvements and adjusts the activities of business daily anew to the continually changing state of demand and supply of various commodities and services.
 
-#### V.
+###### V.
 
 Marx was not the author of the socialist idea and he did not contribute anything to the futile attempts to demonstrate the soundness and the practicability of the plans for the establishment of a socialist commonwealth. He passionately rejected all such efforts as unscientific. For his own socialism, the prognostication of the inevitability of socialism’s coming, he claimed the epithet scientific. In his opinion this settled the issue for the contemporaries of Darwin and Maxwell.[^157] How could any decent fellow dare to question what science taught! In vilifying everything that existed as hopelessly contaminated by the capitalistic surrounding, Marxism acquired the aureole of representing the unspoiled excellence of pure science and the golden age to come.
 
@@ -1997,7 +1997,7 @@ The bosses of the Russian Communist Administration are disturbed by the fact tha
 
 Nobody is today more firmly convinced of the incomparable superiority of the capitalistic methods of production than the “production tsars” of the countries behind the Iron Curtain. The present-day strength of communism is entirely due to the mentality of the pseudo-intellectuals in the Western nations who still enjoy the products of free enterprise.
 
-#### I.
+###### I.
 
 The market economy—capitalism—is a social system of consumers’ supremacy. There is in its frame only one method of earning a living and of acquiring property, viz., one must try to serve one’s fellow men, the consumers, in the best possible way. A daily and hourly repeated plebiscite determines again and again every individual’s earning and place in society. By their buying and abstention from buying the consumers allocate ownership of all the material factors of production to those who have succeeded in satisfying the most urgent of their not yet satisfied wants in the best possible and cheapest way. Ownership of the material factors of production can be acquired and can be preserved only be serving the consumers better than other people do. It is a revocable public mandate as it were.
 
@@ -2013,7 +2013,7 @@ That the socialists acknowledge this fact and are anxious to find a solution amo
 
 No less significant an admission of the viciousness of the socialist ideology is provided by the small plots the exploitation of which for the account of the rural workers (falsely labeled for “private profit”) alone prevented famines in the country that includes a good deal of the world’s most fertile arable soil. The urgency of the Soviet productivity problem is due to the fact that in the processing industries no analogous expedient is at hand.
 
-#### II.
+###### II.
 
 The much discussed reform projects of Professor Liberman[^167] and other Russian authors do not refer to the essential characteristics of the Soviet system of central planning of all activities commonly called economic. Neither do they deal in any way with the problem of economic calculation. (For present-day Russian planners this problem does not yet have primary importance as, operating within a world of the price system, they are in a position to rely upon the prices determined on the markets of the West.)
 
@@ -2035,7 +2035,7 @@ In the market economy the emergency of profit demonstrates that in the eyes of t
 
 If the authorities promise to the director of a shoe factory a bonus to be determined as a percentage of sales, they do not give him a share in “profits.” Still less can it be called a return to the profit system. Profits can only be calculated if one deducts total costs from total receipts. Any such operation is unfeasible under the conditions of the case. The whole factory, fully equipped, was handed over by the authorities to the care of the director and with it all the material needed and the order, to produce, with the help of workers assigned to the outfit, a definite quantity of footwear for delivery to definite shops. There is no method available to find out the costs incurred by all the operations preceding the first interference of the director. The bonus granted to him cannot have any relation to the numerical difference between such total costs and the proceeds from the sale of the final product.
 
-#### III.
+###### III.
 
 In fact the problem of reform as today passionately discussed in the communist countries does not deal with the profitability of the various plants and productive processes. It turns virtually around a different problem: Is it possible within a socialist system to remunerate a worker, especially also the supreme foreman of a plant, according to the value the consumers, the people, attach to his contribution to the accomplishment of the product or the service?
 
@@ -2053,9 +2053,9 @@ Of course, the government is always free to grant to any of the officials it emp
 
 ### 18. Observations on the Cooperative Movement
 
-#### THE COOPERATIVE IDEA[^168]
+###### THE COOPERATIVE IDEA[^168]
 
-#### I. Cooperatives not a Method of World Reconstruction
+###### I. Cooperatives not a Method of World Reconstruction
 
 In spite of their steady expansion and the growth of their turnover, the cooperatives as they exist and operate today are merely dim shadows of what they were designed to be in the ambitious schemes of their first promoters. Robert Owen, William King, and Ferdinand Lassalle planned a cooperative organization of industrial production as a “New System of Society.” They wanted to eliminate the entrepreneurs and the capitalists altogether. Henceforth, associations of the workers themselves should operate the plants, “their” plants, without any interference on the part of the “useless exploiters.”
 
@@ -2069,7 +2069,7 @@ The purchasing cooperatives have entered the field of production in many branche
 
 All that remains of the ambitious projects of the glorified pioneers of cooperation is three types of cooperative organizations: consumers’ cooperatives, farmers’ purchasing cooperatives, and farmers’ marketing cooperatives. It is a rhapsodic overstatement to speak, in referring to these cooperatives, of the cooperative way as a method of world reconstruction.[^169]
 
-#### II. Not the Cooperatives, but Private Profit-Seeking Business is the Harbinger of Economic Improvement
+###### II. Not the Cooperatives, but Private Profit-Seeking Business is the Harbinger of Economic Improvement
 
 The capitalistic market economy, the system of private profit-seeking enterprise, is essentially social cooperation under the division of labor. The various specialized enterprises and branches of industry cooperate with one another. The objective of each of them is collaboration for the production of all those goods and services which the consumers want to use. Within each enterprise, the various divisions and subdivisions cooperatively turn out products which are delivered to other enterprises which again use them for the production of more elaborate products. Finally, when all these cooperative processes come to an end, the finished product reaches the consumer. Seen from this point of view, the system of capitalism appears as a world-embracing cooperative organization in which each individual promotes his own well-being by serving his fellow men.
 
@@ -2077,7 +2077,7 @@ Now, the cooperatives have sequestrated to themselves the exclusive use of the e
 
 In the face of this pretentious attitude on the part of the various cooperative associations, there is a need to stress the fact that they have contributed nothing to the substantial improvement of the material conditions of the people. For many decades, they have been thriving very well under the benevolent assistance granted to them by the authorities. But there is no record of any important innovation which owes its introduction to the cooperatives. While private business, overburdened by taxes from which the cooperatives are exempt, improves, year by year, the quality and increases the quantity of products and fills the markets with new articles unheard of before, the cooperatives are sterile. Not the cooperatives, but the much abused profit-seekers, are the harbingers of economic progress. If we look into the home of an average American worker or farmer and at his family’s daily life, we may learn about the enormous changes which were brought about by the operation of private enterprise. The cooperatives hardly played any role in this miraculous transformation. The “rise of the consumer”[^170] was not an accomplishment of the cooperative movement. It was an achievement of the “production for profit” engineered by “rugged individualists” and “economic royalists.”
 
-#### III. The Marketing Cooperatives of the Farmers and the Consumers’ Cooperatives
+###### III. The Marketing Cooperatives of the Farmers and the Consumers’ Cooperatives
 
 Within the cooperative movement of all countries, it is possible to distinguish two main groups: the farmers’ cooperatives and the consumers’ cooperatives of the non-farming population.
 
@@ -2091,7 +2091,7 @@ The consumers’ cooperatives make light of this contradiction by pointing out t
 
 The vast propaganda literature of the cooperatives deals much more with the consumers’ cooperatives than with the two types of farmers’ cooperatives. It passes over in silence the conflict between the interests of the urban consumers of agricultural products and the endeavors of the farmers’ cooperatives to make the government resort to various restrictive measures with regard to these products. Most of the arguments advanced in favor of cooperativism refer exclusively to the cooperatives of urban consumers. This is especially paradoxical in the United States where the cooperatives of urban consumers play only an insignificant role when compared with the farmers’ cooperatives.
 
-#### IV. The Philosophy and Theology of Consumption
+###### IV. The Philosophy and Theology of Consumption
 
 Capitalism needs neither propaganda nor apostles. Its achievements speak for themselves. Capitalism delivers the goods.
 
@@ -2105,7 +2105,7 @@ It is vain to speak of the “primacy of consumption.”[^172] Production must i
 
 In their excessive zeal, the champions of cooperativism have also entered the field of theology. They would have us believe “that the social teachings of the Christian and Jewish religions naturally lead to the formation of cooperatives.”[^173] They find “the beatitudes of Jesus” in “the practice and principles of the cooperatives.”[^174] It seems appropriate to leave the examination of this dogmatical issue to the doctors of the various churches and to the rabbis.
 
-#### V. The True Objectives of the Cooperative Movement
+###### V. The True Objectives of the Cooperative Movement
 
 The avowed objective of consumers’ cooperatives and of the farmers’ purchasing cooperatives is to provide their members with commodities and services at lower prices than those which they would have to expend in the absence of these associations. This is a perfectly legitimate task. We shall have to examine whether and how cooperatives really attain this end.
 
@@ -2115,9 +2115,9 @@ A cooperative business enterprise aims at lowering the price of soap and gasolin
 
 In his _Utopia_ , Plato refers to the ancient saying, “friends have all things in common.”[^178] If this is true, the cooperators are badly mistaken in calling their associations friendly societies. They have no “things in common.” They have a punctilious system of accounting and auditing. The rights and the duties of the members of the cooperatives are neatly defined.[^179]
 
-#### THE PRINCIPLES AND METHODS OF COOPERATIVES
+###### THE PRINCIPLES AND METHODS OF COOPERATIVES
 
-#### I. The Origin of Cooperation
+###### I. The Origin of Cooperation
 
 The world-embracing system of the social division of labor originated from occasional assistance mutually granted to one another by neighbors. John, more efficient in the processing of iron, manufactured a plough-share for Paul who was less efficient in this art. On the other hand, Paul, more efficient in leather work, fabricated a pair of shoes for John who was less gifted in this kind of production. It was all friendship and neighborly fellow-feeling. Out of these modest beginnings developed the marvelous specialization of industry as it operates today.
 
@@ -2141,7 +2141,7 @@ The reference to idealism, unselfishness, and similar high-sounding notions is e
 
 The endeavors of the farmers’ cooperatives to save the farmers some money are perfectly sound and legitimate insofar as they do not ask for special privileges at the expense of all the people. Farmers are manufacturers and it is all right for them to be concerned with keeping down costs of production. But it is quite another thing if they want to attain this aim by evading taxes and other burdensome obligations which must be borne by all other producing citizens.
 
-#### II. Producers and Consumers
+###### II. Producers and Consumers
 
 The characteristic feature of the free society of competitive capitalism is the unlimited sovereignty of the consumers. The capitalists, the owners of land and the entrepreneurs are by the inescapable law of the market forced to employ their ingenuity and the material factors of production at their disposal in such a way as to fill the most urgent of the not yet satisfied wants of the consumers in the best possible and cheapest way. Businessmen are not irresponsible production tsars. They are unconditionally subject to the supremacy of the consumers. If they fail to obey the orders of the consuming public, they suffer losses. If they do not alter their conduct of affairs very soon in such a way as to adjust it to the demands of the public, they are forced to go out of business and forfeit their eminent position. The consumers, by their buying and abstention from buying, make poor people rich and rich people poor. They determine who should own the capital and the land and who should run the enterprises. They determine what should be produced, of what quality and in what quantity. The market economy is a democracy of the consumers.
 
@@ -2165,7 +2165,7 @@ There is only one really efficient way to further the interests of the consuming
 
 The cooperators have certainly no claim to glorify themselves as the champions of the consumers. Their achievements are meager indeed when compared with those of the businessmen who succeed in turning out more, better, and cheaper products.
 
-#### III. The Place of the Cooperatives within the Frame of the Competitive System
+###### III. The Place of the Cooperatives within the Frame of the Competitive System
 
 Economic liberalism, today disparaged as Manchesterism, maintains that the government should not place any obstacles in the way of people who want to serve their fellow citizens. As the liberals interpret the principle of consumes’ sovereignty, the consumers alone should decide whether a business unit is good or bad. This is what the much abused slogan “laissez faire” means: let the consumers choose for themselves and not a _Führer_ for them.
 
@@ -2179,7 +2179,7 @@ The principle of not interfering with market conditions and giving a chance to e
 
 The cooperatives entered the scene of business with passionate diatribes against the merchants and especially against the retailers. It would have been comprehensible if the retailers had asked the authorities to suppress these new competitors who seemed to expect less from serving their members than from smearing the established firms. A demand of retail business for outlawing the cooperatives and suppressing their activities altogether would not have been more perverse than are the endeavors of the farmers to outlaw margarine and to cut down the importation of meat and cereals. But apart from the angry utterances of a few hotspurs, no such demands were ever raised. The fairness of the much calumniated merchants and their full endorsement of the principle of free competition manifested themselves in the attitude these men showed in dealing with the cooperatives. They did not ask the police to silence these insidious slanderers and defamers. All they asked was that they not be coddled with privileges and prerogatives. Fully committed to the fundamental maxim of free enterprise and free competition, all that private businessmen are aiming at is equality in the treatment of all forms of business enterprise. They ask for neither privileges for themselves nor hostile discrimination against any group of rivals. All they ask is that the government stay neutral. Neither privileges nor discrimination. The freedom of the public to choose between the multiplicity of competing sellers and to prefer the shop that best serves them should not be curtailed by virtual subsidies granted to less efficient enterprises. For the sake of consumers’ sovereignty and for the benefit of the whole people, there should be equality in the treatment of all kinds and varieties of business enterprise.
 
-#### IV. The Character of the Cooperatives’ Profits
+###### IV. The Character of the Cooperatives’ Profits
 
 There are three different elements included in the conception of profit as popularly employed in mundane language and in statistics: interest on invested capital, compensation for the entrepreneur’s own labor expended in the conduct of the business and finally, profit proper. In the case of corporations and cooperatives, the second of these elements is absent as the owners of the enterprise are legally distinguished from those performing any labor in the conduct of business even if these latter own stock in the corporation or are members of the cooperative.
 
@@ -2215,7 +2215,7 @@ The essential fact is that the surplus of total sales proceeds over total costs 
 
 The economic character of a cooperative does not differ from that of a private store. Success or failure result with a cooperative from the same sources from which they result with a private retail shop. Success nets profits, failure losses.
 
-#### V. The Disposition of the Cooperatives’ Profits
+###### V. The Disposition of the Cooperatives’ Profits
 
 If a cooperative’s conduct of business was successful over a definite period of time and consequently the balance sheet shows a net surplus, i.e., a profit, this profit is handled in the same way in which every private business handles its profits. The profit is either distributed or ploughed back into the business as an addition to its working capital, or it is partly distributed and partly ploughed back.
 
@@ -2225,7 +2225,7 @@ The evolution of cooperatives from simple independent stores into big businesses
 
 Cooperatives employ their capital funds only partially in the conduct of their own affairs. They have founded large-size wholesale enterprises and production outfits. They have organized these enterprises in a hierarchy of super-cooperatives, super-super cooperatives and super-super-super cooperatives. Each of these associations earns its own profits and either retains them as undistributed profits or distributes them among its members, the cooperative associations of a lower rank.
 
-#### VI. Is the Cooperative Movement Economically Sound?
+###### VI. Is the Cooperative Movement Economically Sound?
 
 The vast propaganda literature of the cooperatives boasts in extreme language of the achievements of the cooperative movement. From modest beginnings, the cooperatives developed into big business with an ample supply of capital. They have millions of members, many thousands of organizations, over a hundred mills, factories, oil wells, refineries and pipelines. Their yearly turnover is enormous. This thriving condition is not limited to this country. It is a world phenomenon. The International Cooperative Alliance had at the outbreak of the Second World War affiliates with a membership of more than 70 million in thirty-eight different countries. What a marvelous success!
 
@@ -2243,7 +2243,7 @@ The cooperative doctrine’s fundamental error is the misconstruction of the rol
 
 If the cooperatives had not enjoyed their ample tax privileges, they would have very soon learned from experience that this seemingly plausible argument is utterly wrong. The retailer is not just a dispensable intermediary. Retailing is a necessary function within the operation of the market economy. It is one of the devices daily adjusting production anew to the changing demands of the consumers. Although as a rule, the retailer does not alter the physical and chemical properties of the merchandise, he adds to its value by keeping it ready for use precisely at those places and at that time in which it is most urgently asked for. The services that the retailer renders to the public are not overpaid, as competition—always very acute in the field of distribution—keeps their prices within the most narrow margin possible. In dealing with the consumers’ cooperatives one cannot often enough stress the point that the cooperatives, in spite of their tax prerogatives, are not in a position to supplant the private merchant. It is this fact that demolishes all the verbose disquisitions of the cooperative literature.
 
-#### VII. The Political Element in the Cooperative Movement
+###### VII. The Political Element in the Cooperative Movement
 
 From its very beginnings, the cooperative movement was primarily a political movement. It was, in the plans of its initiators, not so much an instrument for improving the conditions of its members as a weapon to be used for the destruction of the “bourgeoisie” and the “bourgeois or capitalistic mode of production.” Because they appreciated the cooperatives from this point of view, the socialist parties always sympathized with the cooperative movement. Apart from the farmers’ cooperatives, a great many of the members of consumers’ cooperatives are socialists. In the imagination of these socialist cooperators, the socialist paradise of the future will be organized as an association of the associations of consumers’ cooperatives. The foundation of a new cooperative store and the expansion and improvement of already operating cooperatives are steps forward on the road that leads to mankind’s social salvation.
 
@@ -2255,7 +2255,7 @@ One of the characteristic features of the capitalist system (which the Marxians 
 
 Those people who associate with the word socialism the image of clean cooperative stores, amply stocked with merchandise, in which courteous salesmen attend on the customers are badly mistaken. The cooperative stores are clean, amply stocked with goods and staffed with obliging clerks because they must compete with private profit-seeking retailing. The stores of a socialist system will be very different.
 
-#### VIII. Monopolistic and Totalitarian Tendencies in the Cooperative Movement
+###### VIII. Monopolistic and Totalitarian Tendencies in the Cooperative Movement
 
 The managers of the cooperatives are fully aware of the fact that the cooperatives would not be able to stand the competition of private business if they had to vie with them under equal conditions. It is this insight which on the one hand makes them passionately defend their precious privileges and on the other hand, pushes them toward monopolistic and totalitarian ventures.
 
@@ -2263,7 +2263,7 @@ The writings and the speeches of the cooperative propaganda never tried to conce
 
 In this imperfect world, however, the cooperatives are forced to moderate their pretensions. They are anxious to combine and to conspire for the elimination of competition and for the restraint of trade. Their activities provide the classical example both of horizontal and vertical combination. They tend to ramify into all fields even in such as are only loosely associated with their main activities. In these efforts, they are greatly encouraged by the direct and indirect support various departments of the federal and the state governments accord to them. But the inherent inferiority of the cooperative way of business offsets all these privileges and favors. The progress which the consumers’ cooperatives have made on the way toward their final goal, the monopolistic control of the retail markets, is comparatively slow because it is not easy to fool the housewife. The fact that in the United States the consumers’ cooperatives are but small and insignificant when compared with those of many European countries is the proof of the American consumers’ greater shrewdness and greater capacity to distinguish between better and poorer merchandise.
 
-#### IX. Are the Cooperatives Democratic?
+###### IX. Are the Cooperatives Democratic?
 
 The more manifest the weakness of the economic arguments advanced in favor of cooperativism becomes, the more its protagonists lay stress upon its alleged democratic character. As they see it, cooperativism is democratic while profit-seeking business is reactionary; the establishment of political democracy demands the establishment of economic democracy, viz., supremacy of the cooperatives.
 
@@ -2283,9 +2283,9 @@ Second, it is a sad fact that in many communities the cooperators resort to soci
 
 The cooperatives are neither more nor less democratic than any other business organization to which the democratic market economy offers the opportunity to show what they are able to achieve. However, the cooperatives do not dare to risk the trial of such an examination and are looking for the shelter of favoritism.
 
-#### THE PRIVILEGES, PREROGATIVES AND IMMUNITIES OF THE COOPERATIVES
+###### THE PRIVILEGES, PREROGATIVES AND IMMUNITIES OF THE COOPERATIVES
 
-#### I. The Governments’ Bias in Favor of the Cooperatives
+###### I. The Governments’ Bias in Favor of the Cooperatives
 
 No human being can free himself from partiality and particular bias in favor of or against persons, institutions, or things. A government is always composed of mortal men and is therefore never aloof from the strife of peoples, parties, and ideologies. Only state idolatry describes the rulers as unaffected arbiters and directors of earthly affairs. Realistic observers know how different the real officeholders and administrators are.
 
@@ -2303,7 +2303,7 @@ The most valuable privileges are those granted in the field of taxation. Some of
 
 From its very beginnings, the federal income tax legislation exempted cooperatives. These exemptions were widened and enlarged in the later Acts. On the other hand, they became the more helpful and profitable as the tax rates increased to confiscatory levels. With the present tax rates, they are tantamount to lavish subsidies at the expense of all taxpayers and the whole nation.
 
-#### II. The Essential Problems Concerning the Tax Privilege
+###### II. The Essential Problems Concerning the Tax Privilege
 
 In defending and justifying their tax privileges, the cooperatives purposely dwell upon trifling technicalities and legalistic syllogisms in order to divert the public’s attention from the essential issue.
 
@@ -2351,7 +2351,7 @@ The same verbalism manifests itself in the Cooperative League’s suggestion to 
 
 5\. The cooperatives deny that they enjoy tax exemption and are thus privileged as against profit business. Their tax exemption, they say, is not a privilege as the private businessman could easily enjoy the same freedom. Let him give back to his customers the difference between the cost price and the selling price, as the cooperatives do, and the problem is solved. refund.”[^191] If is obvious that this reasoning does not apply to the tax exemption granted to that part of a cooperative’s profits which is not distributed but reinvested. Neither does it apply to that part which stems from selling to non-members and from previous investment in affiliates. Setting aside these minor points, it must be observed that the concept of cost price is different with regard to cooperatives and with regard to the private owner of a store or a filling station. With the cooperative, it includes the salaries and other payments made to the officers and managers of the cooperative business. With the private grocer, it does not include a remuneration for the grocer’s own labor performed. It the private grocer or owner of a filling station were to “give back” to the customers the difference between the cost price and the selling price, he would not have any income at all; he would work for a heavenly reward while only the staff of the cooperatives receives its pay.
 
-#### III. How Capital and Labor are Wasted by the Cooperatives
+###### III. How Capital and Labor are Wasted by the Cooperatives
 
 The eminence of the competitive market economy consists primarily in the fact that it ceaselessly tends to convey the means of production into the hands of those people who employ them in the most economical way for the best possible satisfaction of the needs of the consumers. It tends to eliminate the less efficient producers and to give control of production management to the most efficient. To comprehend the meaning of this function of the market, it is necessary to realize that everybody’s material well-being is harmed if material factors of production or human labor are anywhere employed in such a way as not to yield the highest output they could yield when more properly managed. As against more economical methods of operation, less economical methods result in a restriction of total output. They make the nation as a whole and all its members poorer.
 
@@ -2381,7 +2381,7 @@ The very fact that in spite of these privileges they have not made greater inroa
 
 By splitting hairs and indulging in subtle syllogisms concerning the concepts of profits, savings, earnings, surplus, costs, and so on, the cooperators evade the discussion of the main issue. In a free country, such as the United States, the immense majority of the buying public prefers to patronize private business and not the cooperatives. The cooperatives always insist upon the fact that they give back to their customers the difference between the cost price and the selling price in the shape of the patronage dividend while private business, as they say, retains this difference as profit. But the intelligent customer in choosing between private business and cooperative business takes into account all the terms of the contract, the quality of the merchandise as well as its price and the value of all the further services rendered by the seller; in considering a purchase with a cooperative, he also takes duly into account the patronage dividend to be expected. It is a fact that in the United States, this comparison between the private store and the cooperative store in the immense majority of cases decides in favor of private business. The conduct of the American people in buying bears witness to the fact that one buys cheaper or better or both cheaper and better in the private store notwithstanding the patronage rebate. Hence it is proved that the private businessman’s profit is not due to overcharging the customer. It is earned by an enterprise that in the majority of cases serves the consumer better and cheaper than the “altruistic” cooperative. The cooperatives have no reason whatever to boast of the patronage dividends. The private retailer is giving the customer more, either in the shape of better merchandise or of a lower price or of other services.
 
-#### IV. Cooperative Operation of Manufacturing and other Production Enterprises
+###### IV. Cooperative Operation of Manufacturing and other Production Enterprises
 
 The spectacular expansion of manufacturing and other production and transportation activities of the cooperatives and of the various associations of cooperatives was, as has been already mentioned above, a consequence of the fact that the tax privileges of the cooperatives became the more valuable the more the taxes for the groups of business not tax-exempt were made increasingly burdensome.
 
@@ -2397,7 +2397,7 @@ The nation’s treasury, in granting these tax privileges to the production acti
 
 If this were not true, the cooperatives could either, selling at the same prices as other firms, reap enormous profits or, at lower prices, ruin all their rivals. In either case, they would have long since already reached what they consider as the ultimate goal of their movement, namely a state of affairs under which the cooperatives produce in their own factories everything that their members require. The mere fact that their success was much more modest proves that there is in cooperativism itself a factor that checks its progress in spite of the enormous support they receive from the government. We cannot help calling this factor economic inferiority.
 
-#### V. How Favoritism Harms the Cooperatives
+###### V. How Favoritism Harms the Cooperatives
 
 Favoritism harms those favored no less than those at whose expense the favors are granted. It corrupts and enfeebles the protegé.
 
@@ -2415,7 +2415,7 @@ Neither is it of any use to throw dust in people’s eyes by expatiating upon th
 
 The cooperative literature lacks entirely the spirit of self-criticism and realistic appreciation of facts. It is full of conceit, vainglory, and self-adulation. It repeats again and again old fallacies, a hundred times refuted, and never gives a serious thought to any new idea. It thus faithfully mirrors the intellectual sterility of a movement which owes its development exclusively to the benevolent partisanship of the politicians.
 
-#### CONCLUSION
+###### CONCLUSION
 
 The cooperative movement is entirely based on the very popular but utterly fallacious idea that profit is an unfair toll which the businessman levies on his patrons and on the contention that, by rights, the businessman should not ask more than what the merchandise cost him. The cooperatives were designed as devices for the general abolition of the vicious practice of selling above costs.
 
@@ -2458,7 +2458,7 @@ The cooperative type of business organization can justify its existence only by 
 
 ### 19. Some Observations on Current Economic Methods and Policies
 
-#### I.[^198]
+###### I.[^198]
 
 If no radical changes in the prevailing political trends and tendencies occur very soon, the system of full government control of human activities will within a few years triumph in all countries this side of the Iron Curtain.
 
@@ -2468,7 +2468,7 @@ People who declare that they are in favor of the preservation of the market econ
 
 Gone are the days when people, and first of all the youth, held liberty in esteem. Our contemporaries long for the “plan,” the strict regimentation of everybody’s life, work, and leisure by decrees of the paternal dictator.
 
-#### II.
+###### II.
 
 The only goal of production is to provide for the satisfaction of wants, that is consumption. The eminence of the market economy is to be seen in the fact that all production activities are ultimately directed by the consumers. Man is sovereign in his capacity as a consumer. In his capacity as a producer he is bound to comply with the wishes of the consumers.
 
@@ -2480,7 +2480,7 @@ That this system benefits all nations and all individuals within every nation ha
 
 If one compares economic conditions in the most prosperous parts of the earth with those in the so-called underdeveloped countries, one cannot help realizing the correctness of the fundamental principle of nineteenth-century economic liberalism. Against the vagaries and revolutionary delusions of the socialist and communist agitators, the economists, opposed the thesis: there is but one method available to improve the conditions of the whole population, viz., to accelerate the accumulation of capital as against the increase in population. The only method of rendering all people more prosperous is to raise the productivity of human labor, i.e., productivity per man hour, and this can be done only by placing into the hands of the worker more and better tools and machines. What is lacking in the countries usually described as underdeveloped is saving and capital accumulation. There is no substitute for the investment of capital. If any further proof of this fundamental principle were needed, it is to be seen in the eagerness of all backward nations to get foreign capital for their industries.
 
-#### III.
+###### III.
 
 In dealing with the pros and cons of socialist management, one unfortunately neglects to pay sufficient attention to those effects which are commonly considered as non-economic. One fails to pay attention to the human aspect of the problem.
 
@@ -2494,7 +2494,7 @@ Such are conditions in the regime after which the immense majority of our intell
 
 This infatuation of the intelligentsia as well as of the illiterate masses is so firm that no adverse experience can weaken it. The more information about the real state of affairs in the communist countries reaches the Western nations, the more fanatical become the daily swelling ranks of those longing for the “dictatorship of the proletariat.”
 
-#### IV.
+###### IV.
 
 The radical change that has buried in oblivion the ideal of liberty and extols to the skies unconditional submission to the “plan” is reflected in the alteration of the meaning of almost all terms designating political parties and ideologies.
 
@@ -2504,7 +2504,7 @@ In some parliamentary chambers of nineteenth-century Europe the members of the p
 
 The truth is that any kind of socialist or communist regime is incompatible with the preservation of civil liberties and representative or constitutional government. Representative government and civil liberties are the constitutional or political corollary of capitalism as unlimited despotism is the corollary of socialism. No semantic prattle can alter this fact. The socialist movement is not a continuation of the liberal movement of the nineteenth century, but the most radical reaction against it. The total state of the Lenin and Hitler pattern is the embodiment of the ideals of all the great tyrants of all ages.
 
-#### V.
+###### V.
 
 Unintentionally the words a man chooses in his speaking and writing reveal something about his ideas that he would not be prepared to express directly.
 
@@ -2514,7 +2514,7 @@ The same disposition explains the use of the expression “the conquest of a mar
 
 Many more examples could be quoted. But it is sufficient to mention one: the United States’ “war against poverty.” The only method of reducing poverty and of supplying people more amply with consumers’ goods is to produce more, better, and cheaper. This is what profit-seeking business aims at and achieves, provided sufficient capital has been accumulated by saving. All that a government can do in this process is to protect the operation of the market economy against violent or fraudulent aggression. What lessens poverty is not taking something away from Paul and giving it to Peter, but making commodities more easily accessible by producing more, better and cheaper. There is nothing in this sequence of events for the appellation of which the term “war” would seem to be adequate. A governmental system that spends every year billions of dollars of the taxpayers’ money to make essential foodstuffs, cotton and many other articles more expensive should certainly have the decency not to boast of an alleged war against poverty.
 
-#### VI.
+###### VI.
 
 What distinguishes the mentality of our contemporaries most radically from that of their grandparents is the way they look upon their relation to the government. To the nineteenth-century liberals state and government appeared as institutions to give to the people the opportunity to live and to work in peace. Everything else, the development of material welfare as well as the cultivation of man’s moral, intellectual, and artistic faculties, was the concern of the individuals.
 
@@ -2531,7 +2531,7 @@ What the masses in their thirst for lucre do not see is that they themselves wil
 
 ### 20. The Role of Doctrines in Human History
 
-#### I. Thought and Conduct[^200]
+###### I. Thought and Conduct[^200]
 
 Earlier historians dealt almost exclusively with the deeds and exploits of kings and warriors. They paid little or no attention to the slowly working changes in social and economic conditions. They did not bother about the modifications of doctrines, creeds, and mentalities. Even such an unparalleled event as the expansion of Christianism was hardly mentioned by the historians of the first two centuries.
 
@@ -2545,7 +2545,7 @@ We do not intend to deny that human mind is influenced by the conditions under w
 
 The different readings of the very popular Marxian materialistic interpretation of history are fundamentally wrong. Both the state of technology and the productive forces are a product rather of the working of mind than a factor determining the state of mind. One merely moves in a circle when one tries to explain thought by something which itself is a result of human ideas. The obvious truth that man has to adjust himself to the natural conditions of the world in which he lives, does not at all justify the naive and crude materialist metaphysics of Marx. This adjustment is effected by thought. Why did not the Negroes of Africa discover means to fight the germs which menace their lives and health and why did European scholars discover efficient methods to fight these diseases? No materialism can answer such questions satisfactorily.
 
-#### II. The Social Role of Doctrines
+###### II. The Social Role of Doctrines
 
 Science cannot provide us with a full explanation of everything. Every branch of knowledge has to stop at some given facts which it has—at least for the present time, maybe forever—to consider as ultimate and beyond which it cannot go. These ultimate facts are simply given to our experience, they cannot be traced back to other facts or forces, they are inexplicable. We call them by names like _electricity_ or _life_ , but we have to confess that we do not know what _electricity_ or _life_ are, whereas we know what _water_ or _thunder_ are.
 
@@ -2559,7 +2559,7 @@ We may assume that there are doctrines whose applications favors man in his stru
 
 We have to study the history of doctrines because they alone give us the clue to the understanding of social, economic, and political changes.
 
-#### III. Experience and Social Doctrines
+###### III. Experience and Social Doctrines
 
 In the field of the natural sciences, especially in physics we have the opportunity of applying the experimental method. The scientist isolates in the laboratory the various conditions of change and observes their action. Every statement can be verified or refuted by the result of experiments.
 
@@ -2581,7 +2581,7 @@ An isolated figure or an isolated series of figures do not mean anything. Nor do
 
 In order to broaden our knowledge in the field of human conduct we have to study on the one hand the problems of praxeological and economic theory and on the other hand history. But the study of history has to center around the study of the development of ideas and doctrines. The first step to every attempt to investigate social, political, and economic changes has to be the study of the changes of the ideas which guided men to bring about these changes.
 
-#### IV. Doctrines and Political Problems
+###### IV. Doctrines and Political Problems
 
 The problems the politicians have to deal with are not set by nature and natural conditions, they are set by the state of doctrinal convictions.
 
@@ -2615,7 +2615,7 @@ Political conflicts are the result of doctrines which maintain that the only way
 
 Thus the main subject of historical research has to be the study of social, economic, and political doctrines. What people do when making laws and constitutions, when organizing political parties and armies, when signing or breaking treaties, when living peacefully or kindling wars or revolutions, is the application of these doctrines. We are born into a world shaped by doctrines and we are living in an environment which continually changes by the operation of changing doctrines. Every man’s fate is determined by the working of these doctrines. We sow, but the result of our toil and trouble depends not only on the acts of God; not less important for our harvesting is the conduct of other people and this conduct is guided by doctrines.
 
-#### V. The Expedience of Doctrines
+###### V. The Expedience of Doctrines
 
 It is not the task of a scientific inquiry to judge the various doctrines from the point of view of pre-conceived convictions or of personal preferences. We have not the right to measure other people’s ideas by the standard of our morals. We have to eliminate from our reasoning the consideration of ultimate ends and values. It is not the duty of science to tell people what they should try to attain as their chief good.
 
@@ -2631,7 +2631,7 @@ It would not be more correct to style our point of view an utilitarian one. Util
 
 The only point which we have to emphasize is that people who do not apply the appropriate means will not attain the ends they wish to attain.
 
-#### VI. Esoteric Doctrines and Popular Beliefs
+###### VI. Esoteric Doctrines and Popular Beliefs
 
 Any attempts to study human conduct and historical changes has to make ample allowance for the fact of intellectual inequality of men. Between the philosophers and scholars who contrive new ideas and build up elaborate systems of thought and the narrow-minded dullards whose poor intellect cannot grasp but the simplest things there are many gradual transitions. We do not know what causes these differences in intellectual abilities; we have simply to acknowledge their existence. It is not permitted to dispose of them by explaining them as brought about by differences in environment, personal experience, and education. There can be no doubt that at the root of them lies innate heterogeneity of individuals.
 
@@ -2645,7 +2645,7 @@ As the study of doctrines is not a goal for itself, it has to pay no less attent
 
 ### 21. The Idea of Liberty is Western
 
-#### **I.**[^201]
+###### **I.**[^201]
 
 The history of civilization is the record of a ceaseless struggle for liberty.
 
@@ -2661,7 +2661,7 @@ The material improvements were the fruit of these reforms and innovations in the
 
 Also in the countries of Western civilization there have always been advocates of tyranny—the absolute arbitrary rule of an autocrat or an aristocracy on the one hand and the subjection of all other people on the other hand. But in the Age of Enlightenment the voices of these opponents became thinner and thinner. The cause of liberty prevailed. In the first part of the nineteenth century the victorious advance of the principle of freedom seemed to be irresistible. The most eminent philosophers and historians got the conviction that historical evolution tends toward the establishment of institutions warranting freedom and that no intrigues and machinations on the part of the champions could stop the trend toward liberalism.
 
-#### **II.**
+###### **II.**
 
 In dealing with the preponderance of the liberal social philosophy there is a disposition to overlook the power of an important factor that worked in favor of the idea of liberty, viz., the eminent role assigned to the literature of ancient Greece in the education of the elite. There were among the Greek authors also champions of government omnipotence, such as Plato. But the essential tenor of Greek ideology was the pursuit of liberty. Judged by the standards of modern liberal and democratic institutions, the Greek city-states must be called oligarchies. The liberty which the Greek statesmen, philosophers and historians glorified as the most precious good of man was a privilege reserved to a minority. In denying it to metics and slaves they virtually advocated the despotic rule of an hereditary caste of oligarchs. Yet it would be a grave error to dismiss their hymns to liberty as mendacious. They were no less sincere in their praise and quest of freedom than were, two thousand years later, the slaveholders George Washington and Thomas Jefferson. It was the political literature of the ancient Greeks that begot the ideas of the Monarchomachs, the philosophy of the Whigs, the doctrines of Althusius, Grotius, and John Locke, and the ideology of the fathers of modern constitutions and bills of rights. It was the classical studies, the essential feature of a liberal education, that kept awake the spirit of freedom in England of the Stuarts and George III, in France of the Bourbons, and in Italy, subject to the despotism of a galaxy of princes.
 
@@ -2673,7 +2673,7 @@ No intelligent man could fail to recognize that what the socialists, communists,
 
 These intellectuals and the masses who followed their lead were in their subconsciousness fully aware of the fact that their failure to attain the far-flung goals which their ambition impelled them to aim at was due to deficiencies of their own. They were either not bright enough or not industrious enough. But they were eager not to avow their inferiority both to themselves and to their fellow men and to search for a scapegoat. They consoled themselves and tried to convince other people that the cause of their failure was not their own inferiority but the injustice of society’s economic organization. Under capitalism, they declared, self-realization is only possible for the few. “Liberty in a _laissez-faire_ society is attainable only by those who have the wealth or opportunity to purchase it.”.[^203] Hence, they concluded, the state must interfere in order to realize “social justice.” What they really meant is, in order to give to the frustrated mediocrity “according to his needs.”
 
-#### III.
+###### III.
 
 As long as the problems of socialism were merely a matter of debates people who lack clear judgment and understanding could fall prey to the illusion that freedom could be preserved even under a socialist regime. Such self-deceit can no longer be nurtured since the Soviet experience has shown to everybody what conditions are in a socialist commonwealth. Today the apologists of socialism are forced to distort facts and to misrepresent the manifest meaning of words when they want to make people believe in the compatibility of socialism and freedom.
 
@@ -2689,7 +2689,7 @@ Or take the case of the British Labor Party. Their effort “to alter in a radic
 
 Marx, the dissenter, could at ease live, write and advocate revolution in Victorian England just as the Labor Party could at ease engage in all political activities in post-Victorian England. In Soviet Russia not the slightest opposition is tolerated. This is what the difference between liberty and slavery means.
 
-#### **IV.**
+###### **IV.**
 
 The critics of the legal and constitutional concept of liberty and the institutions devised for its practical realization are right in their assertion that freedom from arbitrary action on the part of the officeholders is in itself not yet sufficient to make an individual free. But in emphasizing this indisputable truth they are running against open doors. For no advocate of liberty ever contended that to restrain the arbitrariness of officialdom is all that is needed to make the citizens free. What gives to the individuals as much freedom as is compatible with life in society is the operation of the market system. The constitutions and bills of rights do not create freedom. They merely protect the freedom that the competitive economic system grants to the individuals against encroachments on the part of the police power.
 
@@ -2703,7 +2703,7 @@ Within the framework of social cooperation under the division of labor everybody
 
 There is need to stress the point that the essential argument advanced in favor of capitalism and against socialism is not the fact that socialism must necessarily abolish all vestiges of freedom and convert all people into slaves of those in power. Socialism is unrealizable as an economic system because a socialist society would not have any possibility of resorting to economic calculation. This is why it cannot be considered as a system of society’s economic organization. It is a means to disintegrate social cooperation and to bring about poverty and chaos.
 
-#### **V.**
+###### **V.**
 
 In dealing with the liberty issue one does not refer to the essential economic problem of the antagonism between capitalism and socialism. One rather points out that Western man as different from the Asiatics is entirely a being adjusted to life in freedom and formed by life in freedom. The civilizations of China, Japan, India, and the Mohammedan countries of the Near East as they existed before these nations became acquainted with Western ways of life certainly cannot be dismissed as barbarism. These peoples already many hundreds, even thousands of years ago brought about marvelous achievements in the industrial arts, in architecture, in literature and philosophy and in the development of educational institutions. They founded and organized powerful empires. But then their effort was arrested, their cultures became numb and torpid, and they lost the ability to cope successfully with economic problems. Their intellectual and artistic genius withered away. Their artists and authors bluntly copied traditional patterns. Their theologians, philosophers, and lawyers indulged in unvarying exegesis of old works. The monuments erected by their ancestors crumbled. Their empires disintegrated. Their citizens lost vigor and energy and became apathetic in the face of progressing decay and impoverishment.
 

@@ -125,7 +125,7 @@ There is no point nowadays in discussing why this goal could not then, and in fa
 
 Today’s monetary problem is a very different one. During and after the war [World War I, 1914–1918], many countries put into circulation vast quantities of credit money, which were endowed with legal tender quality. In the course of events described by Gresham’s Law, gold disappeared from monetary circulation in these countries. These countries now have paper money, the purchasing power of which is subject to sudden changes. The monetary economy is so highly developed today that the disadvantages of such a monetary system, with sudden changes brought about by the creation of vast quantities of credit money, cannot be tolerated for long. Thus the clamor to eliminate the deficiencies in the field of money has become universal. People have become convinced that the restoration of domestic peace within nations and the revival of international economic relations are impossible without a sound monetary system.
 
-#### 1\. Monetary Depreciation[^5]
+###### 1\. Monetary Depreciation[^5]
 
 If the practice persists of covering government deficits with the issue of notes, then the day will come without fail, sooner or later, when the monetary systems of those nations pursuing this course will break down completely. The purchasing power of the monetary unit will decline more and more, until finally it disappears completely. To be sure, one could conceive of the possibility that the process of monetary depreciation could go on forever. The purchasing power of the monetary unit could become increasingly smaller without ever disappearing entirely. Prices would then rise more and more. It would still continue to be possible to exchange notes for commodities. Finally, the situation would reach such a state that people would be operating with billions and trillions and then even higher sums for small transactions. The monetary system would still continue to function. However, this prospect scarcely resembles reality.
 
@@ -152,7 +152,7 @@ To the extent to which trade gradually shifts to using foreign money and actual 
   1. The demand from abroad for paper marks, which continues to some extent today, among speculators in foreign exchange (Valuta); and
   2. The fact that the impairment of [credit] techniques for making payments, due to the general economic deterioration, may have increased the demand for money [cash holdings] above what it would have otherwise been.
 
-#### 2\. Undesired Consequences
+###### 2\. Undesired Consequences
 
 If the future prospects for a money are considered poor, its value in speculations, which anticipate its future purchasing power, will be lower than the actual demand and supply situation at the moment would indicate. Prices will be asked and paid which more nearly correspond to anticipated future conditions than to the present demand for, and quantity of, money in circulation.
 
@@ -160,13 +160,13 @@ The frenzied purchases of customers who push and shove in the shops to get somet
 
 Once conditions reach this stage, there is no possible way to avoid the undesired consequences. If the issue of notes is further increased, as many recommend, then things would only be made still worse. Since the panic would keep on developing, the disproportionality between the depreciation of the monetary unit and the quantity in circulation would become still more exaggerated. The shortage of notes for the completion of transactions is a phenomenon of advanced inflation. It is the other side of the frenzied purchases and prices; it is the other side of the “crack-up boom.”
 
-#### 3\. Effect on Interest Rates
+###### 3\. Effect on Interest Rates
 
 Obviously, this shortage of monetary units should not be confused with what the businessman usually understands by a scarcity of money, accompanied by an increase in the interest rate for short term investments. An inflation, whose end is not in sight, brings that about also. The old fallacy—long since refuted by David Hume and Adam Smith—to the effect that a scarcity of money, as defined in the businessman’s terminology, may be alleviated by increasing the quantity of money in circulation, is still shared by many people. Thus, one continues to hear astonishment expressed at the fact that a scarcity of money prevails in spite of the uninterrupted increase in the number of notes in circulation. However, the interest rate is then rising, not in spite of, but precisely on account of, the inflation.
 
 If a halt to the inflation is not anticipated, the money lender must take into consideration the fact that, when the borrower ultimately repays the sum of money borrowed, it will then represent less purchasing power than originally lent out. If the money lender had not granted credit but instead had used his money himself to buy commodities, stocks, or foreign exchange, he would have fared better. In that case, he would have either avoided loss altogether or suffered a lower loss. If he lends his money, it is the borrower who comes out well. If the borrower buys commodities with the borrowed money and sells them later, he has a surplus after repaying the borrowed sum. The credit transaction yields him a profit, a real profit, not an illusory, inflationary profit. Thus, it is easy to understand that, as long as the continuation of monetary depreciation is expected, the money lender demands, and the borrower is ready to pay, higher interest rates. Where trade or legal practices are antagonistic to an increase in the interest rate, the making of credit transactions is severely hampered. This explains the decline in savings among those groups of people for whom capital accumulation is possible only in the form of money deposits at banking institutions or through the purchase of securities at fixed interest rates.
 
-#### 4\. The Run From Money
+###### 4\. The Run From Money
 
 The divorce of a money, which is proving increasingly useless, from trade begins when it starts coming out of hoarding. If people want marketable goods available to meet unanticipated future needs, they start to accumulate other moneys—for instance, metallic (gold and silver) moneys, foreign notes, and occasionally also domestic notes which are valued more highly because their quantity cannot be increased by the government, such as the Romanov ruble of Russia or the “blue” money of Communist Hungary.[^10] Then too, for the same purpose, people begin to acquire metal bars, precious stones and pearls, even pictures, other art objects and postage stamps. An additional step in displacing a no-longer-useful money is the shift to making credit transactions in foreign currencies or metallic commodity money which, for all practical purposes, means only gold. Finally, if the use of domestic money comes to a halt even in commodity transactions, wages too must be paid in some other way than with pieces of paper with which transactions are no longer being made.
 
@@ -174,13 +174,13 @@ Only the hopelessly confirmed statist can cherish the hope that a money, continu
 
 Obviously the notes cannot be forced out of their position as the legal media of exchange, except by an act of law. Even if they become completely worthless, even if nothing at all could be purchased for a billion marks, obligations payable in marks could still be legally satisfied by the delivery of mark notes. This means simply that creditors, to whom marks are owed, are precisely those who will be hurt most by the collapse of the paper standard. As a result, it will become impossible to save the purchasing power of the mark from destruction.
 
-#### 5\. Effect of Speculation
+###### 5\. Effect of Speculation
 
 Speculators actually provide the strongest support for the position of the notes as money. Yet, the current statist explanation maintains exactly the opposite. According to this doctrine, the unfavorable configuration of the quotation for German money since 1914 is attributed primarily, or at least in large part, to the destructive effect of speculation in anticipation of its decline in value. In fact, conditions were such that during the war, and later, considerable quantities of marks were absorbed abroad precisely because a future rally of the mark’s exchange rate was expected. If these sums had not been attracted abroad, they would necessarily have led to an even steeper rise in prices on the domestic market. It is apparent everywhere, or at least it was until recently, that even residents within the country anticipated a further reduction of prices. One hears again and again, or used to hear, that everything is so expensive now that all purchases, except those which cannot possibly be postponed, should be put off until later. Then again, on the other hand, it is said that the state of prices at the moment is especially favorable for selling. However, it cannot be disputed that this point of view is already on the verge of undergoing an abrupt change.
 
 Placing obstacles in the way of foreign exchange speculation, and making transactions in foreign exchange futures especially difficult, was detrimental to the formation of the exchange rate for notes. Still, not even speculative activity can help at the time when the opinion becomes general that no hope remains for stopping the progressive depreciation of the money. Then, even the optimists will retreat from German marks and Austrian crowns, part company with those who anticipate a rise and join with those who expect a decline. Once only one view prevails on the market, there can be no more exchanges based on differences of opinion.
 
-#### 6\. Final Phases
+###### 6\. Final Phases
 
 The process of driving notes out of service as money can take place either relatively slowly or abruptly in a panic, perhaps in days or even hours. If the change takes place slowly that means trade is shifting, step-by-step, to the general use of another medium of exchange in place of the notes. This practice of making and settling domestic transactions in foreign money or in gold, which has already reached substantial proportions in many branches of business, is being increasingly adopted. As a result, to the extent that individuals shift more and more of their cash holdings from German marks to foreign money, still more foreign exchange enters the country. As a result of the growing demand for foreign money, various kinds of foreign exchange, equivalent to a part of the value of the goods shipped abroad, are imported instead of commodities. Gradually, there is accumulated within the country a supply of foreign moneys. This substantially softens the effects of the final breakdown of the domestic paper standard. Then, if foreign exchange is demanded even in small transactions, if, as a result, even wages must be paid in foreign exchange, at first in part and then in full, if finally even the government recognizes that it must do the same when levying taxes and paying its officials, then the sums of foreign money needed for these purposes are, for the most part, already available within the country. The situation, which emerges then from the collapse of the government’s currency, does not necessitate barter, the cumbersome direct exchange of commodities against commodities. Foreign money from various sources then performs the service of money, even if somewhat unsatisfactorily.
 
@@ -190,7 +190,7 @@ In 1796, the value of French territorial mandats fell to zero. Louis Adolphe Thi
 
 > Nobody traded except for metallic money. The specie, which people had believed hoarded or exported abroad, found its way back into circulation. That which had been hidden appeared. That which had left France returned. The southern provinces were full of piasters, which came from Spain, drawn across the border by the need for them. Gold and silver, like all commodities, go wherever demand calls them. An increased demand raises what is offered for them to the point that attracts a sufficient quantity to satisfy the need. People were still being swindled by being paid in mandats, because the laws, giving legal tender value to paper money, permitted people to use it for the satisfaction of written obligations. But few dared to do this and all new agreements were made in metallic money. In all markets, one saw only gold or silver. The workers were also paid in this manner. One would have said there was no longer any paper in France. The mandats were then found only in the hands of speculators, who received them from the government and resold them to the buyers of national lands. In this way, the financial crisis, although still existing for the state, had almost ended for private persons.[^12]
 
-#### 7\. Greater Importance of Money to a Modern Economy
+###### 7\. Greater Importance of Money to a Modern Economy
 
 Of course, one must be careful not to draw a parallel between the effects of the catastrophe, toward which our money is racing headlong on a collision course, with the consequences of the two events described above. In 1781, the United States was a predominantly agricultural country. In 1796, France was also at a much lower stage in the economic development of the division of labor and use of money and, thus, in cash and credit transactions. In an industrial country, such as Germany, the consequences of a monetary collapse must be entirely different from those in lands where a large part of the population remains submerged in primitive economic conditions.
 
@@ -213,7 +213,7 @@ It is immaterial whether the continuation of inflation is considered desirable o
 
 ### II. The Emancipation of Monetary Value From the Influence of Government
 
-#### 1\. Stop Presses and Credit Expansion
+###### 1\. Stop Presses and Credit Expansion
 
 The first condition of any monetary reform is to halt the printing presses. Germany must refrain from financing government deficits by issuing notes, directly or indirectly. The Reichsbank [Germany’s central bank from 1875 until shortly after World War II] must not further expand its notes in circulation. Reichsbank deposits should be opened and increased, only upon the transfer of already existing Reichsbank accounts, or in exchange for payment in notes, or other domestic or foreign money. The Reichsbank should grant credits only to the extent that funds are available—from its own reserves and from other resources put at its disposal by creditors. It should not create credit to increase the amount of its notes, not covered by gold or foreign money, or to raise the sum of its outstanding liabilities. Should it release any gold or foreign money from its reserves, then it must reduce to that same extent the circulation of its notes or the use of its obligations in transfers.[^13]
 
@@ -221,7 +221,7 @@ Absolutely no evasions of these conditions should be tolerated. However, it migh
 
 There can be no doubt but what this would bring the continuing depreciation of the monetary unit to an immediate and effective halt. An increase in the purchasing power of the German monetary unit would even appear then—to the extent that the previous purchasing power of the German monetary unit, relative to that of commodities and foreign exchange, already reflected the view that the inflation would continue. This increase in purchasing power would rise to the point which corresponded to the actual situation.
 
-#### 2\. Relationship of Monetary Unit to World Money — Gold
+###### 2\. Relationship of Monetary Unit to World Money — Gold
 
 However, stopping the inflation by no means signifies stabilization of the value of the German monetary unit in terms of foreign money. Once strict limits are placed on any further inflation, the quantity of German money will no longer be changing. Still, with changes in the demand for money, changes will also be taking place in the exchange ratios between German and foreign moneys. The German economy will no longer have to endure the disadvantages that come from inflation and continual monetary depreciation; but it will still have to face the consequences of the fact that foreign exchange rates remain subject to continual, even if not severe, fluctuations.
 
@@ -231,7 +231,7 @@ To stabilize the relative value of the monetary unit beyond a nation’s borders
 
 It should be emphasized again and again that stabilization of the gold value of a monetary unit can only be attained if the printing presses are silenced. Every attempt to accomplish this by other means is futile. It is useless to interfere on the foreign exchange market. If the German government acquires dollars, perhaps through a loan, and sells the loan for paper marks, it is exerting pressure, in the process, on the dollar exchange rate. However, if the printing presses continue to run, the monetary depreciation will only be slowed down, not brought to a standstill as a result. Once the impetus of the intervention is exhausted, then the depreciation resumes again, even more rapidly. However, if the increase in notes has actually stopped, no intervention is needed to stabilize the mark in terms of gold.
 
-#### 3\. TREND OF DEPRECIATION
+###### 3\. TREND OF DEPRECIATION
 
 In this connection, it is pointed out that the increase in notes and the depreciation of the monetary unit do not exactly coincide chronologically. The value of the monetary unit often remains almost stable for weeks and even months, while the supply of notes increases continually. Then again, commodity prices and foreign exchange quotations climb sharply upward, in spite of the fact that the current increase in notes is not proceeding any faster or may even be slowing down. The explanation for this lies in the processes of market operations. The tendency to exaggerate every change is inherent in speculation. Should the conduct inaugurated by the few, who rely on their own independent judgment, be exaggerated and carried too far by those who follow their lead, then a reaction, or at least a standstill, must take place. So ignorance of the principles underlying the formation of monetary value leads to a reaction on the market.
 
@@ -247,13 +247,13 @@ These observers do not understand that the valuation of a monetary unit depends 
 
 ### III. The Return to Gold
 
-#### 1\. Eminence of Gold
+###### 1\. Eminence of Gold
 
 In the years preceding and during the war, the authors who prepared the way for the present monetary chaos were eager to sever the connection between the monetary standard and gold. So, in place of a standard based directly on gold, it was proposed to develop a standard which would promise no more than a constant exchange ratio in foreign money. These proposals, insofar as they aimed at transferring control over the formulation of monetary value to government, need not be discussed any further. The reason for using a _commodity_ money is precisely to prevent political influence from affecting directly the value of the monetary unit. Gold is not the standard money solely on account of its brilliance or its physical and chemical characteristics. Gold is the standard money primarily because an increase or decrease in the available quantity is independent of the orders issued by political authorities. The distinctive feature of the gold standard is that it makes changes in the quantity of money dependent on the profitability of gold production.
 
 Instead of the gold standard, a monetary standard based on a foreign currency could be introduced. The value of the mark would then be related, _not_ to gold, but to the value of a specific foreign money, at a definite exchange ratio. The Reichsbank would be ready at all times to buy or sell marks, in unlimited quantities at a fixed exchange rate, against the specified foreign money. If the monetary unit chosen as the basis for such a system is not on a sound gold standard, the conditions created would be absolutely untenable. The purchasing power of the German money would then hinge on fluctuations in the purchasing power of that foreign money. German policy would have renounced its influence on the creation of monetary value for the benefit of the policy of a foreign government. Then too, even if the foreign money, chosen as the basis for the German monetary unit, were on an absolutely sound gold standard at the moment, the possibility would remain that its tie to gold might be cut at some later time. So there is no basis for choosing this roundabout route in order to attain a sound monetary system. It is not true that adopting the gold standard leads to economic dependence on England, gold producers, or some other power. Quite the contrary! As a matter of fact, it is the monetary standard which relies on the money of a foreign government that deserves the name of a “subsidiary [dependent] or vassal standard.”[^16]
 
-#### 2\. Sufficiency of Available Gold
+###### 2\. Sufficiency of Available Gold
 
 There are no grounds for saying that there is not enough gold available to enable all the countries in the world to have the gold standard. There can never be too much, nor too little, gold to serve the purpose of money. Supply and demand are brought into balance by the formation of prices. Nor is there reason to fear that prices generally would be depressed too severely by a return to the gold standard on the part of countries with depreciated currencies. The world’s gold supplies have not decreased since 1914. They have increased. In view of the decline in trade and the increase in poverty, the demand for gold should be lower than it was before 1914, even after a complete return to the gold standard. After all, a return to the gold standard would not mean a return to the actual use of gold money within the country to pay for small- and medium-sized transactions. For even the gold exchange standard [_Goldkernwährung_] developed by Ricardo in his work, _Proposals for an Economical and Secure Currency_ (1816), is a legitimate and adequate gold standard,[^17] as the history of money in recent decades clearly shows.
 
@@ -265,7 +265,7 @@ Basing the German monetary system on some foreign money instead of the metal gol
 
 ### IV. The Money Relation
 
-#### 1\. Victory and Inflation
+###### 1\. Victory and Inflation
 
 No one can any longer maintain seriously that the rate of exchange for the German paper mark could be reestablished [in 1923] at its old gold value—as specified by the legislation of December 4, 1871, and by the coinage law of July 9, 1873. Yet many still resist the proposal to stabilize the gold value of the mark at the currently low rate. Rather vague considerations of national pride are often marshaled against it. Deluded by false ideas as to the causes of monetary depreciation, people have been in the habit of looking on a country’s currency as if it were the capital stock of the fatherland and of the government. People believe that a low exchange rate for the mark is a reflection of an unfavorable judgment as to the political and economic situation in Germany. They do not understand that monetary value is affected only by changes in the relation between the demand for, and quantity of, money and the prevailing opinion with respect to expected changes in that relationship, including those produced by governmental monetary policies.
 
@@ -273,7 +273,7 @@ During the course of the war, it was said that “the currency of the victor” 
 
 History shows that the foreign exchange value of the “victor’s money” may also be very low. Seldom has there been a more brilliant victory than that finally won by the American rebels under Washington’s leadership over the British forces. Yet the American money did not benefit as a result. The more proudly the Star Spangled Banner was raised, the lower the exchange rate fell for the “Continentals,” as the paper notes issued by the rebellious states were called. Then, just as the rebels’ victory was finally won, these “Continentals” became completely worthless. A short time later, a similar situation arose in France. In spite of the victory achieved by the Revolutionists, the agio [premium] for the metal rose higher and higher until finally, in 1796, the value of the paper monetary unit went to zero. In each case, the victorious government pursued inflation to the end.
 
-#### 2\. Establishing Gold “Ratio”
+###### 2\. Establishing Gold “Ratio”
 
 It is completely wrong to look on “devaluation” as governmental bankruptcy. Stabilization of the present depressed monetary value, even if considered only with respect to its effect on the existing debts, is something very different from governmental bankruptcy. It is both _more_ and, at the same time, less than governmental bankruptcy. It is more than governmental bankruptcy to the extent that it affects not only public debts, but also all private debts. It is less than governmental bankruptcy to the extent that it affects only the government’s outstanding debts payable in paper money, while leaving undisturbed its obligations payable in hard money or foreign currency. Then too, monetary stabilization brings with it no change in the relationships among contracting parties, with respect to paper money debts already contracted without any assurance of an increase in the value of the money.
 
@@ -292,7 +292,7 @@ In order to stabilize the value of a monetary unit at its present value, the dec
 
 ### V. Comments on the "Balance of Payments" Doctrine
 
-#### 1\. Refined Quantity Theory of Money
+###### 1\. Refined Quantity Theory of Money
 
 The generally accepted doctrine maintains that the establishment of sound relationships among currencies is possible only with a “favorable balance of payments.” According to this view, a country with an “unfavorable balance of payments” cannot maintain the stability of its monetary value. In this case, the deterioration in the rate of exchange is considered structural and it is thought it may be effectively counteracted only by eliminating the structural defects.
 
@@ -304,7 +304,7 @@ The undesirable outflow of money must always be simply the result of a governmen
 
 With the help of modern subjective theory, this theory can be more thoroughly developed and refined. Still it cannot be demolished. And no other theory can be put in its place. Those who can ignore this theory only demonstrate that they are not economists.
 
-#### 2\. Purchasing Power Parity
+###### 2\. Purchasing Power Parity
 
 One frequently hears, when commodity money is being replaced in one country by credit or token money—because the legally-decreed equality between the over-issued paper and the metallic money has prompted the sequence of events described by Gresham’s Law—that it is the balance of payments that determines the rates of foreign exchange. That is completely wrong. Exchange rates are determined by the relative purchasing power per unit of each kind of money. As pointed out above, exchange rates must eventually be established at a height at which it makes no difference whether one uses a piece of money directly to buy a commodity, or whether one first exchanges this money for units of a foreign currency and then spends that foreign currency for the desired commodity. Should the rate deviate from that determined by the purchasing power parity, which is known as the “natural” or “static” rate, an opportunity would emerge for undertaking profit-making ventures.
 
@@ -312,7 +312,7 @@ It would then be profitable to buy commodities with the money which is legally _
 
 The balance of payments doctrine overlooks the fact that the extent of foreign trade depends entirely on prices. It disregards the fact that nothing can be imported or exported if price differences, which make the trade profitable, do not exist. The balance of payments doctrine derives from superficialities. Anyone who simply looks at what is taking place on the Bourse every day and every hour sees, to be sure, only that the momentary state of the balance of payments is decisive for supply and demand on the foreign exchange market. Yet this diagnosis is merely the start of the inquiry into the factors determining foreign exchange rates. The next question is: What determines the momentary state of the balance of payments? This must lead only to the conclusion that the balance of payments is determined by the structure of prices and by the sales and purchases inspired by differences in prices.
 
-#### 3\. Foreign Exchange Rates
+###### 3\. Foreign Exchange Rates
 
 With rising foreign exchange quotations, foreign commodities can be imported only if they find buyers at their higher prices. One version of the balance of payments doctrine seeks to distinguish between the importation of necessities of life and articles which are considered less vital or necessary. It is thought that the necessities of life must be obtained at any price, because it is absolutely impossible to get along without them. As a result, it is held that a country’s foreign exchange must deteriorate continuously if it must import vitally-needed commodities while it can export only less-necessary items. This reasoning ignores the fact that the greater or lesser need for certain goods, the size and intensity of the demand for them, or the ability to get along without them, is already fully expressed by the relative height of the prices assigned to the various goods on the market.
 
@@ -322,7 +322,7 @@ If the quantity of notes were not increased, then the prices of the items for sa
 
 Certainly no proof is needed to demonstrate that speculation is not responsible for the deterioration of the foreign exchange situation. The foreign exchange speculator tries to anticipate prospective fluctuations in rates. He may perhaps blunder. In that case he must pay for his mistakes. However, speculators can never maintain for any length of time a quotation which is not in accord with market ratios. Governments and politicians, who blame the deterioration of the currency on speculation, know this very well. If they thought differently with respect to future foreign exchange rates, they could speculate for the government’s account, against a rise and in anticipation of a decline. By this single act they could not only improve the foreign exchange rate, but also reap a handsome profit for the Treasury.
 
-#### 4\. Foreign Exchange Regulations
+###### 4\. Foreign Exchange Regulations
 
 The ancient Mercantilist fallacies paint a specter which we have no cause to fear. No people, not even the poorest, need abandon sound monetary policy. It is neither the poverty of the individual nor of the group, it is neither foreign indebtedness nor unfavorable conditions of production, that drives foreign exchange rates way up. Only inflation does this.
 
@@ -342,7 +342,7 @@ If inflation continues, neither foreign exchange regulations nor control of fore
 
 ### VI. The Inflationist Argument
 
-#### 1\. Substitute for Taxes
+###### 1\. Substitute for Taxes
 
 Nowadays, the thesis is maintained that sound monetary relationships may certainly be worth striving for, but public policy is said to have other higher and more important goals. As serious an evil as inflation is, it is not considered the most serious. If it is a choice of protecting the homeland from enemies, feeding the starving and keeping the country from destruction, then let the currency go to rack and ruin. And if the German people must pay off a tremendous war debt, then the only way they can help themselves is through inflation.
 
@@ -350,7 +350,7 @@ This line of reasoning in favor of inflationism must be sharply distinguished fr
 
 The argument for limited inflationism is often stated so as to represent inflationism as a kind of a tax which is called for under certain conditions. In some situations it is considered more advantageous to cover government expenditures by issuing new notes, than by increasing the burden of taxes or borrowing money. This was the argument during the war, when it was a question of defraying the expenses of the army and navy. The same argument is now advanced when it comes to supplying some of the population with cheap foodstuffs, covering the operating deficits of public enterprises (the railroads, etc.) and arranging for reparations payments. The truth is that inflationism is resorted to when raising taxes is considered disagreeable and when borrowing is considered impossible. The question now is to explore the reasons why it is considered disagreeable or impossible to employ these two normally routine ways of obtaining money for government expenditures.
 
-#### 2\. Financing Unpopular Expenditures
+###### 2\. Financing Unpopular Expenditures
 
 High taxes can be imposed only if the general public is in agreement with the purposes for which the funds collected will be used. In this connection, it is worth noting that the higher the general burden of taxes, the more difficult it becomes to deceive public opinion as to the fact that the taxes cannot be borne by the more affluent minority of the population alone. Even taxes levied on property owners and the more affluent affect the entire economy. Their indirect effects on the less well-to-do are often felt more intensely than would be those from direct proportional taxation. It may not be easy to detect these relationships when tax rates are relatively low, but they can hardly be overlooked when taxes are higher. However, there is no doubt that the present system of taxing “property” can hardly be carried any farther than it already has been in the countries where inflationism now prevails. Thus the decision will have to be made to rely more directly on the masses for providing funds. For policy makers who enjoy the confidence of the masses only if they impose no obvious sacrifice, this is something they dare not risk.
 
@@ -358,7 +358,7 @@ Can anyone doubt that the warring peoples of Europe would have tired of the conf
 
 What the war began, the revolution continues. A socialistic or semi-socialistic government needs money to operate unprofitable enterprises, to subsidize the unemployed and to provide the people with cheap food supplies. Yet, it cannot raise the funds through taxes. It dares not tell the people the truth. The pro-statist, pro-socialist doctrine calling for government operation of the railroads would lose its popularity very quickly if a special tax were levied to cover the operating losses of the government railroads. If the Austrian masses themselves had been asked to pay a special bread tax, they would very soon have realized from whence came the funds to make the bread cheaper.
 
-#### 3\. War Reparations
+###### 3\. War Reparations
 
 The decisive factor for the German economy is obviously the payment of the reparations burden imposed by the Treaty of Versailles and its supplementary agreements. According to Karl Helfferich,[^24] these payments imposed on the German people an annual obligation estimated at two-thirds of their national income. This figure is undoubtedly much too high. No doubt, other estimates, especially those pronounced by French observers, considerably underestimate the actual ratio. In any event, the fact remains that a very sizeable portion of Germany’s current income is consumed by the levy imposed on the nation, and that, if the specified sum is to be withdrawn every year from income, the living standard of the German people must be substantially reduced.
 
@@ -366,7 +366,7 @@ Even though somewhat hampered by the remnants of feudalism, an authoritarian con
 
 A part of the burden, or even all of it, could of course be paid off by the export of capital goods. Shares of stock, bonds,[^25] business assets, land, buildings, would have to be transferred from German to foreign ownership. This would also reduce the total income of the people in the future, if not right away.
 
-#### 4\. The Alternatives
+###### 4\. The Alternatives
 
 These various means, however, are the only ways by which the reparations obligations can be met. Goods or capital, which would otherwise have been consumed within the country, can be exported. To discuss which is more practical is not the task of this essay. The only question which concerns us is how the government can proceed in order to shift to the individual citizens the burden of payments, which devolves first of all on the German treasury. Three ways are possible: raising taxes; borrowing within the country; and issuing paper money. Whichever one of the three methods may be chosen, the nature of its effect abroad remains unaltered. These three ways differ only in their distribution of the burden among citizens.
 
@@ -376,7 +376,7 @@ However, if and as the government follows the third route, issuing new notes in 
 
 From this one learns that the continuing depreciation of the German mark cannot be the consequence of reparations payments. The depreciation of the mark is simply a result of the fact that the government supplies the funds needed for the payments through new issues of notes. Even those who wish to attribute the decline in the rate of exchange on the market to the payment of reparations, rather than to inflation, point out that the quotation for marks is inevitably disturbed by the government’s offering of marks for the purchase of foreign exchange.[^26] Still, if the government had available for these foreign exchange purchases only the number of marks which it received from taxes or loans, then its demand would not exceed the supply. It is only because it is offering newly created notes, that it drives the foreign exchange rates up.
 
-#### 5\. The Government’s Dilemma
+###### 5\. The Government’s Dilemma
 
 Nevertheless, this is the only method available for the German government to defray the reparations debt. Should it try to raise the sums demanded through loans or taxes, it would fail. As conditions with the German people are now, if the economic consequences of compliance were clearly understood and there was no deception as to the costs of that policy, the government could not count on majority support for it. Public opinion would turn with tremendous force against any government that tried to carry out in full the obligations to the Allied Powers. It is not our task to explore whether or not that might be a wise policy.
 
@@ -394,7 +394,7 @@ Even governments must learn once more to adjust their outgo to income. Once the 
 
 ### VII. The New Monetary System
 
-#### 1\. First Steps
+###### 1\. First Steps
 
 The bedrock and cornerstone of the provisional new monetary system must be the absolute prohibition of the issue of any additional notes not completely covered by gold. The maximum limit for German notes in circulation [not completely covered by gold] will be the sum of the banknotes, Loan Bureau Notes (_Darlehenskassenscheinen_), emergency currency (_Notgeld_) of every kind, and small coins, actually in circulation at the instant of the monetary reform, less the gold stock and supply of foreign bills held in the reserves of the Reichsbank and the private banks of issue. There must be absolutely no expansion above this maximum under any circumstances, except for the relaxation mentioned above at the end of each quarter. [See above pp. 29–30.] Notes of any kind over and above this amount must be fully covered by deposits of gold or foreign exchange in the Reichsbank. As may be seen, this constitutes acceptance of the leading principle of Peel’s Bank Act, with all its shortcomings. However, these flaws have little significance at the moment. Our first concern is only to get rid of the inflation by stopping the printing presses. This goal, the only immediate one, will be most effectively served by a strict prohibition of the issue of additional notes not backed by metal.
 
@@ -409,7 +409,7 @@ Simultaneously with the enactment of the prohibition against the issue of additi
 
 It should also be specifically pointed out that the obligation of the Reichsbank to redeem its notes must be interpreted in the strictest possible manner. Every subterfuge, by which European central banks sought to follow some form of “gold premium policy”[^29] during the decades preceding the World War, must be discontinued.
 
-#### 2\. Market Interest Rates
+###### 2\. Market Interest Rates
 
 If the Reichsbank were operating under these principles, it would obviously not be in a position to supply the money market with funds obtained by increasing the circulation of notes not covered by metal. Except for the possibilities of such transfers as may not have been previously limited, the Bank will be able to lend out only its own resources and funds furnished by its creditors. Inflationary increases in the note circulation for the benefit of private, as well as public, credit demands will thus be ruled out. The Bank will not then be in a position to follow the policy—which it has attempted again and again—of lowering artificially the market rate of interest.
 
@@ -426,7 +426,7 @@ People keep forgetting that the increase in the cost of credit—which has becom
 
 ### VIII. The Ideological Meaning of Reform
 
-#### 1\. The Ideological Conflict
+###### 1\. The Ideological Conflict
 
 The purely materialistic doctrine now used to explain every event looks on monetary depreciation as a phenomenon brought about by certain “material” causes. Attempts are made to counteract these imagined causes by various monetary techniques. People ignore, perhaps knowingly, that the roots of monetary depreciation are ideological in nature. It is always an inflationist policy, not “economic conditions,” which brings about the monetary depreciation. The evil is philosophical in character. The state of affairs, universally deplored today, was created by a misunderstanding of the nature of money and an incorrect judgment as to the consequences of monetary depreciation.
 
@@ -511,15 +511,15 @@ Only on the basis of a comprehensive theory of indirect exchange, i.e., a theory
 
 ### Part A: Stabilization of the Purchasing Power of the Monetary Unit
 
-#### I. THE PROBLEM
+###### I. THE PROBLEM
 
-#### 1\. “Stable Value” Money
+###### 1\. “Stable Value” Money
 
 Gold and silver had already served mankind for thousands of years as generally accepted media of exchange—that is, as money—before there was any clear idea of the formation of the exchange relationship between these metals and consumers’ goods, i.e., before there was an understanding as to how money prices for goods and services are formed. At best, some attention was given to fluctuations in the mutual exchange relationships of the two precious metals. But so little understanding was achieved that men clung, without hesitation, to the naïve belief that the precious metals were “stable in value” and hence a useful measure of the value of goods and prices. Only much later did the recognition come that supply and demand determine the exchange relationship between money, on the one hand, and consumers’ goods and services, on the other. With this realization, the first versions of the Quantity Theory, still somewhat imperfect and vulnerable, were formulated. It was known that violent changes in the volume of production of the monetary metals led to all-round shifts in money prices. When “paper money” was used along side “hard money,” this connection was still easier to see. The consequences of a tremendous paper inflation could not be mistaken.
 
 From this insight, the doctrine of monetary policy emerged that the issue of “paper money” should be avoided completely. However, before long other authors made still further stipulations. They called the attention of politicians and businessmen to the fluctuations in the purchasing power of the precious metals and proposed that the substance of monetary claims be made independent of these variations. Side by side with money as the standard of deferred payments,[^37] or in place of it, there should be a tabular, index, or multiple commodity standard. Cash transactions, in which the terms of both sides of the contract are fulfilled simultaneously, would not be altered. However, a new procedure would be introduced for credit transactions. Such transactions would not be completed in the sum of money indicated in the contract. Instead, either by means of a universally compulsory legal regulation or else by specific agreement of the two parties concerned, they would be fulfilled by a sum with the purchasing power deemed to correspond to that of the original sum at the time the contract was made. The intent of this proposal was to prevent one party to a contract from being hurt to the other’s advantage. These proposals were made more than one hundred years ago by Joseph Lowe (1822) and repeated shortly thereafter by G. Poulett Scrope (1833).[^38] Since then, they have cropped up repeatedly but without any attempt having been made to put them into practice anywhere.
 
-#### 2\. Recent Proposals
+###### 2\. Recent Proposals
 
 One of the proposals, for a multiple commodity standard, was intended simply to supplement the precious metals standard. Putting it into practice would have left metallic money as a universally acceptable medium of exchange for all transactions not involving deferred monetary payments. (For the sake of simplicity in the discussion that follows, when referring to metallic money we shall speak only of gold.) Side by side with gold as the universally acceptable medium of exchange, the index or multiple commodity standard would appear as a standard of deferred payments.
 
@@ -529,9 +529,9 @@ The American, Irving Fisher, wants to create a standard under which the paper do
 
 However, these proposals have not as yet been put into practice anywhere, although they have been given a great deal of careful consideration. Perhaps no other economic question is debated with so much ardor or so much spirit and ingenuity in the United States, as that of stabilizing the purchasing power of the monetary unit. Members of the House of Representatives have dealt with the problem in detail. Many scientific works are concerned with it. Magazines and daily papers devote lengthy essays and articles to it, while important organizations seek to influence public opinion in favor of carrying out Fisher’s ideas.
 
-#### II. THE GOLD STANDARD
+###### II. THE GOLD STANDARD
 
-#### 1\. The Demand for Money
+###### 1\. The Demand for Money
 
 Under the gold standard, the formation of the value of the monetary unit is not _directly_ subject to the action of the government. The production of gold is free and responds only to the opportunity for profit. All gold not introduced into trade for consumption or for some other purpose flows into the economy as money, either as coins in circulation or as bars or coins in bank reserves. Should the increase in the quantity of money exceed the increase in the demand for money, then the purchasing power of the monetary unit must fall. Likewise, if the increase in the quantity of money lags behind the increase in the demand for money, the purchasing power of the monetary unit will rise.[^41]
 
@@ -543,7 +543,7 @@ During the period for which we are considering the development of the purchasing
 
 As far as the individual’s cash holding is concerned, claims payable in money, which may be redeemed at any time and are universally considered safe, perform the service of money. These money substitutes—small coins, banknotes and bank deposits subject to check or similar payment on demand (checking accounts)—may be used just like money itself for the settlement of all transactions. Only a part of these money substitutes, however, is fully covered by stocks of gold on deposit in the banks’ reserves. In the decades of which we speak, the use of money substitutes has increased considerably more than has the rise in the demand for money and, at the same time, its reserve ratio has worsened. As a result, in spite of an appreciable increase in the demand for money, the demand for gold has not risen enough for the market to absorb the new quantities of gold flowing from production without lowering its purchasing power.
 
-#### 2\. Economizing on Money
+###### 2\. Economizing on Money
 
 If one complains of the decline in the purchasing power of gold today, and contemplates the creation of a monetary unit whose purchasing power shall be more constant than that of gold in recent decades, it should not be forgotten that the principal cause of the decline in the value of gold during this period is to be found in monetary policy and not in gold production itself. Money substitutes not covered by gold, which we call fiduciary media, occupy a relatively more important position today in the world’s total quantity of money[^42] than in earlier years. But this is not a development which would have taken place without the cooperation, or even without the express support, of governmental monetary policies. As a matter of fact, it was monetary policy itself which was deliberately aimed at a “saving” of gold and, which created, thereby, the conditions that led inevitably to the depreciation of gold.
 
@@ -557,7 +557,7 @@ Carrying out this plan in a single country must obviously, _ceteris paribus_ , r
 
 However, should every country in the world shift at the same time from the “pure” gold standard to a similar gold exchange standard, no gain of this kind would be possible. The distribution of gold throughout the world would remain unchanged. There would be no country where one could exchange a quantity of gold, made superfluous by the adoption of the new monetary system, for other goods. Embracing the new standard would result only in a universally more severe reduction in the purchasing power of gold. This monetary depreciation, like every change in the value of money, would bring about dislocations in the relationships of wealth and income of the various individuals in the economy. As a result, it could also lead indirectly, under certain circumstances, to an increase in capital accumulation. However, this indirect method will make the world richer only insofar as (1) the demand for gold for other uses (industrial and similar purposes) can be better satisfied and (2) a decline in profitability leads to a restriction of gold production and so releases capital and labor for other purposes.
 
-#### 3\. Interest on “idle” Reserves
+###### 3\. Interest on “idle” Reserves
 
 In addition to these attempts toward “economy” in the operation of the gold standard, by reducing the domestic demand for gold, other efforts have also aimed at the same objective. Holding gold reserves is costly to the banks of issue because of the loss of interest. Consequently, it was but a short step to the reduction of these costs by permitting noninterest-bearing gold reserves in bank vaults to be replaced by interest-bearing credit balances abroad, payable in gold on demand, and by bills of exchange payable in gold. Assets of this type enable the banks of issue to satisfy demands for gold in foreign trade just as the possession of a stock of gold coins and bars would. As a matter of fact, the dealer in arbitrage who presents notes for redemption will prefer payment in the form of checks, and bills of exchange—foreign financial paper—to redemption in gold because the costs of shipping foreign financial papers are lower than those for the transport of gold. The banks of smaller and poorer lands especially converted a part of their reserves into foreign bills of exchange. The inducement was particularly strong in countries on the gold exchange standard, where the banks did not have to consider a demand for gold for use in domestic circulation. In this way, the gold exchange standard [_Goldkernwährung_] became the flexible gold exchange standard [_Golddevisenkernwährung_], i.e., the flexible standard.
 
@@ -565,7 +565,7 @@ Nevertheless, the goal of this policy was not only to reduce the costs involved 
 
 Lack of originality prevented the new generation from embarking upon any startling reversal in policy. In line with currently prevailing opinion, it abolished the limitation on the issue of banknotes not covered by metal. The old laws were allowed to stay on the books essentially unchanged. However, various attempts were made to reduce their effect. The most noteworthy of these measures was to encourage, systematically and purposefully, the settlement of transactions without the use of cash. By supplanting cash transactions with checks and other transfer payments, it was expected not only that there would be a reduction in the demand for banknotes but also a flow of gold coins back to the bank and, consequently, a strengthening of the bank’s cash position. As German, and also Austrian, banking legislation prescribed a certain percentage of gold cover for notes issued, gold flowing back to the bank meant that more notes could be issued—up to three times their gold value in Germany and two and a half times in Austria. During recent decades, the banking theory has been characterized by a belief that this should result in a reduction in the rate of interest.
 
-#### 4\. Gold Still Money
+###### 4\. Gold Still Money
 
 If we glance, even briefly, at the efforts of monetary and banking policy in recent years, it becomes obvious that the depreciation of gold may be traced in large part to political measures. The decline in the purchasing power of gold and the continual increase in the gold price of all goods and services were not natural phenomena. They were consequences of an economic policy which aimed, to be sure, at other objectives, but which necessarily led to these results. As has already been mentioned, accurate quantitative observations about these matters can never be made. Nevertheless, it is obvious that the increase in gold production has certainly not been the cause, or at least not the only cause, of the depreciation of gold that has been observed since 1896. The policy directed toward displacing gold in actual circulation, which aimed at substituting the gold exchange standard and the flexible standard for the older “pure” gold standard, forced the value of gold down or at least helped to depress it. Perhaps, if this policy had not been followed, we would hear complaints today over the increase, rather than the depreciation, in the value of gold.
 
@@ -573,9 +573,9 @@ Gold has not been demonetized by the new monetary policy, as silver was a short 
 
 It is wrong to point to the general price increases of recent years to illustrate the inadequacy of the gold standard. It is not the old style gold standard, as recommended by advocates of the gold standard in England and Germany, which has given us a monetary system that has led to rising prices in recent years. Rather these price increases have been the results of monetary and banking policies which permitted the “pure” or “classical” gold standard to be replaced by the gold exchange and flexible standards, leaving in circulation only notes and small coins and concentrating the gold stocks in bank and currency reserves.
 
-#### III. THE “MANIPULATION OF THE GOLD STANDARD”
+###### III. THE “MANIPULATION OF THE GOLD STANDARD”
 
-#### 1\. Monetary Policy and Purchasing Power of Gold
+###### 1\. Monetary Policy and Purchasing Power of Gold
 
 Most important for the old, “pure,” or classical gold standard, as originally formulated in England and later, after the formation of the Empire, adopted in Germany, was the fact that it made the formation of prices independent of political influence and the shifting views which sway political action. This feature especially recommended the gold standard to liberals[^45] who feared that economic productivity might be impaired as a result of the tendency of governments to favor certain groups of persons at the expense of others.
 
@@ -589,7 +589,7 @@ War and postwar actions, with respect to monetary policy, have radically changed
 
 To repeat for the sake of clarity, this represents no essential disagreement with the advocates of the gold standard as to what they considered its special superiority. Changes in the monetary system of any large and wealthy land will necessarily influence substantially the creation of monetary value. Once these changes have been carried out and have worked their effect on the purchasing power of gold, the value of money will necessarily be affected again by a return to the previous monetary system. However, this detracts in no way from the truth of the statement that the creation of value under the gold standard is independent of politics, so long as no essential changes are made in its structure, nor in the size of the area where it prevails.
 
-#### 2\. Changes in Purchasing Power of Gold
+###### 2\. Changes in Purchasing Power of Gold
 
 Irving Fisher, as well as many others, criticize the gold standard because the purchasing power of gold has declined considerably since 1896, and especially since 1914. In order to avoid misunderstanding, it should be pointed out that this drop in the purchasing power of gold must be traced back to monetary policy—monetary policy which fostered the reduction in the purchasing power of gold through measures adopted between 1896 and 1914, to “economize” gold and, since 1914, through the rejection of gold as the basis for money in many countries. If others denounce the gold standard because the imminent return to the actual use of gold in circulation and the strengthening of gold reserves in countries on the exchange standard would bring about an increase in the purchasing power of gold, then it becomes obvious that we are dealing with the consequences of political changes in monetary policy which transform the structure of the gold standard.
 
@@ -599,9 +599,9 @@ As gold is obtained only from a few sources, which sooner or later will be exhau
 
 Now one must be very cautious with forecasts of this kind. A half century ago, Eduard Suess, the geologist, claimed—and he sought to establish this scientifically—that an unavoidable decline in gold production should be expected.[^47] Facts very soon proved him wrong. And it may be that those who express similar ideas today will also be refuted just as quickly and just as thoroughly. Still we must agree that they are right in the final analysis, that prices are tending to fall [1928] and that all the social consequences of an increase in purchasing power are making their appearance. What may be ventured, given the circumstances, in order to change the economic pessimism, will be discussed at the end of the second part of this study.
 
-#### IV. “MEASURING” CHANGES IN THE PURCHASING POWER OF THE MONETARY UNIT
+###### IV. “MEASURING” CHANGES IN THE PURCHASING POWER OF THE MONETARY UNIT
 
-#### 1\. Imaginary Constructions
+###### 1\. Imaginary Constructions
 
 All proposals to replace the commodity money, gold, with a money thought to be better, because it is more “stable” in value, are based on the vague idea that changes in purchasing power can somehow be measured. Only by starting from such an assumption is it possible to conceive of a monetary unit with unchanging purchasing power as the ideal and to consider seeking ways to reach this goal. These proposals, vague and basically contradictory, are derived from the old, long since exploded, objective theory of value. Yet they are not even completely consistent with that theory. They now appear very much out of place in the company of modern, subjective economics.
 
@@ -617,7 +617,7 @@ The expressions, “inflation” and “deflation,” scarcely known in German e
 
 Among the significant services performed by this fiction is that it enables us to distinguish and determine whether changes in exchange relationships between money and other commodities arise on the money side or the commodity side. In order to understand the changes which take place constantly on the market, this distinction is urgently needed. It is still more indispensable for judging the significance of measures proposed or adopted in the field of monetary and banking policy. Even in these cases, however, we can never succeed in constructing a fictional representation that coincides with the situation which actually appears on the market. The imaginary construction makes it easier to understand reality, but we must remain conscious of the distinction between fiction and reality.[^51]
 
-#### 2\. Index Numbers
+###### 2\. Index Numbers
 
 Attempts have been made to measure changes in the purchasing power of money by using data derived from changes in the money prices of individual economic goods. These attempts rest on the theory that, in a carefully selected index of a large number, or of all consumers’ goods, influences from the commodity side affecting commodity prices cancel each other out. Thus, so the theory goes, the direction and extent of the influence on prices of factors arising on the money side may be discovered from such an index. Essentially, therefore, by computing an arithmetical mean, this method seeks to convert the price changes emerging among the various consumers’ goods into a figure which may then be considered an index to the change in the value of money. In this discussion, we shall disregard the practical difficulties which arise in assembling the price quotations necessary to serve as the basis for such calculations and restrict ourselves to commenting on the fundamental usefulness of this method for the solution of our problem.
 
@@ -639,9 +639,9 @@ It is small consolation to point out that the results of the various methods do 
 
 Any index method is good enough to make a rough statement about the extremely severe depreciation of the value of a monetary unit, such as that wrought in the German inflation. There, the index served an instructional task, enlightening a people who were inclined to the “State Theory of Money” idea. Nevertheless, a method that helps to open the eyes of the people is not necessarily either scientifically correct or applicable in actual practice.
 
-#### V. FISHER’S STABILIZATION PLAN
+###### V. FISHER’S STABILIZATION PLAN
 
-#### 1\. Political Problem
+###### 1\. Political Problem
 
 The superiority of the gold standard consists in the fact that the value of gold develops independent of political actions. It is clear that its value is not “stable.” There is not, and never can be, any such thing as stability of value. If, under a “manipulated” monetary standard, it was government’s task to influence the value of money, the question of how this influence was to be exercised would soon become the main issue among political and economic interests. Government would be asked to influence the purchasing power of money so that certain politically powerful groups would be favored by its intervention, at the expense of the rest of the population. Intense political battles would rage over the direction and scope of the edicts affecting monetary policy. At times, steps would be taken in one direction, and at other times in other directions—in response to the momentary balance of political power. The steady, progressive development of the economy would continually experience disturbances from the side of money. The result of the manipulation would be to provide us with a monetary system which would certainly not be any more stable than the gold standard.
 
@@ -651,7 +651,7 @@ In addition, however, there is still one more very important consideration. The 
 
 All this is sufficient to explain why proposals for establishing a manipulated standard have not been popular. It also explains—even if one disregards the way finance ministers have abused their authority—why credit money (commonly known as “paper money”) is considered “bad” money. Credit money is considered “bad money” precisely because it may be manipulated.
 
-#### 2\. Multiple Commodity Standard
+###### 2\. Multiple Commodity Standard
 
 Proposals that a multiple commodity standard replace, or supplement, monetary standards based on the precious metals—in their role as standards of deferred payments—are by no means intended to create a manipulated money. They are not intended to change the precious metals standard itself nor its effect on value. They seek merely to provide a way to free all transactions involving future monetary payments from the effect of changes in the value of the monetary unit. It is easy to understand why these proposals were not put into practice. Relying as they do on the shaky foundation of index number calculations, which cannot be scientifically established, they would not have produced a stable standard of value for deferred payments. They would only have created a different standard with different changes in value from those under the gold metallic standard.
 
@@ -659,7 +659,7 @@ To some extent Fisher’s proposals parallel the early ideas of advocates of a m
 
 Fisher, too, based his proposals entirely on index numbers. What seems to recommend his scheme, as compared with proposals for introducing a “multiple standard,” is the fact that he does not use index numbers directly to determine changes in purchasing power over a long period of time. Rather he uses them primarily to understand changes taking place from month to month only. Many objections raised against the use of the index method for analyzing longer periods of time will perhaps appear less justified when considering only shorter periods. But there is no need to discuss this question here, for Fisher did not confine the application of his plan to short periods only. Also, even if adjustments are always made from month to month only, they were to be carried forward, on and on, until eventually calculations were being made, with the help of the index number, which extended over long periods of time. Because of the imperfection of the index number, these calculations would necessarily lead in time to errors of very considerable proportions.
 
-#### 3\. Price Premium
+###### 3\. Price Premium
 
 Fisher’s most important contribution to monetary theory is the emphasis he gave to the previously little noted effect of changes in the value of money on the formation of the interest rate.[^55] Insofar as movements in the purchasing power of money can be foreseen, they find expression in the gross interest rate—not only as to the direction they will take but also as to their approximate magnitude. That portion of the gross interest rate which is demanded, and granted, in view of anticipated changes in purchasing power is known as the purchasing-power-change premium or price-change premium. In place of these clumsy expressions we shall use a shorter term—“price premium.” Without any further explanation, this terminology leads to an understanding of the fact that, given an anticipation of general price increases, the price premium is “positive,” thus raising the gross rate of interest. On the other hand, with an anticipation of general price _decreases,_ the price premium becomes “negative” and so reduces the gross interest rate.
 
@@ -673,7 +673,7 @@ To the extent that this process correctly anticipates the price movements that a
 
 Thus we are in a position to see that Fisher’s proposal actually offers no more than was offered by any previous plan for a multiple standard. In regard to the role of money as a standard of deferred payments, the verdict must be that, for long-term contracts, Fisher’s scheme is inadequate. For short-term commitments, it is both inadequate and superfluous.
 
-#### 4\. Changes in Wealth and Income
+###### 4\. Changes in Wealth and Income
 
 However, the social consequences of changes in the value of money are not limited to altering the content of future monetary obligations. In addition to these social effects, which are generally the only ones dealt with in Anglo-American literature, there are still others. Changes in money prices never reach all commodities at the same time, and they do not affect the prices of the various goods to the same extent. Shifts in relationships between the demand for, and the quantity of, money for cash holdings generated by changes in the value of money from the money side do not appear simultaneously and uniformly throughout the entire economy. They must necessarily appear on the market at some definite point, affecting only one group in the economy at first, influencing only _their_ judgments of value in the beginning and, as a result, only the prices of commodities these particular persons are demanding. Only gradually does the change in the purchasing power of the monetary unit make its way throughout the entire economy.
 
@@ -683,7 +683,7 @@ Suppose we ignore the consequences of changes in the value of money on future mo
 
 It is only because changes in the purchasing power of money never affect all commodities everywhere simultaneously that they bring with them (in addition to their influence on debt transactions) still other shifts in wealth and income. The groups which produce and sell the commodities that go up in price first are benefited by the inflation, for they realize higher profits in the beginning and yet they can still buy the commodities they need at lower prices, reflecting the previous stock of money. So during the inflation of the World War [1914–1918], the producers of war materiel and the workers in war industries, who received the output of the printing presses earlier than other groups of people, benefited from the monetary depreciation. At the same time, those whose incomes remained nominally the same suffered from the inflation, as they were forced to compete in making purchases with those receiving war inflated incomes. The situation became especially clear in the case of government employees. There was no mistaking the fact that they were losers. Salary increases came to them too late. For some time they had to pay prices, already affected by the increase in the quantity of money, with money incomes related to previous conditions.
 
-#### 5\. Uncompensatable Changes
+###### 5\. Uncompensatable Changes
 
 In the case of foreign trade, it was just as easy to see the consequences of the fact that price changes of the various commodities did not take place simultaneously. The deterioration in the value of the monetary unit encourages exports because a part of the raw materials, semi-produced factors of production and labor needed for the manufacture of export commodities, were procured at the old lower prices. At the same time the change in purchasing power, which for the time being has affected only a part of the domestically-produced commodities, has already had an influence on the rate of exchange on the Bourse. The result is that the exporter realizes a specific monetary gain.
 
@@ -695,9 +695,9 @@ Whether or not these two deviations in prices correspond in such a way that thei
 
 So there is no need to go into more detail with respect to the technical difficulties that stand in the way of realizing Fisher’s Plan. Even if it could be put into operation successfully, it would not provide us with a monetary system that would leave the disposition of wealth and income undisturbed.
 
-#### VI. GOODS-INDUCED AND CASH-INDUCED CHANGES IN THE PURCHASING POWER OF THE MARKET
+###### VI. GOODS-INDUCED AND CASH-INDUCED CHANGES IN THE PURCHASING POWER OF THE MARKET
 
-#### 1\. The Inherent Instability of Market Ratios
+###### 1\. The Inherent Instability of Market Ratios
 
 Changes in the exchange ratios between money and the various other commodities may originate either from the money side or from the commodity side of the transaction. Stabilization policy does not aim only at eliminating changes arising on the side of money. It also seeks to prevent all future price changes, even if this is not always clearly expressed and may sometimes be disputed.
 
@@ -715,7 +715,7 @@ However, if we consider changes in real income due to increased production, it b
 
 We find, on the one hand, that neither the multiple commodity standard nor Irving Fisher’s specific proposal is capable of eliminating the economic concomitants of changes in the value of the monetary unit due to the unequal timing in appearance and the irregularity in size of price changes. On the other hand, we see that these proposals seek to eliminate the repercussions on the content of debt agreements, circumstances permitting, in such a way as to cause definite shifts in wealth and income relations, shifts which appear obviously “unjust,” at least to those on whom their burden falls. The “justice” of these proposed reforms, therefore, is somewhat more doubtful than their advocates are inclined to assume.
 
-#### 2\. The Misplaced Partiality to Debtors
+###### 2\. The Misplaced Partiality to Debtors
 
 It is certainly regrettable that this worthy goal cannot be attained, at least not by this particular route. These and similar efforts are usually acknowledged with sympathy by many who recognize their fallacy and their unworkability. This sympathy is based ultimately on the intellectual and physical inclination of men to be both lazy and resistant to change at the same time. Surely everyone wants to see his situation improved with respect to his supply of goods and the satisfaction of his wants. Surely everyone hopes for changes which would make him richer. Many circumstances make it appear that the old and the traditional, being familiar, are preferable to the new. Such circumstances would include distrust of the individual’s own powers and abilities, aversion to being forced to adapt in thought and action to new situations and, finally, the knowledge that one is no longer able, in advanced years of life, to meet his obligations with the vitality of youth.
 
@@ -727,9 +727,9 @@ It is understandable, therefore, that proposals for the creation of a “stable 
 
 Many signs seem to indicate that the period of monetary depreciation [due to inflation] is coming to an end. Should this actually be the case, then the appeal which the idea of a manipulated standard now enjoys among creditor nations also would abate.
 
-#### VII. THE GOAL OF MONETARY POLICY
+###### VII. THE GOAL OF MONETARY POLICY
 
-#### 1\. Liberalism[^59] and the Gold Standard
+###### 1\. Liberalism[^59] and the Gold Standard
 
 Monetary policy of the preliberal era was either crude coin debasement, for the benefit of financial administration (only rarely intended as _Seisachtheia_ ,[^60] i.e., to nullify outstanding debts), or still more crude paper money inflation. However, in addition to, sometimes even instead of, its fiscal goal, the driving motive behind paper money inflation very soon became the desire to favor the debtor at the expense of the creditor.
 
@@ -739,7 +739,7 @@ In opposing a single precious metal standard, monetary policy exhausted itself i
 
 With the attainment of gold monometallism, liberals believed the goal of monetary policy had been reached. (The fact that they considered it necessary to supplement monetary policy through banking policy will be examined later in considerable detail.) The value of gold was then independent of any _direct_ manipulation by governments, political policies, public opinion or Parliaments. So long as the gold standard was maintained, there was no need to fear severe price disturbances from the side of money. The adherents of the gold standard wanted no more than this, even though it was not clear to them at first that this was all that _could_ be attained.
 
-#### 2\. “Pure” Gold Standard Disregarded
+###### 2\. “Pure” Gold Standard Disregarded
 
 We have seen how the purchasing power of gold has continuously declined since the turn of the century. That was not, as frequently maintained, simply the consequence of increased gold production. There is no way to know whether the increased production of gold would have been sufficient to satisfy the increased demand for money without increasing its purchasing power, if monetary policy had not intervened as it did. The gold exchange and flexible standards were adopted in a number of countries, not the “pure” gold standard as its advocates had expected. “Pure” gold standard countries embraced measures which were thought to be, and actually were, steps toward the exchange standard. Finally, since 1914, gold has been withdrawn from actual circulation almost everywhere. It is primarily due to these measures that gold declined in value, thus generating the current debate on monetary policy.
 
@@ -747,7 +747,7 @@ The fault found with the gold standard today is not, therefore, due to the gold 
 
 The “pure” gold standard formed the foundation of the monetary system in the most important countries of Europe and America, as well as in Australia. This system remained in force until the outbreak of the World War [1914]. In the literature on the subject, it was also considered the ideal monetary policy until very recently. Yet the champions of this “pure” gold standard undoubtedly paid too little attention to changes in the purchasing power of monetary gold originating on the side of money. They scarcely noted the problem of the “stabilization” of the purchasing power of money, very likely considering it completely impractical. Today we may pride ourselves on having grasped the basic questions of price and monetary theory more thoroughly and on having discarded many of the concepts which dominated works on monetary policy of the recent past. However, precisely because we believe we have a better understanding of the problem of value today, we can no longer consider acceptable the proposals to construct a monetary system based on index numbers.
 
-#### 3\. The Index Standard
+###### 3\. The Index Standard
 
 It is characteristic of current political thinking to welcome every suggestion which aims at enlarging the influence of government. If the Fisher and Keynes[^61] proposals are approved on the grounds that they are intended to use government to make the formation of monetary value directly subservient to certain economic and political ends, this is understandable. However, anyone who approves of the index standard, because he wants to see purchasing power “stabilized,” will find himself in serious error.
 
@@ -783,9 +783,9 @@ The question has been raised again and again: What will happen if, as a result o
 
 ### Part B: Cyclical Policy to Eliminate Economic Fluctuations
 
-#### I. STABILIZATION OF THE PURCHASING POWER OF THE MONETARY UNIT AND ELIMINATION OF THE TRADE CYCLE
+###### I. STABILIZATION OF THE PURCHASING POWER OF THE MONETARY UNIT AND ELIMINATION OF THE TRADE CYCLE
 
-#### 1\. Currency School’s Contribution
+###### 1\. Currency School’s Contribution
 
 “Stabilization” of the purchasing power of the monetary unit would also lead, at the same time, to the ideal of an economy without any changes. In the stationary economy there would be no “ups” and “downs” of business. Then, the sequence of events would flow smoothly and steadily. Then, no unforeseen event would interrupt the provisioning of goods. Then, the acting individual would experience no disillusionment because events did not develop as he had assumed in planning his affairs to meet future demands.
 
@@ -801,7 +801,7 @@ Certainly it is no longer necessary to expose once more the errors in logic of t
 
 In taking this approach one falls prey to a delusion which is incomprehensible. It is assumed that data on economic fluctuations are given clearly, directly and in a way that cannot be disputed. Thus it remains for science merely to interpret these fluctuations—and for the art of politics simply to find ways and means to eliminate them.
 
-#### 2\. Early Trade Cycle Theories
+###### 2\. Early Trade Cycle Theories
 
 All business establishments do well at times and badly at others. There are times when the entrepreneur sees his profits increase daily more than he had anticipated and when, emboldened by these “windfalls,” he proceeds to expand his operations. Then, due to an abrupt change in conditions, severe disillusionment follows this upswing, serious losses materialize, long established firms collapse, until widespread pessimism sets in which may frequently last for years. Such were the experiences which had already been forced on the attention of the businessman in capitalistic economies, long before discussions of the crisis problem began to appear in the literature. The sudden turn from the very sharp rise in prosperity—at least what appeared to be prosperity—to a very severe drop in profit opportunities was too conspicuous not to attract general attention. Even those who wanted to have nothing to do with the business world’s “worship of filthy lucre” could not ignore the fact that people who were, or had been considered, rich yesterday were suddenly reduced to poverty, that factories were shut down, that construction projects were left uncompleted, and that workers could not find work. Naturally, nothing concerned the businessman more intimately than this very problem.
 
@@ -817,7 +817,7 @@ A whole series of a very different sort of attempts to explain the crisis are ba
 
 What should be pointed out about these doctrines and about the many other similar theories based on psychological variations is, first of all, that they do not explain. They merely pose the problem in a different way. They are not able to trace the change in business conditions back to a previously established and identified phenomenon. From the periodical fluctuations in psychological and intellectual data alone, without any further observation concerning the field of labor in the social or other sciences, we learn that such economic shifts as these may also be conceived of in a different way. So long as the course of such changes appears plausible only because of economic fluctuations between boom and bust, psychological and other related theories of the crisis amount to no more than tracing one unknown factor back to something else equally unknown.
 
-#### 3\. The Circulation Credit Theory
+###### 3\. The Circulation Credit Theory
 
 Of all the theories of the trade cycle, only one has achieved and retained the rank of a fully-developed economic doctrine. That is the theory advanced by the Currency School, the theory which traces the cause of changes in business conditions to the phenomenon of circulation credit. All other theories of the crisis, even when they try to differ in other respects from the line of reasoning adopted by the Currency School, return again and again to follow in its footsteps. Thus, our attention is constantly being directed to observations which seem to corroborate the Currency School’s interpretation.
 
@@ -829,9 +829,9 @@ Neither the fact that unexplained crises still recur again and again nor the fac
 
 Neither the connection between boom and bust nor the cyclical change of business conditions is a fact that can be established independent of theory. Only theory, business cycle theory, permits us to detect the wavy outline of a cycle in the tangled confusion of events.[^66]
 
-#### II. CIRCULATION CREDIT THEORY
+###### II. CIRCULATION CREDIT THEORY
 
-#### 1\. The Banking School Fallacy
+###### 1\. The Banking School Fallacy
 
 If notes are issued by the banks, or if bank deposits subject to check or other claim are opened, in excess of the amount of money kept in the vaults as cover, the effect on prices is similar to that obtained by an increase in the quantity of money. Since these fiduciary media, as notes and bank deposits not backed by metal are called, render the service of money as safe and generally accepted, payable on demand monetary claims, they may be used as money in all transactions. On that account, they are genuine money substitutes. Since they are in excess of the given total quantity of money in the narrower sense, they represent an increase in the quantity of money in the broader sense.
 
@@ -843,7 +843,7 @@ One must be careful not to speak simply of the effects of credit in general on p
 
 If the banks grant circulation credit by discounting a three month bill of exchange, they exchange a future good—a claim payable in three months—for a present good that they produce out of nothing. It is not correct, therefore, to maintain that it is immaterial whether the bill of exchange is discounted by a bank of issue or whether it remains in circulation, passing from hand to hand. Whoever takes the bill of exchange in trade can do so only if he has the resources. But the bank of issue discounts by creating the necessary funds and putting them into circulation. To be sure, the fiduciary media flow back again to the bank at expiration of the note. If the bank does not give the fiduciary media out again, precisely the same consequences appear as those which come from a decrease in the quantity of money in its broader sense.
 
-#### 2\. Early Effects of Credit Expansion
+###### 2\. Early Effects of Credit Expansion
 
 The fact that in the regular course of banking operations the banks issue fiduciary media only as loans to producers and merchants means that they are not used directly for purposes of consumption.[^68] Rather, these fiduciary media are used first of all for production, that is to buy factors of production and pay wages. The first prices to rise, therefore, as a result of an increase of the quantity of money in the broader sense, caused by the issue of such fiduciary media, are those of raw materials, semimanufactured products, other goods of higher orders, and wage rates. Only later do the prices of goods of the first order [consumers’ goods] follow. Changes in the purchasing power of a monetary unit, brought about by the issue of fiduciary media, follow a different path and have different accompanying social side effects from those produced by a new discovery of precious metals or by the issue of paper money. Still in the last analysis, the effect on prices is similar in both instances.
 
@@ -853,7 +853,7 @@ If monetary depreciation is brought about by an issue of fiduciary media, and if
 
 Eventually, the issue of fiduciary media in such manner can also lead to increased capital accumulation within narrow limits and, hence, to a further reduction of the interest rate. In the beginning, however, an immediate and direct decrease in the loan rate appears with the issue of fiduciary media, but this immediate decrease in the loan rate is distinct in character and degree from the later reduction. The new funds offered on the money market by the banks must obviously bring pressure to bear on the rate of interest. The supply and demand for loan money were adjusted at the interest rate prevailing before the issue of any additional supply of fiduciary media. Additional loans can be placed only if the interest rate is lowered. Such loans are profitable for the banks because the increase in the supply of fiduciary media calls for no expenditure except for the mechanical costs of banking (i.e., printing the notes and bookkeeping). The banks can, therefore, undercut the interest rates which would otherwise appear on the loan market, in the absence of their intervention. Since competition from them compels other money lenders to lower _their_ interest charges, the market interest rate must therefore decline. But can this reduction be maintained? _That_ is the problem.
 
-#### 3\. Inevitable Effects of Credit Expansion on Interest Rates
+###### 3\. Inevitable Effects of Credit Expansion on Interest Rates
 
 In conformity with Wicksell’s terminology, we shall use “natural interest rate” to describe that interest rate which would be established by supply and demand if real goods were loaned _in natura_ [directly, as in barter] without the intermediary of money. “Money rate of interest” will be used for that interest rate asked on loans made in money or money substitutes. Through continued expansion of fiduciary media, it is possible for the banks to force the money rate down to the actual cost of the banking operations, practically speaking that is almost to zero. As a result, several authors have concluded that interest could be completely abolished in this way. Whole schools of reformers have wanted to use banking policy to make credit gratuitous and thus to solve the “social question.” No reasoning person today, however, believes that interest can ever be abolished, nor doubts but what, if the “money interest rate” is depressed by the expansion of fiduciary media, it must sooner or later revert once again to the “natural interest rate.” The question is only how this inevitable adjustment takes place. The answer to this will explain at the same time the fluctuations of the business cycle.
 
@@ -861,7 +861,7 @@ The Currency Theory limited the problem too much. It only considered the situati
 
 That is the instant at which the business upswing, brought about by the availability of easy credit, is demonstrated to be illusory prosperity. An abrupt reaction sets in. The “money rate of interest” shoots up; enterprises from which credit is withdrawn collapse and sweep along with them the banks which are their creditors. A long persisting period of business stagnation now follows. The banks, warned by this experience into observing restraint, not only no longer underbid the “natural interest rate” but exercise extreme caution in granting credit.
 
-#### 4\. The Price Premium
+###### 4\. The Price Premium
 
 In order to complete this interpretation, we must, first of all, consider the price premium. As the banks start to expand the circulation credit, the anticipated upward movement of prices results in the appearance of a positive price premium. Even if the banks do not lower the actual interest rate any more, the gap widens between the “money interest rate” and the “natural interest rate” which would prevail in the absence of their intervention. Since loan money is now cheaper to acquire than circumstances warrant, entrepreneurial ambitions expand.
 
@@ -869,7 +869,7 @@ New businesses are started in the expectation that the necessary capital can be 
 
 So long as this situation prevails, the upswing continues. Inventories of goods are readily sold. Prices and profits rise. Business enterprises are overwhelmed with orders because everyone anticipates further price increases and workers find employment at increasing wage rates. However, this situation cannot last forever!
 
-#### 5\. Malinvestment of Available Capital Goods
+###### 5\. Malinvestment of Available Capital Goods
 
 The “natural interest rate” is established at that height which tends toward equilibrium on the market. The tendency is toward a condition where no capital goods are idle, no opportunities for starting profitable enterprises remain unexploited and the only projects not undertaken are those which no longer yield a profit at the prevailing “natural interest rate.” Assume, however, that the equilibrium, toward which the market is moving, is disturbed by the interference of the banks. Money may be obtained below the “natural interest rate.” As a result businesses may be started which weren’t profitable before, and which become profitable only through the lower than “natural interest rate” which appears with the expansion of circulation credit.
 
@@ -879,7 +879,7 @@ Since it always requires some time for the market to reach full “equilibrium,�
 
 In a given economic situation, the opportunities for production, which may actually be carried out, are limited by the supply of capital goods available. Roundabout methods of production can be adopted only so far as the means for subsistence exist to maintain the workers during the entire period of the expanded process. All those projects, for the completion of which means are not available, must be left uncompleted, even though they may appear technically feasible—that is, if one disregards the supply of capital. However, such businesses, because of the lower loan rate offered by the banks, appear for the moment to be profitable and are, therefore, initiated. However, the existing resources are insufficient. Sooner or later this must become evident. Then it will become apparent that production has gone astray, that plans were drawn up in excess of the economic means available, that speculation, i.e., activity aimed at the provision of future goods, was misdirected.
 
-#### 6\. “Forced Savings”
+###### 6\. “Forced Savings”
 
 In recent years, considerable significance has been attributed to the fact that “forced savings,” which may appear as a result of the drop in purchasing power that follows an increase of fiduciary media, leads to an increase in the supply of capital. The subsistence fund is made to go farther, due to the fact that (1) the workers consume less because wage rates tend to lag behind the rise in the prices of commodities, and (2) those who reap the advantage of this reduction in the workers’ incomes save at least a part of their gain. Whether “forced savings” actually appear depends, as noted above, on the circumstances in each case. There is no need to go into this any further.
 
@@ -891,11 +891,11 @@ The resources which are claimed for the newly initiated longer time consuming me
 
 That is precisely what has happened. The general increase in prices means that all businesses need more funds than had been anticipated at their “launching.” More resources are required to complete them. However, the increased quantity of fiduciary media loaned out by the banks is already exhausted. The banks can no longer make additional loans at the same interest rates. As a result, they must raise the loan rate once more for two reasons. In the first place, the appearance of the positive price premium forces them to pay higher interest for outside funds which they borrow. Then also, they must discriminate among the many applicants for credit. Not all enterprises can afford this increased interest rate. Those which cannot run into difficulties.
 
-#### 7\. A Habit-Forming Policy
+###### 7\. A Habit-Forming Policy
 
 Now, in extending circulation credit, the banks do not proceed by pumping a limited dosage of new fiduciary media into circulation and then stop. They expand the fiduciary media continuously for some time, sending, so to speak, after the first offering, a second, third, fourth, and so on. They do not simply undercut the “natural interest rate” once, and then adjust promptly to the new situation. Instead they continue the practice of making loans below the “natural interest rate” for some time. To be sure, the increasing volume of demands on them for credit may cause them to raise the “money rate of interest.” Yet, even if the banks revert to the former “natural rate,” the rate which prevailed before their credit expansion affected the market, they still lag behind the rate which would now exist on the market if they were not continuing to expand credit. This is because a positive price premium must now be included in the new “natural rate.” With the help of this new quantity of fiduciary media, the banks now take care of the businessman’s intensified demand for credit. Thus, the crisis does not appear yet. The enterprises using more roundabout methods of production, which have been started, are continued. Because prices rise still further, the earlier calculations of the entrepreneurs are realized. They make profits. In short, the boom continues.
 
-#### 8\. The Inevitable Crisis and Cycle
+###### 8\. The Inevitable Crisis and Cycle
 
 The crisis breaks out only when the banks alter their conduct to the extent that they discontinue issuing any more new fiduciary media and stop undercutting the “natural interest rate.” They may even take steps to restrict circulation credit. When they actually do this, and why, is still to be examined. First of all, however, we must ask ourselves whether it is possible for the banks to stay on the course upon which they have embarked, permitting new quantities of fiduciary media to flow into circulation continuously and proceeding always to make loans below the rate of interest which would prevail on the market in the absence of their interference with newly created fiduciary media.
 
@@ -911,9 +911,9 @@ The crisis, with its unique characteristics, is followed by stagnation. The misg
 
 When the crisis breaks out, loan rates bound sharply upward because threatened enterprises offer extremely high interest rates for the funds to acquire the resources, with the help of which they hope to save themselves. Later, as the panic subsides, a situation develops, as a result of the restriction of circulation credit and attempts to dispose of large inventories, causing prices [and the “money interest rate”] to fall steadily and leading to the appearance of a negative price premium. This reduced rate of loan interest is adhered to for some time, even after the decline in prices comes to a standstill, when a negative price premium no longer corresponds to conditions. Thus, it comes about that the “money interest rate” is lower than the “natural rate.” Yet, because the unfortunate experiences of the recent crisis have made everyone uneasy, the incentive to business activity is not as strong as circumstances would otherwise warrant. Quite a time passes before capital funds, increased once again by savings accumulated in the meantime, exert sufficient pressure on the loan interest rate for an expansion of entrepreneurial activity to resume. With this development, the low point is passed and the new boom begins.
 
-#### III. THE REAPPEARANCE OF CYCLES
+###### III. THE REAPPEARANCE OF CYCLES
 
-#### 1\. Metallic Standard Fluctuations
+###### 1\. Metallic Standard Fluctuations
 
 From the instant when the banks start expanding the volume of circulation credit, until the moment they stop such behavior, the course of events is substantially similar to that provoked by any increase in the quantity of money. The difference results from the fact that fiduciary media generally come into circulation through the banks, i.e., as loans, while increases in the quantity of money appear as additions to the wealth and income of specific individuals. This has already been mentioned and will not be further considered here. Considerably more significant for us is another distinction between the two.
 
@@ -921,7 +921,7 @@ Such increases and decreases in the quantity of money have no connection with in
 
 Changes in the value of the monetary unit are always taking place in the economy. Periods of declining purchasing power alternate with those of increasing purchasing power. Under a metallic standard, these changes are usually so slow and so insignificant that their effect is not at all violent. Nevertheless, we must recognize that even under a precious metal standard periods of ups and downs would still alternate at irregular intervals. In addition to the standard metallic money, such a standard would recognize only token coins for petty transactions. There would, of course, be no paper money or any other currency (i.e., either notes or bank accounts subject to check which are not fully covered). Yet even then, one would be able to speak of economic “ups,” “downs” and “waves.” However, one would hardly be inclined to refer to such minor alternating “ups” and “downs” as regularly recurring cycles. During these periods when purchasing power moved in one direction, whether up or down, it would probably move so slightly that businessmen would scarcely notice the changes. Only economic historians would become aware of them. Moreover, the fact is that the transition from a period of rising prices to one of falling prices would be so slight that neither panic nor crisis would appear. This would also mean that businessmen and news reports of market activities would be less occupied with the “long waves” of the trade cycle.[^72]
 
-#### 2\. Infrequent Recurrences of Paper Money Inflations
+###### 2\. Infrequent Recurrences of Paper Money Inflations
 
 The effects of inflations brought about by increases in paper money are quite different. They also produce price increases and hence “good business conditions,” which are further intensified by the apparent encouragement of exports and the hampering of imports. Once the inflation comes to an end, whether by a providential halt to further increases in the quantity of money (as for instance recently in France and Italy) or through complete debasement of the paper money due to inflationary policy carried to its final conclusions (as in Germany in 1923), then the “stabilization crisis”[^73] appears. The cause and appearance of this crisis correspond precisely to those of the crisis which comes at the close of a period of circulation credit expansion. One must clearly distinguish _this_ crisis [i.e., when increases in the quantity of money are simply halted] from the consequences which must result when the cessation of inflation is followed by deflation.
 
@@ -931,7 +931,7 @@ Even at the very beginning of a new inflation, people would reject the notes or 
 
 Many states have never pursued a policy of paper money inflation. Many have resorted to it only once in their history. Even the states traditionally known for their printing press money have not repeated the experiment often. Austria waited almost a generation after the banknote inflation of the Napoleonic era before embarking on an inflation policy again. Even then, the inflation was in more modest proportions than at the beginning of the nineteenth century. Almost a half century passed between the end of her second and the beginning of her third and most recent period of inflation. It is by no means possible to speak of cyclical reappearances of paper money inflations.
 
-#### 3\. The Cycle Process of Credit Expansions
+###### 3\. The Cycle Process of Credit Expansions
 
 Regularity can be detected only with respect to the phenomena originating out of circulation credit. Crises have reappeared every few years since banks issuing fiduciary media began to play an important role in the economic life of people. Stagnation followed crisis, and following these came the boom again. More than ninety years ago Lord Overstone described the sequence in a remarkably graphic manner:
 
@@ -951,7 +951,7 @@ Each new issue of fiduciary media has the consequences described above. First of
 
 The answer must run as follows: According to the prevailing ideology of businessman and economist-politician, the reduction of the interest rate is considered an essential goal of economic policy. Moreover, the expansion of circulation credit is assumed to be the appropriate means to achieve this goal.
 
-#### 4\. The Mania for Lower Interest Rates
+###### 4\. The Mania for Lower Interest Rates
 
 The naïve inflationist theory of the seventeenth and eighteenth centuries could not stand up in the long run against the criticism of economics. In the nineteenth century, that doctrine was held only by obscure authors who had no connection with scientific inquiry or practical economic policy. For purely political reasons, the school of empirical and historical “Realism” did not pay attention to problems of economic theory. It was due only to this neglect of theory that the naïve theory of inflation was once more able to gain prestige temporarily during the World War, especially in Germany.
 
@@ -965,7 +965,7 @@ Before the war [1914], there was no hesitation in Germany in openly advocating w
 
 Every single fluctuation in general business conditions—the upswing to the peak of the wave and the decline into the trough which follows—is prompted by the attempt of the banks of issue to reduce the loan rate and thus expand the volume of circulation credit through an increase in the supply of fiduciary media (i.e., banknotes and checking accounts not fully backed by money). The fact that these efforts are resumed again and again in spite of their widely deplored consequences, causing one business cycle after another, can be attributed to the predominance of an ideology—an ideology which regards rising commodity prices and especially a low rate of interest as goals of economic policy. The theory is that even this second goal may be attained by the expansion of fiduciary media. Both crisis and depression are lamented. Yet, because the causal connection between the behavior of the banks of issue and the evils complained about is not correctly interpreted, a policy with respect to interest is advocated which, in the last analysis, must necessarily always lead to crisis and depression.
 
-#### 5\. Free Banking
+###### 5\. Free Banking
 
 Every deviation from the prices, wage rates and interest rates which would prevail on the unhampered market must lead to disturbances of the economic “equilibrium.” This disturbance, brought about by attempts to depress the interest rate artificially, is precisely the cause of the crisis.
 
@@ -977,7 +977,7 @@ The cautious policy of restraint on the part of respected and well-established b
 
 In the course of the development of a banking system with fiduciary media, crises could not have been avoided. However, as soon as bankers recognized the dangers of expanding circulation credit, they would have done their utmost, in their own interests, to avoid the crisis. They would then have taken the only course leading to this goal: extreme restraint in the issue of fiduciary media.
 
-#### 6\. Government Intervention in Banking
+###### 6\. Government Intervention in Banking
 
 The fact that the development of fiduciary media banking took a different turn may be attributed entirely to the circumstance that the issue of banknotes (which for a long time were the only form of fiduciary media and are today [1928] still the more important, even in the United States and England) became a public concern. The private bankers and joint-stock banks were supplanted by the politically privileged banks of issue because the governments favored the expansion of circulation credit for reasons of fiscal and credit policy. The privileged institutions could proceed unhesitatingly in the granting of credit, not only because they usually held a monopoly in the issue of notes, but also because they could rely on the government’s help in an emergency. The private banker would go bankrupt, if he ventured too far in the issue of credit. The privileged bank received permission to suspend payments and its notes were made legal tender at face value.
 
@@ -985,7 +985,7 @@ If the knowledge derived from the Currency Theory had led to the conclusion that
 
 In the United States, national banking legislation made it technically difficult, if not entirely impossible, to grant such aid. The system was considered especially unsatisfactory, precisely because of the legal obstacles it placed in the path of helping grantors of credit who became insolvent and of supporting the value of circulation credit they had granted. Among the reasons leading to the significant revision of the American banking system [i.e., the Federal Reserve Act of 1913], the most important was the belief that provisions must be made for times of crises. In other words, just as the emergency institution of Clearing House Certificates was able to save expanding banks, so should technical expedients be used to prevent the breakdown of the banks and bankers whose conduct had led to the crisis. It was usually considered especially important to shield the banks which expanded circulation credit from the consequences of their conduct. One of the chief tasks of the central banks of issue was to jump into this breach. It was also considered the duty of those other banks who, thanks to foresight, had succeeded in preserving their solvency, even in the general crisis, to help fellow banks in difficulty.
 
-#### 7\. Intervention No Remedy
+###### 7\. Intervention No Remedy
 
 It may well be asked whether the damage inflicted by misguiding entrepreneurial activity by artificially lowering the loan rate would be greater if the crisis were permitted to run its course. Certainly many saved by the intervention would be sacrificed in the panic, but if such enterprises were permitted to fail, others would prosper. Still the total loss brought about by the “boom” (which the crisis did not produce, but only made evident) is largely due to the fact that factors of production were expended for fixed investments which, in the light of economic conditions, were not the most urgent. As a result, these factors of production are now lacking for more urgent uses. If intervention prevents the transfer of goods from the hands of imprudent entrepreneurs to those who would now take over because they have evidenced better foresight, this imbalance becomes neither less significant nor less perceptible.
 
@@ -993,9 +993,9 @@ In any event, the practice of intervening for the benefit of banks, rendered ins
 
 To the businessman, it appears most natural and understandable that the banks should satisfy his demand for credit by the creation of fiduciary media. The banks, he believes, should have the task and the duty to “stand by” business and trade. There is no dispute but that the expansion of circulation credit furthers the accumulation of capital within the narrow limits of the “forced savings” it brings about and to that extent permits an increase in productivity. Still it can be argued that, given the situation, each step in this direction steers business activity, in the manner described above, on a “wrong” course. The discrepancy between what the entrepreneurs do and what the unhampered market would have prescribed becomes evident in the crisis. The fact that each crisis, with its unpleasant consequences, is followed once more by a new “boom,” which must eventually expend itself as another crisis, is due only to the circumstances that the ideology which dominates all influential groups—political economists, politicians, statesmen, the press and the business world—not only sanctions, but also demands, the expansion of circulation credit.
 
-#### IV. THE CRISIS POLICY OF THE CURRENCY SCHOOL
+###### IV. THE CRISIS POLICY OF THE CURRENCY SCHOOL
 
-#### 1\. The Inadequacy of the Currency School
+###### 1\. The Inadequacy of the Currency School
 
 Every advance toward explaining the problem of business fluctuations to date is due to the Currency School. We are also indebted to this School alone for the ideas responsible for policies aimed at eliminating business fluctuations. The fatal error of the Currency School consisted in the fact that it failed to recognize the similarity between banknotes and bank demand deposits as money substitutes and, thus, as money certificates and fiduciary media. In their eyes, only the banknote was a money substitute. In their view, therefore, the circulation of pure metallic money could only be adulterated by the introduction of a banknote not covered by money.
 
@@ -1007,7 +1007,7 @@ There is little sense in discussing whether it would have been better to restric
 
 The possibility of free banking has scarcely even been suggested. Intervention cast its first shadow over the capitalistic system when banking policy came to the forefront of economic and political discussion. To be sure, some authors, who defended free banking, appeared on the scene. However, their voices were overpowered. The desired goal was to protect the noteholders against the banks. It was forgotten that those hurt by the dangerous suspension of payments by the banks of issue are always the very ones the law was intended to help. No matter how severe the consequences one may anticipate from a breakdown of the banks under a system of absolutely free banking, one would have to admit that they could never even remotely approach the severity of those brought about by the war and postwar banking policies of the three European empires.[^79]
 
-#### 2\. “Booms” Favored
+###### 2\. “Booms” Favored
 
 In the last two generations, hardly anyone, who has given this matter some thought, can fail to know that a crisis follows a boom. Nevertheless, it would have been impossible for even the sharpest and cleverest banker to suppress in time the expansion of circulation credit. Public opinion stood in the way. The fact that business conditions fluctuated violently was generally assumed to be inherent in the capitalistic system. Under the influence of the Banking Theory, it was thought that the banks merely went along with the upswing and that their conduct had nothing to do with bringing it about or advancing it. If, after a long period of stagnation, the banks again began to respond to the general demand for easier credit, public opinion was always delighted by the signs of the start of a boom.
 
@@ -1017,9 +1017,9 @@ Then finally, if the banks changed their policy and the crisis came, it was alwa
 
 The managers of the banks of issue have carried out their policy without reflecting very much on its basis. If the expansion of circulation credit began to alarm them, they proceeded, not always very skillfully, to raise the discount rate. Thus, they exposed themselves to public censure for having initiated the crisis by their behavior. It is clear that the crisis must come sooner or later. It is also clear that the crisis must always be caused, primarily and directly, by the change in the conduct of the banks. If we speak of error on the part of the banks, however, we must point to the wrong they do in encouraging the upswing. The fault lies, not with the policy of raising the interest rate, but only with the fact that it was raised too late.
 
-#### V. MODERN CYCLICAL POLICY
+###### V. MODERN CYCLICAL POLICY
 
-#### 1\. Pre-World War I Policy
+###### 1\. Pre-World War I Policy
 
 The cyclical policy recommended today, in most of the literature dealing with the problem of business fluctuations and toward which considerable strides have already been made in the United States, rests entirely on the reasoning of the Circulation Credit Theory.[^80] The aim of much of this literature is to make this theory useful in practice by studying business conditions with precise statistical methods.
 
@@ -1029,7 +1029,7 @@ To this extent, therefore, one cannot say that the theory behind today’s cycli
 
 It is certainly not to be disputed that substantial progress was made when the problem was considered, not only from the point of view of fiduciary media, but from that of the entire problem of the purchasing power of money. The Currency School paid attention to price changes only insofar as they were produced by an increase or decrease of circulation credit—but they considered only the circulation credit granted by the issue of notes. Thus, the Currency School was a long way from striving for stabilization of the purchasing power of the monetary unit.
 
-#### 2\. Post-World War I Policies
+###### 2\. Post-World War I Policies
 
 Today these two problems, the issuance of fiduciary media and the purchasing power of the monetary unit, are seen as being closely linked to the Circulation Credit Theory. One of the tendencies of modern cyclical policy is that these two problems are treated as one. Thus, one aim of cyclical policy is no more nor less than the stabilization of the purchasing power of money. For a discussion of this see Part I of this study.
 
@@ -1043,7 +1043,7 @@ In order to explain the essence of this new policy, we shall now explore two spe
 
 Only in the first of these two instances does a fundamental difference exist between old and new policies.
 
-#### 3\. Empirical Studies
+###### 3\. Empirical Studies
 
 Many now engaged in cyclical research maintain that the special superiority of current crisis policy in America rests on the use of more precise statistical methods than those previously available. Presumably, means for eliminating seasonal fluctuations and the secular general trend have been developed from statistical series and curves. Obviously, it is only with such manipulations that the findings of a market study may become a study of the business cycle. However, even if one should agree with the American investigators in their evaluation of the success of this effort, the question remains as to the usefulness of index numbers. Nothing more can be added to what has been said above on the subject, in Part I of this study.
 
@@ -1053,7 +1053,7 @@ There is no need to share the exuberant expectations for the practical usefulnes
 
 Upon examining the curves developed by institutes using the Harvard method, it becomes apparent that the movement of the money market curve (C Curve) in relation to the stock market curve (A Curve) and the commodity market curve (B Curve) corresponds exactly to what the Circulation Credit Theory asserts. The fact that the movements of A Curve generally anticipate those of B Curve is explained by the greater sensitivity of stock, as opposed to commodity, speculation. The stock market reacts more promptly than does the commodity market. It sees more and it sees farther. It is quicker to draw coming events (in this case, the changes in the interest rate) into the sphere of its conjectures.
 
-#### 4\. Arbitrary Political Decisions
+###### 4\. Arbitrary Political Decisions
 
 However, the crucial question still remains: What does the Three Market Barometer offer the man who is actually making bank policy? Are modern methods of studying business conditions better suited than the former, to be sure less thorough, ones for laying the groundwork for decisions on a discount policy aimed at reducing as much as possible the ups and downs of business? Even prewar [World War I] banking policy had this for its goal. There is no doubt but that government agencies responsible for financial policy, directors of the central banks of issue and also of the large private banks and banking houses, were frankly and sincerely interested in attaining this goal. Their efforts in this direction—only when the boom was already in full swing to be sure—were supported at least by a segment of public opinion and of the press. They knew well enough what was needed to accomplish the desired effect. They knew that nothing but a timely and sufficiently far-reaching increase in the loan rate could counteract what was usually referred to as “excessive speculation.”
 
@@ -1067,7 +1067,7 @@ The hesitation of officials to intervene is sufficient to explain the situation.
 
 This drawback to cyclical policy is not changed in any respect if it is carried out in accordance with the business barometer. No one who has carefully studied the conclusions, drawn from observations of business conditions made by institutions working with modern methods, will dare to contend that these results may be used to establish, incontrovertibly, when and how much to raise the interest rate in order to end the boom in time before it has led to capital malinvestment. The accomplishment of economic journalism in reporting regularly on business conditions during the last two generations should not be _underrated._ Nor should the contribution of contemporary business cycle research institutes, working with substantial means, be overrated. Despite all the improvements which the preparation of statistics and graphic interpretations have undergone, their use in the determination of interest rate policy still leaves a wide margin for judgment.
 
-#### 5\. Sound Theory Essential
+###### 5\. Sound Theory Essential
 
 Moreover, it should not be forgotten that it is impossible to answer in a straightforward manner not only how seasonal variations and growth factors are to be eliminated, but also how to decide unequivocably from what data and by what method the curves of each of the Three Markets should be constructed. Arguments which cannot be easily refuted may be raised on every point with respect to the business barometer. Also, no matter how much the business barometer may help us to survey the many heterogeneous operations of the market and of production, they certainly do not offer a solid basis for weighing contingencies. Business barometers are not even in a position to furnish clear and certain answers to the questions concerning cyclical policy which are crucial for their operation. Thus, the great expectations generally associated with recent cyclical policy today are not justified.
 
@@ -1075,9 +1075,9 @@ For the future of cyclical policy more profound theoretical knowledge concerning
 
 It has already been pointed out that events would have turned out very differently if there had been no deviation from the principle of complete freedom in banking and if the issue of fiduciary media had been in no way exempted from the rules of commercial law. It may be that a final solution of the problem can be arrived at only through the establishment of completely free banking. However, the credit structure which has been developed by the continued effort of many generations cannot be transformed with one blow. Future generations, who will have recognized the basic absurdity of all interventionist attempts, will have to deal with this question also. However, the time is not yet ripe—not now nor in the immediate future.
 
-#### VI. CONTROL OF THE MONEY MARKET
+###### VI. CONTROL OF THE MONEY MARKET
 
-#### 1\. International Competition or Cooperation
+###### 1\. International Competition or Cooperation
 
 There are many indications that public opinion has recognized the significance of the role banks play in initiating the cycle by their expansion of circulation credit. If this view should actually prevail, then the previous popularity of efforts aimed at artificially reducing the interest rate on loans would disappear. Banks that wanted to expand their issue of fiduciary media would no longer be able to count on public approval or government support. They would become more careful and more temperate. That would smooth out the waves of the cycle and reduce the severity of the sudden shift from rise to fall.
 
@@ -1093,7 +1093,7 @@ If the banks of issue were to consider seriously making agreements with respect 
 
 So far, it is true, the banks of issue have made no significant agreements on cyclical policy. Nevertheless, efforts aimed at such agreements are certainly being proposed on every side.
 
-#### 2\. “Boom” Promotional Problems
+###### 2\. “Boom” Promotional Problems
 
 Another dangerous sign is that the slogan concerning the need to “control the money market,” through the banks of issue, still retains its prestige.
 
@@ -1103,7 +1103,7 @@ However, the bank of issue’s credit expansion policy certainly offers a large 
 
 It is easy to see what lies behind this effort of the bank of issue to “control” the money market. The bank wants to prevent its credit expansion policy, aimed at reducing the interest rate, from being impeded by consideration of relatively restrictive policies followed abroad. It seeks to promote a domestic boom without interference from international reactions.
 
-#### 3\. Drive for Tighter Controls
+###### 3\. Drive for Tighter Controls
 
 According to the prevailing ideology, however, there are still other occasions when the banks of issue should have stronger control over the money market. If the interest rate arbitrage, resulting from the expansion of circulation credit, has led, for the time being, only to a withdrawal of funds from the reserves of the issuing bank, and that bank, disconcerted by the deterioration of the security behind its notes, has proceeded to raise its discount rate, there may still be, under certain conditions, no cause for the loan rate to rise on the open money market. As yet no funds have been withdrawn from the domestic market. The gold exports came from the bank’s reserves, and the increase in the discount rate has not led to a reduction in the credits granted by the bank. It takes time for loan funds to become scarce as a result of the fact that some commercial paper, which would otherwise have been offered to the bank for discount, is disposed of on the open market. The issuing bank, however, does not want to wait so long for its maneuver to be effective. Alarmed at the state of its gold and foreign exchange assets, it wants prompt relief. To accomplish this, it must try to make money scarce on the market. It generally tries to bring this about by appearing itself as a borrower on the market.
 
@@ -1117,9 +1117,9 @@ If it were seriously desired to counteract price increases resulting from an inc
 
 Moreover, such a policy can be successful only if there is agreement among the banks of issue. If restriction were practiced by the central bank of one country only, it would result in relatively high costs of borrowing money within that country. The chief consequence of this would then be that gold would flow in from abroad. Insofar as this is the goal sought by the cooperation of the banks, it certainly cannot be considered a dangerous step in the attempt toward a policy of evening out the waves of the business cycle.
 
-#### VII. BUSINESS FORECASTING FOR CYCLICAL POLICY AND THE BUSINESSMAN
+###### VII. BUSINESS FORECASTING FOR CYCLICAL POLICY AND THE BUSINESSMAN
 
-#### 1\. Contributions of Business Cycle Research
+###### 1\. Contributions of Business Cycle Research
 
 The popularity enjoyed by contemporary business cycle research, the development of which is due above all to American economic researchers, derives from exaggerated expectations as to its usefulness in practice. With its help, it had been hoped to mechanize banking policy and business activity. It had been hoped that a glance at the business barometer would tell businessmen and those who determine banking policy how to act.
 
@@ -1131,7 +1131,7 @@ Even before the development of business barometers, it was already known that in
 
 A glance at the continuous reports on the economy and the stock market in the large daily newspapers and in the economic weeklies, which appeared from 1840 to 1910, shows that attempts have been made for decades to draw conclusions from events of the most recent past, on the basis of empirical rules, as to the shape of the immediate future. If we compare the statistical groundwork used in these attempts with those now at our disposal, then it is obvious that we have recourse to more data today. We also understand better how to organize this material, how to arrange it clearly and interpret it for graphic presentation. However, we can by no means claim, with the modern methods of studying business conditions, to have embarked on some new principle.
 
-#### 2\. Difficulties of Precise Prediction
+###### 2\. Difficulties of Precise Prediction
 
 No businessman may safely neglect any available source of information. Thus no businessman can refuse to pay close attention to newspaper reports. Still diligent newspaper reading is no guarantee of business success. If success were that easy, what wealth would the journalists have already amassed! In the business world, success depends on comprehending the situation sooner than others do—and acting accordingly. What is recognized as “fact” must first be evaluated correctly to make it useful for an undertaking. Precisely this is the problem of putting theory into practice.
 
@@ -1141,9 +1141,9 @@ It is well known that every boom must one day come to an end. The businessman’
 
 But once public opinion is completely dominated by the view that the crisis is imminent and businessmen act on this basis, then it is already too late to derive business profit from this knowledge. Or even merely to avoid losses. For then the panic breaks out. The crisis has come.
 
-#### VIII. THE AIMS AND METHOD OF CYCLICAL POLICY
+###### VIII. THE AIMS AND METHOD OF CYCLICAL POLICY
 
-#### 1\. Revised Currency School Theory
+###### 1\. Revised Currency School Theory
 
 Without doubt, expanding the sphere of scientific investigation from the narrow problem of the crisis into the broader problem of the cycle represents progress.[^86] However, it was certainly not equally advantageous for political policies. Their scope was broadened. They began to aspire to more than was feasible.
 
@@ -1155,7 +1155,7 @@ The banks would be obliged at all times to maintain metallic backing for all not
 
 By this act alone, cyclical policy would be directed in earnest toward the elimination of crises.
 
-#### 2\. “Price Level” Stabilization
+###### 2\. “Price Level” Stabilization
 
 Under present circumstances, it is out of the question, in the foreseeable future, to establish complete “free banking” and place all banking transactions, including the granting of credit, under ordinary commercial law. Those who speak and write today on behalf of “stabilization,” “maintenance of purchasing power” and “elimination of the trade cycle,” can certainly not call this more limited approach “extreme.” On the contrary! They will reject this suggestion as not going far enough. They are demanding much more. In their view, the “price level” should be maintained by countering rising prices with a restriction in the circulation of fiduciary media and, similarly, countering falling prices by the expansion of fiduciary media.
 
@@ -1165,7 +1165,7 @@ Nothing more will be said here concerning the fundamental absurdity of the conce
 
 The viewpoints of creditors and debtors will no doubt differ widely, and these conflicts of interest will complicate still more the manipulation of money internationally, than on the national level.
 
-#### 3\. International Complications
+###### 3\. International Complications
 
 It is also possible to consider monetary manipulation as an aspect of national economic policy, and take steps to regulate the value of money independently, without reference to the international situation. According to Keynes,[^88] if there is a choice between stabilization of prices and stabilization of the foreign exchange rate, the decision should be in favor of price stabilization and against stabilization of the rate of exchange. However, a nation which chose to proceed in this way would create international complications because of the repercussions its policy would have on the content of contractual obligations.
 
@@ -1175,7 +1175,7 @@ In recent generations, consideration of these factors has led to pressure for a 
 
 Attempts to introduce a national policy, so as to influence prices independently of what is happening abroad, while still clinging to the gold standard and the corresponding rates of exchange, would be completely unworkable. There is no need to say any more about this.
 
-#### 4\. The Future
+###### 4\. The Future
 
 The obstacles, which militate against a policy aimed at the complete elimination of cyclical changes, are truly considerable. For that reason, it is not very likely that such new approaches to monetary and banking policy, that limit the creation of fiduciary media, will be followed. It will probably not be resolved to prohibit entirely the expansion of fiduciary media. Nor is it likely that expansion will be limited to only the quantities sufficient to counteract a definite and pronounced trend toward generally declining prices. Perplexed as to how to evaluate the serious political and economic doubts which are raised in opposition to every kind of manipulation of the value of money, the people will probably forgo decisive action and leave it to the central bank managers to proceed, case by case, at their own discretion. Just as in the past, cyclical policy of the near future will be surrendered into the hands of the men who control the conduct of the great central banks and those who influence their ideas, i.e., the moulders of public opinion.
 
@@ -1215,7 +1215,7 @@ The only way to do away with, or even to alleviate, the periodic return of the t
 
 ### I. The Nature and Role of the Market
 
-#### 1\. The Marxian “Anarchy of Production” Myth[^89]
+###### 1\. The Marxian “Anarchy of Production” Myth[^89]
 
 The Marxian critique censures the capitalistic social order for the anarchy and planlessness of its production methods. Allegedly, every entrepreneur produces blindly, guided only by his desire for profit, without any concern as to whether his action satisfies a need. Thus, for Marxists, it is not surprising if severe disturbances appear again and again in the form of periodical economic crises. They maintain it would be futile to fight against all this with capitalism. It is their contention that only socialism will provide the remedy by replacing the anarchistic profit economy with a planned economic system aimed at the satisfaction of needs.
 
@@ -1223,7 +1223,7 @@ Strictly speaking, the reproach that the market economy is “anarchistic” say
 
 Yet, the expression “anarchy” carries with it other connotations. We usually use the word “anarchy” to refer to social conditions in which, for lack of a governmental apparatus of force to protect peace and respect for the law, the chaos of continual conflict prevails. The word “anarchy,” therefore, is associated with the concept of intolerable conditions. Marxian theorists delight in using such expressions. Marxian theory needs the implications such expressions give to arouse the emotional sympathies and antipathies that are likely to hinder critical analysis. The “anarchy of production” slogan has performed this service to perfection. Whole generations have permitted it to confuse them. It has influenced the economic and political ideas of all currently active political parties and, to a remarkable extent, even those parties which loudly proclaim themselves anti-Marxist.
 
-#### 2\. The Role and Rule of Consumers
+###### 2\. The Role and Rule of Consumers
 
 Even if the capitalistic method of production were “anarchistic,” i.e., lacking systematic regulation from a central office, and even if individual entrepreneurs and capitalists did, in the hope of profit, direct their actions independently of one another, it is still completely wrong to suppose they have no guide for arranging production to satisfy need. It is inherent in the nature of the capitalistic economy that, in the final analysis, the employment of the factors of production is aimed only toward serving the wishes of consumers. In allocating labor and capital goods, the entrepreneurs and the capitalists are bound, by forces they are unable to escape, to satisfy the needs of consumers as fully as possible, given the state of economic wealth and technology. Thus, the contrast drawn between the capitalistic method of production, as production for profit, and the socialistic method, as production for use, is completely misleading. In the capitalistic economy, it is consumer demand that determines the pattern and direction of production, precisely because entrepreneurs and capitalists _must_ consider the profitability of their enterprises.
 
@@ -1231,7 +1231,7 @@ An economy based on private ownership of the factors of production becomes meani
 
 In the final analysis, it is the consumers who decide what shall be produced, and how. The law of the market compels entrepreneurs and capitalists to obey the orders of consumers and to fulfill their wishes with the least expenditure of time, labor and capital goods. Competition on the market sees to it that entrepreneurs and capitalists, who are not up to this task, will lose their position of control over the production process. If they cannot survive in competition, that is, in satisfying the wishes of consumers cheaper and better, then they suffer losses which diminish their importance in the economic process. If they do not soon correct the shortcomings in the management of their enterprise and capital investment, they are eliminated completely through the loss of their capital and entrepreneurial position. Henceforth, they must be content as employees with a more modest role and reduced income.
 
-#### 3\. Production for Consumption
+###### 3\. Production for Consumption
 
 The law of the market applies to labor also. Like other factors of production, labor is also valued according to its usefulness in satisfying human wants. Its price, the wage rate, is a market phenomenon like any other market phenomenon, determined by supply and demand, by the value the product of labor has in the eye of consumers. By shifting the height of wages, the market directs workers into those branches of production in which they are most urgently needed. Thus the market supplies to each type of employment that quality and quantity of labor needed to satisfy consumer wants in the best possible way.
 
@@ -1239,7 +1239,7 @@ In the feudal society, men became rich by war and conquest and through the large
 
 The capitalistic social order, therefore, is an economic democracy in the strictest sense of the word. In the last analysis, all decisions are dependent on the will of the people as consumers. Thus, whenever there is a conflict between consumers’ views and those of the business managers, market pressures assure that the views of the consumers win out eventually. This is certainly something very different from the pseudo-economic democracy toward which the labor unions are aiming. In such a system as they propose, the people are supposed to direct production as producers, not as consumers. They would exercise influence, not as buyers of products, but as sellers of labor, that is, as sellers of one of the factors of production. If this system were carried out, it would disorganize the entire production apparatus and thus destroy our civilization. The absurdity of this position becomes apparent simply upon considering that production is not an end in itself. Its purpose is to serve consumption.
 
-#### 4\. The Perniciousness of a “Producer’s Policy”
+###### 4\. The Perniciousness of a “Producer’s Policy”
 
 Under pressure of the market, entrepreneurs and capitalists must order production so as to carry out the wishes of consumers. The arrangements they make and what they ask of workers is always determined by the need to satisfy the most urgent wants of consumers. It is precisely this which guarantees that the will of the consumer shall be the only guideline for business. Yet capitalism is usually reproached for placing the logic of expediency above sentiment and arranging things in the economy dispassionately and impersonally for monetary profit only. It is because the market compels the entrepreneur to conduct his business so that he derives from it the greatest possible return that the wants of consumers are covered in the best and cheapest way. If potential profit were no longer taken into consideration by enterprises, but instead the workers’ wishes became the criterion, so that work was arranged for their greatest convenience, then the interests of consumers would be injured. If the entrepreneur aims at the highest possible profit, he performs a service to society in managing an enterprise. Whoever hinders him from doing this, in order to give preference to considerations other than those of business profits, acts against the interests of society and imperils the satisfaction of consumer needs.
 
@@ -1257,7 +1257,7 @@ These disturbances constitute the economic crisis.
 
 ### II. Cyclical Changes in Business Conditions
 
-#### 1\. Role of Interest Rates
+###### 1\. Role of Interest Rates
 
 In our economic system, times of good business commonly alternate more or less regularly with times of bad business. Decline follows economic upswing, upswing follows decline, and so on. The attention of economic theory has quite understandably been greatly stimulated by this problem of cyclical changes in business conditions. In the beginning, several hypotheses were set forth, which could not stand up under critical examination. However, a theory of cyclical fluctuations was finally developed which fulfilled the demands legitimately expected from a scientific solution to the problem. This is the circulation credit theory, usually called the monetary theory of the trade cycle. This theory is generally recognized by science. All cyclical policy measures, which are taken seriously, proceed from the reasoning which lies at the root of this theory.
 
@@ -1267,7 +1267,7 @@ The point of view prevails generally among politicians, business people, the pre
 
 At the interest rates which developed on the market, before any interference by the banks through the creation of additional circulation credit, only those enterprises and businesses appeared profitable for which the needed factors of production were available in the economy. The interest rates are reduced through the expansion of credit, and then some businesses, which did not previously seem profitable, appear to be profitable. It is precisely the fact that such businesses are undertaken that initiates the upswing. However, the economy is not wealthy enough for them. The resources they need for completion are not available. The resources they need must first be withdrawn from _other_ enterprises. If the means _had_ been available, then the credit expansion would not have been necessary to make the new projects appear possible.
 
-#### 2\. The Sequel of Credit Expansion
+###### 2\. The Sequel of Credit Expansion
 
 Credit expansion cannot increase the supply of real goods. It merely brings about a rearrangement. It diverts capital investment away from the course prescribed by the state of economic wealth and market conditions. It causes production to pursue paths which it would not follow unless the economy were to acquire an increase in material goods. As a result, the upswing lacks a solid base. It is _not_ real prosperity. It is _illusory_ prosperity. It did not develop from an increase in economic wealth. Rather, it arose because the credit expansion created the illusion of such an increase. Sooner or later it must become apparent that this economic situation is built on sand.
 
@@ -1287,9 +1287,9 @@ The unprofitability of many branches of production and the unemployment of a siz
 
 Let us consider, first of all, unemployment.
 
-#### A. UNEMPLOYMENT
+###### A. UNEMPLOYMENT
 
-#### 1\. The Market Wage Process
+###### 1\. The Market Wage Process
 
 Wage rates are market phenomena, just as interest rates and commodity prices are. Wage rates are determined by the productivity of labor. At the wage rates toward which the market is tending, all those seeking work find employment and all entrepreneurs find the workers they are seeking. However, the interrelated phenomena of the market from which the “static” or “natural” wage rates evolve are always undergoing changes that generate shifts in wage rates among the various occupational groups. There is also always a definite time lag before those seeking work and those offering work have found one another. As a result, there are always sure to be a certain number of unemployed.
 
@@ -1305,13 +1305,13 @@ Out of every increase in productivity, the wage earner receives his share. For p
 
 This self-adjusting process of the market is severely disturbed now by the interference of unions whose effectiveness evolved under the protection and with the assistance of governmental power.
 
-#### 2\. The Labor Union Wage Rate Concept
+###### 2\. The Labor Union Wage Rate Concept
 
 According to labor union doctrine, wages are determined by the balance of power. According to this view, if the unions succeed in intimidating the entrepreneurs, through force or threat of force, and holding nonunion workers off with the use of brute force, then wage rates can be set at whatever height desired without the appearance of any undesirable side effects. Thus, the conflict between employers and workers seems to be a struggle in which justice and morality are entirely on the side of the workers. Interest on capital and entrepreneurial profit appear to be ill-gotten gains. They are alleged to come from the exploitation of the worker and should be set aside for unemployment relief. This task, according to union doctrine, should be accomplished not only by increased wage rates but also through taxes and welfare spending which, in a regime dominated by pro-labor union parties, is to be used indirectly for the benefit of the workers.
 
 The labor unions use force to attain their goals. Only union members, who ask the established union wage rate and who work according to union-prescribed methods, are permitted to work in industrial undertakings. Should an employer refuse to accept union conditions, there are work stoppages. Workers who would like to work, in spite of the reproach heaped on such an undertaking by the union, are forced by acts of violence to give up any such plan. This tactic on the part of the labor unions presupposes, of course, that the government at least acquiesces in their behavior.
 
-#### 3\. The Cause of Unemployment
+###### 3\. The Cause of Unemployment
 
 If the government were to proceed against those who molest persons willing to work and those who destroy machines and industrial equipment in enterprises that want to hire strikebreakers, as it normally does against the other perpetrators of violence, the situation would be very different. However, the characteristic feature of modern governments is that they have capitulated to the labor unions.
 
@@ -1321,7 +1321,7 @@ Those without work would probably tolerate this situation for a limited time onl
 
 Thus, we see that unemployment, as a long-term mass phenomenon, is the consequence of the labor union policy of driving wage rates up. Without unemployment relief, this policy would have collapsed long ago. Thus, unemployment relief is not a means for alleviating the want caused by unemployment, as is assumed by misguided public opinion. It is on the contrary, one link in the chain of causes which actually makes unemployment a long-term mass phenomenon.
 
-#### 4\. The Remedy for Mass Unemployment
+###### 4\. The Remedy for Mass Unemployment
 
 Appreciation of this relationship has certainly become more widespread in recent years. With all due caution and with a thousand reservations, it is even generally admitted that labor union wage policy is responsible for the extent and duration of unemployment. All serious proposals for fighting unemployment depend on recognition of this theory. When proposals are made to reimburse entrepreneurs, directly or indirectly from public funds, for a part of their wage costs, if they seek to recruit the unemployed in their plants, then it is being recognized that entrepreneurs would employ more workers at a lower wage scale. If it is suggested that the national or municipal government undertake projects without considering their profitability, projects which private enterprise does not want to carry out because they are not profitable, this too simply means that wage rates are so high that they do not permit these undertakings to make profits. (Incidentally, it may be noted that this latter proposal entirely overlooks the fact that a government can build and invest only if it withdraws the necessary means from the private economy. So putting this proposal into effect must lead to just as much new unemployment on one side as it eliminates on the other.)
 
@@ -1331,7 +1331,7 @@ However, the demand to reduce wage rates is now also being made openly. In fact,
 
 However, it is not a question of reducing wage rates. This bears repeating with considerable emphasis. The problem is to re-establish freedom in the determination of wage rates. It is true that in the beginning this would lead to a reduction in money wage rates for many groups of workers. How far this drop in wage rates must go to eliminate unemployment as a lasting phenomenon can be shown only by the free determination of wage rates on the labor market. Negotiations between union leaders and business combinations, with or without the cooperation of officials, decisions by arbitrators or similar techniques of interventionism are no substitute. The determination of wage rates must become free once again. The formation of wage rates should be hampered neither by the clubs of striking pickets nor by government’s apparatus of force. Only if the determination of wage rates is free, will they be able to fulfill their function of bringing demand and supply into balance on the labor market.
 
-#### 5\. The Effects of Government Intervention
+###### 5\. The Effects of Government Intervention
 
 The demand that a reduction in prices be tied in with the reduction in wage rates ignores the fact that wage rates appear too high precisely because wage reductions have not accompanied the practically universal reduction in prices. Granted, the prices of many articles could not join the drop in prices as they would on an unhampered market, either because they were protected by special governmental interventions (tariffs, for instance) or because they contained substantial costs in the form of taxes and higher than unhampered market wage rates. The decline in the price of coal was held up in Germany because of the rigidity of wage rates which, in the mining of hard coal, come to 56 percent of the value of production.[^90] The domestic price of iron in Germany can remain above the world market price only because tariff policy permits the creation of a national iron cartel and international agreements among national cartels. Here too, one need ask only that those interferences which thwart the free market formation of prices be abolished. There is no need to call for a price reduction to be dictated by government, labor unions, public opinion or anyone else.
 
@@ -1339,7 +1339,7 @@ Against the assertion that unemployment is due to the extreme height of wages, i
 
 If there had been no immigration restrictions, millions of workers would have migrated from Europe to the United States in recent decades. This migration would have reduced the differences between American and European wage rates. By stopping immigration into the United States, wage rates are raised there and lowered in Europe. It is not the hardheartedness of European capitalists, but the labor policy of the United States (and of Australia and other foreign countries too) which is responsible for the size of the gap between wage rates here in Europe and overseas. After all, the workers in most European countries follow the same policy of keeping out foreign competitors. They, too, restrict or even prohibit foreign workers from coming into their countries so as to protect in this way the labor union policy of holding up wage rates.
 
-#### 6\. The Process of Progress
+###### 6\. The Process of Progress
 
 A popular doctrine makes “rationalization” responsible for unemployment. As a result of “rationalization,” practically universal “rationalization,” it is held that those workers who cannot find employment anywhere become surplus. “Rationalization” is a modern term which has been in use for only a short time. The concept, however, is by no means new. The capitalistic entrepreneur is continually striving to make production and marketing more efficient. There have been times when the course of “rationalization” has been relatively more turbulent than in recent years. “Rationalization” was taking place on a large scale when the blacksmith was replaced by the steel and rolling mills, handweaving and spinning by mechanical looms and spindles, the stagecoach by the steam engine—even though the word “rationalization” was not then known and even though there were then no officials, advisory boards and commissions with reports, programs and dogmas such as go along with the technical revolution today.
 
@@ -1347,9 +1347,9 @@ Industrial progress has always set workers free. There have always been shortsig
 
 Workers released by the introduction of industrial technology find employment in other positions. The ranks of newly developing branches of industry are filled with these workers. The additional commodities available for consumption, which come in the wake of “rationalization,” are produced with their labor. Today this process is hampered by the fact that those workers who are released receive unemployment relief and so do not consider it necessary to change their occupation and place of work in order to find employment again. It is not on account of “rationalization,” but because the unemployed are relieved of the necessity of looking around for new work, that unemployment has become a lasting phenomenon.
 
-#### B. PRICE DECLINES AND PRICE SUPPORTS
+###### B. PRICE DECLINES AND PRICE SUPPORTS
 
-#### 1\. The Subsidization of Surpluses
+###### 1\. The Subsidization of Surpluses
 
 The opposition to market determination of prices is not limited to wages and interest rates. Once the stand is taken not to permit the structure of market prices to work its effect on production there is no reason to stop short of commodity prices.
 
@@ -1361,7 +1361,7 @@ In recent years, capitalistic methods of production have been applied more and m
 
 Tremendous sums are sacrificed throughout the world in completely hopeless attempts to forestall the effects of the improvements made under capitalistic production. Billions are spent in the fruitless effort to maintain prices and in direct subsidy to those producers who are less capable of competing. Further billions are indirectly used for the same goals, through protective tariffs and similar measures which force consumers to pay higher prices. The aim of all these interventions—which drive prices up so high as to keep in business producers who would otherwise be unable to meet competition—can certainly never be attained. However, all these measures delay the processing industries, which use capital and labor, in adjusting their resources to the new supplies of raw materials produced. Thus the increase in commodities represents primarily an embarrassment and not an improvement in living standards. Instead of becoming a blessing for the consumer, the wealth becomes a burden for him, if he must pay for the government interventions in the form of higher taxes and tariffs.
 
-#### 2\. The Need for Readjustments
+###### 2\. The Need for Readjustments
 
 The cultivation of wheat in central Europe was jeopardized by the increase in overseas production. Even if European farmers were more efficient, more skilled in modern methods and better supplied with capital, even if the prevailing industrial arrangement were not small and pygmy-sized, wasteful, productivity-hampering enterprises, these farms on less fertile soil with less favorable weather conditions, still could not rival the wheat farms of Canada. Central Europe must reduce its cultivation of grain, as it cut down on the breeding of sheep decades ago. The billions which the hopeless struggle against the better soil of America has already cost is money uselessly squandered. The future of central European agriculture does not lie in the cultivation of grain. Denmark and Holland have shown that agriculture can exist in Europe even without the protection of tariffs, subsidies and special privileges. However, the economy of central Europe will depend in the future, to a still greater extent than before, on industry.
 
@@ -1371,9 +1371,9 @@ In recent decades, in almost all countries of the world, attempts have been made
 
 The result of all these efforts to annul the laws which the market decrees for the capitalistic economy is, briefly, lasting unemployment of many millions, unprofitability for industry and agriculture, and idle factories. As a result of all these, political controversies become seriously aggravated, not only within countries but also among nations.
 
-#### C. TAX POLICY
+###### C. TAX POLICY
 
-#### 1\. The Anti-Capitalistic Mentality
+###### 1\. The Anti-Capitalistic Mentality
 
 The harmful influence of politics on the economy goes far beyond the consequences of the interventionist measures previously discussed.
 
@@ -1389,9 +1389,9 @@ Because of tax legislation, entrepreneurs must frequently operate their business
 
 Financial policy certainly did not create the crisis. However, it does contribute substantially to making it worse.
 
-#### D. GOLD PRODUCTION
+###### D. GOLD PRODUCTION
 
-#### 1\. The Decline in Prices
+###### 1\. The Decline in Prices
 
 One popular doctrine blames the crisis on the insufficiency of gold production.
 
@@ -1405,7 +1405,7 @@ Labor unions no longer contend over the height of _money_ wages, but over the he
 
 The error in equating the drop in prices with the crisis and, thus, considering the cause of this crisis to be the insufficient production of gold is especially dangerous. It leads to the view that the crisis could be overcome by increasing the fiduciary media in circulation. Thus the banks are asked to stimulate business conditions with the issue of additional banknotes and an additional credit expansion through credit entries. At first, to be sure, a boom can be generated in this way. However, as we have seen, such an upswing must eventually lead to a collapse in the business outlook and a new crisis.
 
-#### 2\. Inflation as a “Remedy”
+###### 2\. Inflation as a “Remedy”
 
 It is astonishing that sincere persons can either make such a demand or lend it support. Every possible argument in favor of such a scheme has already been raised a hundred times, and demolished a thousand times over. Only one argument is new, although on that account no less false. This is to the effect that the higher than unhampered market wage rates can be brought into proper relationship most easily by an inflation.
 
@@ -1417,7 +1417,7 @@ Yet, all things considered, many may think it advantageous to delay the unavoida
 
 ### IV. Is There a Way Out?
 
-#### 1\. The Cause of Our Difficulties
+###### 1\. The Cause of Our Difficulties
 
 The severe convulsions of the economy are the inevitable result of policies which hamper market activity, the regulator of capitalistic production. If everything possible is done to prevent the market from fulfilling its function of bringing supply and demand into balance, it should come as no surprise that a serious disproportionality between supply and demand persists, that commodities remain unsold, factories stand idle, many millions are unemployed, destitution and misery are growing and that finally, in the wake of all these, destructive radicalism is rampant in politics.
 
@@ -1427,7 +1427,7 @@ With the economic crisis, the breakdown of interventionist economic policy—the
 
 The capitalistic economic system, that is the social system based on private ownership of the means of production, is rejected unanimously today by all political parties and governments. No similar agreement may be found with respect to what economic system should replace it in the future. Many, although not all, look to socialism as the goal. They stubbornly reject the result of the scientific examination of the socialistic ideology, which has demonstrated the unworkability of socialism. They refuse to learn anything from the experiences of the Russian and other European experiments with socialism.
 
-#### 2\. The Unwanted Solution
+###### 2\. The Unwanted Solution
 
 Concerning the task of present economic policy, however, complete agreement prevails. The goal is an economic arrangement which is assumed to represent a compromise solution, the “middle-of-the-road” between socialism and capitalism. To be sure, there is no intent to abolish private ownership of the means of production. Private property will be permitted to continue, although directed, regulated and controlled by government and by other agents of society’s coercive apparatus. With respect to this system of interventionism, the science of economics points out, with incontrovertible logic, that it is contrary to reason, that the interventions, which go to make up the system, can never accomplish the goals their advocates hope to attain, and that every intervention will have consequences no one wanted.
 

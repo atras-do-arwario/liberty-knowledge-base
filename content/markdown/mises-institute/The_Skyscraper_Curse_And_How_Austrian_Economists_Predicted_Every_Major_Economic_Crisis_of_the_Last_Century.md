@@ -2,7 +2,7 @@
 
 ## Title and Patrons
 
-## The Skyscraper Curse: And How Austrian Economists Predicted Every Major Economic Crisis of the Last Century
+#### The Skyscraper Curse: And How Austrian Economists Predicted Every Major Economic Crisis of the Last Century
 
 By Mark Thornton
 
@@ -779,7 +779,7 @@ Unfortunately, they did not print my letter. I was contacted more than three mon
 
 Based on discussions with Lucas Engelhardt, we decided to go back to the original academic journal article and reexamine their findings. Based on that examination, we determined that a comment should be written on the article. Once a common practice, the comment is not nearly as common today, but it still exists at many academic economic journals, including _Applied Economics_ , where the original Barr, Mizrach, and Mundra article was published. Originally, we thought the title of the comment should be “Skyscraper Height and the Business Cycle: Separating Data from Reality,” but we chose instead to go for the conventional approach. The comment is reproduced below.
 
-#### Skyscraper Height and the Business Cycle: Separating Myth from Reality, a Comment
+###### Skyscraper Height and the Business Cycle: Separating Myth from Reality, a Comment
 
 In a recent paper in this journal (_Applied Economics_), Jason Barr, Bruce Mizrach and Kusum Mundra test for the existence of a Skyscraper Curse, which Lawrence (1999) states is the “eerie correlation” between the building of record-breaking skyscrapers and economic crisis. Thornton (2005) shows the theoretical connections between record-breaking skyscrapers and economic crisis. However, the evidence that Barr et al. (2015) presents brings into doubt the existence of the Skyscraper Curse. Based on their evidence the _Economist_ declared: “you cannot accurately forecast a recession or financial panic by looking at either the announcement or the completion dates of the world’s tallest building.”
 
@@ -1152,7 +1152,7 @@ It should also be noted that Dr. Ron Paul, an advocate of Austrian economics, de
 
 ## Chapter 16: Bubble-Bust in Japan
 
-#### Preface
+###### Preface
 
 During the 1980s Japan was feared as an economic and technological powerhouse. Most observers attributed their stock market bubble and high growth rates to easy monetary policy, management style, and government managed technological development. Since 1990, the Japanese government has been fighting price deflation with monetary inflation and trying to increase growth by government deficit spending. By all accounts it has not worked. Their economy remains mired in low growth, they have by far the highest ratio of government debt to GDP in the world, and they face a dramatic demographic crisis as their population continues to age. This chapter is the lesson of what NOT to do and who not to listen to for advice.
 
@@ -1196,7 +1196,7 @@ In retrospect, the new-era thinkers of the Japanese bubble economy seem conceite
 
 In the wake of the bubble and bust, Japan experienced a long series of corruption scandals, a procession of failed prime ministers, the ousting of financial ministers, the conviction of bureaucrats for corruption, and the breakup of its one-party system. However, the Japanese have failed to truly recognize the cause of their bubble and to liquidate their economic mistakes. Instead they embarked on a post-bubble course of easy credit, public works, and deficit spending that has only served to condemn the Japanese economy to continuing economic doldrums.
 
-#### Postscript
+###### Postscript
 
 The success of Japan after WWII was due entirely to the free market economy, small government, low taxes, an appreciating currency, and a very high personal savings rate. That all changed when the bubble was born in the late 1980s because of overly stimulating monetary policy. A quarter century after the stock market meltdown Japan is still mired in an economic slump. At the prodding of mainstream economists, such as Paul Krugman, Japan has embarked on massive amounts of public works projects, enormous amounts of government borrowing, and extreme levels of monetary stimulus and quantitative easing. None of this has worked. It has left the country with the largest national debt relative to GDP in the world. It has also diverted the attention of the Japanese people and thus prevented the country from addressing its demographic crisis. In fact, it might have made the demographic crisis worse. After all, why get married and have children when the children will have to bear the enormous burden of the national debt?
 
@@ -1245,7 +1245,7 @@ Economics can predict the effects to be expected from resorting to definite meas
 
 The problem of predicting (with the goal of preventing) stock market bubbles and crashes is especially important, not just because busts result in huge financial loses for some investors, but because many of these extreme financial cycles can disrupt the financial system and lead to real economic contractions.[^139] Unfortunately, economists have yet to develop a generally accepted view of bubbles and have little to offer in predicting them.
 
-#### Bubble Predictions
+###### Bubble Predictions
 
 _If you can look into the seeds of time, and say which grain will grow and which will not, speak then unto me._
 — William Shakespeare, Macbeth
@@ -1397,7 +1397,7 @@ Another important prediction came from economists Stan Liebowitz and Stephen Mar
 
 The book … focuses on understanding why financial events went so awry. … Many of the prognostications about the internet — rapidly increasing number of users, rapidly increasing advertising revenues, rapidly increasing sales — fertilized wildly optimistic prognostications for the performance of Internet firms, as if a virtual cornucopia of wealth would come streaming down upon investors in those companies [and it did for those lucky enough to get in early]. … But even if all the prognostications of users and revenue growth had been true, as some of them were, that would not have assured the rosy financial scenario that so many investors and analysts anticipated.[^171]
 
-#### Conclusions
+###### Conclusions
 
 _Such is the exuberance on Wall Street that only a brave man insists that the American stock market is overdue for a crash. Down the long history of bubbles ready to burst, it was ever thus_. — _Economist_ , March 25, 2000
 
@@ -1417,7 +1417,7 @@ At the core of this mode of analysis is an emphasis on entrepreneurship and the 
 
 Although Austrian ideas have received more notice and attention in the financial media and in academic publications in recent years, a survey of economic textbooks at the undergraduate or graduate level would find hardly a word about Austrian business cycle theory or about Cantillon effects. It may be too early for a complete revision of economics textbooks and too much to ask that economics professors rewrite their class notes, but it certainly is time at least to introduce these concepts in classrooms and textbooks so that students can consider an alternative paradigm and evaluate its merits.
 
-#### Appendix: Some Other Predictions
+###### Appendix: Some Other Predictions
 
   * Jerry Jordan: “The problem may … be … in asset [stock] markets, as suggested by historical episodes in this country, notably in the 1920s, and in Japan in the late 1980s.”[^172] As a voting member of the Federal Open Market Committee, Jordan, president of the Cleveland Fed, voted unsuccessfully five times to raise interest rates, starting in 1998.
   * Victor Zarnowitz: “The arguments in favor a [sic] new Golden Age are generally not persuasive.”[^173] Zarnowitz is aware of the Austrian theory of the business cycle and considers it in his analysis.
@@ -1531,7 +1531,7 @@ The case of Japan’s real estate bubble is instructive. Japan had a stock marke
 
 It has now been three years since the US stock market crash. Chairman Greenspan has indicated that interest rates could soon reverse their course, while longer-term interest rates have already moved higher. Higher interest rates should trigger a reversal in the housing market and expose the fallacies of the new paradigm, including how the housing boom has helped cover up increases in price inflation. Unfortunately, this exposure will hurt homeowners, and the larger problem could hit the American taxpayer, who could be forced to bail out the banks and government-sponsored mortgage guarantors who have encouraged irresponsible lending practices.
 
-#### More Greenspan
+###### More Greenspan
 
 Once again, Fed chairman Alan Greenspan[^186] has created a new-age economic panacea, and earlier this year he applauded his contribution to the economic recovery: “Very low interest rates and reduced taxes, have permitted relatively robust advances in residential construction and household expenditures. Indeed, residential construction activity moved up steadily over the year.”
 
@@ -1543,7 +1543,7 @@ As is the norm, Greenspan hedged his statements. He also considered some of the 
 
 To be sure, the mortgage debt of homeowners relative to their income is high by historical norms. But as a consequence of low interest rates, the servicing requirement for the mortgage debt of homeowners relative to the corresponding disposable income of that group is well below the high levels of the early 1990s. Moreover, owing to continued large gains in residential real estate values, equity in homes has continued to rise despite sizable debt-financed extractions. Adding in the fixed costs associated with other financial obligations, such as rental payments of tenants, consumer installment credit, and auto leases, the total servicing costs faced by households relative to their incomes are below previous peaks and do not appear to be a significant cause for concern at this time.[^188]
 
-#### The Housing Bubble
+###### The Housing Bubble
 
 I first reported on the housing bubble in the United States at the beginning of this year (2004) when the bubble was already well under way, if not in full bloom. As the chart “Real Private Residential Fixed Investment” in chapter 18 indicates, real residential investment has jumped far above both its historical trend and even its cyclical trend channel. This indicates to me that there is a bubble in residential real estate. The data for this chart originally stopped at the beginning of 2003. We now know that investment in housing increased by 8.8 percent last year. This is a historically high rate of construction, but far from a record rate increase. However, 2003 marks the ninth year in a row that housing investment was positive, the first time that has ever occurred since the statistic has been collected. Frank Shostak[^189] and Christopher Mayer[^190] have also written very informative articles on the housing bubble.
 
@@ -1557,7 +1557,7 @@ Nationally, the price of a median family home was up 15 percent between 2001 and
 
 Why have home prices been increasing? David Lereah, chief economist with the National Association of Realtors, explained to Inman News (2004): “It’s a simple matter of supply and demand. … We continue to have more home buyers than sellers in most of the country, which results in tight housing inventories and higher rates of home price appreciation.”[^191] Of course the cause of higher home prices is that the Federal Reserve has kept interest rates, and thus mortgage rates, at historically low rates such that people find it easier to finance homes. In fact, despite an 18 percent increase in home prices since 2001, the median monthly payment remained the same at \$789/month and the median payment as a percentage of income has actually fallen. This is the magic of monetary inflation, courtesy of Alan Greenspan.
 
-#### Price Inflation Follows Monetary Inflation
+###### Price Inflation Follows Monetary Inflation
 
 The price of just about everything I buy is going up these days. Gasoline is higher, dairy products are higher, paper products and just about everything else — higher. Mainstream economists have sounded surprised by the recent upturn in price inflation, and they have offered us every excuse to ignore signs of inflation: Ignore rising oil prices. Ignore rising food prices. Ignore rising health care costs. Ignore higher taxes and government fees. And then there is their dirty little secret about housing prices.
 
@@ -1565,7 +1565,7 @@ Higher price inflation should not have been a surprise given that the Fed has in
 
 Only recently have commodity prices begun influencing government price indexes like the Producer Price Index and the Consumer Price Index. For the first four months of 2004 CPI inflation increased at an annual rate of 4 percent, which is a higher rate than we have experienced in the last few years. The Producer Price Index actually decreased in 2001, but has increased in 2002 and 2003. During the year ending June 2004, prices for finished producer goods increased 3.7 percent, while at earlier stages of production the prices for intermediate goods increased by 5.1 percent and the prices of crude materials surged 20.4 percent. This would suggest that there is potentially plenty of price inflation still in the pipeline. The experience of the 1970s would suggest that price inflation adds fuel to housing bubbles because tangible assets such as homes serve as a hedge against inflation.
 
-#### The Dirty Secret
+###### The Dirty Secret
 
 While this price inflation did not surprise me, the delay in its arrival did — that is, until I came across the dirty little secret in the CPI. With prices increasing all around us, there is one thing in Auburn, Alabama, that seems to be in abundance with stable, if not declining, prices. This “good” is now being advertised on most streets throughout the town, whereas in the past it did not require much, if any, advertising over the twenty-plus years I have lived in this college town. This abundant good is housing.
 
@@ -1575,7 +1575,7 @@ Greenspan’s low interest rates have driven renters to become homeowners and kn
 
 In the basket of goods used to calculate CPI, the goods that have increased slower than housing include food and beverages, recreation, and education, which add up to about 30 percent of the weight in the CPI basket of goods. Housing accounts for 42 percent of the basket, with housing prices representing almost 25 percent of the entire basket. However, housing prices are calculated with “owner’s equivalent rent,” which is an estimate of the rent that people would have to pay for their houses. With home prices rising and rental rates stagnant, the CPI underestimates the real rate of price inflation over the last year (circa 2004) by about 50 percent.
 
-#### Do Housing Bubbles Burst?
+###### Do Housing Bubbles Burst?
 
 Housing prices never, or rarely, go down. That is the conventional wisdom, and the conventional wisdom is correct. Housing is always a good investment, isn’t it? It’s an inflation hedge and it’s an investment that you get to use every day, plus you get a great tax break. And the home, after all, is a big part of the American dream, right?
 
@@ -1619,7 +1619,7 @@ The reason economic crises create fear and concession of liberty is that people 
 
 The purpose of this chapter is to show how “the system” works, how it generates bubbles, why they eventually burst, and the macroeconomic effects of bubbles. Here we apply the economic understanding of bubbles derived from Austrian business cycle theory, or ABCT, to the current 2006 case of the housing bubble and show that this aspect of the housing crisis is the result of government failure — the inevitable failure of a government bureaucracy (i.e., the Fed) to manage the money supply and interest rates in an economically rational manner. However, the same reasoning can be applied to historical bubbles, from the tulip mania in seventeenth-century Holland to the dot-com tech bubble of the late 1990s, as well as to future bubbles.
 
-#### What Causes Housing Bubbles?
+###### What Causes Housing Bubbles?
 
 There are three basic views of bubbles that are held by economists and the general public. The dominant view among the general public and modern mainstream economists, including the Chicago school and proponents of supply-side economics, is to deny the existence of bubbles and to declare that what are thought to be “bubbles” are really the result of “real” factors. The second view, which is espoused by Keynesians and by proponents of behavioral finance, is that bubbles exist because of psychological factors such as those captured by the phrase “irrational exuberance.” The third and final view is that of the Austrian school, which sees bubbles as consisting of real and psychological changes caused by manipulations of monetary policy. This view has the advantage of being forward looking and identifying an economic cause of bubbles. By identifying an economic cause it also directs us to policy choices that would prevent future bubbles.
 
@@ -1669,7 +1669,7 @@ Signs of a “new era” in housing are everywhere. Housing construction is taki
 
 The problem with the “new era” diagnosis is that it ignores the historical fact that the housing market, and the construction of structures in general, has experienced regular cycles of boom and bust, with prices rising and falling for residential, commercial, industrial, and agricultural real estate. Likewise occupancy and lease rates, new construction, and the fate of construction firms and land speculators point us to the history of real estate bubbles. In fact, statistically, housing starts are a leading indicator of the business cycle and home construction is procyclical (i.e., home construction is positively related to changes in the overall economy, but more volatile). The Skyscraper Indicator even shows that historically the building of a record-setting high skyscraper foreshadows severe negative changes in the economy.[^215]
 
-#### What Goes Up…
+###### What Goes Up…
 
 ABCT demonstrates that monetary inflation has different effects depending on who receives the new money first and how it is spent. Is the new money introduced into the economy in the areas of banking and investment, consumer loans, or directly to a group of consumers or producers? Do the people who receive the money want to save it or spend it? If they save it interest rates will go down, and if they spend it interest rates will go up as entrepreneurs borrow money in order to increase production. If the money is spent, it depends on who is spending it. The economy will experience different changes if the money is given to welfare recipients instead of military generals. If the money is saved the economy will experience different changes than if it is invested in stocks rather than housing. The point here is that monetary inflation can cause bubbles and booms in the areas of the economy where it is first introduced. This foundation of ABCT comes down to us from Richard Cantillon, the founder of economic theory, who wrote in the aftermath of the Mississippi Bubble circa 1720s. Tracking the flow of monetary inflation through the economy is very difficult, and most mainstream economists just assume away the problem and declare that money is neutral on the economy.
 
@@ -1697,7 +1697,7 @@ The final dimension of the housing bubble presented here is the price of houses.
 
 ABCT expects prices in general to rise, but not to rise uniformly. The extent of the rise depends on both where the money is being injected and the flexibility of the supply side of the markets where the injections are taking place. However, if we look at the national price index for the typical 1996 one-family house between 1998 and 2005 we find that prices have increased by 45 percent, which is a 125 percent larger increase compared to the increase in the Consumer Price Index. According to the Bureau of the Census, the price of the average house, as opposed to the “typical” house, has been increasing even faster, which indicates that people are buying bigger, more expensive homes as well. The price dimension — while muted somewhat by the economy’s ability to produce greater quantities of housing — still indicates a large increase in the real price of housing. We should also remember that new housing is generally built on lower-priced land, that house-building technology has reduced building costs, and that the large influx of labor from Mexico has also helped hold down costs.
 
-#### … Must Come Down
+###### … Must Come Down
 
 ABCT shows that it is government failure that started the housing bubble in the first place. This is where resources are allocated in an incorrect and ultimately unsustainable fashion. In a housing bubble too many houses are built, houses of the wrong sort are built, and houses are built in the wrong locations based on the underlying fundamentals of the economy and people’s real desires for housing not artificially stimulated by monetary inflation by the Fed. While most people are very happy during boom times, the Austrian economists view the boom as the real problem because this is where resources are misallocated. This is also when people become financially overextended and engage in excessive luxury spending.[^221] Inflationary periods tend to be when the rich get richer and the poor get poorer.
 
@@ -1709,7 +1709,7 @@ Another natural concern about the bursting of the housing bubble is the indebted
 
 As the economy goes into recession and unemployment increases, homeowners with large mortgages will have a difficult time making their monthly payments and may face the possibility of bankruptcy. This “squeeze” will be compounded by the fact that many homeowners have taken equity out of their homes in recent years, increasing the size of their mortgage. Further difficulties are presented by the fact that a large percentage of borrowers have taken out variable-rate mortgages rather than fixed-rate mortgages, which means that their monthly payment will rise and will rise substantially when interest rates increase. There are variable-rate mortgages where the payment stays the same, but this entails the principal on the loan increases when rates rise, which could place these borrowers “upside down” or “underwater” on the homes, which means the mortgage would be much larger than the value of the home. Lenders have also been providing mortgage loans based on much smaller down payments, in percentage terms, with some lenders even providing loans that exceed 100 percent of the price of the house. All of this points to the likelihood of a large number of foreclosures and bankruptcies. This in turn points us to the stability of the banking and mortgage-lending industries and the likelihood of a taxpayer bailout of banks and government-sponsored institutions such as Freddie Mac that buy mortgage loans from lenders.
 
-#### Summary and Conclusions
+###### Summary and Conclusions
 
 There are three views of the housing bubble. The mainstream view does not believe in bubbles and attributes such changes in the economy to real factors such as technology shocks, and believes there is nothing the government can do to solve such real problems. The Keynesian view is that bubbles exist because of psychological instabilities in the economy, not real factors, and that countercyclical policies of the government should be used to tame the business cycle. ABCT incorporates real and psychological changes into a view where bubbles are caused by the policy manipulation of the Federal Reserve.
 
@@ -1721,7 +1721,7 @@ The lesson of the housing bubble is that what at first appeared to be the govern
 
 The policy lesson of the housing bubble, as provided by ABCT, is that the Fed is responsible for the housing bubble as well as the normal booms and busts in the economy, that it must be relieved of its authority to set what are in effect price controls on interest rates, and also be relieved of its control over the money supply. Furthermore, all federal policy toward housing should be guided by the principles of neutrality, laissez-faire, and do no harm.
 
-#### Postscript — August 8, 2009
+###### Postscript — August 8, 2009
 
 The housing and financial crisis discussed in this chapter is now well underway and we may well have entered the worst global economic crisis of this generation. The question of how economic policy will address these problems has also been revealed in that the Federal Reserve and the US Treasury have initiated aggressive and unprecedented policy responses. Under the cover of preventing a financial market meltdown, these policy responses are really attempts to bailout the owners of large financial business. They will do little to help the housing market and will increase the overall economic harm of the housing bubble.
 
@@ -1793,7 +1793,7 @@ A _double bottom_ is a term from technical stock analysis that is a bullish indi
 
 Hopefully, Alan Greenspan will know the correct lever to pull next. He did in the 1960s.[^226]
 
-#### Postscript
+###### Postscript
 
 If you look at a long-term chart of the Philadelphia Stock Exchange Housing Sector Index (symbol HGX) you will see that this was indeed the exact turning point for home-builder stocks, which typically lead the actual housing market. The Taylor rule, a guide to monetary policy, can also be said to have predicted the housing bubble ∕ financial crisis. Woods[^227] is the best analysis of the housing bubble, financial crisis, and the policy response to it.
 
@@ -1895,7 +1895,7 @@ The opposite policy approach to laissez-faire, which employs bailouts and moneta
 
 When interest in ABCT by the general public increased significantly after the housing bubble burst, it was largely ignored by mainstream economists. Eventually some economists started to make criticisms that were more like witticisms, such as when Nobel Prize–winning economist Paul Krugman labeled ABCT the “hangover theory.” More recently ABCT has experienced multiple attacks by notable mainstream economists. This could be a good sign if you believe in an idea often attributed to Mahatma Gandhi: “First they ignore you, then they ridicule you, then they fight you, and then you win.”
 
-#### Criticisms of the Hydraulic Version of ABCT
+###### Criticisms of the Hydraulic Version of ABCT
 
 The hydraulic version of ABCT is the one described by Gottfried Haberler.[^254] It could be described as a mainstream translation of ABCT as developed by Mises, Hayek, and Rothbard, with several critical divergences. Nevertheless, this version was surprisingly seized upon by economists in order to criticize ABCT.[^255]
 
@@ -1905,7 +1905,7 @@ Instead of ABCT, what the critics are arguing against is a simple mainstream two
 
 With people drawing down their true wealth they will actually be consuming their savings and wealth, and this implies that there will likely be less overall investment, not more, during the boom. During the bust phase, consumption will be _relatively_ strong compared to capital investment, but because of unemployment, lower wages, a negative wealth effect and a general malaise among entrepreneurs, there will hardly be a boom in consumption. The fact that some mainstream economists would base their criticisms on an obscure and flawed presentation of ABCT could be an indication of malicious intentions. Salerno gave an in-depth analysis of this criticism of ABCT.[^256]
 
-#### The Rational-Expectations Critique — Why Can’t Entrepreneurs Learn?
+###### The Rational-Expectations Critique — Why Can’t Entrepreneurs Learn?
 
 ABCT has been criticized on the basis of rational-expectations theory. The critics argue that rational entrepreneurs could not be continuously fooled by artificially low interest rates. Based on entrepreneurs’ past experience and analysis of current market conditions, the critics ask, why would they be systematically fooled by the central bank?[^257]
 
@@ -1915,11 +1915,11 @@ These people could act more cautiously, withdraw from certain markets, or requir
 
 ABCT shows that as the amount of loanable funds expands, less creditworthy borrowers will enter the market. Several economists have explored this adverse-selection argument at length.[^258] Austrians see entrepreneurs as rational, but they also realize that the success or failure of a venture is dependent on many factors that cannot be known in advance. Easy-credit policies let more entrepreneurs into the process, the results of which are known not instantaneously, but only as or shortly after these long-term capital projects near or reach completion.
 
-#### What about Nineteenth-Century Panics?
+###### What about Nineteenth-Century Panics?
 
 ABCT has also been criticized for blaming the business cycle on the Federal Reserve when in fact there were business cycles in the nineteenth century before the Fed existed. I have already addressed this criticism in chapter 2 on the history of the skyscraper curse. ABCT actually blames the central bank _and_ the fractional-reserve banking system. Even mainstream economists agree that the panics from the time of the Civil War to the time of World War I were caused by the National Banking Acts. The acts’ requirements ensured that bank deposits were structured in an unstable manner. Many also agree that business cycles prior to the Civil War were caused by the First and Second Banks of the United States, which were pseudo central banks.
 
-#### What about Robert Murphy’s Prediction of Double-Digit Inflation?
+###### What about Robert Murphy’s Prediction of Double-Digit Inflation?
 
 Critics of the Austrian school of economics have been throwing barbs at Austrians such as Robert Murphy because there is very little inflation in the economy. Of course, these critics are speaking about the mainstream concept of the price level as measured by the Consumer Price Index (CPI).
 

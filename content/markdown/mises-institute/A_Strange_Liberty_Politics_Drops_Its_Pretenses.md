@@ -1131,7 +1131,7 @@ All I can say is that majority vote is no litmus test of libertarianism. Most Am
 
 Ultimately, Dr. Walter Block is a vociferous and prolific defender of the stateless society—and thus brooks no restrictionist immigration arguments regarding state-owned property, voting, or the welfare state. His open borders position, however, is built on an unstinting foundation of private property rights, Lockean homesteading, and the full privatization of  _everything_ government does or owns.
 
-#### Hans-Hermann Hoppe
+###### Hans-Hermann Hoppe
 
 Hans-Hermann Hoppe is well-known in Austro-libertarian circles as a critic of “open borders” and an advocate for purely private communities. In his earlier works (1980s and 1990s) on socialism, private property, and argumentation ethics, Hoppe demonstrates his unyielding support for absolute property rights. This perspective informs his later work on trade, immigration, and borders, in well-known publications like  _Democracy: The God that Failed_.
 
@@ -1237,7 +1237,7 @@ Fights over land are the norm in human affairs, and the impetus for most wars ac
 
 So long as land remains valuable, we should expect people to fight over it. And not only in Israel. Similar disputes over historical claims are simmering in the West, including claims by American Indian tribes against the US federal government for land restoration and black Americans seeking land as partial reparations for slavery. Yet we view these claims almost entirely in political terms, as matters to be settled by legislatures representing “the people” and using public appropriations. Why should this be so? Why does modern positivist “land law” focus primarily on zoning issues and land use rather than defining ownership?  _Black’s Law Dictionary_ appears to provide more guidance than the Supreme Court or international pseudotribunals. Why do we lack a method or road map for resolving land disputes in the modern context when land has been such a fixture in common law? One would think the basic rules of property titles would have been settled centuries ago.
 
-#### What Land Titles Are “Just”?
+###### What Land Titles Are “Just”?
 
 So how do we address thorny land disputes in Gaza and elsewhere? Fortunately, both the late Murray N. Rothbard and his mentor, Ludwig von Mises, wrote at some length on the question of property titles, though from two different perspectives. In particular, we can look to Rothbard’s  _The Ethics of Liberty_ and Mises’s  _Socialism_ for their fullest treatments of law and justice as they relate particularly to real property. Rothbard’s approach is normative, based strictly on natural law justice principles rather than economic efficiency. Mises, by contrast, is a strong critic of natural law. His “rule utilitarianism” views markets as a form of social cooperation, and seeks rules of conduct which encourage such cooperation for land disputes. But both men recognize the role that earlier aggression, whether force or fraud, played in creating property titles held today. Invasion, war, seizure, theft, trickery, and general violence are at least as prevalent in human history as heroic homesteading.
 
@@ -1261,7 +1261,7 @@ Mises alludes to the “is” and “ought” of later versus original ownership
 
 The point here is not to reconcile Rothbard and Mises on just property titles, but rather to demonstrate their understandings of how and why property derives legal title. Any argument for the undoing of current land ownership starts with an understanding of the specific history of titles in question.
 
-#### Four Scenarios for Land Title Disputes
+###### Four Scenarios for Land Title Disputes
 
 As an analytic framework for considering the validity or criminality of land titles, Rothbard lays out four possible scenarios. He does so with the proviso that merely proving a title is criminal does not answer the question of to whom it should transfer:
 
@@ -1276,7 +1276,7 @@ That said, each scenario suggests a remedy to Rothbard.
 
 These four examples, at least in theory, give us the clearest possible approach to working out land disputes. They apply to any scenario, including the worst atrocities in human history, provided proof can be produced which both identifies the original theft and the perpetrators and victims involved.
 
-#### Who Bears the Burden of Proof?
+###### Who Bears the Burden of Proof?
 
 In _The Ethics of Liberty_ Rothbard does not discuss the burden of proof that plaintiffs should bear in disputes over land. Burden of proof requirements arise from common law, and require a suing party to put forth evidence at a certain level to prevail in their claim. This is not merely a technicality, but an evidentiary standard which often determines the outcomes of cases. In civil suits today, a plaintiff seeking money damages generally must demonstrate liability by a preponderance of the evidence, which means the judge or jury believes that the evidence shows the defendant “more likely than not” bears responsibility. By contrast, a prosecutor seeking to jail a defendant must demonstrate guilt beyond a reasonable doubt. Since Rothbard advocates “collapsing tort into crime,” which is to say basing all actionable lawsuits on aggression against persons or property, is a much higher burden of proof required in land disputes?
 
@@ -1290,11 +1290,11 @@ The presumption of every case, then, must be that every defendant is innocent un
 
 This evidentiary burden decidedly colors the larger argument about justice and land titles. In this practical sense, Rothbard partially concedes Mises’s view on the utilitarian value of continuity and the general sentiment that “possession is nine-tenths of the law.” Rothbard is willing to overturn the apple cart, but only if and when a party seeking title to land makes a thoroughly persuasive case.
 
-#### Is There a Statute of Limitations for Land Claims?
+###### Is There a Statute of Limitations for Land Claims?
 
 That persuasion may well depend on the age of such a claim: as years, decades, or even centuries go by, witnesses die and written records are hard to find. This is certainly the case in Israel, where current land titles are often traced to very old or even ancient provenance—with little in the way of official deeds. As evidence become harder to adduce with the passage of time, disputed title claims become harder and harder to prove. To be sure, Rothbard takes pains to deny any concept of a statute of limitation in libertarian legal theory. After all, statutes require legislatures, which he rejects altogether. And he is not the kind of thinker whose sense of normative justice shifts simply because an injury is long in the past. Yet Rothbard’s four scenarios, outlined above, create bright lines for determining just outcomes for proven claims. Neither Rothbard nor any other theorist can solve the issue of proof, which means no system of justice is perfect. And it’s important to repeat that Rothbard’s analysis is based on individual cases and  _specific_ claims, not generalized calls for redistributive justice for past actions. For Rothbard, there is no generalized political justice for slavery, genocide, military land grabs, or groups with historical grievances.
 
-#### Should Lineage Matter?
+###### Should Lineage Matter?
 
 Finally, we have the difficult question of whether and why genetic lineage should allow any person to make (or collect on) a claim on behalf of their ancestor. At several points, Rothbard discusses victims and their heirs, as contrasted with criminal aggressors and their ancestors. This clearly indicates his agreement with the idea that property rights adhere to successive generations, as does the taint of theft.
 
@@ -1302,7 +1302,7 @@ Certainly, an individual who dies with a successful legal claim to land (but who
 
 The short answer is because we don’t have a better way. Channeling Thomas Sowell, we must ask, “Compared to what?” Are hereditary rights to claims the best imperfect system we can devise? Do they give us a way to identify worthy claimants that no other system can? Yes and yes.
 
-#### Conclusion
+###### Conclusion
 
 Henry George was correct: the amount of physical land on earth is inherently fixed and finite. Mark Twain told us to “buy land, they’re not making it anymore.” Of course, the amount of “usable” land (inhabitable, arable, reachable by humans) increases with technology, along with the amount of extractable resources and economic value. Someday the vast sea floors may be widely available to us. But land is indeed exhaustible, in a purely possessory sense. This simple reality inescapably benefits earlier generations, which came to possess land by dint of discovery, homesteading, legitimate purchase, inheritance, war, colonization, force, fraud, or just the sheer luck of being born at the right place and time. Young people may well resent this state of affairs. They may wonder if they’ll ever be able to afford even modest property like their grandparents could, much less hellishly expensive homes in New York City or Singapore or Vancouver (never mind the role of central banks in this). They were late to the party—through no fault of their own—and now find themselves landless in a crowded world of over 7 billion people.
 
@@ -1486,7 +1486,7 @@ Search for his Twitter profile and you’ll find something spooky. His name is s
 
 Alex Berenson has been similarly unpersoned, removed, erased. But even if he ends up a casualty of this war—and whether you agree with him or not—people like him have managed to challenge the official narrative in ways unimaginable even twenty years ago. The financial journalist John Tamny made an interesting point last week: complain about social media all you want, but Facebook and Twitter have been great sources of information during this covid mess. And after thinking about it I had to agree. Most of the alternative information about covid I’ve consumed via social media. But of course, Mr. Berenson no longer has this luxury.
 
-#### The Covid Economy and Tradeoffs
+###### The Covid Economy and Tradeoffs
 
 Speaking of narratives, we have especially lacked clear and sober thinking about the injuries to the US economy created by covid policies. We profoundly fail to understand the economics behind covid, because we so desperately want to kid ourselves that the economy will be “normal” soon.
 
@@ -1564,7 +1564,7 @@ I thought he was spot on. Economics is the study of choice in the face of scarci
 
 My point here is to suggest the economics of our present situation are worse than advertised, and that economics is about what holds us together. What we think of as America is mostly an economic arrangement, not a social or cultural one—and certainly not a political arrangement. America is hardly a country anymore, and I take no pleasure in saying that. What happens when the economics unravel?
 
-#### The Great Unraveling
+###### The Great Unraveling
 
 But there is a happy upside to all of this. A silver lining, perhaps.
 
@@ -1608,7 +1608,7 @@ As the late Bill Peterson explained, “Inflationism, in today’s terms, is def
 
 Inflationism is both a fiscal and monetary regime, but its consequences go far beyond economics. It has profound social, moral, and even civilizational effects. And understanding how it terrorizes us is the task today.
 
-#### Understanding Inflationism
+###### Understanding Inflationism
 
 I’ll ask you to consider three things.
 
@@ -1628,7 +1628,7 @@ So this very human impulse, to save for a rainy day and perhaps leave something 
 
 _Third, hyperinflation can happen here._ It may not happen, and it may not happen soon. But it might well happen. And even steady 10 percent inflation means prices double roughly every seven years. We can pretend the laws of economics don’t apply to the world’s leading superpower, or that the world’s reserve currency is safe from the problems experienced by lesser countries. And it’s certainly true our reserve currency status insulates us and makes the world need dollars. Governments and industry mostly use US dollars to buy oil from OPEC countries, hence the term “petrodollar.” It’s certainly true governments, central banks, large multinational companies, worldwide investment funds, sovereign wealth funds, and pension funds all hold plenty of US dollars—and thus in a perverse way share our interest in maintaining King Dollar. It’s true we don’t have easy historical examples of a world reserve currency, like gold, suffering a rapid devaluation across the world (even the Spanish silver devaluation of the 1500 and 1600s was not necessarily caused by a glut in circulating currency). So we’re in uncharted territory, especially given the fiscal and monetary excesses of the last twenty-five years and especially the last two years. But this only means the potential contagion is greater and more dangerous. The whole world can be sickened at once.
 
-#### A Story: When Money Dies
+###### A Story: When Money Dies
 
 But as most of you surely know by now, we don’t turn the ship around or win hearts and minds simply with logic and facts and airtight arguments. We need stories, or narratives, in today’s awful media parlance, to gain influence. We need emotional reactions. So I will suggest a story with plenty of pathos to shake people out of their complacency and sound the warning.
 
@@ -1660,7 +1660,7 @@ Is this beginning to sound familiar, especially after Biden’s sick speech the 
 
 So, next time one of these sociopaths in our political class wants to spend a few trillion more to pay for a green new deal or a war with China or free college, remember Frau Eisenmenger’s story.
 
-#### The Lessons for Today
+###### The Lessons for Today
 
 How do we apply this grim historical lesson from the Weimar period to America today? How do we tell this story?
 
@@ -1762,7 +1762,7 @@ What an astonishingly honest phrase: “Conscription of Thought.” It applies i
 
 Yet it is precisely this challenge from which the Zeitgeister shrinks.
 
-#### Succumbing to The Zeitgeist
+###### Succumbing to The Zeitgeist
 
 Lew Rockwell brings up the old adage, the smaller the movement the more—and louder—the factions. Now I know what you’re thinking, but this is not a talk about libertarian factions: Left vs. Right, thick vs. thin, modal vs. paleo, or Beltway vs. populist.
 
@@ -1786,7 +1786,7 @@ Yet “movement libertarianism” must be seen as a failure today, in the politi
 
 And as a result of this neutering, political libertarianism has crashed, as all political movements must, on the rocky shoals of compromise, dilution, and ultimately co-option.
 
-#### The Horseshoe: Neoliberalism and Neoconservatism
+###### The Horseshoe: Neoliberalism and Neoconservatism
 
 Now to be fair to the Zeitgeist Libertarians, and to understand that Zeitgeist, we must take a look at where we are and how we got here.
 
@@ -1832,7 +1832,7 @@ Today’s Zeitgeist Libertarians:
 
 In other words, they sound a lot like neoliberals and neoconservatives—and thus they push political libertarianism toward a convergence with those doctrines. In doing so they take the marrow out of the bone, and reduce liberty to a variant of “public policy.” And by this we mean  _approved_ public policy—nothing too radical or intellectual. They make a fetish of appearing neither Left nor Right, and engage in endless “whataboutism,” but end up with a milquetoast message that sounds to ordinary people precisely like a mishmash of Left and Right.
 
-#### The Progressive Triumph
+###### The Progressive Triumph
 
 Why should this be so?
 
@@ -1862,7 +1862,7 @@ In every meaningful way, progressives control politics, government, business, an
   * Progressives run Hollywood: they hold sway over the film, TV, and video industries, including the growing market for streaming content from HBO, Netflix, and others; and
   * All major religious institutions in the West, from the Vatican to mainline Protestant churches to virtually all synagogues, are now thoroughly progressive both politically and doctrinally.
 
-#### Conclusion
+###### Conclusion
 
 The point here is that modern libertarianism did not evolve separate and apart from this Progressive juggernaut—and how could it? Our point is to understand the impossibility of political or movement libertarianism within the current progressive framework. No truly libertarian movement will advance when it accepts the wrong premises, asks the wrong questions, and cedes the terms of the debate. It’s not a matter of selling out principles for influence, it’s a matter of preemptively accepting the organizing principle of the state.
 
@@ -1926,7 +1926,7 @@ Notice that the charge of being unrealistic, impractical, or overly idealistic i
 
 So why should we be apologetic or timid or less than fully optimistic in our fight against the state? We should not. Like the cancer researcher, like the crime fighter, we should be bold, we should be optimistic, and we should be vigorous in our opposition to government. We should be every bit as certain as Murray Rothbard was in the eventual success of our mission.
 
-#### I’m Optimistic Because the State Is Fiscally Unsustainable
+###### I’m Optimistic Because the State Is Fiscally Unsustainable
 
 Rest assured we will win. The state, at least as currently constituted in the US and most Western nations, is dying under the weight of its sheer fiscal unsustainability.
 
@@ -1940,7 +1940,7 @@ Understand that there is zero political will in Washington to cut the big ticket
 
 It may seem almost funny, but this reality should give us cause for optimism. We know the current arrangement cannot continue, so we—as liberty minded people—have a tremendous opportunity to recognize this and begin building the future. We don’t have to labor under the delusion that everything will continue as usual, that the system will work if only we reform it or tinker with it or elect the right people. We can be honest and recognize that democracy doesn’t work, it can’t work, and the sooner it is exposed as a failure the better. We should celebrate this understanding, because no progress toward liberty can occur until we understand reality and understand the problem at hand.
 
-#### I’m Optimistic Because the State Is Intellectually Unsustainable
+###### I’m Optimistic Because the State Is Intellectually Unsustainable
 
 But there is a deeper and more satisfying reason for us to be optimistic. The state is not only fiscally unsustainable, it’s intellectually unsustainable as well. We should be optimistic because we’re living at the beginning of what Hans-Hermann Hoppe calls a “bottom-up” revolution. Bottom-up because it starts at the individual and hyper-local level. Bottom-up because it relies on radical decentralization and political secession. Bottom-up because it bypasses politics and traditional power structures. Bottom-up because it bypasses state schools, state intellectuals, and state media.
 
@@ -1966,7 +1966,7 @@ None of this withering away of state legitimacy should surprise us. Just as Mise
 
 It’s not liberty that’s impossible ladies and gentlemen, it’s statism.
 
-#### Conclusion
+###### Conclusion
 
 Personally, I don’t care if you call yourself a conservative, a constitutionalist, a classical liberal, a libertarian, a minarchist, an anarcho-capitalist, a progressive or whatever—this message is for you. All that matters is you recognize and agree that the state is out of control, even if just in one area, like drug laws or foreign policy—we can work out the details later! We are so far from what anyone in this room envisions as a free society that many of these labels and differences seem petty, to say the least.
 
@@ -2217,7 +2217,7 @@ _This article contains excerpts from a presentation given at the Seventieth anni
 
 If there is one overriding economic myth that plagues us today it is the notion that society can do collectively what we cannot do individually: get rich by living today at the expense of tomorrow. It is the doctrine of the political class, professional economists, and central bankers. It is monetary and fiscal hedonism masquerading as technical analysis. And, it leads to fiscal default. It is arguably the biggest untold story of our time, but you won’t hear about it from Hillary or Bernie or Donald.
 
-#### Consuming Today—Paying Tomorrow
+###### Consuming Today—Paying Tomorrow
 
 Part of the problem lies in the fact that the cumulative impact of bad policies will in most cases be felt only many years down the line. Murray Rothbard pointed out when this is the case voters will support destructive policies. The idea persists that we really can live at someone else’s expense. At least for now.
 
@@ -2229,7 +2229,7 @@ I’ll leave it to you to decide if extraordinary monetary policy is really the 
 
 There still appears to be no political will at the Fed or anywhere else to forgo consumption today for the sake of fiscal solvency later.
 
-#### The Lost Art of Investing in the Future
+###### The Lost Art of Investing in the Future
 
 Looking around this beautiful venue, which often hosts symphonies, we see immediately that it was built by people who wanted to create something lasting—something that would not only survive their lifetimes, but that would provide beauty and lasting enjoyment for future generations.
 
@@ -2259,7 +2259,7 @@ Professor Hans Hoppe states that low time preference, the willingness to accumul
 
 Professor Guido Hülsmann, in his great book _The Ethics of Money Production_ , addresses the damaging cultural and moral effects of using monetary policy to encourage high time preference via inflation and cheap credit. By debasing money, the political class and its bankers not only hurt the economy, but also grow government, make wars more likely, and create moral hazards that encourage bad behavior.
 
-#### The Rise of Monetary and Fiscal Hedonism
+###### The Rise of Monetary and Fiscal Hedonism
 
 It seems self-evident that capital accumulation and low time preferences are healthy, virtuous, and necessary elements of an advanced economy and society. So, we should not be surprised that the two most powerful forces in the modern world—central governments and central banks—work tirelessly to thwart both. And democracy, so-called, is at the heart of their experiment.
 
@@ -2279,7 +2279,7 @@ In sum, we might say that Congress and the Fed are co-conspirators in a plot to 
 
 It’s not hyperbole to say that the political and banking classes have become enemies of civilization. They’ve sold us a mix of fiscal hedonism and monetary hedonism that threatens to upend the arc of human history.
 
-#### Our Biggest Challenge Lies in Changing Our Mindset
+###### Our Biggest Challenge Lies in Changing Our Mindset
 
 Remember, our economic future is unwritten. The US economy has very serious structural problems, particularly with respect to debt, the dollar, and entitlements.
 
@@ -2309,7 +2309,7 @@ We can use the term “private” in more than one sense: the first is personal,
 
 The marketplace—capital and entrepreneurship, as opposed to politics—is the way forward.
 
-#### I. The Dystopian Vision
+###### I. The Dystopian Vision
 
 When we consider the market for new parallel private structures, we should take a moment to play devil’s advocate and consider the typical strawman arguments presented by people who reflexively abhor the notion of private government. These are the people who go on and on about our “sacred democracy” but cannot conceive of the truly democratizing elements of the marketplace, what Mises called a “daily plebiscite.” It’s uncanny: people have no objection whatsoever to private governance when it comes to vast companies like Google or the British National Trust (the biggest private landowner in the UK) or the ecclesiastical hierarchy of the Roman Catholic Church or the management of Real Madrid football club. But suggest privatizing police or trash pickup in their town of thirty thousand, and they overwhelmingly object. Why?
 
@@ -2327,7 +2327,7 @@ So the new private territories were not born without violence, and the old “Wo
 
 Only in the metaverse (a term credited to Stephenson) does Hiro have more status, as a successful denizen of the upper echelons of society unavailable to him in the meat space of his real life delivering pizzas. But even here he is no happier; in the virtual world, every last space is commercialized, monetized, and motivated only by rank status or money. It is a caricature of anarcho-capitalism which ignores the full spectrum of human experience beyond commerce. Stephenson’s metaverse is a hellscape, every human interaction is mercenary and transactional and ugly. This is clearly not the way to sell private governance!
 
-#### II. Rothbard’s Vision
+###### II. Rothbard’s Vision
 
 What if the parallel communities we seek to build already exist in some form and our task is to identify and coalesce around those existing “nations within nations”? Surely this would be a leap forward.
 
@@ -2356,7 +2356,7 @@ Rothbard provides several key takeaways which can benefit the marketing of priva
 
 Rothbard’s conception of a nation is very different than a “state,” although we have been led to believe the two are synonymous. By identifying existing nations—organic and not contrived, like so many national borders—we dramatically increase the market opportunities for selling private governance to dissatisfied constituencies.
 
-#### III. Common Law: No Vision Required!
+###### III. Common Law: No Vision Required!
 
 While we identify existing nations and intentional communities, we similarly can identify existing mechanisms for ordering, structuring, and enforcing contractual societies. We don’t necessarily need dramatic new constitutions or complex legal structures. Common law, evolved over centuries of hard human experience, provides a dependable model to navigate conflicts and provide governance guardrails in a private parallel structure. We don’t need a grand vision; we need the wisdom of the ages.
 
@@ -2399,7 +2399,7 @@ The topic of our symposium this morning is “What Must Be Done,” which origin
 
 And it’s a question we hear time and time again at the Mises Institute: What can we do to fight back against government? We all understand the problem, but what is the solution? What can we do in the current environment to help build a more sane and libertarian world? And how can we find some measure of freedom in our lives today, to live more freely in our lifetimes?
 
-#### Four Common Strategies
+###### Four Common Strategies
 
 When libertarians talk about what must be done, the discussion tends to revolve around four common strategy options. None of them are mutually exclusive necessarily and there can be plenty of overlap between them.
 
@@ -2463,7 +2463,7 @@ And let’s be frank: the notion of living an agorist’s life in the shadows, w
 
 As for applying new technology to bypass the state, I’m all for it. Any innovation that makes it harder for the state to govern us, as a practical matter, is something to be celebrated. But we should guard against false hope: the same technology which serves to facilitate privacy or title transfers or stealth movement of money or people can be exploited by the state’s spying apparatus. And no innovation can change the fundamental questions of whether and how human affairs should be organized by the state.
 
-#### Hoppe’s Revolution
+###### Hoppe’s Revolution
 
 So these four basic approaches—politics, withdrawal, “hearts and minds,” and resistance—provide us with a framework to consider, in an unfree world, what must be done.
 
@@ -2473,7 +2473,7 @@ Keep in mind that when Hoppe delivered his talk in 1997, the digital revolution 
 
 Each of these events intensified the growth and scale of centralized government power. But even in what now seems like the carefree year of 1997, Hoppe’s explicit focus was the fundamental fight against any and all centralized political power.
 
-#### The Problem of Centralization
+###### The Problem of Centralization
 
 And, in fact, decentralization is a linchpin that connects each of the four tactical approaches mentioned earlier. If there is one principle, and only one principle, that libertarians ought to apply when considering strategy, it is this: radical decentralization of state power must be our relentless goal.
 
@@ -2486,7 +2486,7 @@ Hoppe posits three strategic keys for this revolution:
   * First, protection, defense, and justice must be de-monopolized. These are the very areas—policing, courts, armies—where libertarians often falter in their advocacy of a truly private society. But here we must be steadfast: if these functions remain under the sole power of a central state monopoly, no progress toward liberty is possible. We can’t trust the state with guns, lawyers, and jails.
   * Second, political decentralization must be ruthlessly pursued, and here Hoppe makes the case that voting on local matters can be morally justified on grounds of self-defense.
 
-#### Conclusion
+###### Conclusion
 
 Let me conclude with a quote from Rod Dreher, writing in _The American Conservative_ about the Benedict option I mentioned earlier:
 
@@ -2566,7 +2566,7 @@ Of course the older city halls, especially those from the 1800s, evoked European
 
 Why in the world are economists not noticing this? Austrians understand fiat money, but what about fiat architecture, fiat food, fiat art, fiat culture, fiat everything? Economics does not somehow stand separate and apart from the cultural ramifications of our disastrous economic policies. It is here to help us make sense of the ugliness growing around us, and not just in politics.
 
-#### Beauty without Truth?
+###### Beauty without Truth?
 
 There is no doubt: The hunger for beauty in the West today is real. We are starved for it.
 
@@ -2588,7 +2588,7 @@ Our elites don’t care about truth and beauty. They possess neither, they demon
 
 But we can replace them, and we must.
 
-#### We Need New Elites
+###### We Need New Elites
 
 Every society needs elites; the question is always whether they are natural or imposed, whether they earned their wealth and position in society or captured it through state connections. But we must expect this. Rule by elites, at least to an extent, is indeed inevitable. Every society, across time and across place, manifests this. Democracy doesn’t solve or change it, but merely transfers status away from merit and natural authority toward politics and cronyism.
 
@@ -2602,7 +2602,7 @@ Progressives of all political stripes oppose the idea of natural elites not beca
 
 We have a responsibility to be the actual “adults in the room.” We desperately need to desanctify the current crop and replace them with much better and nobler people.
 
-#### It Is Up to Us
+###### It Is Up to Us
 
 None of this is easy. And it comes with a heavy price, to be paid by all of us.
 
@@ -2626,7 +2626,7 @@ The subject matter of praxeology is human action. It deals with acting man, not 
 
 So we need volition, what Mises like to call our natural “élan vital,” or life force. Let us not be vegetative!
 
-#### Conclusion
+###### Conclusion
 
 There is a dangerous hubris, a conceit, in imagining we live in particularly dangerous or troubled times, or times of intense and unprecedented rapid change. Relatively speaking, I’m not sure we do.
 
@@ -2808,7 +2808,7 @@ But of course we should apply Mises’s counsel to the world today. After all, w
 
 So we do wonder what Mises might think about all kinds of things, like the Nobel prize his protégé Hayek won just after Mises’s death. Or about Austria today, a shadow of its late nineteenth century glory. Or the collapse of the Soviet Union and the Eastern Bloc. Or about the European project, especially the eurozone, the creation of the ECB, and the euro itself, and the political state of Europe today. About European immigration and the Schengen Agreement. About negative interest rates and QE and crazed central bank policies in the decades since his death. About business cycle busts in 1987 and 2000 and 2008. About gold and cryptocurrency. About Trump and the current crop of Democrats, and Brexit and Merkel and Mario Draghi. About democracy as a mechanism for peaceful transfers of political power. About renewed calls for socialism in the West. About the state of Austrian school economics. And we might especially wonder about what Mises would think about the current state of the liberal project he laid out one hundred years ago.
 
-#### Mises the Neoliberal?
+###### Mises the Neoliberal?
 
 Is Misesian liberalism in retreat across the West, or has it triumphed? I suspect he would be shocked to discover he is now viewed as a central figure of today’s dominant ideology of neoliberalism, which we are assured has taken over everything. It’s an ersatz form of liberalism, certainly, that nobody has a precise definition for. But we might take a stab at it:
 
@@ -2820,7 +2820,7 @@ Even a cursory search of the New York Times and Washington Post—someone would 
 
 Mises, as much as Hayek, is now one of the Left’s favorite avatars for market liberalism. His name is far better known today, and his work far more widely read today, than it ever was during his lifetime. What more could any intellectual hope for? And most of the big names in economics who dominated the twentieth century, men like Arthur Burns who enjoyed comfortable positions at Columbia and later chaired the Fed, are footnotes today. Mises’s name and legacy, by contrast, have been elevated. Even his worst critics now see him not only as a giant not only of economics, but a hugely influential figure in Western capitalism. This was not the case when he died in 1973.
 
-#### The Health of Austrian Economics
+###### The Health of Austrian Economics
 
 Mises’s posthumous renaissance reflects an upswing in the broader fortunes of Austrian economics generally. It’s easy to look at the central bankers of the world and think economics is hopelessly lost, but this would miss a very strong subcurrent in the profession.
 
@@ -2832,17 +2832,17 @@ Imagine Mises’s reaction to having virtually every important Austrian treatise
 
 That’s not to say he would think very highly of economics generally today. He might wonder why people like Thomas Piketty, Paul Krugman, Binyamin Appelbaum, and Noah Smith at Bloomberg are viewed as economists at all, given their lack of substantive work. He would lament the hyper-specialization of economists, none of whom are faintly equipped to write treatises. He certainly would be dismayed by the abandonment of theoretical work for mathematical and statistical modeling, and the conflation of trendy disciplines like behavioral economics with real academic work.
 
-#### Central Banks and Money
+###### Central Banks and Money
 
 What about monetary economics? I suspect he would be amazed by the sheer force of central bank money creation in the 1980s, 1990s, 2000s, and 2010s. He didn’t live to see Paul Volcker’s Fed Funds Rate of 20 percent, and he undoubtedly would view today’s near-zero and negative central banks rates as un-economic forms of monetary alchemy, a central bankers’ version of animal spirits. Undoubtedly, he would see figures like Greenspan, Bernanke, and Draghi as untethered radicals who made things up as they went along. He would not see programs like quantitative easing as banking at all, but purely as political machinations.
 
 Ours would not be a rational central bank world to Mises, who perhaps never foresaw how long fiat currencies could operate as political money—if powerful enough governments back them up. I also suspect he would see the business cycle theory he helped develop has not been further developed by economists who recognize its broad brush strokes as correct but lacking in detail. Yes, inflation is a monetary phenomenon, and yes central banks create cycles of malinvestment, boom, and bust—but understanding the timing and duration is where I think Mises would want Austrians to focus today.
 
-#### Academia and Socialism
+###### Academia and Socialism
 
 But beyond economics and banking he might be appalled to see how universities in general have become what he termed “nurseries of socialism” even more today than in his time. Because today socialists don’t organize in union halls or loading docks, they organize in university sociology departments. The working class failed them, so today they’ve turned to woke intersectional academics as the vanguard. The animating spirit of Bernie Sanders and Elizabeth Warren and Antifa lives on campus, and I think Mises would deplore this very much. I think he would especially shake his head at the rising amount of support for socialism among young people, nearly one hundred years after he wrote the definitive case against it, and against the backdrop of the twentieth century’s collectivist failures. Surely it would be hard for someone who believed so strongly in using arguments instead of bullets to see the West today backsliding politically toward collectivism and bloodshed.
 
-#### Immigration and Nationalism
+###### Immigration and Nationalism
 
 Regarding immigration and the aforementioned Schengen Agreement, Mises might well wonder what the fuss is all about. Lew Rockwell points out how in Mises’s young life a businessman could take a train from Vienna to London and disembark without ever showing or needing a passport. But of course early 1900s Austria was a very different time and place, before two world wars with all their dislocations, mass immigration into and across Europe, and centralized bureaucratic welfare states.
 
@@ -2858,7 +2858,7 @@ However, the institutions of freedom are not exogenously given. Among other fact
 
 So while Mises certainly understood migration restrictions just as surely as he understood trade restrictions, it’s an outright mistake and not just an oversimplification to insist he would unequivocally support open borders in Europe today.
 
-#### Conclusion
+###### Conclusion
 
 There is so much more to say about what Mises would tell us today. Most of all I know he would be thrilled by this event happening today, in his honor. Of course, he knew Lew Rockwell from their Arlington House days, but he never imagined a Mises Institute. He never imagined a university in the American South would become a haven for studying his work and the broader Austrian school. He never imagined a digital world which would make much of his writing, his life’s work, available online to anyone around the world, almost instantaneously and free of charge. And as mentioned, he never imagined his work would be more widely read, that he would be more famous, after his death.
 

@@ -147,7 +147,7 @@ Nevertheless, the formula that attributes the World War simply to the machinatio
 
 ### I. Nation and Nationality
 
-#### 1\. The Nation as a Speech Community
+###### 1\. The Nation as a Speech Community
 
 The concepts _nation_ and _nationality_ are relatively new in the sense in which we understand them. Of course, the word nation is very old; it derives from Latin and spread early into all modern languages. But another meaning was associated with it. Only since the second half of the eighteenth century did it gradually take on the significance that it has for us today, and not until the nineteenth century did this usage of the word become general.[^6] Its political significance developed step by step with the concept; nationality became a central point of political thought. The word and concept _nation_ belong completely to the modern sphere of ideas of political and philosophical individualism; they win importance for real life only in modern democracy.
 
@@ -191,7 +191,7 @@ It seems even more difficult at first sight to harmonize the problem of the Iris
 
 The much-cited Danish-Norwegian example also cannot undercut the assertion that nationality lies in language. During the centuries-long political union between Norway and Denmark, the old Norwegian standard language was completely driven out by the Danish standard language; it still managed a miserable existence only in the numerous dialects of the rural population. After the separation of Norway from Denmark (1814), efforts were made to create a national language of its own. But the efforts of the party striving to create a new Norwegian standard language on the basis of the old Norwegian language definitely failed. Success went to those who seek only to enrich Danish by introduction of expressions from the vocabulary of the Norwegian dialects but otherwise are in favor of retaining the Danish language. The works of the great Norwegian writers Ibsen and Bjørnson are written in this language.[^14] Danes and Norwegians still today, then, form a single nation, even though they belong politically to two states.
 
-#### 2\. Dialect and Standard Language
+###### 2\. Dialect and Standard Language
 
 In primitive times every migration causes not only geographical but also intellectual separation of clans and tribes. Economic exchanges do not yet exist; there is no contact that could work against differentiation and the rise of new customs. The dialect of each tribe becomes more and more different from the one that its ancestors spoke when they were still living together. The splintering of dialects goes on without interruption. The descendants no longer understand one other.
 
@@ -217,7 +217,7 @@ Conditions are similar in Slovakia. The independence of the Slovakian language f
 
 To the language researcher it may in general seem not impossible to draw language boundaries by classifying individual dialects with particular standard languages. Yet his decision does not prejudice the historical course of events. Political and cultural events are decisive. Linguistics cannot explain why Czechs and Slovaks became two separate nations, and it would have no explanation if the two in the future should perhaps blend into _one_ nation.
 
-#### 3\. National Changes
+###### 3\. National Changes
 
 For a long time nations have been regarded as unchanging categories, and it has not been noticed that peoples and languages are subject to very great changes in the course of history. The German nation of the tenth century is a different one from the German nation of the twentieth century. That is even outwardly evident in the fact that the Germans of today speak a different language from that of the contemporaries of the Ottonians.
 
@@ -251,7 +251,7 @@ Before the opening of the age of modern democracy, when national questions did n
 
 ### II. The Nationality Principle in Politics
 
-#### 1\. Liberal or Pacifistic Nationalism
+###### 1\. Liberal or Pacifistic Nationalism
 
 That politics should be national is a modern postulate.
 
@@ -295,9 +295,9 @@ Yet political realism must first still reckon with the existence of states and w
 
 Thus the striving for the unified state already contains the kernel of the new interpretation of the nationality principle, which leads from the peaceful liberal nationality principle to militant power-policy nationalism, to imperialism.
 
-#### 2\. Militant or Imperialistic Nationalism
+###### 2\. Militant or Imperialistic Nationalism
 
-### A. The Nationality Question in Territories with Mixed Populations
+###### A. The Nationality Question in Territories with Mixed Populations
 
 The princely state strives restlessly for expansion of its territory and for increase in the number of its subjects. On the one hand it aims at the acquisition of land and fosters immigration; on the other hand it sets the strictest penalties against emigration. The more land and the more subjects, the more revenues and the more soldiers. Only in the size of the state does assurance of its preservation lie. Smaller states are always in danger of being swallowed up by larger ones.
 
@@ -381,7 +381,7 @@ A way must be found out of these difficulties, however. It is not a question onl
 
 The catastrophe of the World War has shown to what abyss that problem has led mankind. And all the streams of blood that have flowed in this war have not brought it a hairsbreadth closer to solution. In polyglot territories, democracy seems like oppression to the minority. Where only the choice is open either oneself to suppress or to be suppressed, one easily decides for the former. Liberal nationalism gives way to militant antidemocratic imperialism.
 
-### B. The Migration Problem and Nationalism
+###### B. The Migration Problem and Nationalism
 
 The variety of conditions of life in the individual parts of the earth’s surface touches off migrations of individual persons and entire peoples. If the world economy were managed by the decree of an authority that surveyed everything and ordered what was most appropriate, then only the absolutely most favorable conditions of production would be utilized. Nowhere would a less productive mine or a less productive field be in use if more productive mines or fields lay unused elsewhere. Before a less productive condition of production is put to use, one must always first consider whether there do not exist more productive ones. Less productive conditions of production that might be in use would be discarded at once if others should be found whose yield would be so much greater than an increased yield would be attained from discarding the old and introducing the new sources of production, even despite the loss to be expected because the immovably invested capital would become useless. Since the workers have to settle in places of production or in their immediate neighborhood, the consequences for the conditions of settlement follow automatically.
 
@@ -478,7 +478,7 @@ The nations suffering from relative overpopulation in their homelands can no lon
 
 Of course, the struggle of nationalities over the state and government cannot disappear completely from polyglot territories. But it will lose sharpness to the extent that the functions of the state are restricted and the freedom of the individual is extended. Whoever wishes peace among peoples must fight statism.
 
-### C. The Roots of Imperialism
+###### C. The Roots of Imperialism
 
 It is usual to seek the roots of modern imperialism in the desire for territories to settle and colonies to exploit. This interpretation represents imperialism as an economic necessity. We best recognize that this interpretation is inadequate if we consider how liberalism stands on the same problem. Its watchword is freedom of movement; at the same time, it is averse to all colonial undertakings. The proof that the liberal school has provided is irrefutable: that free trade and only free trade appears justified from the purely economic point of view, that only it guarantees the best provisioning of all persons, the greatest yield of labor with the smallest expenditure of costs.
 
@@ -508,7 +508,7 @@ In economic policy, imperialism in no way suits the stage of world economic deve
 
 Once that has been recognized, however, then only the military argument can still be adduced in favor of the policy of national expansion. The nation must be populous to field many soldiers. Soldiers are needed, however, to acquire land on which soldiers can be raised. That is the circle that the imperialistic way of thinking does not escape.
 
-### **D._Pacifism_**
+###### **D._Pacifism_**
 
 Dreamers and humanitarians have long campaigned for the idea of general and eternal peace. Out of the misery and distress that wars have brought to individuals and peoples, the deep longing arose for peace that should never again be disturbed. Utopians paint the advantages of freedom from war in the most splendid colors and call on states to unite in an enduring alliance for peace embracing the entire world. They appeal to the highmindedness of emperors and kings; they refer to divine commands and promise whoever would realize their ideals undying fame far exceeding even that of the great war heroes.
 
@@ -550,9 +550,9 @@ Full freedom of movement of persons and goods, the most comprehensive protection
 
 Never have we been further from this ideal than today.
 
-#### 3\. On the History of German Democracy
+###### 3\. On the History of German Democracy
 
-### **A._Prussia_**
+###### **A._Prussia_**
 
 Among the most notable phenomena of the history of the last hundred years is the fact that the modern political ideas of freedom and self-government could not prevail among the German people, while elsewhere they could make themselves influential almost everywhere on earth. Everywhere democracy has been able to overcome the old princely state; everywhere the revolutionary forces have triumphed. Only precisely in Germany and in Austria—and besides there only in Russia—has the democratic revolution been defeated again and again. While every nation of Europe and America has experienced an age of liberalism in constitutional and economic policy, in Germany and Austria only slight successes have been accorded to liberalism. In the political sector, the old princely state, as represented at its purest in the constitution of Prussia under Frederick the Great, did indeed have to grant some concessions, but it was far from transforming itself into a parliamentary monarchy of, say, the English or Italian sort; as a result of the great political movements of the nineteenth century the authoritarian state appears here.
 
@@ -596,9 +596,9 @@ The Prussian authoritarian state could not defeat the world. Such a victory coul
 
 If the German people found the allotment of territories of settlement on the earth unjust, then they should have sought to convert the public opinion of the world, which did not see the injustice of this allotment. Whether this would have been possible is another question. It is not wholly improbable that allies for this struggle could have been found, united with whom much, perhaps even everything, could have been attained. It is certain, however, that the undertaking of a nation of eighty million to fight against the whole remaining world was hopeless if it was not pursued with intellectual means. Not with weapons but only with the spirit can a minority overcome the majority. True practical politics is the only kind that knows how to enlist ideas in its service.
 
-#### 3\. On the History of German Democracy
+###### 3\. On the History of German Democracy
 
-### **B._Austria_**
+###### **B._Austria_**
 
 The teleological interpretation of history, by which all historical events appear as realization of definite goals set for human development, has assigned many kinds of task to the Danube state of the Habsburgs, which for four hundred years has maintained its position among the European powers. Now it should be the shield of the West against the threat from Islam, now the stronghold and refuge of Catholicism against the heretics; others wanted to see it as the support of the conservative element in general, still others as the state summoned by its nationally polychromatic character to promote peace among peoples by way of example.[^70] One sees that the tasks were multifarious; according to the shape of political affairs, people favored now the one and now the other interpretation. History goes its course, however, without regard to such chimeras. Princes and peoples bother themselves very little over what missions the philosophy of history assigns to them.
 

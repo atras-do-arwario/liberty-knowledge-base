@@ -287,7 +287,7 @@ The knowledge of the fact that rational economic activity is impossible in a soc
 
 ## Postscript: Why a Socialist Economy is "Impossible" by Joseph T. Salerno
 
-### Mises’s Thesis
+##### Mises’s Thesis
 
 In “Economic Calculation in a Socialist Commonwealth,” Ludwig von Mises demonstrates, once and forever, that, under socialist central planning, there are no means of economic calculation and that, therefore, socialist economy itself is “impossible” (”unmöglich”)—not just inefficient or less innovative or conducted without benefit of decentralized knowledge, but really and truly and literally impossible.
 
@@ -297,7 +297,7 @@ Abolish all, or even one, of these institutions and human society disintegrates 
 
 Because Mises’s critique of socialism has been the subject of significant misinterpretation by his followers as well as his opponents, his argument, as it is presented in this article, should be restated.
 
-### The Calculation Argument
+##### The Calculation Argument
 
 (1) Mises’s pathbreaking and central insight is that monetary calculation is the indispensable mental tool for choosing the optimum among the vast array of intricately-related production plans that are available for employing the factors of production within the framework of the social division of labor. Without recourse to calculating and comparing the benefits and costs of production using the structure of monetary prices determined at each moment on the market, the human mind is only capable of surveying, evaluating, and directing production processes whose scope is drastically restricted to the compass of the primitive household economy.
 
@@ -331,7 +331,7 @@ In the Soviet Union, for example, in the midst of a dire undersupply of food pro
 
 Mises’s analysis of the effects of socialism also has another momentous implication. With the impossibility of building up and maintaining a capital structure in the absence of monetary calculation, human economy under socialism comes to consist of super-short and repetitive household processes utilizing minimal capital and with little scope for adjustment to new wants. The result is that time itself—in the praxeological sense of a distinction between present and future—ceases to play a role in human affairs. Men and women, in their capitalless, hand-to-mouth existence, begin to passively experience time as the brute beasts do—not actively as a tool of planning and action but passively as mere duration. Humanity as a teleological force in the universe is therefore necessarily a creation of the inextricably related phenomena of calculation and capital. In a meaningful sense, then, socialism not only exterminates economy and society but the human intellect and spirit as well.
 
-### Mises vs. the Hayekians
+##### Mises vs. the Hayekians
 
 (1) It is of utmost importance to recognize that, in his original article as well as all later writings on the subject, Mises unswervingly identified the unique and insoluble problem of socialism as the impossibility of calculation—not, as in the case of F.A. Hayek, as an absence of an efficient mechanism for conveying knowledge to the planners. This difference between Mises and Hayek is reflected in their respective conceptions of the social function of competition as well as in their responses to the claims of the later market and mathematical socialists. Actually, Mises anticipated and refuted both groups in his original article. Nonetheless, Mises’s position on these issues is today generally ignored or conflated with Hayek’s.
 
@@ -365,7 +365,7 @@ Even if mathematics, therefore, yields a consistent set of prices for the given 
 
 Thus Mises’s original thesis stands on its own against all counterarguments and without any need for qualification or emendation: without private ownership of the means of production, and catallactic competition for them, there cannot exist economic calculation and rational allocation of resources under conditions of the social division of labor. In short, socialist economy and society are impossible.
 
-### Beyond Socialism
+##### Beyond Socialism
 
 (1) But though Mises’s thesis may remain valid, is it sill relevant in a world in which socialist planned economies have collapsed like a house of cards? The answer is a resounding “yes,” for Mises’s argument §[^p20] implies that “Every step that takes us away from private ownership of the means of production and from the use of money also takes us away from rational economics.”
 
@@ -389,7 +389,7 @@ But, of course, the internal dynamic of the welfare state is never to retrench a
 
 This is true, for example, of environmental regulations that prohibit development activities for the vast majority of Alaskan land and along much of the California coastline as well as of recent calls for suppressing development of Amazon rain forest and coercively maintaining the entire continent of Antarctica forever wild. Needless to say, thoroughgoing and centralized land use regulations, which some fanatical environmentalists are calling for, is tantamount to the abolition of private property in national resources and business structures. The connection between environmentalism and socialism is even stronger when we realize that what socialism brings about unintentionally—the abolition of humanity as a teleological force shaping nature to its purposes—is precisely the aim of the radical environmentalist program.
 
-### Conclusion
+##### Conclusion
 
 The significance of Mises’s 1920 article extends far beyond its devastating demonstration of the impossibility of socialist economy and society. It provides the rationale for the price system, purely free markets, the security of private property against all encroachments, and sound money. Its thesis will continue to be relevant as long as economists and policy-makers want to understand why even minor government economic interventions consistently fail to achieve socially beneficial results. “Economic Calculation in the Socialist Commonwealth” surely ranks among the most important economic articles written this century.
 

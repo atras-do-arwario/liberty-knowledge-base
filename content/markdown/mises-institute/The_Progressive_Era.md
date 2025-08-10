@@ -242,7 +242,7 @@ In short, the Progressive Era ushered the modern American politico-economic syst
 
 ## 1. Railroads: The First Big Business and the Failure of the Cartels
 
-#### 1\. Subsidizing the Railroads
+###### 1\. Subsidizing the Railroads
 
 Railroads were the first Big Business, the first large-scale industry, in America. It is therefore not surprising that railroads were the first industry to receive massive government subsidies, the first to try to form substantial cartels to restrict competition, and the first to be regulated by government.[^28]
 
@@ -288,7 +288,7 @@ The revulsion against public partnership with railroads coincided with the secon
 
 The third reason for the end of the railroad bonanza was the shocking bankruptcy and collapse of the mighty Jay Cooke in the Panic of 1873.[^37] One problem with massive government aid is that it subsidizes inefficiency, and the far from completed Northern Pacific was increasingly in huge financial arrears. Also, the Tycoon’s touch in selling bonds was no longer so magical as it had been in peddling government securities. Led by the powerful Rothschilds, European bankers and investors stayed away in droves from Northern Pacific bonds — a striking contrast to the general enthusiasm of European investors in American railroads during the latter half of the 19th century. Meanwhile, at home, the brash new firm of investment bankers, Drexel, Morgan & Co., headed by Cooke’s Philadelphia rival, Anthony Drexel, and by young John Pierpont Morgan of New York, acted against Cooke and helped bring about the failure of Cooke’s U.S. government bond issue in early 1873. Half a year later, all of these factors combined to cause the failure and bankruptcy of Jay Cooke & Co., precipitating the Panic of 1873. As a result, Cooke was now succeeded by J.P. Morgan as the nation’s leading investment banker.[^38] Since Morgan was a Democrat, his ascension symbolized the important political shift returning the country to a genuine two-party system.
 
-#### 2\. The Rationale of Railroad Pricing
+###### 2\. The Rationale of Railroad Pricing
 
 The “anti-monopoly” and later movements that wanted government to do something about the railroads arose partly in response to the outrageous handouts that government had granted to the roads. The healthy demand of the protestors was to stop or rollback the subsidies: the former successfully stopped the land grant process, while the latter focused on a demand for local governments to tax unused land that the railroads had received as a bonus and were holding off the market. Many of the protestors went further, however, and demanded various forms of regulation to hold down railroad rates, especially for freight, which was economically far more significant than passenger service.
 
@@ -346,7 +346,7 @@ Overall, railroad rates had fallen far below the wildest dreams of the Grangers 
 
 One particularly piquant group of complainers against the railroads were the railroad investors themselves. Often mulcted by unscrupulous promoters and inside managers (as in the case of the major transcontinental roads), induced by eager local, state, and federal governments to over-expand and wastefully manage their operations, the railroad owners found, over the decades, a none too munificent rate of return sinking even lower. Thus, around 1870, railroad bond yields averaged about 6% while stock dividends were approximately 7%; by the end of the century, average bond yields had sunk to 3.3% and dividends to 3.5%. In addition to this virtually 50% drop, only 30–40% of railroad stock paid any dividend at all during the 1890s.[^47] Railroad bankruptcies and reorganizations were extensive during the same decade.
 
-#### 3\. The Attempts to Form Cartels
+###### 3\. The Attempts to Form Cartels
 
 Early in the career of large-scale railroads, some railroad men sought a way out from the rigors of competition and competitive price-cutting. What they sought was the time-honored device of the _cartel_ agreement, in which all the firms in a certain industry agree to raise their selling prices. If the firms could be trusted to abide by the agreement, then all could raise prices and every firm could benefit.
 
@@ -443,7 +443,7 @@ The trunk lines struggled to another agreement in late 1885, but it was again to
 
 ## 2. Regulating the Railroads
 
-#### 1\. The Drive for Regulation
+###### 1\. The Drive for Regulation
 
 Characteristically, it was Albert Fink who saw it first. If the railroads could not form successful cartels by voluntary action, then they would have to get the government to do the job for them. Only government compulsion could sustain a successful cartel. As Fink put it in a letter as early as 1876, “Whether this cooperation can be secured by voluntary action of the transportation companies is doubtful. Governmental supervision and authority may be required to some extent to accomplish the object in view.”[^60]
 
@@ -527,7 +527,7 @@ For a quarter of a century they [the railroads] have been attempting, by agreeme
 
 But despite the enthusiastic support of the ICC, Congress stubbornly refused to pass any such legislation. Now, after 1898, even the rate association route was declared illegal by the courts. As a result, railroad and ICC pressure on Congress for legalized pools intensified still further.
 
-#### 2\. Strengthening the Interstate Commerce Commission
+###### 2\. Strengthening the Interstate Commerce Commission
 
 And so, by the turn of the century, the railroad leaders had realized that the existing Interstate Commerce Act was not sufficiently powerful to act as a successful cartelizer of the railroad industry. For the first decade of the 20th century, as Hilton states, “the history of the statutory authority of the ICC is best interpreted as an effort to convert the Act of 1887 into an effective cartelizing statute.”[^89]
 
@@ -647,7 +647,7 @@ President Wilson called for strengthening of the ICC along similar lines in Augu
 
 ## 3. Attempts at Monopoly in American Industry
 
-#### 1\. America’s Industrial Revolution
+###### 1\. America’s Industrial Revolution
 
 In the decades after the Civil War and until the end of the 19th century, America experienced its veritable Industrial Revolution. In an explosion of industrialization, the United States transformed from a predominantly agricultural into an industrial country. In the process, output and living standards soared for a rapidly increasing population. The enormous expansion of production took place through the factory system which, in these decades, replaced the small artisan and craftsman as the predominant form of industrial production. Formerly, the craftsmen typically worked at home on his own tools, with his raw materials sometimes financed by his wholesale merchant customer (“the putting out” or “domestic” system). Now, a capitalist employer, from his own or from his partner’s savings, built or purchased buildings, machines, and raw material, and hired a number of employees to work on these materials at a central location. It proved to be efficient in most industries to help increase the scale and size of the factories and firms as markets for the increased production expanded throughout the nation.
 
@@ -663,7 +663,7 @@ As a result, the crucial role of investment banks, which underwrote and floated 
 
 Another successful tactic of the investment banking houses was to acquire control of the rapidly burgeoning life insurance companies. Total assets of life insurance companies had increased ten-fold from 1867 to 1897.[^118] Since these companies were “owned” by a self-perpetuating board of trustees who could not earn profits from the companies’ assets, life insurance executives were more motivated to maintaining assets than to seek profits with alacrity. Hence, they were ripe for takeover by investment banking houses, who could try to gain control of the boards of trustees and have them purchase securities of industrial companies, controlled by the banks themselves.[^119]
 
-#### 2\. The Petroleum Industry
+###### 2\. The Petroleum Industry
 
 As manufacturing developed in the decades after the Civil War, the temptation to seek monopoly, and thereby to attempt to restrict production and raise prices, infected industry after industry. The attempts took two forms. One was cartels, which had the same function as in railroads, with the same disastrous effects under the pressure of internal breakup and new external competition. Another form was mergers, an attempt to merge all firms within an industry into One Big Firm, which would then achieve the monopoly goal. To a certain extent, mergers were beneficial and inevitable, as small firms took advantage of the expanding market to grow and merge into larger firms with larger and eventually corporate capitalization, as the corporate form began to replace the self-owned firm or the partnership. Similar mergers took place in the Eastern railroads after 1850, as small lines consolidated into a more efficient, larger line. But it was very different to merge not from natural market forces but because of “ideology,” because of the will o’ the wisp of achieving monopoly through this route. The result of such mergers was as disastrous and very similar to the result of cartels.
 
@@ -691,7 +691,7 @@ Specifically, Standard made two grave mistakes because of its deficient entrepre
 
 Moreover, new independent refiners were attracted to the petroleum industry by Standard’s high profit margins. Whereas there was a total of 67 refiners in 1899, they had more than doubled to 147 by 1911. The independents, furthermore, led Standard in various innovations in petroleum: in the concept of retail gas stations; in the discovery and production of petrochemicals; in tank cars and tank trucks for conveying oil.[^121]
 
-#### 3\. Iron and Steel
+###### 3\. Iron and Steel
 
 Until very recently, iron and steel has been the glamor industry of the Industrial Revolution. Any undeveloped country that wishes to feel modern makes sure to subsidize and force-feed at least one large steel plant. In the United States, however, the iron and steel industry was chronically inefficient throughout the 19th century. The Pittsburg ironmasters were the source of America’s first organized movement for a protective tariff in 1820, and for the rest of the century Pennsylvania iron and steel manufacturers were in the forefront of cries for protection against more efficient British imports.
 
@@ -707,13 +707,13 @@ Hence, the Morgan attempt to create U.S. Steel as a stabilizing force for domina
 
 If nothing else, the steel industry was competitive before the World War, and the efforts of the House of Morgan to establish control and stability over the steel industry by voluntary, private economic means had failed. Having failed in the realm of economics, the efforts of the United States Steel group were to be shifted to politics.[^123]
 
-#### 4\. Agricultural Machinery
+###### 4\. Agricultural Machinery
 
 By the turn of the century, the agricultural machinery industry was dominated by two large firms: McCormick Harvester, owned by Cyrus McCormick and the McCormick family, and William Deering and Company. When the competition between McCormick and Deering became so intense that they began to buy iron ore and build rolling mills and thereby compete with iron and steel, Judge Gary, Morgan man and chairman of U.S. Steel, took a hand. At his suggestion, George W. Perkins, Morgan partner, threw his weight around and induced McCormick and Deering to merge into a supposedly profitable farm machinery monopoly. Accordingly, in 1902 International Harvester was formed, combining McCormick, Deering and three smaller firms, with Perkins as chairman of the board. International Harvester began with 85% of the harvester market, 96% of the binders, and 91% of the mowers in the United States.
 
 But International Harvester floundered almost immediately. In the 15 months after the merger the firm earned less than 1% profit; and even after extensive reorganization and jettisoning of deadwood the firm, in 1907 only paid 3 to 4% in dividends; and only began paying dividends on its common stock in 1910. Three small firms left out of the merger, Deere and Co., J.I. Case and Co., and Oliver Farm Equipment Co., quickly expanded and developed a full line of machinery. In 1909, there were still 640 farm manufacturing firms in the United States. More significantly, International Harvester’s share of the market fell sharply across-the-board. Its share of binders had fallen to 87% in 1911; of mowers to 75%; and of the harvesters it had declined to 80% in 1911 and then to 64% in 1918. Of particular significance, International fell prey quickly to the curse of “monopoly” firms: sluggishness in developing or exploiting innovations.[^124]
 
-#### 5\. The Sugar Trust
+###### 5\. The Sugar Trust
 
 We may mention one more case study of attempted monopolization of an industry: the “Sugar Trust.” The sugar refining industry had attempted a cartel in 1882, but the agreement had fallen apart for the usual reasons. Five years later, the industry attempted the merger route toward monopoly, forming the trust, the American Sugar Refining Company.
 
@@ -743,7 +743,7 @@ By 1917, the share of the Sugar Trust had fallen to 28% of the total market. Ind
 
 There is no evidence to indicate that the sugar refiners were successful in their aim of reestablishing the cartel. Consequently, with wisdom and faith, they turned to one of the more efficient cartel promoters, the government. The government was singularly successful in cartelizing the industry during World War I during the Food Administration Act.[^126]
 
-#### 6\. Overall Assessment
+###### 6\. Overall Assessment
 
 A typical example of the rapid rise and fall of the trust, peaking during the great merger wave of 1897–1901, was the National Biscuit Company. It was formed in 1898 as a great combination of three previous regional combinations, designed to monopolize the biscuit market, to purchase competitors, and to control competition by restricting production and raising prices. The result was disaster, as the National Biscuit Company admitted in a remarkable confession in its Annual Report for 1901. Announcing a complete change of policy from its previous aim of controlling competition, the Annual Report declared:
 
@@ -795,7 +795,7 @@ In manufacturing as well as railroads, then, mergers as well as cartels had syst
 
 How could America experience a great leap into statism after 1900, a leap that went virtually unchallenged? What happened to the long-standing American tradition of individual liberty and laissez-faire? How could it so meekly roll over and play dead after having been dominant, or at least vibrant, during the last half of the 19th century, and for over half a century before that? To answer this question, we must explore what the “new political historians,” in the past decade, have been analyzing as the sudden end of the “third party system” in the United States in the year 1896.[^134] It was that sudden collapse that spelled the doom of _laissez-faire_ in American party politics and paved the way for the unchallenged statism of the Progressive Period and, indeed, for the remainder of the 20th century.
 
-#### 1\. The Third Party System
+###### 1\. The Third Party System
 
 For the last decade or so, political historians have been analyzing not merely individual elections, but the way in which the political parties and their constituencies have interrelated, persisted, and then changed over time. They have identified a series of “party systems,” of such structural political relationships, in American history. The first was between the Federalists and the Democratic-Republicans, a conflict which began in the 1790s and continued approximately until the War of 1812. After that, America had a single party, which continued until the late 1820s, when the Democratic Party was developed to challenge the existing party, and this precipitated the formation of the Whig Party in opposition. The Democrats vs. the Whigs, lasting from the 1820s until the 1850s, constituted the second American party system. The formation of the Republican Party in the 1850s over the slavery question and the disappearance of the Whigs precipitated the third party system.
 
@@ -817,7 +817,7 @@ Many historians are under the erroneous impression that the Republicans continue
 
 Furthermore, the Democrats were slowly gaining the ascendancy, so that, as happened at the end of the two previous party systems, the Democratic Party was slowly but inexorably moving toward long run dominance. This development was embodied in the Democratic landslide to capture the House in 1890 and in Cleveland’s easy return to a second term in the presidency in 1892, which carried the Democrats to control both houses of Congress for the first clean sweep since the Civil War.[^137] And then something happened to clobber the Democratic Party in 1896, and to reduce it to a rather pathetic minority party at least until 1912 (and more accurately until 1928 since Woodrow Wilson’s election in 1912 was only made possible by a grave split within Republican ranks). What cataclysmic event occurred in 1896 — so much so as to usher in a new, fourth party system for the next 32 years — will be the subject of the next few chapters.
 
-#### 2\. Pietists vs. Liturgicals: The Political Party Constituencies
+###### 2\. Pietists vs. Liturgicals: The Political Party Constituencies
 
 In 1970, in a brilliant and seminal work titled _The Cross of Culture: A Social Analysis of Midwestern Politics: 1850–1900_ , Professor Paul Kleppner provided a cogent and illuminating explanation for the constituencies of the third party systems. It is a thesis since amply confirmed by other historians.[^138] The thesis explains not only which groups tended to support which parties, but also the specific _process_ by which that support was generated and strengthened.
 
@@ -857,7 +857,7 @@ From the beginning of the revival movement in the 1820s, the resurrected pietist
 
 After 1855, however, the pietists temporarily abandoned the prohibitionist crusade to concentrate on slavery. After the Civil War, the pietists were able to devote all their energies to the evils of alcohol. In 1868, the pietistic prohibitionists founded a secret society, the Good Templars, which soon had 400,000 members. In Michigan, in the following year, the Templars helped form the Prohibitionist Party; the foundation of the Women’s Christian Temperance Union followed in 1874. By the 1880s, prohibition had become the leading political issue in the Middle West and in most of the rest of the country.[^145]
 
-#### 3\. Pietists vs. Liturgicals in the Midwest
+###### 3\. Pietists vs. Liturgicals in the Midwest
 
 The Pietist/Liturgical analysis has been worked out most fully for the vitally important Midwestern states, the area where Kleppner himself did his pioneering research, concentrating particularly on three critical states: Michigan, Ohio, and Wisconsin. In the Midwest, the Republicans began in the 1860s with a substantial lead, obtaining approximately 55% in the presidential elections, while the Democrats obtained about 44%. But then, after 1874, the Republicans could no longer obtain a clear majority. The Republican vote ranged from 49% to 52% from 1876 to 1888, and then fell to 47% in 1892. In Michigan, Ohio, and Wisconsin, the Republicans fell below 50% of the vote by 1874, and never really gained a majority after that. The Democratic rise did not match the Republican decline, the Democratic vote in the Midwest ranging narrowly from 45% to 47% in the presidential contests from 1884 to 1892. It should not be thought that there was any significant shift of blocs of voters from Republican to Democratic; on the contrary, two forces were at work: a defection of Republican voters to third parties, especially the Prohibitionists, and a shift of the relative voting population, so that strong Republican areas became a smaller proportion, and strong Democratic areas a larger proportion, of the total vote.[^146]
 
@@ -913,7 +913,7 @@ Paul Kleppner presents a ranked tabulation of the average Democratic voting perc
 
 With the ethnoreligious demographics of the Midwest broken down, we can now begin to analyze the crucial political issues that consumed the region in the late 1880s and early 1890s, which brings us one step closer towards understanding the election of 1896.
 
-#### 4\. Reform and the Drive for Prohibition[^154]
+###### 4\. Reform and the Drive for Prohibition[^154]
 
 We have pointed out that, in the early 1850s, the pietists had managed to outlaw alcohol in 12 states. The leading Midwestern states — Illinois, Ohio, Michigan, Iowa, and Indiana — were among those who joined the drive, and the Minnesota Territory also outlawed liquor. In the resurgent drive for prohibition after the Civil War, the prohibitionists attempted to pass constitutional amendments outlawing liquor in all the Midwestern states in the early 1880s. Added to this drive was a move for local option laws for prohibiting the saloon in numerous counties, cities, and townships. As in most of the United States, Prohibition was the most vital issue in the Middle West during the 1880s.
 
@@ -959,7 +959,7 @@ The change in ethnoreligious demographic factors was crucial to the change in th
 
 ## 5. The Democratic Triumph of 1892
 
-#### 1\. The Road to Democratic Triumph
+###### 1\. The Road to Democratic Triumph
 
 1892 was the great year of resurgent Democratic triumph. It was the first time since the Civil War that the Democratic Party controlled the presidency as well as both Houses of Congress. The 3% difference in the popular vote (Democrats 46%, Republicans 43%, and minor parties 11%) was by far the largest gap in the totals since the Democratic presidential candidate Samuel Tilden swept the popular vote in 1876. In the Middle West, the Republicans had carried all six states (Ohio, Michigan, Wisconsin, Illinois, Indiana, and Iowa) in 1888; now the Democrats won three (Illinois, Indiana, and Wisconsin), and almost tied in Ohio.
 
@@ -1071,7 +1071,7 @@ The drys also exercised control over the 1891 Republican convention, calling for
 
 The Republicans had learned their lesson. Two years later, in the 1893 convention, the Republican pros were able to take back their party from the enthusiastic amateur drys. The successful comeback was headed by former Senator James Harlan, the founder and Grand Old Man of the Iowa Republican Party, and himself a devout Methodist and temperance man. The professional forces managed to carry repeal of the 12-year Republican commitment to total prohibition and to bury the compulsory education issue as well. Instead, local option and high license fees for liquor were installed in the platform. To win back the German voters, staunch opponents of cheap money and inflation, the Iowa Republicans even abandoned their cheap money plank and adopted an anti-inflation stance. Armed with their new-found moderation, the Republicans were able to recapture the governorship that year on behalf of the moderate Frank Jackson.[^170]
 
-#### 2\. The Republicans Regroup
+###### 2\. The Republicans Regroup
 
  _A. The Retreat from Prohibition_
 
@@ -1214,7 +1214,7 @@ In the arid West these pioneers [from New England] have halted and have turned t
 
 ## 6. 1896: The Collapse of the Third Party System and of Laissez-faire Politics
 
-#### 1\. The First Collapse: 1894
+###### 1\. The First Collapse: 1894
 
 In the cataclysmic year 1896 the face of American politics was changed forever. With the capture of the Democratic Party by the inflationist, statist forces of William Jennings Bryan, the old Democracy of free trade, hard money, personal liberty, and minimal government was gone forever. As Grover Cleveland mournfully pronounced, “... the Democratic party as we knew it is dead.”[^193]
 
@@ -1240,7 +1240,7 @@ Pledged to tariff reduction, the Democrats drove through the Wilson-Gorman Act i
 
 On generally weak economic grounds because of the Depression, the Democrats in 1894 tried to shift grounds to cultural issues, and therefore launched a blistering attack on the newly burgeoning American Protective Association. For the benefit of the German Lutherans, the Democrats stressed the nativist as well as the anti-Catholic policies of the A.P.A. In response, the Republicans intensified the regroupment of issues already underway; it would be folly to lose their current advantage on economic issues by alienating Lutherans and other potential defectors from the Democracy, and where the moderates were in control, the Republicans tried to avoid close identification with the A.P.A. Thus, in Wisconsin, the Republican Establishment managed to defeat the pietist Nils Haugen, an ardent supporter of the nativist and anti-parochial school Bennett Law, for the gubernatorial nomination. The moderates even wanted to nominate a German Lutheran for state treasurer, but were defeated by the furious opposition of the “La Follette gang,” the pietist Haugen–La Follette faction in the state party.[^200]
 
-#### 2\. The Final Collapse: 1896
+###### 2\. The Final Collapse: 1896
 
 One of Paul Kleppner’s great contributions is to show, for the first time, that the Democratic collapse of 1894 and 1896 were two very different movements with different explanations and occurring in very different segments of the population. Overall, the critical nature of both elections is seen by the unusually high degree of voter turnout in both cases, as well as in the fact that a very close contest was replaced by overwhelming Republican strength. Thus, in the Midwest, a difference between the two parties of plus or minus 3% throughout the region from 1888 to 1892 was replaced by a Republican margin of 16% in 1894, 11% in 1896, and 12.5% in 1900. Suddenly, the Democrats had been reduced to the status of a permanent minority party. But the overall figures are misleading. For the crucial point about 1896 is the great difference in the type of party support than had been true two years before.
 
@@ -1310,7 +1310,7 @@ Since the Irish Catholics bolted less drastically from the Democracy than the ot
 
 In short, the election of 1896 left the United States with a new party system: a centrist and moderately statist Republican Party with a comfortably permanent majority of the country, and a minority Democratic Party roughly confined to the one party South and to Irish-controlled big cities of the Northeast and Midwest, which were nevertheless a minority in those regions. Gone was the sharp conflict of ideology or even of ethnic-religious values; both parties were now moderately statist in different degrees; both parties contained pietists and liturgicals within their ranks. The McKinley Republicans were happy to be known as the “party of prosperity” rather than the “party of great moral ideas.” The familiar lack of clear and genuine ideological choice between two dominant parties so characteristic of modern America was beginning to emerge. Above all, there was no longer a political party, nor a clear-cut constituency, devoted to the traditional American ideology of _laissez-fair_ e.
 
-#### 3\. The Transformation of the Parties
+###### 3\. The Transformation of the Parties
 
 The key to the drastic change in the American party system in 1896, then, was the ideological change in each of the major parties. The forces of hopped-up pietistic Bryanism had captured the Democratic Party and changed its character forever from its ancient _laissez-faire_ principles. At the same time, McKinleyite pragmatism had transformed the Republican Party from the home of statist pietism, from the “party of great moral ideas,” to a moderate statist organization cleaving only to the protective tariff, and dumping any emphasis on such emotional and pietistic issues as prohibition or Sunday blue laws. The pull of the newfound Republican pragmatism combined with the push of the Bryanite takeover to drive the liturgicals into the Republican Party and cement Republican hegemony for a generation.
 
@@ -1467,7 +1467,7 @@ As Paul Kleppner sums up the new trend:
 
 ## 7. Theodore Roosevelt: The First Progressive, Part I
 
-#### 1\. Financial Influence on Political Parties
+###### 1\. Financial Influence on Political Parties
 
 Before 1896, the Democratic Party was roughly a party devoted to free trade and the gold standard, while the Republican Party stood squarely for a protective tariff and was more amenable to inflationist experimentation. Put very simply, the Democrats were particularly congenial to and influenced by Wall Street investment bankers, notably the Morgan interests and by the European Rothschilds, acting through their New York agent, August Belmont, who was for many years national treasurer of the Democratic Party. The Republicans, on the other hand, were more susceptible to the influence of manufacturers seeking a protective tariff, in particular Pennsylvania iron and steel men, who had been in the forefront of the struggle for high tariffs ever since 1820. One of the main leaders of the Republican Party during the Civil War and the immediate post-war years was Representative Thaddeus Stevens, Pennsylvania iron manufacturer, and a leading proponent of the protective tariff as well as irredeemable Greenback money.[^232]
 
@@ -1487,7 +1487,7 @@ Driven from their Democratic home by the victory of the Bryanites, the Morgan in
 
 In September, 1901, early in President McKinley’s second term, a fateful event occurred which changed the face of American politics. One of the several “lone nuts” who have suddenly appeared in American history to assassinate an American president gunned down William McKinley, and the brilliantly crafted McKinley-Hanna-Rockefeller regime crumbled into dust. For, as fate would have it, his successor was the colorful young New Yorker Vice President Theodore Roosevelt, beholden to a very different and clashing set of financial interests. The first — and the quintessential — “progressive” American president had been catapulted into power.[^234]
 
-#### 2\. T.R.: The Making of a Progressive
+###### 2\. T.R.: The Making of a Progressive
 
 Teddy Roosevelt was America’s first progressive president and it was during his administration that progressivism began to take shape as a political force, on the urban and state, as well as federal, levels.
 
@@ -1553,7 +1553,7 @@ The death of relatively unimportant Vice President Garrett Hobart in November, 1
 
 It is not surprising that as soon as the election of 1900 was over, Teddy Roosevelt gave a lavish dinner in honor of J.P. Morgan.[^256] No such gift was ever more deserved. It was clear to everyone that the battle between Roosevelt and Hanna for the presidential prize in 1904 had already begun. But all bets were off when a “lone nut” gunman assassinated William McKinley and Teddy Roosevelt fortuitously became president of the United States.
 
-#### 3\. T.R. as President: The “Good” Trusts
+###### 3\. T.R. as President: The “Good” Trusts
 
 Theodore Roosevelt’s first — and one of his most important — moves toward regulation in the presidency was presaged in his first message to Congress upon assuming the presidency in December 1901. Reviving an old proposal for a new Cabinet Department of Commerce and Labor, to serve as a means of subsidizing commerce and industry, Roosevelt spoke of the department having the power to investigate corporations and to publicize their findings. Roosevelt also eyed a federal board, like the ICC, to supervise industrial combination. His address was cleared with two good friends who were also Morgan partners, George W. Perkins and Robert Bacon.
 
@@ -1613,7 +1613,7 @@ The Northern Securities Case was a politically popular act, and it has strongly 
 
 Indeed, according to one historian, “by the terms of the [court’s] decree the Morgan-Hill ownership in the railroads was increased at the expense of Harriman.”[^277] Perhaps that was, after all, the ultimate point of the whole affair. The House of Morgan, in fact, was enough satisfied with Teddy Roosevelt’s performance in office to donate \$150,000 to T.R.’s reelection in 1904.[^278]
 
-#### 4\. T.R. as President: The “Bad” Trusts
+###### 4\. T.R. as President: The “Bad” Trusts
 
 Considering later events, the Northern Securities case may have been, not a break with Morgan at all, but the opening shot in Theodore Roosevelt’s war with Morgan’s great financial rival, E.H. Harriman. After the Roosevelt administration leaked dark hints during the fall of 1906 about breaking up the Harriman railroad lines of Union Pacific and Southern Pacific, Harriman understandably linked this threatened persecution to his refusal to donate a large sum of money to the Republican campaign that year. When one of Harriman’s attorneys, Maxwell Evarts, tried to intercede with the president, Roosevelt burst out: “Well, you don’t know what Morgan and some of these other people say about Harriman.”[^279] The following spring, one of Harriman’s employees stole a letter sent by Harriman to his chief counsel in late 1905, expressing his disillusion with Roosevelt, with the sums of money that Harriman had contributed to Roosevelt and the broken promises that T.R. had made to him in return. The letter was published in the press, to which Roosevelt retorted by vilifying Harriman at a press conference, attacking him as a dangerous “wealthy corruptionist.”
 
@@ -1639,7 +1639,7 @@ It was only after his defeat that Sherman evinced a sudden interest in antitrust
 
 To return to our central problem: was there any change in objective economic conditions that might account for a desire by the Morgan interests to trot out the formerly innocuous Sherman antitrust weapon and launch a savage assault upon Standard Oil? The answer is yes: the eruption of the International Oil War.
 
-#### 5\. The International Oil War
+###### 5\. The International Oil War
 
 For decades, American petroleum was the oil used by other countries in Europe and Asia, and by the early 1880s, Standard Oil had a virtual monopoly of refined petroleum exports, with kerosene for oil lamps as the major product. Then, in the mid-1890s, the refinery financed by the Nobel brothers Robert and Ludvig, in Baku, Russia, began to challenge the exclusive Standard dominance of foreign oil markets. The Swedish Nobel brothers had by then built pipelines and steam-run oil tankers in Russia, and its Baku refinery in the Caucuses pioneered the continuous distillation process two decades before it would be adopted in Standard Oil refineries. By the mid-1880s, the powerful Rothschild Bank in Paris began to collaborate with the Nobels in production and refining, and also in delivering oil by railroad tank car from the Black Sea to the lucrative markets in Western Europe.
 
@@ -1732,7 +1732,7 @@ It should be noted that a fierce international oil war between the two giants be
 
 ## 8. Theodore Roosevelt: The First Progressive, Part II
 
-#### 1\. The Meat Packing Myth
+###### 1\. The Meat Packing Myth
 
 One of the earliest acts of Progressive regulation of the economy was the Meat Inspection Act, which passed in June 1906. The orthodox myth holds that the action was directed against the “beef trust” of the large meat packers, and that the federal government was driven to this anti-business measure by popular outcry generated by the muckraking novel, _The Jungle_ , by Upton Sinclair, which exposed unsanitary conditions in the Chicago meat-packing plants.[^296]
 
@@ -1784,7 +1784,7 @@ Neither was Secretary of Agriculture Wilson under any delusions who favored or o
 
 During the next few years, Senator Beveridge tried to restore the idea of the packers paying for their inspection, but he got no support from Roosevelt and opposition from his Secretary of Agriculture. Meanwhile, the packers continued to defend the Bureau of Animal Industry and its inspections, and they even sought unsuccessfully to strengthen inspection further.[^302]
 
-#### 2\. Harvey W. Wiley and the Pure Food and Drug Act
+###### 2\. Harvey W. Wiley and the Pure Food and Drug Act
 
 Neither was the Pure Food and Drug Act, passed on the same day as the Meat Inspection Act, a triumph of the “people” over the “interests.” The pure food agitation had been carried on for years by business interests in general, and specifically by large food companies anxious to use the government in a mercantilist way to cartelize, restrict competition, and impose higher relative costs on small business competitors.
 
@@ -1860,7 +1860,7 @@ It is no accident that the emotional T.R. should have broken with Wiley over the
 
 Wiley’s biographer perceptively summed up the man whose crusading passion had shifted from pietist Christianity to the new salvation of mankind by science or, more particularly, by scientists, professionals, and technocrats in the name of value-free science. As Anderson puts it: “Science filled the void left by the loss of faith. ... Perhaps [Wiley’s] views ... stemmed from his heritage of evangelical Christianity, a heritage whose theological superstructure had lost its meaning for him but whose burning zeal for social justice remained.”[^315]
 
-#### 3\. Theodore Roosevelt and the Conservation Crusade
+###### 3\. Theodore Roosevelt and the Conservation Crusade
 
 The conservation movement, past and present, has generally been painted in sweetness and light, as disinterested nature lovers leading the “people” in war against corporate interests who wished to exploit and plunder natural resources. The actual facts were quite different. As Professor Samuel P. Hays, the pioneering revisionist historian of the conservation movement, has declared:
 
@@ -2034,7 +2034,7 @@ Despite the setbacks to the multiple-purpose river concept, Theodore Roosevelt h
 
 At about the same time the nation acquired its first progressive President Theodore Roosevelt, various big business leaders decided to organize on behalf of the new concept, one which has in recent years been termed “corporate liberalism.” The nation was to be guided into the new path of a strong State, expanding, regulating, and governing all in behalf of a tripartite coalition led by Big Business, by means of Big Government, and creating Big Unionism as junior partner. Or rather, a quadripartite coalition, since economists and other intellectuals were needed to argue for and help plan the new system. How fitting, then, that the major big business-led organization for the new dispensation should itself include all four of these groups![^335]
 
-#### 1\. The Origins: The Chicago Civic Federation
+###### 1\. The Origins: The Chicago Civic Federation
 
 The National Civic Federation (NCF), the major organization for the new statism, was organized in 1900 by Ralph M. Easley, a former schoolteacher and journalist, and a self-styled conservative Republican. The NCF emerged out of the Chicago Civic Federation (CCF), which itself was launched in a blend of pietist reform, corporate statism, and high-level foreign influence.
 
@@ -2050,7 +2050,7 @@ Most speeches at the Conference, spearheaded by progressive economists Jeremiah 
 
 So successful was the Chicago Conference on Trusts that the leadership of the CCF determined, by unanimous vote of the executive committee in September, 1899, to organize a national civic federation with Easley at the head, a task accomplished the following year. The more progressive and corporatist leaders then joined the new NCF while the more conservative, local-minded members continued to run the CCF.
 
-#### 2\. Organizing the NCF
+###### 2\. Organizing the NCF
 
 Helping Easley organize the ambitious new NCF was Jeremiah W. Jenks, Oscar S. Straus of the New York department store family and later to become Secretary of Commerce and Labor under Theodore Roosevelt, and Samuel Gompers and John Mitchell of the AFL (the American Federation of Labor). Also on the Advisory Council of the new federation were Richard T. Ely, Bemis, Commons, the Columbia University economist E.R.A. Seligman of the powerful international banking family, and the intriguing Albert Shaw.
 
@@ -2058,7 +2058,7 @@ Shaw, a political scientist and a disciple of Ely, was later to be a leading adv
 
 Easley’s success was marked and rapid, and very quickly official leadership of the new NCF was assumed by top Rockefeller ally Marcus A. Hanna as first president of the NCF, by Chicago utilities tycoon Samuel Insull, Chicago banker Franklin MacVeagh (later Secretary of the Treasury), Andrew Carnegie, and — inevitably — several partners of J.P. Morgan and Company. By 1903, the National Civic Federation included representatives of nearly one-third of all the 367 corporations worth more than \$10 million, and it also included one-fourth of the largest railroads. George W. Perkins, Morgan’s main man in the political sphere, was prominent in the organization. August Belmont Jr., prominent Democrat and Rothschild agent in the U.S., was elected president of the NCF on Hanna’s death. At various times, the executive committee of the NCF also included such prominent politicians as ex-President Grover Cleveland, Roosevelt’s Attorney-General Charles J. Bonaparte, T.R.’s close friend Nicholas Murray Butler of Columbia University, T.R.’s Secretary of State Elihu Root, George B. Cortelyou, Roosevelt’s private secretary, later his Secretary of the Treasury, and finally president of Consolidated Gas, and Secretary of War under T.R. and then President William Howard Taft. It is clear, in short, that the NCF represented a coalition of top big business interests with the Morgans the most prominent, but with Rothschilds and Rockefellers also included.[^338]
 
-#### 3\. The Clash over Unions
+###### 3\. The Clash over Unions
 
 The union problem was a particularly sticky one for the NCF, for two major reasons: many businessmen were stubbornly laissez-faire and particularly were opposed to unionism, and unions scarcely existed, except in such non-competitive (between localities) industries as the building trades, the cartelized railroads, and in certain skilled crafts where unions could exclude competing labor. Overall, unions did not rise above a meagre 6% of the labor force until America’s entry into World War I, and they were usually well below that figure. But those unions that did exist were perfectly suited for the corporatist ideal: monopolistic craft unions grouped in the AFL unions which had abandoned the early radical socialism of the Knights of Labor, and were prepared to take their place in a corporatist order — a role that would be far greater than any they could possibly achieve in a free market.
 
@@ -2076,7 +2076,7 @@ For their part, the NAM leaders angrily saw the National Civic Federation as “
 
 The conflict between the two groups was dramatized by the anti-union action taken by one of the leaders of the newly-constituted National Association of Manufacturers, James W. Van Cleave, head of the Buck’s Stove and Range Company of St. Louis. The Metal Polishers Union had struck the Buck’s Company for union recognition, and the AFL, in 1908, had organized a secondary boycott of the Buck’s Company in support of the strike. Van Cleve responded by filing suit to try and obtain an injunction against the boycott. At that point, Wall Street lawyer Alton B. Parker, Democratic presidential candidate in 1904 and later president of the NCF, became the defense counsel for Gompers, while much of the AFL defense was secretly financed by Andrew Carnegie, steel magnate in the Morgan ambit, who was also the NCF’s biggest contributor.[^342]
 
-#### 4\. The Drive for Workmen’s Compensation Laws
+###### 4\. The Drive for Workmen’s Compensation Laws
 
 If the pro-union attitude of the NCF offended anti-union employers, the Civic Federation’s increasing attention to promoting welfare and the welfare state after 1905 avoided such alienation. The Welfare Department of the NCF was founded in 1904 and took on an accelerating role by the following year. By 1911 it had 500 employer-members. Its task was to promote a voluntary paternalistic welfare program by the corporations toward their workers, promoting a sense of team spirit and a kind of feudalistic loyalty by the workers to the corporation. As Weinstein puts it, the approach of the Welfare Department “was to promote sympathy and a sense of identification between the employer and his employees by integrating the lives and the leisure time of the workers with the functioning of the corporation.”[^343]
 
@@ -2106,7 +2106,7 @@ Moving quickly and obediently to bury Ives, the New York State legislature in 19
 
 Seeing the handwriting on the wall, other state courts began to ratify compensation legislation. By 1920, all but six states had workmen’s compensation laws in force, and the federal government had widened its coverage to all of its own employees.[^348]
 
-#### 5\. Monopolizing Public Utilities
+###### 5\. Monopolizing Public Utilities
 
 Another aspect of progressive reform pushed by the NCF was the transformation of public utilities in the United States. The thrust here was to change from a roughly free market in utilities toward outright grants of monopoly privilege. The public utility — the gas, electric, or trolley franchises — was to be protected from competition and regulated by the state or municipality so as to provide a guaranteed, fixed rate of profit. For those lucky enough to obtain utility franchises, this seemed like paradise.
 
@@ -2136,7 +2136,7 @@ Spearheading the NCF drive for state public utilities regulation was Emerson McM
 
 By the fall of 1913, Ralph Easley was able to write to President Seth Low of the success of the drive for public utilities regulation. “Twenty five years ago,” he exulted “we would have regarded this as a species of socialism,” but now utilities are submitting, with many railways even embracing regulation, “joyfully in some cases.”[^355]
 
-#### 6\. Regulating Industry
+###### 6\. Regulating Industry
 
 On the national level, the NCF, as might be expected, was close to President Roosevelt and his Bureau of Corporations. In its first annual report in 1904 the Bureau attacked the Sherman Antitrust Act and proposed that it be replaced by another kind of legislation, one that regulates trusts by eliminating “improper rebates, discrimination, and unfair combinations.” Each one of these proposed crackdowns was well calculated to cripple the most effective forms of competition and the market’s ability to break up cartels and monopoly.
 
@@ -2152,7 +2152,7 @@ A firestorm of opposition descended upon Congress, however, from small- and medi
 
 It was time to regroup, and the NCF then turned to an alternative approach suggested by Ingalls and Andrew Carnegie to accomplish the same purpose by setting up a new interstate trade commission, to do for general business, as it was often put, what the ICC had already done for the railroads. The embryo of the Federal Trade Commission had come into being.[^357]
 
-#### 7\. Allied Group: The American Association for Labor Legislation
+###### 7\. Allied Group: The American Association for Labor Legislation
 
 If the National Civic Federation was an organization of corporatist big businessmen with a sprinkling of intellectual and academic allies, the American Association for Labor Legislation (AALL) was an organization of corporatist intellectuals financed by Big Business.
 
@@ -2210,7 +2210,7 @@ Big business support and control of AALL demonstrates the fallacy of the traditi
 
 While the “Progressive Era” used to be narrowly designated as the period 1900–1914, historians now realize that the period is really much broader, stretching from the latter decades of the nineteenth century into the early 1920s. The broader period marks an era in which the entire American polity — from economics to urban planning to medicine to social work to the licensing of professions to the ideology of intellectuals — was transformed from a roughly _laissez-faire_ system based on individual rights to one of state planning and control. In the sphere of public policy issues closely related to the life of the family, most of the change took place, or at least began, in the latter decades of the nineteenth century. In this paper we shall use the analytic insights of the “new political history” to examine the ways in which the so-called progressives sought to shape and control select aspects of American family life.[^362]
 
-#### 1\. Ethnoreligious Conflict and the Public Schools
+###### 1\. Ethnoreligious Conflict and the Public Schools
 
 In the last two decades, the advent of the “new political history” has transformed our understanding of the political party system and the basis of political conflict in nineteenth century America. In contrast to the party systems of the twentieth century (the “fourth” party system, 1896–1932, of Republican supremacy; the “fifth” party system, 1932–? of Democratic supremacy), the nineteenth century political parties were not bland coalitions of interests with virtually the same amorphous ideology, with each party blurring what is left of its image during campaigns to appeal to the large independent center. In the nineteenth century, each party offered a fiercely contrasting ideology, and political parties performed the function of imposing a common ideology on diverse sectional and economic interests. During campaigns, the ideology and the partisanship became fiercer and even more clearly demarcated, since the object was not to appeal to independent moderates — there were virtually none — but to bring out the vote of one’s own partisans. Such partisanship and sharp alternatives marked the “second” American party system (Whig versus Democrat, approximately 1830 to the mid-1850s) and the “third” party system (closely fought Republican versus Democrat, mid-1850s to 1896).
 
@@ -2263,7 +2263,7 @@ The growing influx of immigrants from southern and eastern Europe toward the end
 
 served to dilute tremendously our national stock, and to corrupt our civil life. ... Everywhere these people tend to settle in groups or settlements, and to set up here their national manners, customs, and observances. Our task is to break up these groups or settlements, to assimilate and amalgamate these people as a part of our American race and to implant in their children ... the Anglo-Saxon conception of righteousness, law and order, and popular government ...[^372]
 
-#### 2\. Progressives, Public Education, and the Family: The Case of San Francisco
+###### 2\. Progressives, Public Education, and the Family: The Case of San Francisco
 
 The molding of children was of course the key to homogenization and the key in general to the progressive vision of tight social control over the individual via the instrument of the state. The eminent University of Wisconsin sociologist Edward Alsworth Ross, a favorite of Theodore Roosevelt and the veritable epitome of a progressive social scientist, summed it up thus: The role of the public official, and in particular of the public school teacher, is “to collect little plastic lumps of human dough from private households and shape them on the social kneadingboard.”[^373]
 
@@ -2313,7 +2313,7 @@ The superintendent of schools in the new regime, Dr. Joseph Marr Gwinn, fit the 
 
 Despite continued opposition by teachers, parents, neighborhoods, ethnic groups, and the ousted Roncovieri, all attempts to repeal Amendment 37 were unsuccessful. The modern dispensation of progressivism had conquered San Francisco. The removal of the Board of Education and school superintendent from direct and periodic control by the electorate had effectively deprived parents of any significant control over the educational policies of public schools. At last, as John Swett had asserted nearly 60 years earlier, schoolchildren belonged “not to the parents, but to the State, to society, to the country.”
 
-#### 3\. Ethnoreligious Conflict and the Rise of Feminism
+###### 3\. Ethnoreligious Conflict and the Rise of Feminism
 
  _A. Women’s Suffrage_
 
@@ -2379,7 +2379,7 @@ To Mrs. Sanger, “science” also meant stopping the breeding of the unfit. A d
 
 The eugenists wanted to shift the birth control emphasis from less children for the poor to more children for the rich. We went back of that and sought first to stop the multiplication of the unfit. This appeared the most important and greatest step toward race betterment.[^389]
 
-#### 4\. Gathered Together: Progressivism as a Political Party
+###### 4\. Gathered Together: Progressivism as a Political Party
 
 Progressivism was, to a great extent, the culmination of the pietist Protestant political impulse, the urge to regulate every aspect of American life, economic and moral — even the most intimate and crucial aspects of family life. But it was also a curious alliance of a technocratic drive for government regulation, the supposed expression of “value-free science,” and the pietist religious impulse to save America — and the world — by state coercion. Often both pietistic and scientific arguments would be used, sometimes by the same people, to achieve the old pietist goals. Thus, prohibition would be argued for on religious as well as on alleged scientific or medicinal grounds. In many cases, leading progressive intellectuals at the turn of the 20th century were former pietists who went to college and then transferred to the political arena, their zeal for making over mankind, as a “salvation by science.” And then the Social Gospel movement managed to combine political collectivism and pietist Christianity in the same package. All of these were strongly interwoven elements in the progressive movement.
 
@@ -2395,7 +2395,7 @@ The _New York Times_ of August 6, 1912, summed up the unusual experience by call
 
 Thus the foundations of today’s massive state intervention in the internal life of the American family were laid in the so-called “progressive era” from the 1870s to the 1920s. Pietists and “progressives” united to control the material and sexual choices of the rest of the American people, their drinking habits, and their recreational preferences. Their values, the very nurture and education of their children, were to be determined by their betters. The spiritual, biological, political, intellectual, and moral elite would govern, through state power, the character and quality of American family life.
 
-#### 5\. Significance
+###### 5\. Significance
 
 It has been known for decades that the Progressive Era was marked by a radical growth in the extension and dominance of government in America’s economic, social, and cultural life. For decades, this great leap into statism was naively interpreted by historians as a simple response to the greater need for planning and regulation of an increasingly complex economy. In recent years, however, historians have come to see that increasing statism on a federal and state level can be better interpreted as a profitable alliance between certain business and industrial interests, looking for government to cartelize their industry after private efforts for cartels and monopoly had failed, and intellectuals, academics, and technocrats seeking jobs to help regulate and plan the economy as well as restriction of entry into their professions. In short, the Progressive Era re-created the age-old alliance between Big Government, large business firms, and opinion-molding intellectuals — an alliance that had most recently been embodied in the mercantilist system of the sixteenth through eighteenth centuries.
 
@@ -2453,7 +2453,7 @@ are “demanding” this redistribution; surely, however, it would be straining 
 
 Once we focus on this aspect of the transaction, we begin to realize that G, the government, might not just be a passive recipient of B’s felt need and economic demand, as standard theory would have it; instead, G himself might be an active demander and, as a full-time, paid Robin Hood, might even have stimulated B’s demand in the first place, so as to be in on the deal. The felt need, then, might be on the part of the governmental Robin Hood himself.
 
-#### 1\. Why the Welfare State?
+###### 1\. Why the Welfare State?
 
 Why has government increased greatly over this century? Specifically, why has the welfare state appeared, grown, and become ever-larger and more powerful? What was the functional need felt here? One answer is that the development of poverty over the past century gave rise to welfare and redistribution. But this makes little sense, since it is evident that the average person’s standard of living has grown considerably over the past century-and-a-half, and poverty has greatly diminished.
 
@@ -2483,7 +2483,7 @@ It was a shrewd understanding of these principles that enabled Samuel Gompers an
 
 It should be obvious, then, that the advent and growth of the welfare state in the United States had little or nothing to do with the growth of the labor movement. On the contrary, the growth of labor unionism in America — during World War I and during the 1930s, its two great spurts of activity — were brought about by governmental coercion from above. Labor unions, then, were an effect rather than a cause of the welfare state, at least in the United States.
 
-#### 2\. Yankee Postmillennial Pietism
+###### 2\. Yankee Postmillennial Pietism
 
 If it wasn’t industrialism or mass movements of the working class that brought the welfare state to America, what was it? Where are we to look for the causal forces? In the first place, we must realize that the two most powerful motivations in human history have always been ideology (including religious doctrine), and economic interest, and that a joining of these two motivations can be downright irresistible. It was these two forces that joined powerfully together to bring about the welfare state.
 
@@ -2507,7 +2507,7 @@ The Democrat Party was the champion of _laissez-faire_ , minimal government, and
 
 If postmillennial Protestantism provided a crucial impetus toward State dictation over society and the economy, another vital force on behalf of the partnership of government and industry was the zeal of businessmen and industrialists eager to jump on the bandwagon of state privilege. Vital to the Republican coalition, then, were the big railroads, dependent on government subvention and heavily in debt, and the Pennsylvania iron and steel industry, almost chronically inefficient and in perpetual need of high tariffs to protect them from import competition. When industrialists, as was often the case, were at one and the same time Yankee postmillennial pietists seeking to impose a perfect society, and also inefficient industrialists seeking government aid, the fusion of religious doctrine and economic interest became a powerful force in guiding their actions.
 
-#### 3\. Yankee Women: The Driving Force
+###### 3\. Yankee Women: The Driving Force
 
 Of all the Yankee activists in behalf of statist “reform,” perhaps the most formidable force was the legion of Yankee women, in particular those of middle- or upper-class background, and especially spinsters whose busybody inclinations were not fettered by the responsibilities of home and hearth. One of the PMPs’ favorite reforms was to bring about women’s suffrage, which was accomplished in various states and localities long before a constitutional amendment imposed it on the entire country. One major reason: it was obvious to everyone that, given the chance to vote, most Yankee women would be quick to troop to the ballot-box, whereas Catholic women believed their place to be at home and with the family, and would not bother about political considerations. Hence, women’s suffrage was a way of weighting the total vote toward the postmillennialists and away from the Catholics and High Church Lutherans.
 
@@ -2519,7 +2519,7 @@ The early suffragette leaders began as ardent prohibitionists, the major politic
 
 What is less well known is that the W.C.T.U. was not a one-issue organization. By the 1880s, the W.C.T.U. was pushing, throughout states and localities, for a comprehensive statist program for government intervention and social welfare. These measures included the outlawing of licensed brothels and red light districts, imposition of a maximum 8-hour working day, the establishment of government facilities for neglected and dependent children, government shelters for children of working mothers, government recreation facilities for the urban poor, federal aid to education, mothers’ education by government, and government vocational training for women. In addition, the W.C.T.U. pushed for the new “kindergarten movement,” which sought to lower the age when children began to come under the purview of teachers and other educational professionals.[^407]
 
-#### 4\. Progressives and the Gradual Secularization of Postmillennial Pietism: Ely, Dewey, and Commons
+###### 4\. Progressives and the Gradual Secularization of Postmillennial Pietism: Ely, Dewey, and Commons
 
 A critical but largely untold story in American political history is the gradual but inexorable secularization of Protestant postmillennial pietism over the decades of the middle and late 19th century.[^408] The emphasis, almost from the beginning, was to use government to stamp out sin and to create a perfect society in order to usher in the Kingdom of God on Earth. Over the decades, the emphasis slowly but surely shifted: more and more away from Christ and religion, which became ever-vaguer and woollier, and more and more toward a Social Gospel, with government correcting, organizing, and eventually planning the perfect society. From paternalistic mender of social problems, government became more and more divinized, more and more seen as the leader and molder of the organic social whole. In short, Whigs, Know-Nothings, and Republicans were increasingly becoming Progressives, who were to dominate the polity and the culture after 1900; a few of the more radical thinkers were openly socialist, with the rest content to be organic statists and collectivists. And as Marxism became increasingly popular in Europe after the 1880s, the progressives prided themselves on being organic statist middle-of-the-roaders between old fashioned dog-eat-dog _laissez-faire_ individualism on the one hand, and proletarian socialism on the other. Instead, the progressive would provide to society a Third Way in which Big Government, in the service of the joint truths of science and religion, would harmonize all classes into one organic whole.
 
@@ -2559,7 +2559,7 @@ At Oberlin, Commons found a beloved mentor, James Monroe, professor of political
 
 Not only did Commons go on to Wisconsin to become the major inspirer and activist of the “Wisconsin Idea,” helping to set up the welfare and regulatory state in that region, several of his doctoral students at Wisconsin were to become highly influential in the Roosevelt New Deal. Selig Perlman, who was appointed to the Commons Chair at Wisconsin was, following his mentor, the major theoretician for the policies and practices of Commons’ beloved American Federation of Labor. And two of Commons’ other Wisconsin students, Arthur J. Altemeyer and Edwin E. Witte, were both high officials in the Industrial Commission of Wisconsin, founded by Commons to administer that state’s pro-union legislation. Both Altemeyer and Witte went on from there to be major founders of Franklin Roosevelt’s Social Security legislation.[^418]
 
-#### 5\. Yankee Women Progressives
+###### 5\. Yankee Women Progressives
 
 The Elys, Commonses, and Deweys might have might have been more notable, but the Yankee women progressives provided the shock troops of the progressive movement and hence the burgeoning welfare state. As in the case of the males, gradual but irresistible secularization set in over the decades. The abolitionist and slightly later cohort were fanatically postmillennial Christian, but the later progressive cohort, born, as we have seen, around 1860, were no less fanatical but more secular and less Christian-Kingdom oriented. The progression was virtually inevitable; after all, if your activism as a Christian evangelist had virtually nothing to do with Christian creed or liturgy or even personal reform, but was focused exclusively in using the force of government to shape up everyone, stamp out sin, and usher in a perfect society, if government is really God’s major instrument of salvation, then the role of Christianity in one’s practical activity began to fade into the background. Christianity became taken for granted, a background buzz; one’s practical activity was designed to use the government to stamp out liquor, poverty, or whatever is defined as sin, and to impose one’s own values and principles on the society.
 
@@ -2621,7 +2621,7 @@ Dr. Goldmark died in 1881, leaving eldest daughter Helen as the head of the fami
 
 Dembitz Brandeis, helping to radicalize Brandeis from moderate classical liberal to socialistic progressive. Pauline (b. 1874), after graduating from Bryn Mawr in 1896, remained single, did graduate work at Columbia and Barnard in botany, zoology, and sociology, and then became assistant secretary of the New York Consumers League. Even more successful an activist was Josephine Clara Goldmark (b. 1877), who graduated from Bryn Mawr in 1898, did graduate work in education at Barnard, and then became publicity secretary of the National Consumers League and author of the NCL’s annual handbooks. In 1908, Josephine became chairman of the new NCL Committee on Legislation, and she, her sister Pauline, and Florence Kelley (along with Alice) persuaded Brandeis to write his famed Brandeis brief in the case of _Muller v. Oregon_ (1908), claiming that the Oregon maximum-hours law for women was constitutional. In 1919, Josephine Goldmark continued her rise by becoming secretary of the Rockefeller Foundation’s Committee for the Study of Nursing Education. Josephine Goldmark culminated her career by writing the first hagiographical biography of her close friend and mentor in socialistic activism, Florence Kelley.[^425]
 
-#### 6\. The New Deal
+###### 6\. The New Deal
 
 It was not long before these progressives and social reformers exerted an impact on American national politics. The Progressive Party was launched in 1912 by the Morgans — the party was headed by Morgan partner George W. Perkins — in a successful attempt to nominate Theodore Roosevelt, and thereby destroy President William Howard Taft, who had broken with his predecessor Roosevelt’s Pro-Morgan policies. The Progressive Party included all the spearheads of this statist coalition: academic progressives, Morgan businessmen, social-gospel Protestant ministers, and, of course, our subjects, the leading progressive social workers.
 
@@ -2667,7 +2667,7 @@ How did Harry Hopkins rise from being a settlement-house worker to one of the mo
 
 family, his friendship with John Hertz, partner of the powerful investment-banking firm of Lehman Brothers; and his association with the rising political leader of the powerful Rockefeller family, Nelson Aldrich Rockefeller. Indeed, when Hopkins was made Secretary of Commerce in the New Deal, he offered the Assistant Secretary post to Nelson Rockefeller, who turned it down.
 
-#### 7\. The Rockefellers and Social Security
+###### 7\. The Rockefellers and Social Security
 
 The Rockefellers and their intellectual and technocratic entourage were, indeed, central to the New Deal. In a deep sense, in fact, the New Deal itself constituted a radical displacement of the Morgans, who had dominated the financial and economic politics of the 1920s, by a coalition led by the Rockefellers, the Harrimans, Kuhn-Loeb, and the Lehman Brothers investment banking firms.[^428] The Business Advisory Committee of the Department of Commerce, for example, which proved highly influential in drawing up New Deal measures, was dominated by the scion of the Harriman family, W. Averill Harriman, and by such Rockefeller satraps as Walter Teagle, head of Standard Oil of New Jersey. Here we have space to trace only the influence of the Rockefellers, allied with the Wisconsin progressives and the graduates of the settlement houses, in creating and imposing on America the Social Security System. Here, too, was the end product of a gradual but sure process of secularization of the messianic ideal of the postmillennial pietists. Perhaps it is only fitting that a movement that began with postmillennial Yankee harridans going out into the streets and trying to destroy saloons would conclude with Wisconsin social scientists, technocrats, and Rockefeller-driven experts manipulating the levers of political power to bring about a top-down revolution in the form of the welfare state.[^429]
 
@@ -2749,7 +2749,7 @@ In many ways, the new order was a striking reversion to old-fashioned mercantili
 
 For their part, the liberal intellectuals acquired not only prestige and a modicum of power in the new order, they also achieved the satisfaction of believing that this new system of government intervention was able to transcend the weaknesses and the social conflicts that they saw in the two major alternatives: laissez-faire capitalism or proletarian, Marxian socialism. The intellectuals saw the new order as bringing harmony and cooperation to all classes on behalf of the general welfare, under the aegis of big government. In the liberal view, the new order provided a middle way, a “vital center” for the nation, as contrasted to the divisive “extremes” of left and right.
 
-#### 1\. Big Business and War Collectivism
+###### 1\. Big Business and War Collectivism
 
 We have no space here to dwell on the extensive role of big business and business interests in getting the United States into World War I. The extensive economic ties of the large business community with England and France, through export orders and through loans to the Allies — especially those underwritten by the politically powerful J.P. Morgan & Co. (which also served as agent to the British and French governments) — allied to the boom brought about by domestic and Allied military orders, all played a leading role in bringing the United States into the war. Furthermore, virtually the entire eastern business community supported the drive toward war.[^434]
 
@@ -2901,7 +2901,7 @@ The granting of absolute power to the railroad-dominated RA was cemented by the 
 
 The RA hastened to exercise its rate-setting powers, announcing freight rate increases of 25% across the board in the spring of 1918 — an act that permanently cemented shipper hostility to the system of federal operation. To add insult to injury, the new higher rates were set without any public hearings or consultation with other agencies or interests involved.
 
-#### 2\. Intellectuals and the Legacy of War Collectivism
+###### 2\. Intellectuals and the Legacy of War Collectivism
 
 Historians have generally treated the economic planning of World War I as an isolated episode dictated by the requirements of the day and having little further significance. But, on the contrary, the war collectivism served as an inspiration and as a model for a mighty army of forces destined to forge the history of 20th-century America. For big business, the wartime economy was a model of what could be achieved in national coordination and cartelization, in stabilizing production, prices, and profits, in replacing old-fashioned competitive _laissez-faire_ by a system that they could broadly control and that would harmonize the claims of various powerful economic groups. It was a system that had already abolished much competitive diversity in the name of standardization. The wartime economy especially galvanized such business leaders as Bernard Baruch and Herbert Hoover, who would promote the cooperative “association” of business trade groups as secretary of commerce during the 1920s, an associationism that paved the way for the cooperative statism of Franklin Roosevelt’s AAA and NRA.
 
@@ -2941,7 +2941,7 @@ Deeply impressed with the “national unity” and mobilization achieved during 
 
 They [the CCC recruits] are also under military training and as they come out of it ... improved in health and developed mentally and physically and are more useful citizens ... they would furnish a very valuable nucleus for an army.[^489]
 
-#### 3\. The Drive to Prolong War Collectivism
+###### 3\. The Drive to Prolong War Collectivism
 
 Particularly good evidence of the deep imprint of war collectivism was the reluctance of many of its leaders to abandon it when the war was finally over. Business leaders pressed for two postwar goals: continuance of government price fixing to protect them against an expected postwar deflation, and a longer-range attempt to promote industrial cartelization in peacetime. In particular, businessmen wanted the price _maxima_ (which had often served as _minima_ instead) to be converted simply into outright minima for the postwar period. Wartime quotas to restrict production, furthermore, needed only to remain in being to function as a frank cartelizing for raising prices in time of peace.
 
@@ -3072,7 +3072,7 @@ With the return of the railroads to private operation in March, 1920, war collec
 
 ## 13. World War I as Fulfillment: Power and the Intellectuals
 
-#### I. Introduction[^506]
+###### I. Introduction[^506]
 
 In contrast to older historians who regarded World War I as the destruction of progressive reform, I am convinced that the war came to the United States as the “fulfillment,” the culmination, the veritable apotheosis of progressivism in American life.[^507] I regard progressivism as basically a movement on behalf of Big Government in all walks of the economy and society, in a fusion or coalition between various groups of big businessmen, led by the House of Morgan, and rising groups of technocratic and statist intellectuals. In this fusion, the values and interests of both groups would be pursued through government. Big business would be able to use the government to cartelize the economy, restrict competition, and regulate production and prices, and also to be able to wield a militaristic and imperialist foreign policy to force open markets abroad and apply the sword of the State to protect foreign investments. Intellectuals would be able to use the government to restrict entry into their professions and to assume jobs in Big Government to apologize for, and to help plan and staff, government operations. Both groups also believed that, in this fusion, the Big State could be used to harmonize and interpret the “national interest” and thereby provide a “middle way” between the extremes of “dog-eat-dog” _laissez-faire_ and the bitter conflicts of proletarian Marxism. Also animating both groups of progressives was a postmillennial pietist Protestantism that had conquered “Yankee” areas of northern Protestantism by the 1830s and had impelled the pietists to use local, state, and finally federal governments to stamp out “sin,” to make America and eventually the world holy, and thereby to bring about the Kingdom of God on earth. The victory of the Bryanite forces at the Democratic national convention of 1896 destroyed the Democratic Party as the vehicle of “liturgical” Roman Catholics and German Lutherans devoted to personal liberty and _laissez-faire_ and created the roughly homogenized and relatively non-ideological party system we have today. After the turn of the century, this development created an ideological and power vacuum for the expanding number of progressive technocrats and administrators to fill. In that way, the locus of government shifted from the legislature, at least partially subject to democratic check, to the oligarchic and technocratic executive branch.
 
@@ -3082,7 +3082,7 @@ In this paper, I will be dealing with various examples of individual or groups o
 
 There is no better epigraph for the remainder of this paper than a congratulatory note sent to President Wilson after the delivery of his war message on April 2, 1917. The note was sent by Wilson’s son-in-law and fellow Southern pietist and progressive, Secretary of the Treasury William Gibbs McAdoo, a man who had spent his entire life as an industrialist in New York City, solidly in the J.P. Morgan ambit. McAdoo wrote to Wilson: “You have done a great thing nobly! I firmly believe that it is God’s will that America should do this transcendent service for humanity throughout the world and that you are His chosen instrument.”[^512] It was not a sentiment with which the president could disagree.
 
-#### 2\. Pietism and Prohibition
+###### 2\. Pietism and Prohibition
 
 One of the few important omissions in Professor Higgs’s book is the crucial role of postmillennial pietist Protestantism in the drive toward statism in the United States. Dominant in the “Yankee” areas of the North from the 1830s on, the aggressive “evangelical” form of pietism conquered Southern Protestantism by the 1890s and played a crucial role in progressivism after the turn of the century and through World War I. Evangelical pietism held that requisite to any man’s salvation is that he do his best to see to it that everyone else is saved, and doing one’s best inevitably meant that the State must become a crucial instrument in maximizing people’s chances for salvation. In particular, the State plays a pivotal role in stamping out sin, and in “making America holy.” To the pietists, sin was very broadly defined as any force that might cloud men’s minds so that they could not exercise their theological free will to achieve salvation. Of particular importance were slavery (until the Civil War), Demon Rum, and the Roman Catholic Church, headed by the Antichrist in Rome. For decades after the Civil War, “rebellion” took the place of slavery in the pietist charges against their great political enemy, the Democratic Party.[^513] Then in 1896, with the evangelical conversion of Southern Protestantism and the admission to the Union of the sparsely populated and pietist Mountain states, William Jennings Bryan was able to put together a coalition that transformed the Democrats into a pietist party and ended forever that party’s once proud role as the champion of “liturgical” (Catholic and High German Lutheran) Christianity and of personal liberty and _laissez-faire_.[^514] ,[^515]
 
@@ -3126,7 +3126,7 @@ America will “go over the top” in humanity’s greatest battle [against liqu
 
 Fortunately, the prohibitionists found the reluctant world a tougher nut to crack.
 
-#### 3\. Women at War and at the Polls
+###### 3\. Women at War and at the Polls
 
 Another direct outgrowth of World War I, coming in tandem with prohibition but lasting more permanently, was the 19th Amendment, submitted by Congress in 1919 and ratified by the following year, which allowed women to vote. Women’s suffrage had long been a movement directly allied with prohibition. Desperate to combat a demographic trend that seemed to be going against them, the evangelical pietists called for women’s suffrage (and enacted it in many western states). They did so because they knew that while pietist women were socially and politically active, ethnic or liturgical women tended to be culturally bound to hearth and home and therefore far less likely to vote. Hence, women’s suffrage would greatly increase pietist voting power. In 1869 the Prohibitionist Party became the first party to endorse women’s suffrage, which it continued to do. The Progressive Party was equally enthusiastic about female suffrage; it was the first major national party to permit women delegates at its conventions. A leading women’s suffrage organization was the Women’s Christian Temperance Union, which reached an enormous membership of 300,000 by 1900. And three successive presidents of the major women’s suffrage group, the National American Woman Suffrage Association — Susan B. Anthony, Mrs. Carrie Chapman Catt, and Dr. Anna Howard Shaw — all began their activist careers as prohibitionists. Susan B. Anthony put the issue clearly:
 
@@ -3158,7 +3158,7 @@ All in all, as a result of the Americanization campaign, Ida Clarke concludes, �
 
 Neither did the government and its organized women neglect progressive economic reforms. At the organizing June 1917 conference of the Woman’s Committee, Mrs. Carrie Catt emphasized that the greatest problem of the war was to assure that women receive “equal pay for equal work.” The conference suggested that vigilance committees be established to guard against the violation of “ethical laws” governing labor and also that all laws restricting (“protecting”) the labor of women and children be rigorously enforced. Apparently, there were some values to which maximizing production for the war effort had to take second place. Mrs. Margaret Dreier Robins, president of the National Women’s Trade Union’s League, hailed the fact that the Woman’s Committee was organizing committees in every state to protect minimum standards for women and children’s labor in industry and demanded minimum wages and shorter hours for women. Mrs. Robins particularly warned that “not only are unorganized women workers in vast numbers used as underbidders in the labor market for lowering industrial standards, but they are related to those groups in industrial centers of our country that are least Americanized and most alien to our institutions and ideals.” And so “Americanization” and cartelization of female labor went hand in hand.[^537] ,[^538]
 
-#### 4\. Saving Our Boys from Alcohol and Vice
+###### 4\. Saving Our Boys from Alcohol and Vice
 
 One of organized womanhood’s major contributions to the war effort was to collaborate in an attempt to save American soldiers from vice and Demon Rum. In addition to establishing rigorous dry zones around every military camp in the United States, the Selective Service Act of May 1917 also outlawed prostitution in wide zones around the military camps. To enforce these provisions, the War Department had ready at hand a Commission on Training Camp Activities, an agency soon imitated by the Department of the Navy. Both commissions were headed by a man tailor-made for the job, the progressive New York settlement-house worker, municipal political reformer, and former student and disciple of Woodrow Wilson, Raymond Blaine Fosdick.
 
@@ -3188,7 +3188,7 @@ Woods, president of the National Conference of Social Work during 1917–18, had
 
 For Woods the world war was a momentous event. It had advanced the process of “Americanization,” a “great humanizing process through which all loyalties, all beliefs must be wrought together in a better order.”[^548] The war had wonderfully released the energies of the American people. Now, however, it was important to carry the wartime momentum into the postwar world. Lauding the war collectivist society during the spring of 1918, Robert Woods asked the crucial question, “Why should it not always be so? Why not continue in the years of peace this close, vast, wholesome organism of service, of fellowship, of constructive creative power?”[^549]
 
-#### 5\. The New Republic Collectivists
+###### 5\. The New Republic Collectivists
 
 The _New Republic_ magazine, founded in 1914 as the leading intellectual organ of progressivism, was a living embodiment of the burgeoning alliance between big-business interests, in particular the House of Morgan, and the growing legion of collectivist intellectuals. Founder and publisher of the _New Republic_ was Willard D. Straight, partner of J.P. Morgan & Co., and its financier was Straight’s wife, the heiress Dorothy Whitney. Major editor of the influential new weekly was the veteran collectivist and theoretician of Teddy Roosevelt’s New Nationalism, Herbert David Croly. Croly’s two coeditors were Walter Edward Weyl, another theoretician of the New Nationalism, and the young, ambitious former official of the Intercollegiate Socialist Society, the future pundit Walter Lippmann. As Woodrow Wilson began to take America into World War I, the _New Republic_ , though originally Rooseveltian, became an enthusiastic supporter of the war, and a virtual spokesman for the Wilson war effort, the wartime collectivist economy, and the new society molded by the war.
 
@@ -3234,7 +3234,7 @@ And what of Professor Dewey, the doyen of the pacifist intellectuals-turned-drum
 
 Into this complex situation John Dewey plunged, seeing no complexity and of course considering it unthinkable for either him or the United States to stay out of the entire fray. Dewey leaped into total support of the Chinese nationalist position, hailing the aggressive Young China movement and even endorsing the pro-missionary YMCA in China as “social workers.” Dewey thundered that while “I didn’t expect to be a jingo,” Japan must be called to account, and Japan is the great menace in Asia. Thus, scarcely had Dewey ceased being a champion of one terrible world war than he began to pave the way for an even greater one.[^564]
 
-#### 6\. Economics in Service of the State: The Empiricism of Richard T. Ely
+###### 6\. Economics in Service of the State: The Empiricism of Richard T. Ely
 
 World War I was the apotheosis of the growing notion of intellectuals as servants of the State and junior partners in State rule. In the new fusion of intellectuals and State, each was of powerful aid to the other. Intellectuals could serve the State by apologizing for and supplying rationales for its deeds. Intellectuals were also needed to staff important positions as planners and controllers of the society and economy. The State could also serve intellectuals by restricting entry into, and thereby raising the income and the prestige of, the various occupations and professions. During World War I, historians were of particular importance in supplying the government with war propaganda, convincing the public of the unique evil of Germans throughout history and of the satanic designs of the Kaiser. Economists, particularly empirical economists and statisticians, were of great importance in the planning and control of the nation’s wartime economy. Historians playing preeminent roles in the war propaganda machine have been studied fairly extensively; economists and statisticians, playing a less blatant and allegedly “value-free” role, have received far less attention.[^565]
 
@@ -3268,7 +3268,7 @@ After the menace of the Kaiser had been extirpated, the Armistice found Professo
 
 By 1924, however, Richard T. Ely’s career of repression was over, and what is more, in a rare instance of the workings of poetic justice, he was hoisted with his own petard. In 1922 the much-traduced Robert La Follette was reelected to the Senate and also swept the Progressives back into power in the state of Wisconsin. By 1924 the Progressives had gained control of the Board of Regents, and they moved to cut off the water of their former academic ally and empire-builder. Ely then felt it prudent to move out of Wisconsin together with his Institute, and while he lingered for some years at Northwestern, the heyday of Ely’s fame and fortune was over.
 
-#### 7\. Economics in Service of the State: Government and Statistics
+###### 7\. Economics in Service of the State: Government and Statistics
 
 Statistics is a vital, though much underplayed, requisite of modern government. Government could not even presume to control, regulate, or plan any portion of the economy without the service of its statistical bureaus and agencies. Deprive government of its statistics and it would be a blind and helpless giant, with no idea whatever of what to do or where to do it. It might be replied that business firms, too, need statistics in order to function. But business needs for statistics are far less in quantity and also different in quality. Business may need statistics in its own micro area of the economy, but only on its prices and costs; it has little need for broad collections of data or for sweeping, holistic aggregates. Business could perhaps rely on its own privately collected and unshared data. Furthermore, much entrepreneurial knowledge is qualitative, not enshrined in quantitative data, and of a particular time, area, and location. But government bureaucracy could do nothing if forced to be confined to qualitative data. Deprived of profit and loss tests for efficiency, or of the need to serve consumers efficiently, conscripting both capital and operating costs from taxpayers, and forced to abide by fixed, bureaucratic rules, modern government shorn of masses of statistics could do virtually nothing.[^581]
 
@@ -3346,9 +3346,9 @@ There is no doubt but what it would be nice to have a whole lot of statistics. .
 
 We have been planning and getting statistics ever since 1932 to try to meet a situation that was domestic in character, but were never able to even meet that question. ... Now we are involved in an international question. ... It looks to me as though we spend a tremendous amount of time with graphs and charts and statistics and planning. What my people are interested in is what is it all about? Where are we going, and where are you going?[^615]
 
-## Appendix
+#### Appendix
 
-#### Toward the Centralization of Science: The National Research Council[^616]
+###### Toward the Centralization of Science: The National Research Council[^616]
 
 Scientific research before World War I was free, diffuse, individualistic, and independent, with very little guidance or control exerted by the federal government. Most scientists and Americans in general approved of this system, but there were always one or two visionaries yearning for an alternative. George Ellery Hale, one of the founders of astrophysics, the director of Mt. Wilson Observatory and one of the founders of the California Institute of Technology, was one of those visionaries, particularly after he was named to the National Academy of Sciences (NAS) in 1902. The NAS had been charted in 1863 as a private organization of scientists to consult with the government on scientific and military matters during the Civil War. By the turn of the 20th century, the NAS was moribund, forgotten by all, including the president of the United States. But George Ellery Hale, turning from the joys of science to the rather different joys of bureaucratic empire and power-building, had a different vision. He sought to make the NAS a vibrant, activist organization, and one of his most important visions was that the NAS should, with the aid of government, acquire a dominant, centralizing power over all scientific research in the nation. And sitting at or near the pinnacle of scientific power, of course, would be George Ellery Hale. He delivered a series of lectures and published articles at the NAS to that effect in 1913–14, but the old fuddy-duddies of the Academy weren’t listening.
 
@@ -3529,7 +3529,7 @@ It is possible, however, that the current critics of the Fed have missed the ess
 
 A proper overall judgment on the actual role of the Fed was delivered by the vice-chairman and de facto head of the Federal Trade Commission, Edward N. Hurley. The Federal Trade Commission was Woodrow Wilson’s other major Progressive reform, following closely on the passage of the Federal Reserve Act. Hurley was president of the Illinois Manufacturers Association at the time of his appointment, and his selection and subsequent performance in his new job were hailed throughout the business community. Addressing the Association of National Advertisers in December 1915, Hurley exulted that “through a period of years the government has been gradually extending its machinery of helpfulness to different classes and groups upon whose prosperity depends in a large degree the prosperity of the country.” Then came the revealing statement: The railroads and shippers had the ICC, the farmers had the Agriculture Department, and the bankers had the Federal Reserve Board. Hurley concluded that “to do for general business that which these other agencies do for the groups to which I have referred was the thought behind the creation of the trade commission.”[^633] What, then, did the Federal Reserve do for the nation’s bankers?
 
-#### 1\. The Origins of the Federal Reserve: The Dissatisfaction of New York Bankers
+###### 1\. The Origins of the Federal Reserve: The Dissatisfaction of New York Bankers
 
 The Federal Reserve did not replace a system of free banking. On the contrary, an approach to free banking existed in the United States only in the two decades before the Civil War. Under the cover of the wartime emergency, the Republican Party put through changes that had long been proposed by the Republicans’ ancestor, the Whig Party. The National Bank Acts of 1863–65 replaced the hard-money free banking of pre-Civil War days with the quasi-centralized regime of the national banking system. By levying a prohibitive federal tax, the national banking system in effect outlawed state bank notes, centralizing the issue of bank notes into the hands of federally chartered national banks. By means of an elaborate set of categories and a structure of fractional reserve requirements, entry into national banking in the big cities was limited to large banks, and bank deposits were encouraged to pyramid on top of a handful of large Wall Street banks. Furthermore, an expansion of any one bank in the pre-Civil War era was severely limited, since the free market would discount the notes of shaky banks, roughly proportionate to the distance of the circulating notes from the home base of the bank.[^634] The national banking acts removed that restraint by forcing every national bank to accept the notes and demand deposits of every other national bank at par. Genuine redeemability of notes and deposits was also restrained by the continued legal prohibition of interstate or even intrastate branch banking, which severely hobbled the efficiency of clearing systems where one bank presents the obligations of another for redemption. Redemption was also curtailed by a rigid statutory maximum limit of \$3 million per month by which national bank notes could be contracted. Furthermore, although private national bank liabilities were of course not legal tender, the federal government conferred quasi-legal tender status upon them by agreeing to receive all national bank notes and deposits at par in dues or taxes.
 
@@ -3545,7 +3545,7 @@ J.P. Morgan & Co. was the most powerful financial grouping in Wall Street and he
 
 J.P. Morgan had long favored corporatism and government cartelization where competition proved inconvenient. After decades of abject failure of Morgan-created railroad cartels, Morgan took the lead in establishing the Interstate Commerce Commission in 1887 to cartelize the railroad industry. Now, after slipping badly in the free market after 1900, Morgan joined other big business interests, such as the Rockefellers and the Belmonts, in calling for the compulsory cartelization of the American economy. This alliance of powerful big business interests, professionals who sought power and place constituted what is now known as the Progressive Era (approximately 1900 to 1918). The Federal Reserve Act was a “progressive” Wilsonian reform that, as Edward Hurley and others pointed out, “did for” the bankers what the other reforms had done for other segments of industry.[^639]
 
-#### 2\. The Road to the Federal Reserve[^640]
+###### 2\. The Road to the Federal Reserve[^640]
 
 During the McKinley and Roosevelt administrations, treasury secretaries Lyman J. Gage and Leslie M. Shaw respectively tried to operate the Treasury Department as a central bank, pumping in money during recessions by purchasing government bonds on the open market and depositing large funds with commercial banks. In 1900, Gage called for the establishment of regional central banks, and Shaw suggested in his last annual report in 1906 that he be given total power to regulate the nation’s banks. Their efforts failed, and these failures helped to spur the big bankers to seek a formal central bank.[^641]
 
@@ -3606,7 +3606,7 @@ All in all, Professor Kolko sums up the point well:
 
 The entire banking reform movement, at all crucial stages, was centralized in the hands of a few men who for years were linked, ideologically and personally, with one another. The problem of the origin of the Federal Reserve Act, and the authorship of specific drafts, was later hotly debated by [men] who greatly exaggerated their differences in order that they might each claim responsibility for the guiding lines of the Federal Reserve System. Yet ... although they may have differed on details they agreed on major policy lines and general theory. The confusion over the precise authorship of the Federal Reserve Act should not obscure the fact that the major function, inspiration, and direction of the measure was to serve the banking community in general, and large bankers specifically.[^661]
 
-#### 3\. The Structure of the Federal Reserve
+###### 3\. The Structure of the Federal Reserve
 
 The structure of the Federal Reserve System — which was enacted in December 1913 and opened its doors the following November — was at once cartelizing and inflationary.[^662] The cartelizing nature of the Fed can be seen in its organization: an intimate partnership between the federal government and the nation’s banking community. There are 12 regional and district Federal Reserve Banks, the stock of which is held by the member banks in the district. Each Bank is governed by nine directors, of whom three are chosen directly by the banks in the district; three others are supposed to represent commerce, agriculture, or industry, but they too are chosen by the member banks in the district. That leaves only three directors appointed by the overall Federal Reserve Board in Washington. Furthermore, of the three publicly appointed directors, one — who becomes the chairman of the district Bank — must be a person of tested banking experience: in short, an ex-banker.
 
@@ -3624,7 +3624,7 @@ This statement overlooks the fact that the pre-Federal Reserve banking system wa
 
 A fourth inflationary effect of the creation of the Fed is inherent not so much in its structure as in the legal power to change the reserve requirement of the banks. Thus, before the enactment of the Fed, the average minimum reserve requirement for the nation’s banks was 21.1%. The Federal Reserve Act of 1913 slashed those reserve requirements to an average of 11.6%, a reduction of 45%. Four years later, in June 1917, reserve requirements were further lowered to an average of 9.8% — a cut of 54% since 1913. In short, added to whatever multiple inflation of money and credit was permitted by the centralization inherent in the existence of the Fed, a twofold expansion in four years was permitted by the slash in reserve requirements.[^665] Furthermore, in an inflationary move that was to become highly significant in the 1920s, the Federal Reserve Act drastically lowered the reserve requirements for time deposits in the banks. Previously, there had been no distinction in the legal reserve requirements between demand and time deposits; both had therefore averaged 21.1%. Now, however, the requirement for time deposits was lowered to 5% and then to a negligible 3% in June 1917.[^666]
 
-#### 4\. The Personnel of the Federal Reserve
+###### 4\. The Personnel of the Federal Reserve
 
 The people in positions of power in America’s new central bank were at least as important as its structure. The bankers, warmly hailing the enactment of the Federal Reserve, waited eagerly to see who would be running the powerful new institution.[^667]
 
@@ -3652,7 +3652,7 @@ However, there was still a problem: the failure of the state-chartered banks to 
 
 In a letter of October 1916, Benjamin Strong lamented the situation, writing: “Frankly, our bankers are more or less an unorganized mob. Until they are educated by experience to the advantages of cooperation through the Reserve System, I believe it is unsafe to rely upon reserves contributed by their voluntary action.”[^673] In such a vein has every cartelist reacted to the ambitions of individual firms or entrepreneurs to kick over the collective discipline of the cartel. All Fed officials felt the same way, and only political considerations have thus far prevented compulsory membership.
 
-#### 5\. The Federal Reserve and World War I
+###### 5\. The Federal Reserve and World War I
 
 The Federal Reserve System arrived fortuitously for the financing of U.S. entry into World War I, for it is doubtful whether the government would have been politically able to finance the war through taxes, borrowing from the public, or the simple printing of greenbacks. As it was, the Fed was able to engineer the doubling of the money supply from its inception in 1914 until 1919.
 
@@ -3664,7 +3664,7 @@ The war and the delegation of fiscal agency had a special effect on the New York
 
 Moreover, Strong had long wished to concentrate the country’s gold coin and bullion in the hands of the Federal Reserve and outside the control of the public. In that way, cartelization would be intensified, and the inflationary potential of the Fed, which pyramided its own notes and deposits on top of its gold stock, would greatly increase. In 1917, in view of the war, the law was changed to permit the Federal Reserve to issue notes in exchange for gold (previously it could only issue them for commercial notes) and to require all legal bank reserves to be kept as deposits at the Fed rather than in cash. Furthermore, relaxed federal regulations on state banks in 1917 finally induced a considerable number of state banks to join the system, intensifying the concentration of reserves and of gold still further. Finally, from September 1917 to June 1919, the United States went implicitly, though not formally, off the gold standard — at least for foreigners. Foreign exchange operations were controlled and gold exports prohibited. As a result of all of these measures, gold was virtually nationalized and successfully concentrated at the Fed. At the end of 1916, the gold reserves of the Reserve Banks were only \$720 million, or 28% of the country’s monetary gold stock. Two years later, gold reserves at the Fed were up to \$2.1 billion, or no less than 74% of the nation’s gold.
 
-#### 6\. Internationalizing the Cartel
+###### 6\. Internationalizing the Cartel
 
 The fortunes of the House of Morgan had been declining since the turn of the century, and so the Morgans saw a glorious opportunity open to them upon the outbreak of the war in Europe. The Morgans had close and long-time financial connections with England. In particular, Edward Grenfell (later Lord St. Just), senior partner of Morgan, Grenfell & Co., the London branch of J.P. Morgan & Co., was also a long-time director of the Bank of England. Grenfell had long been the main informal link between the Bank of England and the New York financial community, and the relationship was formalized when the Morgan Bank became the fiscal agent of the Bank of England.[^677] Led by partner Henry P. Davison at the end of 1914, the Morgans got themselves named virtually sole purchasing agent in the United States for British and French war goods. To pay for this immense export of arms and other materiel, the British and French were obliged to float immense loans in the United States, and the House of Morgan became the sole underwriter for these Allied bonds in the United States. Not only did Morgan find these monopolies highly profitable, but it prospered relative to its great rival Kuhn, Loeb & Co. — which, being German and connected with German banking and finance, was excluded from Allied war operations. As the Morgans and the bond market geared up to finance massive munitions and other exports to the Allies, Davison’s old friend and colleague Benjamin Strong stood ready to inflate money and credit to finance these foreign loans.[^678] The Wilson administration and the Federal Reserve Board were prepared to do likewise.[^679]
 
@@ -3680,7 +3680,7 @@ At the age of twenty-one, young Norman began his working life at the family bank
 
 Strong and Norman became close friends as well as collaborators almost immediately, writing a steady stream of correspondence, personal and financial, and visiting each other at length every year from 1919 until Strong’s death in 1928. They spent long vacations together, sometimes at Bar Harbor or Saratoga but more often in southern France.
 
-#### 7\. Britain and the Gold Exchange Standard
+###### 7\. Britain and the Gold Exchange Standard
 
 Britain, the major gold standard country before World War I, ended the war facing a set of grave, interlocking financial and economic problems, most of its own making. Along with the other warring nations, Britain had inflated sharply to finance the war effort. Each country except the United States (which had _de facto_ suspended gold exports) had therefore been obliged to go off the gold standard. At the end of World War I, Britain determined that its own and the world’s economic health required a return to the gold standard. And, in a fateful decision, it also determined — with surprisingly little discussion — that the pound sterling would have to be reestablished at the traditional prewar par of approximately \$4.86.[^682] Because of the greater inflation in Britain than in the United States, the free-market exchange rate of the two currencies was far lower than \$4.86. The British government, with the help of J.P. Morgan & Co., succeeded in artificially pegging the pound at \$4.75 from early 1916 until March 1919. Finally, the British let the pound float, and it quickly plummeted, reaching a low of \$3.21 in February 1920.[^683]
 
@@ -3704,7 +3704,7 @@ the setting up of links between the various Banks of Issue. ... The economic and
 
 Norman succeeded in getting the nations of Europe to agree to adopt the postwar gold exchange standard at the Genoa Conference, called by the Supreme Council of the Allies in April 1922. All of the details of the financial world of the 1920s were agreed on then by the Financial Commission of the Conference. Britain actually adopted this standard in 1925, and the other European nations followed at about the same time. The United States had decided at the last minute not to participate at Genoa because of Soviet participation, but the administration, especially the powerful Secretary of Commerce Herbert Hoover, was enthusiastic about the idea of inter-central bank collaboration of currency stabilization.[^687]
 
-#### 8\. Open-Market Purchases in the 1920s
+###### 8\. Open-Market Purchases in the 1920s
 
 The Federal Reserve generated a monetary expansion averaging approximately 7% per annum in the great boom years from 1921 to 1929, an expansion propelled by an average annual increase of member bank reserves of 6% per year.[^688] By far the most important factor in generating the increased reserves was open-market purchases by the Federal Reserve Bank of New York. The purchases came in three great bursts: in 1921–22, in 1924, and in the latter half of 1927. In the first surge, the Fed tripled its holding of government securities from \$193 million in November 1921 to \$603 million in June 1922. This was the Fed’s famous “discovery” of the inflationary effect of open-market purchases, a discovery that the authorities were delighted to make. Before the war, there had been little government securities available on the market and almost no short-run floating treasury debt. There was therefore little scope for open-market operations as a deliberate expansionary or restrictive policy even if this method had been discovered. After World War I, however, there was suddenly a large mass of short-term floating debt on the market that needed to be rolled over.[^689] The Federal Reserve purchased the massive amounts in 1921–22 largely to acquire income-earning assets during the era of business recession. It then saw to its delight that a new and powerful instrument of monetary expansion and inflation had been discovered.
 
@@ -3737,7 +3737,7 @@ The importance of helping Britain in the inflationary policy of the 1920s is see
 
 To illustrate how dangerous the position might become in the future as a result of the decisions reached at the present time and how inflamed public or political opinion might easily become when the results of past decision became evident, Governor Strong cited the outcry against the speculative excesses now being indulged in on the New York market and the criticism of the Federal Reserve System for its failure to curb or prevent this speculation. He said that very few people indeed realized that we were now paying the penalty for the decision which was reached early in 1924 to help the rest of the world back to a sound financial and monetary basis.[^699]
 
-#### 9\. Creating the Acceptance Market
+###### 9\. Creating the Acceptance Market
 
 Nowadays there are two methods by which the Federal Reserve can add to bank reserves and therefore to the inflating process of pyramiding new money on top of reserves as a base. One is open-market operations; the other is changing the rediscount rate at which the Fed, as the lender of last resort, lends reserves to banks in trouble. But a third method was highly important in the 1920s: the intense subsidization — indeed, the very creation — of a market in acceptances.
 
@@ -3765,7 +3765,7 @@ We have seen that Paul Warburg was one of the most influential founders and shap
 
 It is certainly plausible to hold that Warburg’s unremitting zeal for massive Federal subsidy of the acceptance market, as well as its cartelization in the hands of a few New York acceptance bankers and dealers, was connected to his status as a leading acceptance banker. For Paul Warburg was chairman of the board of the world’s largest acceptance bank, the International Acceptance Bank of New York, from its inception in 1920. He also became a director of the important Westinghouse Acceptance Bank and of several other acceptance houses and was the chief founder and chairman of the executive committee of the American Acceptance Council. His vaunting speech to that council in early 1923 was his presidential address.[^710]
 
-#### 10\. From Boom to Depression
+###### 10\. From Boom to Depression
 
 In the spring of 1928, with Benjamin Strong ill and absent after mid-May, the Federal Reserve became alarmed by the now exploding stock market and tried to put an end to the inflationary boom. The Fed managed to contract reserves by selling securities, but its efforts were partially offset by large increases in rediscounting spurred by the Fed’s failure to raise rediscount rates sufficiently and by the banks’ shifting of credit from demand to time deposits, which required far less reserves. Still, the contraction of reserves took hold from May through July, and as a result, the rate of money growth leveled off sharply.[^711] Stock prices rose far more slowly than before, and the gold drain out of the United States began to reverse.
 
@@ -3807,7 +3807,7 @@ We have all been much engaged with measures of relief from the effect of the col
 
 The rest is history.
 
-#### 11\. Summary
+###### 11\. Summary
 
 The bleak record of accelerating inflation and recession since the inception of the Federal Reserve in 1913 may be seen in a different light if we reevaluate the purpose that this central bank was intended to serve. For the Federal Reserve was designed not to curb the allegedly inflationary tendencies of freely competing banks but to do precisely the opposite: to enable the banks to inflate uniformly without worrying about calls for redemption by noninflating competitors. In short, the Federal Reserve was designed to act as a government-sponsored and -enforced cartel promoting the income of banks by preventing free competition from doing its constructive work on behalf of the consumer. The Federal Reserve emerged in an era when federal and state governments were embarked on precisely this kind of program in many sectors of industry, and it was designed to do for the banks what the ICC had done for the railroads, the Agriculture Department for the farmers, and the FTC for general industry. These actions of the Progressive era came after widespread attempts, in the late 1890s and earlier, to cartelize or create monopolies voluntarily, attempts that almost all came to swift and resounding failure. Various large business groupings, therefore, came to the conclusion that government would have to play an active and enforcing role if cartelization was to succeed.
 
@@ -3914,7 +3914,7 @@ When the stock market crash hit, the Federal Reserve and the Hoover administrati
 
 ## 15. Herbert Hoover and the Myth of Laissez-Faire
 
-#### 1\. Herbert Hoover as Secretary of Commerce[^722]
+###### 1\. Herbert Hoover as Secretary of Commerce[^722]
 
 The conventional wisdom, of historian and layman alike, pictures Herbert Hoover as the last stubborn guardian of _laissez-faire_ in America. The _laissez-faire_ economy, so this wisdom runs, produced the Great Depression in 1929, and Hoover’s traditional, do-nothing policies could not stem the tide. Hence, Hoover and his hidebound policies were swept away, and Franklin Roosevelt entered to bring to America a New Deal, a new progressive economy of state regulation and intervention fit for the modern age.
 
@@ -3974,7 +3974,7 @@ Hoover’s approach to the farm question was consistent: a repeated emphasis on 
 
 Hoover soon enlarged his ideas of farm intervention; he was one of the earliest proponents of a Federal Farm Board, designed to raise and support farm prices by creating federal stabilization corporations that were to purchase farm products and to lend money to farm co-ops for such purchases. And to this end, in 1924, Hoover helped write the unsuccessful Capper-Williams Bill. As a presidential candidate in 1928 he promised the farm bloc that he would promptly institute a farm price-support program.[^751] It was a promise that he hastened to keep, for as soon as he became president, Hoover drove through the Agricultural Marketing Act of 1929. This Act created a Federal Farm Board with a revolving fund of \$500 million to raise and support farm prices and to aid farm co-ops; the Board was to conduct its price-raising operations through stabilization corporations for the various commodities, with the corporations also serving as marketing agencies for the coops. Furthermore, Hoover appointed to the Board representatives of the various agricultural and farm co-op interests: a cartelization operated by the cartelists themselves.[^752]
 
-#### 2\. Herbert Hoover Fights the Great Depression
+###### 2\. Herbert Hoover Fights the Great Depression
 
 Mobilizer and economic planner of World War I; persistent advocate of cartelization and government-business partnership in stabilizing industry; pioneer in promoting a pro-union outlook in industry as a method of insuring the cooperation of labor; booster of high wages as a sustainer of purchasing power and business prosperity; ardent proponent of massive public-works schemes during depressions; advocate of government programs to boost farm prices and farm co-ops; no one could have been as ideally suited as Herbert Clark Hoover to be president at the onset of a Great Depression and to react with a radical program of statism to be trumpeted as a “New Deal.” And that is precisely what Herbert Hoover did. It is one of the great ironies of historiography that the founder of every single one of the features of Franklin Roosevelt’s New Deal was to become enshrined among historians and the general public as the last stalwart defender of _laissez-faire_.
 

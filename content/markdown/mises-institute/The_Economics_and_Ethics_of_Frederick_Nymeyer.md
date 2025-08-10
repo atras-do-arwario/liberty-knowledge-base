@@ -7,7 +7,7 @@
 Vol. 19 | No. 3 | 267–287
 Fall 2016
 
-## The Economics and Ethics of Frederick Nymeyer
+#### The Economics and Ethics of Frederick Nymeyer
 
 Timothy D. Terrell
 
@@ -19,7 +19,7 @@ Timothy Terrell (terrelltd@wofford.edu) is associate professor of economics at W
 
 ###### JEL CLASSIFICATION: B31, B53, Z12
 
-#### I. Introduction
+###### I. Introduction
 
 Frederick Nymeyer (1897–1981) was an Illinois entrepreneur with an intense interest in economics, particularly the relationship between economics and morality. A self-described protégé of Mises and a thoughtful Calvinist, Nymeyer was deeply concerned with Protestantism’s shift toward socialism in the twentieth century. As Nymeyer heard preachers and Christian college faculties denouncing free markets and profit-seeking businesses, he mounted a determined and effective resistance.[^1]
 
@@ -29,7 +29,7 @@ Jörg Guido Hülsmann (2007) has given due attention to Nymeyer’s passionate a
 
 Section II of this paper describes Nymeyer’s connection with Mises and his support for Austrian publications. Section III describes Nymeyer’s ethical objections to socialism within Protestantism, and Section IV summarizes Nymeyer’s writing on other topics, including the “just price,” money and banking, and education. Section V concludes.
 
-#### II. Nymeyer’s Relationship with the Austrian School
+###### II. Nymeyer’s Relationship with the Austrian School
 
 In 1946, Nymeyer read Mises’s _Theory of Money and Credit_ , and, fascinated, began a correspondence with Mises that led to a personal friendship and material support of Mises’s work. He read _Omnipotent Government_ and other works by Mises, and then turned to other Austrian economic writing, particularly Böhm-Bawerk’s _Capital and Interest_.[^2] Nymeyer was inspired to help organize support for Mises, and to write extensively on libertarian and economic themes himself. Like Henry Hazlitt, Lawrence Fertig, and Leonard Read, Nymeyer supported Austrian economics from outside academia. At a time when Austrian economics was virtually unknown, businessmen like Nymeyer—though treated with condescension by many academics—were critical to the survival of these ideas.
 
@@ -53,7 +53,7 @@ Later that year, Nymeyer wrote that “…the neoclassical school in economics�
 
 Apart from Nymeyer and his readers, other Calvinist groups also found more affinity for the Austrian School than for other schools of thought, and voiced qualified affirmations of libertarianism. One of these groups, the Christian Reconstructionists, generated a considerable body of literature on the connections between Christianity and economics, and Nymeyer was familiar with their work.[^5] Rousas J. Rushdoony, a leading Reconstructionist intellectual and founder of the Chalcedon Foundation, was a follower of the conservative Reformed theologian Cornelius Van Til (1895–1987), as was Nymeyer to a lesser extent.[^6] Nymeyer met Rushdoony in 1962, and the two men visited and corresponded periodically for years afterward. Years after Nymeyer’s death, Rushdoony wrote of Nymeyer, “Fred was a remarkable man. While I did not always agree with him, I always found his thinking brilliant, stimulating, and systematically Biblical.”[^7]
 
-#### III. Nymeyer’s _Minimal Religion_ vs. the Social Gospel
+###### III. Nymeyer’s _Minimal Religion_ vs. the Social Gospel
 
 A recurring topic in Nymeyer’s writing is the distinction between two ethical systems adopted by Christians: 1) a system based on Mosaic law and New Testament exposition of that law, and 2) a system based on a broad interpretation of “loving one’s neighbor.” Nymeyer argued for the first, which he called “minimal religion.” This Mosaic system required that an individual’s actions toward other people conform to biblical laws summarized in the Ten Commandments. Nymeyer contended that these biblical commands amounted to refraining from coercing, stealing from, or defrauding others. As developed by Nymeyer, the Mosaic system has much in common with libertarianism.
 
@@ -75,7 +75,7 @@ The spheres were simply groupings of people which, in Kuyper’s view, had sover
 
 According to Kuyper, the sovereignty of the state and the sovereignty of the spheres are directly from God, as per Romans 13. In both cases, the idea is eliminated that the sovereignty of the state or the sovereignty of a group is derived from ordinary men wishing to obey the Decalogue; in both cases the _individual_ is outside of consideration. The individual is insignificant. Kuyper sets up his system without there being much importance to obtaining the “just consent of the governed”—about which the founding fathers of America talked in the Declaration of Independence. To Kuyper, sovereignty is _from God_ directly by a pipe line. All pipelines of power are, for Kuyper, from God to the gigantic _group_ , the state, or to smaller groups, any sphere. …The _individual_ is the forgotten man in this scheme of things. (Nymeyer, 1955a, pp. 268, 269)
 
-#### The Two Kinds of Love and “Minimal Religion”
+###### The Two Kinds of Love and “Minimal Religion”
 
 Nymeyer’s objections to the socialist and interventionist Calvinists went far beyond their applications of Kuyper’s work. His criticisms of “agape ethics” were pervasive in his writing. The difference between the Mosaic and the agape systems, he wrote, was a difference in the definition of love. The Mosaic system allowed a person to pursue self-interest, as long as one does not injure his neighbor “by violence, adultery, theft, falsehood, or covetousness.” (Nymeyer, 1957b, p. 150) The sixth commandment, “You shall not murder,” was then a summary of a broader command, which might be stated “You shall not coerce.” To Nymeyer, it made no difference if the coercion was condoned or carried out by the state.
 
@@ -91,7 +91,7 @@ The “minimal religion” of which Nymeyer wrote so extensively is really Chris
 
 Liberty… is a basic teaching of Scripture; all that Moses ever forbade, in regard to this life, was “the liberty to do wrong”; he merely specified as far as human relations were concerned that violence, adultery, theft, fraud and covetousness are taboo; _everything else was left free_. Moses did not say you can do only this and this and this, as all interventionist and socialist governments say; no, he said, you may do _everything_ except that you may not exploit your neighbor. No man ever used a better method of legislating for liberty than Moses; all he did was to specify a few things you may not do. Paul taught an identical doctrine in the New Testament (Romans 13:10a) when he wrote “Love worketh no ill to the neighbor.” Interventionism and socialism specify what you may do; the rest is forbidden. Why? The government has that “peculiar, inherent power” piped from the throne of God to tell you in _detail_ what you may or may not do! (Van Mouwerik and Nymeyer, 1955, p. 365)
 
-#### Charity vs. Market Cooperation
+###### Charity vs. Market Cooperation
 
 Nymeyer argued that no society could be founded on the principle of charity. The primary reason for this is the insufficient knowledge we have of our neighbor’s needs. The influence of Mises and Hayek on Nymeyer here is obvious. Nymeyer wrote,
 
@@ -103,7 +103,7 @@ Furthermore, Nymeyer noted that when the state forcibly transfers wealth from on
 
 Nymeyer was not arguing for the abolition of charity. “No right-minded person, Christian or non-Christian, can be indifferent or hostile to charity,” he wrote. “A society without charity—without the lifts to help others meet genuinely adverse circumstances—cannot really be a good society.” (1957, p. 171) However, like Adam Smith, he contended that “beneficence…is the ornament which embellishes, not the foundation which supports the building. …Justice, on the contrary, is the main pillar that upholds the whole edifice.” (Smith, 1759 [1853], p. 125)
 
-#### Individualism and Self-Interest in Nymeyer
+###### Individualism and Self-Interest in Nymeyer
 
 The social gospel movement created a distinction between morality for the individual and morality for the state. Nymeyer pointed out this failing in Reinhold Niebuhr’s _Moral Man and Immoral Society_ (1932 [2001]). Niebuhr wrote,
 
@@ -125,7 +125,7 @@ Socialists are distinct from market advocates, Nymeyer writes, in that they “w
 
 There is only one social philosophy which can possibly conform to the teaching of Scripture, namely, the social philosophy known as Individualism. It is a humble philosophy. It lets each man have his own subjective values, but he may not pursue them at the expense of his neighbors. Individualism sets the same demands on men that Christian ethics apply. (1957, p. 179)
 
-#### IV. Nymeyer on Other Topics
+###### IV. Nymeyer on Other Topics
 
 **Price Determination**
 
@@ -171,7 +171,7 @@ Nymeyer never addressed a more fundamental objection to government schools that 
 
 In government schools, Nymeyer wanted the parents to have some limited choices in schooling for their children. Nymeyer wanted the government to offer three kinds of schools—all white, all black, and integrated. He appeared to overlook the possibility that parents might have other preferences on education apart from the racial composition of schools. A consistent application of Nymeyer’s proposal would lead to the absurd multiplication of schools, or programs within schools, to satisfy every preference—on sports programs, language offerings, teacher qualifications, creation/evolution teaching, official school prayer, and countless other matters. Nymeyer’s essentially libertarian views failed to lead him to a completely free market in education, and left him to struggle with the inevitable limitations of state-controlled schools.
 
-#### V. Conclusion
+###### V. Conclusion
 
 Today, the most popular and most effective anti-market arguments are not those that question the capacity of the free market to provide a vast amount of the goods and services people want. That part of the anti-capitalists’ case has been largely lost. Socialism is still on the defensive in that theater, with public goods arguments an obstinately persistent redoubt. Among the remaining threats to the success of free market ideas are the arguments of moralists and ethicists against capitalism. It is all very well that capitalism produces these wonderful goods and services, they say, but if it does so in an immoral way, then we must object. Nymeyer’s heroism in addressing some of these moral arguments against capitalism deserves notice.
 
@@ -179,7 +179,7 @@ Nymeyer’s foundation was apparently human reason, but had a very high view of 
 
 In Nymeyer’s work, we would struggle to find a contribution to economic theory _per se_. However, it should be remembered that Nymeyer’s primary intent was to combat the progress of the social gospel within the church of his day. Many churchmen who never would have read Böhm-Bawerk or Mises would have found Nymeyer’s publications accessible. It is Nymeyer’s persistent and painstaking communication of sound economic principles to a new audience, and application to ethical problems, that merits attention.
 
-#### REFERENCES
+###### REFERENCES
 
 Bratt, James D. 2002. “Passionate About the Poor: The Social Attitudes of Abraham Kuyper,” _Journal of Markets and Morality_ 5, no. 1: 35–44.
 

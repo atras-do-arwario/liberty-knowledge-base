@@ -63,7 +63,7 @@ Two hundred years ago, before the advent of capitalism, a man’s social status 
 
 As for manufacturing, the primitive processing industries of those days existed almost exclusively for the benefit of the wealthy. Most of the people (ninety percent or more of the European population) worked the land and did not come in contact with the city-oriented processing industries. This rigid system of feudal society prevailed in the most developed areas of Europe for many hundreds of years.
 
-### I.
+##### I.
 
 However, as the rural population expanded, there developed a surplus of people on the land. For this surplus of population without inherited land or estates, there was not enough to do, nor was it possible for them to work in the processing industries; the kings of the cities denied them access. The numbers of these “outcasts” continued to grow, and still no one knew what to do with them. They were, in the full sense of the word, “proletarians,” outcasts whom the government could only put into the workhouse or the poorhouse. In some sections of Europe, especially in the Netherlands and in England, they became so numerous that, by the eighteenth century, they were a real menace to the preservation of the prevailing social system.
 
@@ -75,7 +75,7 @@ Out of this serious social situation emerged the beginnings of modern capitalism
 
 This is the fundamental principle of capitalism as it exists today in all of those countries in which there is a highly developed system of mass production: Big business, the target of the most fanatic attacks by the so-called leftists, produces almost exclusively to satisfy the wants of the masses. Enterprises producing luxury goods solely for the well-to-do can never attain the magnitude of big businesses. And today, it is the people who work in large factories who are the main consumers of the products made in those factories. This is the fundamental difference between the capitalistic principles of production and the feudalistic principles of the preceding ages.
 
-### II.
+##### II.
 
 When people assume, or claim, that there is a difference between the producers and the consumers of the products of big businesses, they are badly mistaken. In American department stores you hear the slogan, “the customer is always right.” And this customer is the same man who produces in the factory those things which are sold in the department stores. The people who think that the power of big business is enormous are mistaken also, since big business depends entirely on the patronage of those who buy its products: the biggest enterprise loses its power and its influence when it loses its customers.
 
@@ -91,7 +91,7 @@ These are the facts about capitalism. Thus, if an Englishman—or, for that matt
 
 In spite of all its benefits, capitalism has been furiously attacked and criticized. It is necessary that we understand the origin of this antipathy. It is a fact that the hatred of capitalism originated _not_ with the masses, _not_ among the workers themselves, but among the landed aristocracy—the gentry, the nobility, of England and the European continent. They blamed capitalism for something that was not very pleasant for them: at the beginning of the nineteenth century, the higher wages paid by industry to its workers forced the landed gentry to pay equally higher wages to their _agricultural_ workers. The aristocracy attacked the industries by criticising the standard of living of the masses of the workers.
 
-### III.
+##### III.
 
 Of course—from our viewpoint, the workers’ standard of living was extremely low; conditions under early capitalism were absolutely shocking, but not because the newly developed capitalistic industries had harmed the workers. The people hired to work in factories had already been existing at a virtually subhuman level.
 
@@ -117,7 +117,7 @@ The question we must ask in this case is: Are you, as an individual, prepared to
 
 The capitalist system was termed “capitalism” not by a friend of the system, but by an individual who considered it to be the worst of all historical systems, the greatest evil that had ever befallen mankind. That man was Karl Marx. Nevertheless, there is no reason to reject Marx’s term, because it describes clearly the source of the great social improvements brought about by capitalism. Those improvements are the result of capital accumulation; they are based on the fact that people, as a rule, do not consume everything they have produced, that they save—and invest—a part of it. There is a great deal of misunderstanding about this problem and—in the course of these lectures—I will have the opportunity to deal with the most fundamental misapprehensions which people have concerning the accumulation of capital, the use of capital, and the universal advantages to be gained from such use. I will deal with capitalism particularly in my lectures about foreign investment and about that most critical problem of present-day politics, inflation. You know, of course, that inflation exists not only in this country. It is a problem all over the world today.
 
-### IV.
+##### IV.
 
 An often unrealized fact about capitalism is this: savings mean benefits for all those who are anxious to produce or to earn wages. When a man has accrued a certain amount of money—let us say, one thousand dollars—and, instead of spending it, entrusts these dollars to a savings bank or an insurance company, the money goes into the hands of an entrepreneur, a businessman, enabling him to go out and embark on a project which could not have been embarked on yesterday, because the required capital was unavailable.
 
@@ -151,7 +151,7 @@ In dealing with this system of economic organization—the market economy—we e
 
 This is of course not meant in any sense which so many people attach to the word freedom today; it is meant rather in the sense that, through economic freedom, man is freed from natural conditions. In nature, there is nothing that can be termed freedom, there is only the regularity of the laws of nature, which man must obey if he wants to attain something.
 
-### I.
+##### I.
 
 In using the term freedom as applied to human beings, we think only of freedom _within society_. Yet, today, social freedoms are considered by many people to be independent of one another. Those who call themselves “liberals” today are asking for policies which are precisely the opposite of those policies which the liberals of the nineteenth century advocated in their liberal programs. The so-called liberals of today have the very popular idea that freedom of speech, of thought, of the press, freedom of religion, freedom from imprisonment without trial—that all these freedoms can be preserved in the absence of what is called economic freedom. They do not realize that, in a system where there is no market, where the government directs everything, all those other freedoms are illusory, even if they are made into laws and written up in constitutions.
 
@@ -167,7 +167,7 @@ One of the best-known propagators of communism was Lady Passfield, under her mai
 
 In all economic problems, we must bear in mind the words of the great French economist Frédéric Bastiat, who titled one of his brilliant essays: _“Ce qu’on voit et ce qu’on ne voit pas_ ” (“That which is seen and that which is not seen”). In order to comprehend the operation of an economic system, we must deal not only with the things that can be seen, but we also have to give our attention to the things which cannot be perceived directly. For instance, an order issued by a boss to an office boy can be heard by everybody who is present in the room. What cannot be heard are the orders given to the boss by his customers.
 
-### II.
+##### II.
 
 The fact is that, under the capitalistic system, the ultimate bosses are the consumers. The sovereign is not the state, it is the people. And the proof that they are the sovereign is borne out by the fact that they have _the right to be foolish_. This is the privilege of the sovereign. He has the right to make mistakes, no one can prevent him from making them, but of course he has to pay for his mistakes. If we say the consumer is supreme or that the consumer is sovereign, we do not say that the consumer is free from faults, that the consumer is a man who always knows what would be best for him. The consumers very often buy things or consume things they ought not to buy or ought not to consume.
 
@@ -181,7 +181,7 @@ Once you begin to admit that it is the duty of the government to control your co
 
 Freedom really means _the freedom to make mistakes_. This we have to realize. We may be highly critical with regard to the way in which our fellow citizens are spending their money and living their lives. We may believe that what they are doing is absolutely foolish and bad, but in a free society, there are many ways for people to air their opinions on how their fellow citizens should change their ways of life. They can write books; they can write articles; they can make speeches; they can even preach at street comers if they want—and they do this in many countries. But they must _not_ try to police other people in order to prevent them from doing certain things simply because they themselves do not want these other people to have the freedom to do it.
 
-### III.
+##### III.
 
 This is the difference between slavery and freedom. The slave must do what his superior orders him to do, but the free citizen—and this is what freedom means—is in a position to choose his own way of life. Certainly this capitalistic system can be abused, and is abused, by some people. It is certainly possible to do things which ought not to be done. But if these things are approved by a majority of the people, a disapproving person always has a way to attempt to change the minds of his fellow citizens. He can try to persuade them, to convince them, but he may not try to force them by the use of power, of governmental police power.
 
@@ -197,7 +197,7 @@ The most visible effect of this state of affairs was the fact that the aristocra
 
 It is difficult to imagine how different these conditions were from present-day conditions. When I come from the United States to Argentina and I see a man on the street, I cannot know what his status is. I only assume that he is a citizen of Argentina and that he is not a member of some legally restricted group. This is one thing that capitalism has brought about. Of course, there are also differences within capitalism. There are differences in wealth, differences which Marxians mistakenly consider to be equivalent to the old differences that existed between men in the status society.
 
-### IV.
+##### IV.
 
 The differences within a capitalist society are not the same as those in a socialist society. In the Middle Ages—and in many countries even much later—a family could be an aristocrat family and possess great wealth, it could be a family of dukes for hundreds and hundreds of years, whatever its qualities, its talents, its character or morals. But, under modem capitalistic conditions, there is what has been technically described by sociologists as “social mobility.” The operating principle of this social mobility, according to the Italian sociologist and economist Vilfredo Pareto, is “la circulation des élites” (the circulation of the elites). This means that there are always people who are at the top of the social ladder, who are wealthy, who are politically important, but these people—these elites—are continually changing.
 
@@ -211,7 +211,7 @@ The most famous industrialist of the twentieth century up to now is Henry Ford. 
 
 Every day, the _New York Times_ prints long notices of people who have died. If you read these biographies, you may come across the name of an eminent businessman, who started out as a seller of newspapers at street corners in New York. Or he started as an office boy, and at his death he was the president of the same banking firm where he started on the lowest rung of the ladder. Of course, not all people can attain these positions. Not all people _want_ to attain them. There are people who are more interested in other problems and, for these people, other ways are open today which were not open in the days of feudal society, in the ages of the status society.
 
-### V.
+##### V.
 
 The socialist system, however, _forbids_ this fundamental freedom to choose one’s own career. Under socialist conditions, there is only one economic authority, and it has the right to determine all matters concerning production.
 
@@ -241,7 +241,7 @@ It is true, of course, that great painters and great writers have often had to e
 
 Under a socialist system, van Gogh’s fate might have been different. Some government official would have asked some well-known painters (whom van Gogh certainly would not have regarded as artists at all) whether this young man, half or completely crazy, was really a painter worthy to be supported. And they without a doubt, would have answered: “No, he is not a painter; he is not an artist; he is just a man who wastes paint;” and they would have sent him into a milk factory or into a home for the insane. Therefore all this enthusiasm in favor of socialism by the rising generation of painters, poets, musicians, journalists, actors, is based on an _illusion_. I mention this because these groups are among the most fanatical supporters of the socialist idea.
 
-### VI.
+##### VI.
 
 When it comes to choosing between socialism and capitalism as an economic system, the problem is somewhat different. The authors of socialism never suspected that modern industry, and all the operations of modern business, are based on calculation. Engineers are by no means the only ones who make plans on the basis of calculations, businessmen also must do so. And businessmen’s calculations are all based on the fact that, in the market economy, the money prices of goods inform not only the consumer, they also provide vital information to businessmen about the factors of production, the main function of the market being not merely to determine the cost of the _last_ part of the process of production and transfer of goods to the hands of the consumer, but the cost of those steps leading up to it. The whole market system is bound up with the fact that there is a mentally calculated division of labor between the various businessmen who vie with each other in bidding for the factors of production—the raw materials, the machines, the instruments—and for the human factor of production, the wages paid to labor. This sort of calculation by the businessman cannot be accomplished in the absence of prices supplied by the market.
 
@@ -257,7 +257,7 @@ This is a very difficult and complicated problem and in order to deal with it in
 
 But read other books, too, like the book of the Norwegian economist Trygve Hoff, who wrote on economic calculation. And if you do not want to be one-sided, I recommend that you read the highly-regarded socialist book on this subject by the eminent Polish economist Oskar Lange, who at one time was a professor at an American university, then became a Polish ambassador, and later returned to Poland.
 
-### VII.
+##### VII.
 
 You will probably ask me: “What about Russia? How do the Russians handle this question?” This changes the problem. The Russians operate their socialistic system within a world in which there are prices for all the factors of production, for all raw materials, for everything. They can therefore employ, for their planning, the _foreign_ prices of the world market. And because there are certain differences between conditions in Russia and those in United States, the result is very often that the Russians consider something to be justified and advisable—from their economic point of view—that the Americans would not consider economically justifiable at all.
 
@@ -287,7 +287,7 @@ People who do not agree with this definition of the functions of government may 
 
 It has been said that under present-day conditions we no longer have a free market economy. Under present-day conditions we have something called the “mixed economy.” And for evidence of our “mixed economy,” people point to the many enterprises which are operated and owned by the government. The economy is mixed, people say, because there are, in many countries, certain institutions—like the telephone, telegraph, and railroads—which are owned and operated by the government.
 
-### I.
+##### I.
 
 That some of these institutions and enterprises are operated by the government is certainly true. But this fact alone does _not_ change the character of our economic system. It does not even mean there is a “little socialism” within the otherwise nonsocialist, free market economy. For the government, in operating these enterprises, is subject to the supremacy of the market, which means it is subject to the supremacy of the consumers. The government—if it operates, let us say, post offices or railroads—has to hire people who have to work in these enterprises. It also has to buy the raw materials and other things that are needed for the conduct of these enterprises. And on the other hand, it “sells” these services or commodities to the public. Yet, even though it operates these institutions using the methods of the free economic system, the result, as a rule, is a deficit. The government, however, is in a position to finance such a deficit—at least the members of the government and of the ruling party believe so.
 
@@ -297,7 +297,7 @@ But for the government, conditions are different. The government can run at a de
 
 In recent years, governments have increased the number of nationalized institutions and enterprises in most countries to such an extent that the deficits have grown far beyond the amount that could be collected in taxes from the citizens. What happens then is not the subject of today’s lecture. It is inflation, and I shall deal with that tomorrow. I mentioned this only because the mixed economy must not be confused with the problem of _interventionism_ , about which I want to talk tonight.
 
-### II.
+##### II.
 
 What is interventionism? Interventionism means that the government does not restrict its activity to the preservation of order, or—as people used to say a hundred years ago—to “the production of security.” Interventionism means that the government wants to do more. It wants to interfere with market phenomena.
 
@@ -317,7 +317,7 @@ Then, 1500 years later, the same currency debasement took place during the Frenc
 
 I wanted to mention this, because people often say: “What is needed in order to make price control effective and efficient is merely more brutality and more energy.” Now certainly, Diocletian was very brutal, and so was the French Revolution. Nevertheless, price control measures in both ages failed entirely.
 
-### III.
+##### III.
 
 Now let us analyze the reasons for this failure. The government hears people complain that the price of milk has gone up. And milk is certainly very important, especially for the rising generation, for children. Consequently, the government declares a maximum price for milk, a maximum price that is lower than the potential market price would be. Now the government says: “Certainly we have done everything needed in order to make it possible for poor parents to buy as much milk as they need to feed their children.”
 
@@ -341,7 +341,7 @@ Before the government interfered, milk and eggs were expensive; after the govern
 
 What I have told you here, this schematic and theoretical explanation, is precisely what happened in those countries which tried to enforce a maximum price control, where governments were stubborn enough to go step by step until they came to the end. This happened in the First World War in Germany and England.
 
-### IV.
+##### IV.
 
 Let us analyze the situation in both countries. Both countries experienced inflation. Prices went up, and the two governments imposed price controls. Starting with a few prices, starting with only milk and eggs, they had to go farther and farther. The longer the war went on, the more inflation was generated. And after three years of war, the Germans—systematically as always—elaborated a great plan. They called it the _Hindenburg Plan:_ everything in Germany considered to be good by the government at that time was named after Hindenburg.
 
@@ -371,7 +371,7 @@ This was also true for the British system. When the Conservative party in Britai
 
 Thus, as far as there is economic freedom left (and there is still substantial freedom in some countries, such as Norway, England, Sweden), it exists because of the _necessity to retain export trade_. Earlier, I chose the example of milk, not because I have a special preference for milk, but because practically all governments—or most of them—in recent decades, have regulated milk, egg or butter prices.
 
-### V.
+##### V.
 
 I want to refer, in a few words, to another example, and that is rent control. If the government controls rents, one result is that people who would otherwise have moved from bigger apartments to smaller ones when their family conditions changed, will no longer do so. For example, consider parents whose children left home when they came into their twenties, married or went into other cities to work. Such parents used to change their apartments and take smaller and cheaper ones. This necessity disappeared when rent controls were imposed.
 
@@ -381,7 +381,7 @@ One of the main reasons why many cities in the United States are in such great f
 
 And this is the answer to those people who say: “We are not socialists, we do not want the government to control everything. We realize this is bad. But why should not the government interfere a little bit with the market? Why shouldn’t the government do away with some things which we do not like?”
 
-### VI.
+##### VI.
 
 These people talk of a “middle-of-the-road” policy. What they do not see is that the _isolated_ interference, which means the interference with only one small part of the economic system, brings about a situation which the government itself—and the people who are asking for government interference—find worse than the conditions they wanted to abolish: the people who are asking for rent control are very angry when they discover there is a shortage of apartments and a shortage of housing.
 
@@ -423,7 +423,7 @@ Unfortunately, in the United States, as well as in other countries, some people 
 
 However, there has never been any serious argument against the economic interpretation of the relationship between prices and the quantity of money, or the exchange ratio between money and other goods, commodities, and services. Under present day technological conditions there is nothing easier than to manufacture pieces of paper upon which certain monetary amounts are printed. In the United States, where all the notes are of the same size, it does not cost the government more to print a bill of a thousand dollars than it does to print a bill of one dollar. It is purely a printing procedure that requires the same quantity of paper and ink.
 
-### I.
+##### I.
 
 In the eighteenth century, when the first attempts were made to issue bank notes and to give these bank notes the quality of legal tender—that is, the right to be honored in exchange transactions in the same way that gold and silver pieces were honored—the governments and nations believed that bankers had some secret knowledge enabling them to produce wealth out of nothing. When the governments of the eighteenth century were in financial difficulties, they thought all they needed was a clever banker at the head of their financial management in order to get rid of all their difficulties.
 
@@ -439,7 +439,7 @@ For example, without inflating, the government could use the tax-collected money
 
 But if the government does not use tax money for this purpose, if it uses freshly printed money instead, it means that there will be people who now have more money while all other people still have as much as they had before. So those who received the newly-printed money will be competing with those people who were buyers before. And since there are no more commodities than there were previously, but there _is_ more money on the market—and since there are now people who can buy more today than they could have bought yesterday—there will be an additional demand for that same quantity of goods. Therefore prices will tend to go up. This cannot be avoided, no matter what the use of this newly-issued money will be.
 
-### II.
+##### II.
 
 And more importantly, this tendency for prices to go up will develop step by step; it is not a general upward movement of what has been called the “price level.” The metaphorical expression “price level” must never be used.
 
@@ -465,7 +465,7 @@ There are therefore always different groups in the population being affected dif
 
 Under these changes brought about by inflation, we have groups who are favored and groups who are directly profiteering. I do not use the term “profiteering” as a reproach to these people, for if there is someone to blame, it is the government that established the inflation. And there are always people who _favor_ inflation, because they realize what is going on sooner than other people do. Their special profits are due to the fact that there will necessarily be unevenness in the process of inflation.
 
-### III.
+##### III.
 
 The government may think that inflation—as a method of raising funds—is better than taxation, which is always unpopular and difficult. In many rich and great nations, legislators have often discussed, for months and months, the various forms of new taxes that were necessary because the parliament had decided to increase expenditures. Having discussed various methods of getting the money by taxation, they finally decided that perhaps it was better to do it by inflation.
 
@@ -475,7 +475,7 @@ One of the biggest inflations in history was in the German Reich after the First
 
 Today the techniques for inflation are complicated by the fact that there is checkbook money. It involves another technique, but the result is the same. With the stroke of a pen, the government creates _fiat_ money, thus increasing the quantity of money and credit. The government simply issues the order, and the fiat money is there.
 
-### IV.
+##### IV.
 
 The government does not care, at first, that some people will be losers, it does not care that prices will go up. The legislators say: “This is a wonderful system!” But this wonderful system has one fundamental weakness: it cannot last. If inflation could go on forever, there would be no point in telling governments they should not inflate. But the certain fact about inflation is that, sooner or later, it must come to an end. It is a policy that cannot last.
 
@@ -491,7 +491,7 @@ I refer to the case of Germany, which the whole world was watching. Many books h
 
 And it went on in Germany until exactly November 20, 1923. The masses had believed inflation money to be real money, but then they found out that conditions had changed. At the end of the German inflation, in the fall of 1923, the German factories paid their workers every morning in advance for the day. And the workingman who came to the factory with his wife, handed his wages—all the millions he got—over to her immediately. And the lady immediately went to a shop to buy something, no matter what. She realized what most people knew at that time—that overnight, from one day to another, the mark lost 50% of its purchasing power. Money, like chocolate in a hot oven, was melting in the pockets of the people. This last phase of German inflation did not last long; after a few days, the whole nightmare was over: the mark was valueless and a new currency had to be established.
 
-### V.
+##### V.
 
 Lord Keynes, the same man who said that in the long run we are all dead, was one of a long line of inflationist authors of the twentieth century. They all wrote against the gold standard. When Keynes attacked the gold standard, he called it a “barbarous relic.” And most people today consider it ridiculous to speak of a return to the gold standard. In the United States, for instance, you are considered to be more or less a dreamer if you say: “Sooner or later, the United States will have to return to the gold standard.”
 
@@ -509,7 +509,7 @@ I am rather embarrassed by the necessity to simplify these problems. There are s
 
 If inflation is bad and if people realize it, why has it become almost a way of life in all countries? Even some of the richest countries suffer from this disease. The United States today is certainly the richest country in the world, with the highest standard of living. But when you travel in the United States, you will discover that there is constant talk about inflation and about the necessity to stop it. But they only talk; they do not act.
 
-### VI.
+##### VI.
 
 To give you some facts: after the First World War, Great Britain returned to the prewar gold parity of the pound. That is, it revalued the pound upward. This increased the purchasing power of every worker’s wages. In an unhampered market the nominal _money_ wage would have fallen to compensate for this and the workers’ _real_ wage would not have suffered. We do not have time here to discuss the reasons for this. But the unions in Great Britain were unwilling to accept an adjustment of money wage rates downward as the purchasing power of the monetary unit rose. Therefore _real_ wages were raised considerably by this monetary measure. This was a serious catastrophe for England, because Great Britain is a predominantly industrial country that has to import its raw materials, half-finished goods, and food stuffs in order to live, and has to export manufactured goods to pay for these imports. With the rise in the international value of the pound, the price of British goods rose on foreign markets and sales and exports declined. Great Britain had, in effect, priced itself out of the world market.
 
@@ -533,7 +533,7 @@ And Keynes said, in effect: “Certainly mass unemployment, prolonged year after
 
 In old fashioned language, Keynes proposed cheating the workers. Instead of declaring openly that wage rates must be adjusted to the conditions of the market—because, if they are not, a part of the labor force will inevitably remain unemployed—he said, in effect: “Full employment can be reached only if you have inflation. Cheat the workers.” The most interesting fact, however, is that when his _General Theory_ was published, it was no longer possible to cheat, because people had already become index conscious. But the goal of full employment remained.
 
-### VII.
+##### VII.
 
 What does “full employment” mean? It has to do with the unhampered labor market, which is not manipulated by the unions or by the government. On this market, wage rates for every type of labor tend to reach a point at which everybody who wants a job can get one and every employer can hire as many workers as he needs. If there is an increase in the demand for labor, the wage rate will tend to be greater, and if fewer workers are needed, the wage rate will tend to fall.
 
@@ -565,7 +565,7 @@ I would call this statement a one-sided and shallow formulation of the problem. 
 
 Today, most people regard the considerable differences in the standard of living between many countries as unsatisfactory. Two hundred years ago, conditions in Great Britain were much worse than they are today in India. But the British in 1750 did not call themselves “undeveloped” or “backward,” because they were not in a position to compare the conditions of their country with those of countries in which economic conditions were more satisfactory. Today all people who have not attained the average standard of living of the United States believe that there is something wrong with their own economic situation. Many of these countries call themselves “developing countries” and, as such, are asking for aid from the so-called developed or even overdeveloped countries.
 
-### I.
+##### I.
 
 Let me explain the reality of this situation. The standard of living is lower in the so-called developing countries because the average earnings for the same type of labor is lower in those countries than it is in some countries of Western Europe, Canada, Japan, and especially in the United States. If we try to find the reasons for this difference, we must realize that it is not due to an inferiority of the workers or other employees. There prevails among some groups of North American workers a tendency to believe that they themselves are better than other people—that it is through their own merit that they are getting higher wages than other people.
 
@@ -583,7 +583,7 @@ The employers in all of these developing nations know very well that better tool
 
 Since other nations started later, and since the British did not stop investing capital, there remained a large difference between conditions in England and conditions in those other countries. But something happened which caused the headstart of Great Britain to disappear.
 
-### II.
+##### II.
 
 What happened was the greatest event in the history of the nineteenth century, and this means not only in the history of an individual country. This great event was the development, in the nineteenth century, of _foreign investment_. In 1817, the great British economist Ricardo still took it for granted that capital could be invested only within the borders of a country. He took it for granted that capitalists would not try to invest abroad. But a few decades later, capital investment abroad began to play a most important role in world affairs.
 
@@ -603,7 +603,7 @@ This period lasted until the First World War. What happened later is another sto
 
 If I say that foreign investment was the greatest historical event of the nineteenth century, you must think of all those things that would not have come into being if there had not been any foreign investment. All the railroads, the harbors, the factories and mines in Asia, and the Suez Canal and many other things in the Western hemisphere, would not have been constructed had there been no foreign investment.
 
-### III.
+##### III.
 
 Foreign investment is made in the expectation that it will not be expropriated. Nobody would invest anything if he knew in advance that somebody would expropriate his investments. At the time when these foreign investments were made in the nineteenth century, and at the beginning of the twentieth century, there was no question of expropriation. From the beginning, some countries showed a certain hostility toward foreign capital, but for the most part they realized very well that they derived an enormous advantage from these foreign investments.
 
@@ -623,7 +623,7 @@ India could, of course, accumulate capital by another method: the _domestic_ acc
 
 A few years ago the famous statesman Jawaharlal Nehru published a collection of his speeches. The book was published with the intention of making foreign investment in India more attractive. The Indian government is not opposed to foreign investment _before_ it is invested. The hostility begins only when it _is already_ invested. In this book—I am quoting literally from the book—Mr. Nehru said: “Of course, we want to socialize. But we are not opposed to private enterprise. We want to encourage in every way private enterprise. We want to promise the entrepreneurs who invest in our country, that we will not expropriate them nor socialize them for ten years, perhaps even for a longer time.” And he thought this was an invitation to come to India!
 
-### IV.
+##### IV.
 
 The problem—as you know—is domestic capital accumulation. In all countries today there are very heavy taxes on corporations. In fact, there is double taxation on corporations. First, the profits of corporations are taxed very heavily, and the dividends which corporations pay to their shareholders are taxed again. And this is done in a progressive way.
 
@@ -639,7 +639,7 @@ There are, of course, some methods to avoid this consequence. One could establis
 
 This is a technical legal problem, which I only mention, because the situation is not hopeless. If the world really wanted to make it possible for the developing countries to raise their standard of living to the level of the American way of life, then it could be done. It is only necessary to realize _how_ it could be done.
 
-### V.
+##### V.
 
 What is lacking in order to make the developing countries as prosperous as the United States is only one thing: _capital_ —and, of course, the freedom to employ it under the discipline of the market and not the discipline of the government. These nations must accumulate domestic capital, and they must make it possible for foreign capital to come into their countries.
 
@@ -663,7 +663,7 @@ Britain’s progress was brought about by increasing the per capita investment o
 
 In a world without migration barriers, there would be a tendency all over the world toward an equalization of wage rates. If there were no migration barriers today, probably twenty million people would try to reach the United States every year, in order to get higher wages. The inflow would reduce wages in the United States, and raise them in other countries.
 
-### VI.
+##### VI.
 
 I do not have time to deal with this problem of migration barriers. But I do want to say that there is another method toward the equalization of wage rates all over the world. This other method, which operates in the absence of the freedom to migrate, is the _migration of capital_. Capitalists have the tendency to move towards those countries in which there is plenty of labor available and in which labor is reasonable. And by the fact that they bring capital into these countries, they bring about a trend toward higher wage rates. This has worked in the past, and it will work in the future, in the same way.
 
@@ -689,7 +689,7 @@ We know very well that some of these expectations were too optimistic. It is cer
 
 During the nineteenth century, there was a period when wars decreased in both number and severity. But the twentieth century brought a resurgence of the warlike spirit, and we can fairly well say that we may not yet be at the end of the trials through which mankind will have to go.
 
-### I.
+##### I.
 
 The constitutional system that began at the end of the eighteenth and the beginning of the nineteenth century has disappointed mankind. Most people—also most authors—who have dealt with this problem seem to think there has been no connection between the economic and the political side of the problem. Thus, they tend to deal at great length with the decay of parliamentarianism—government by the representatives of the people—as if this phenomenon were completely independent of the economic situation and of the economic ideas that determine the activities of people.
 
@@ -703,7 +703,7 @@ Political speeches, editorials in newspapers, pamphlets, and books were written 
 
 But this implied that the government would not interfere with the economic conditions of the market. It implied that all citizens had only one political aim: the welfare of the whole country and of the whole nation. And it is precisely this social and economic philosophy that interventionism has replaced. Interventionism has spawned a very different philosophy.
 
-### II.
+##### II.
 
 Under interventionist ideas, it is the duty of the government to support, to subsidize, to give privileges to special groups. The idea of the eighteenth century statesmen was that the legislators had special ideas about the common good. But what we have today, what we see today in the reality of political life, practically without any exceptions, in all the countries of the world where there is not simply communist dictatorship, is a situation where there are no longer real political parties in the old classical sense, but merely _pressure groups_.
 
@@ -737,7 +737,7 @@ The voters who are in favor of such privileges do not realize that there are als
 
 This system leads also to a constant increase of public expenditures, on the one hand, and makes it more difficult, on the other, to levy taxes. These pressure group representatives want many special privileges for their pressure groups, but they do not want to burden their supporters with a too-heavy tax load.
 
-### III.
+##### III.
 
 It was not the idea of the eighteenth century founders of modern constitutional government that a legislator should represent, _not_ the whole nation, but only the special interests of the district in which he was elected; that was one of the consequences of interventionism. The original idea was that every member of the legislature _should_ represent the whole nation. He was elected in a special district only because there he was known and elected by people who had confidence in him.
 
@@ -751,7 +751,7 @@ People say that every civilization must finally fall into ruin and disintegrate.
 
 First of all, it is within the history of mankind very difficult to distinguish between different, independent civilizations. Civilizations are not independent; they are _interdependent_ , they constantly influence each other. One cannot speak of the decline of a particular civilization, therefore, in the same way that one can speak of the death of a particular plant.
 
-### IV.
+##### IV.
 
 But even if you refute the doctrines of Spengler and Toynbee, a very popular comparison still remains: the comparison of decaying civilizations. It is certainly true that in the second century A.D., the Roman Empire nurtured a very flourishing civilization, that in those parts of Europe, Asia, and Africa in which the Roman Empire ruled, there was a very high civilization. There was also a very high _economic_ civilization, based on a certain degree of division of labor. Although it appears quite primitive when compared with our conditions today, it certainly was remarkable. It reached the highest degree of the division of labor ever attained before modem capitalism. It is no less true that this civilization disintegrated, especially in the third century. This disintegration within the Roman Empire made it impossible for the Romans to resist aggression from without. Although the aggression was no worse than that which the Romans had resisted again and again in the preceding centuries, they could withstand it no longer after what had taken place within the Roman Empire.
 
@@ -767,7 +767,7 @@ Thus we see that, from the third century on, the cities of the Roman Empire were
 
 Therefore, if people compare our conditions with those of the Roman Empire and say: “We will go the same way,” they have some reasons for saying so. They can find some facts which are similar. But there are also enormous differences. These differences are not in the political structure which prevailed in the second part of the third century. Then, on the average of every three years, an emperor was assassinated, and the man who killed him or had caused his death became his successor. After three years, on the average, the same happened to the new emperor. When Diocletian, in the year 284, became emperor, he tried for some time to oppose the decay, but without success.
 
-### V.
+##### V.
 
 There are enormous differences between present-day conditions and those that prevailed in Rome, in that the measures that caused the disintegration of the Roman Empire were not premeditated. They were not, I would say, the result of reprehensible formalized doctrines.
 

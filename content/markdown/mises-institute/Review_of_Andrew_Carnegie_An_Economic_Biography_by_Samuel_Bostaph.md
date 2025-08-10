@@ -2,14 +2,14 @@
 
 ## Review of Andrew Carnegie: An Economic Biography by Samuel Bostaph
 
-#### The  Quarterly Journal of Austrian Economics
+###### The  Quarterly Journal of Austrian Economics
 
 Vol. 19 | No. 3 | 302–306
 Fall 2016
 
 Book Review
 
-## Andrew Carnegie: An Economic Biography
+#### Andrew Carnegie: An Economic Biography
 
 Samuel Bostaph
 Lanham, MD: Lexington Books, 2015, 125 pp.
@@ -46,7 +46,7 @@ One issue worthy of further research is Carnegie’s understanding of the busine
 
 Carnegie’s entrepreneurial talents in developing new markets and technological innovation cannot be ignored, Bostaph writes, despite his support for protective tariffs and unscrupulous dealings with politicians. Readers interested in an economic examination of Andrew Carnegie’s commercial career will benefit from Bostaph’s work.
 
-#### REFERENCES
+###### REFERENCES
 
 Carnegie, Andrew. 1920. _Autobiography of Andrew Carnegie_. London: Constable and Co.
 

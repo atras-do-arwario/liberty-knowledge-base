@@ -7,7 +7,7 @@
 Vol. 19 | No. 3 | 248–266
 Fall 2016
 
-## An Analysis on the Relationship between Hoarding, Investment and Economic Growth
+#### An Analysis on the Relationship between Hoarding, Investment and Economic Growth
 
 Alexandru Pătruți
 
@@ -19,7 +19,7 @@ Alexandru Pătruți (alexandru.patruti@rei.ase.ro) is assistant professor in the
 
 ###### JEL CLASSIFICATION: B13, E14, E22, E31, E41, E43, O40
 
-#### INTRODUCTION
+###### INTRODUCTION
 
 Economic growth is the declared goal of virtually every policymaker in the world. From a pragmatic point of view, one can argue that the main purpose of political economy is to prescribe public policies which generate prosperity (Fetter, 1928). It is beyond the scope of the present article to systematically analyze all the determinants of economic growth. I will focus instead on the relationship between capital accumulation and economic growth, in the attempt to link any increase in a country’s welfare to a previous increase in its stock of capital goods. However, in a monetary economy, capital can be accumulated in more ways than in a simple barter economy. The general medium of exchange grants people the possibility to accumulate resources simply by adding to their personal cash balances—an economic process which is usually referred to as _hoarding_.
 
@@ -27,7 +27,7 @@ It is thus the fact that money has a driving force of its own— _i.e._ , it is 
 
 Output growth will lag behind its potential rate in the short run if people increase their cash balances because of the inability of factors’ costs, especially the market rate of interest, to rapidly adjust to the variations in the demand for money. Using an organized market for saving (_e.g._ the financial market) could probably offer additional benefits in terms of speed. Thus, although _hoarding is a growth-promoting tool in the long run_ , it is probably not the optimal one due to lagged adjustment in interest rates.
 
-#### LITERATURE REVIEW ON HOARDING AND ECONOMIC GROWTH
+###### LITERATURE REVIEW ON HOARDING AND ECONOMIC GROWTH
 
 As an economist, I hold that capital accumulation is the _fundamental_ cause (or determinant) of economic growth.[^1] This is by no means equal to saying that it is the _only_ cause. One can coherently argue that there are at least three determinants of economic growth (Hülsmann, 2011): (1) _capital accumulation_ ; (2) _an increase in the division of labor_ ; and (3) _technological innovation_. The present article is a _ceteris paribus_ analysis of economic growth, which assumes technological progress and the level of specialization (_i.e._ division of labor) to be constant. This idea of linking capital accumulation to economic growth is a rather common one. The history of economic thought teaches us that it goes as far back as Adam Smith’s _Wealth of Nations_ (2007 [1776], p. 213), in which the author writes that: “…the accumulation of stock is previously necessary for carrying on this great improvement in the productive powers of labour, so that accumulation naturally leads to this improvement.” However, it was not until the writings of Eugen von Böhm-Bawerk (1890, 1930) that capital theory became a self-standing branch of political economy, having a distinct and systematic set of economic principles. Later, capital theory came to be associated with the so called Austrian school of economics, flourishing in the works of Hayek (1936, 2008 [1931], 2009 [1941]), Mises (1998 [1949]), Strigl (1934) and Rothbard (2009 [1962]).[^2]
 
@@ -51,7 +51,7 @@ From this last sentence, the message we seem to get from Rothbard is that hoardi
 
 I aim to prove in the following passages that one _can_ present economic arguments in defense of the first view and against the second. Comparative statics can be used to show that hoarding essentially implies a lengthening of the structure of production in the long run. However, increasing monetary cash balances does not represent the optimal growth promoting tool, because of its short run transitional effects on the configuration of prices.
 
-#### A SHORT GLOSSARY
+###### A SHORT GLOSSARY
 
 Although such a list of terms is usually found at the back of a book, given the high level of dissent among economists concerning the particular notions we are going to use, I find it useful to define them _before_ starting the exposition.
 
@@ -61,7 +61,7 @@ In a monetary economy savings can take two[^5] main forms, which are _ additions
 
 Now that we hopefully cleared out all possible confusions around the conceptual relationships between savings, consumption, monetary hoarding and investment, we can move on to the even more complicated, if not impossible, issue of defining _economic growth_. In this article I will follow Hülsmann (2011, pp. 36–37) in defining economic growth as a _systematic increase in the physical output of consumer goods._ I am fully aware of the shortcomings of the chosen definition. However, we consider that it is almost impossible to define economic growth in monetary terms, because there is no possibility of subtracting the overlapping effects triggered by variations in the purchasing power of the monetary unit over a certain period of time from the underlining effects caused by real forces. Thus, the increase in monetary value of final goods produced in, let us say, a year, is irrelevant since the purchasing power of the monetary unit could have varied in any way because of cash induced variations (i.e. changes in the _supply of_ or _demand for money_).[^8] To my mind, if we are not willing to drop the term of “economic growth” altogether, we must be willing to refer to it in physical terms. It is true on the other hand that we are now facing another serious problem, namely that in a society which is producing nonhomogeneous goods, there can be situations in which the production of some goods has increased, while the production of others has decreased. The economist finds himself in this case in the impossibility of deciding _ex post_ whether society has experienced growth or not. Hence, the solution I propose is to refer to economic growth as a _systematic upward trend in the production of nearly all final goods_. If this general tendency exists, we can say that a society has experienced growth.[^9]
 
-#### THE CAUSAL RELATIONSHIPS BETWEEN HOARDING, INVESTMENT AND ECONOMIC GROWTH
+###### THE CAUSAL RELATIONSHIPS BETWEEN HOARDING, INVESTMENT AND ECONOMIC GROWTH
 
 Given the fact that we have already defined the economic notions that will be employed in the present analysis, and that we put the discussion into historical context, one can now proceed to the main topic of the article, which is _the study of the causal relationships between hoarding, investment and economic growth_. The way in which I aim to conduct this study is by using comparative static analysis applied on two hypothetical scenarios. After showing that both monetary hoarding and investments are growth promoting tools, I will briefly give additional arguments to suggest that hoarding brings about certain short term vagaries which can postpone future economic growth.
 
@@ -117,7 +117,7 @@ Thus, although monetary hoarding is in the long run nothing more than a particul
 
 On the other hand, if we recall scenario one, in which all people directly invested (in our particular example all savings were kept in time deposits), the situation was much simpler in the sense that the market rate of interest adapted almost instantaneously and entrepreneurs could reap directly the benefits of increased capital accumulation. This is the reason for which I claim that although both hoarding and investment are growth promoting tools, the former does necessary bring about short term vagaries in the money relation which relatively delay economic growth.
 
-#### THE BENEFITS OF AN ORGANIZED MARKET
+###### THE BENEFITS OF AN ORGANIZED MARKET
 
 I consider that the main thesis of the present paper is a rather intuitive one. The theoretical apparatus employed had the sole purpose of elaborating a formal argument in favor of showing that hoarding is a particular form of capital accumulation in the long run. However, monetary hoarding does appear to create a time lag in the short run as opposed to direct investment of the saved resources, lag which is caused by the necessary adjustments of the market rate of interest to the variation in the purchasing power of the monetary unit.
 
@@ -129,7 +129,7 @@ This happens since banks are a specialized kind of intermediary. They are wholes
 
 It is not the goal of the present paper to elaborate on the theory of the organized market, nor the theory of the wholesaler. However, I do consider that both of them are _prima facie_ arguments that add to my previous demonstration, and that they are extremely interesting topics for further research.
 
-#### CONCLUSIONS
+###### CONCLUSIONS
 
 We have shown in the present paper that hoarding is a particular form of capital accumulation, which permits entrepreneurs to lengthen the structure of production and increase future economic growth. However, I argue that hoarding necessarily implies a longer period of time between the moment when resources are saved and the moment when the new consumer goods are brought to the market (_i.e._ economic growth), as opposed to the case in which saved resources would be invested through the banking system (or any other type of direct investment).
 
@@ -137,7 +137,7 @@ The reason for which this happens lies within the specific features of the monet
 
 On the other hand, by using the banking system to save money, financial intermediaries can almost immediately adapt the market rate of interest and supply businessmen with the necessary resources to lengthen the structure of production. In this way, the previously discussed time lag is reduced and economic growth will be somewhat faster because the market rate of interest can adjust before the whole price structure. The fact that banks are also producers of specialized services and that the financial market is an organized market are supplementary arguments that add to the present demonstration. They both represent eventual directions for further research.
 
-#### REFERENCES
+###### REFERENCES
 
 Ahiakpor, James C. W. 2009. “The Phillips Curve Analysis: An Illustration of the Classical Forced-Saving Doctrine,” _Journal of the History of Economic Thought_ 31, no. 2: 143–160.
 

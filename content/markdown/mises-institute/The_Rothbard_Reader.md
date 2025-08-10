@@ -577,7 +577,7 @@ Ours is truly an Age of Statistics. In a country and an era that worships statis
 
 The burgeoning of government statistics offers several obvious evils to the libertarian. In the first place, it is clear that too many resources are being channeled into statistics-gathering and statistics-production. Given a wholly free market, the amount of labor, land, and capital resources devoted to statistics would dwindle to a small fraction of the present total. It has been estimated that the federal government alone spends over \$48,000,000 on statistics, and that statistical work employs the services of over 10,000 full-time civilian employees of the government.[^7]
 
-#### The Hidden Costs of Coerced Reporting
+###### The Hidden Costs of Coerced Reporting
 
 Second, the great bulk of statistics is gathered by government coercion. This not only means that they are products of unwelcome activities; it also means that the true cost of these statistics to the American public is much greater than the mere amount of tax money spent by the government agencies. Private industry, and the private consumer, must bear the burdensome costs of record keeping, filing, and the like, that these statistics demand. Not only that; these fixed costs impose a relatively great burden on small business firms, which are ill-equipped to handle the mountains of red tape. Hence, these seemingly innocent statistics cripple small business enterprise and help to rigidify the American business system. A Hoover Commission task force found, for example, that:
 
@@ -588,13 +588,13 @@ Second, the great bulk of statistics is gathered by government coercion. This no
 > If small alterations are made in two reports, the Task Force says one industry alone can save \$800,000 a year in statistical reporting.
 > Many employees of private industry are occupied with the collection of Government statistics. This is especially burdensome to small businesses. A small hardware store owner in Ohio estimated that 29 per cent of his time is absorbed in filling out such reports. Not infrequently people dealing with the Government have to keep several sets of books to fit the diverse and dissimilar requirements of Federal agencies.[^8]
 
-#### Other Objections
+###### Other Objections
 
 But there are other important, and not so obvious, reasons for the libertarian to regard government statistics with dismay. Not only do statistics gathering and producing go beyond the governmental function of defense of persons and property; not only are economic resources wasted and misallocated, and the taxpayers, industry, small business, and the consumer burdened. But, furthermore, statistics are, in a crucial sense, critical to all interventionist and socialist activities of government. The individual consumer, in his daily rounds, has little need of statistics; through advertising, through the information of friends, and through his own experience, he finds out what is going on in the markets around him. The same is true of the business firm. The businessman must also size up his particular market, determine the prices he has to pay for what he buys and charge for what he sells, engage in cost accounting to estimate his costs, and so on. But none of this activity is really dependent upon the _omnium gatherum_ of statistical facts about the economy ingested by the federal government. The businessman, like the consumer, knows and learns about his particular market through his daily experience.
 
 Bureaucrats as well as statist reformers, however, are in a completely different state of affairs. They are decidedly outside the market. Therefore, in order to get “into” the situation that they are trying to plan and reform, they must obtain knowledge that is not personal, day-to-day experience; the only form that such knowledge can take is statistics.[^9] Statistics are the eyes and ears of the bureaucrat, the politician, the socialistic reformer. Only by statistics can they know, or at least have any idea about, what is going on in the economy.[^10] Only by statistics can they find out how many old people have rickets, or how many young people have cavities, or how many Eskimos have defective sealskins—and therefore only by statistics can these interventionists discover who “needs” what throughout the economy, and how much federal money should be channeled in what directions. And certainly, only by statistics can the federal government make even a fitful attempt to plan, regulate, control, or reform various industries—or impose central planning and socialization on the entire economic system. If the government received no railroad statistics, for example, how in the world could it even start to regulate railroad rates, finances, and other affairs? How could the government impose price controls if it didn’t even know what goods have been sold on the market, and what prices were prevailing? Statistics, to repeat, are the eyes and ears of the interventionists: of the intellectual reformer, the politician, and the government bureaucrat. Cut off those eyes and ears, destroy those crucial guidelines to knowledge, and the whole threat of government intervention is almost completely eliminated.[^11]
 
-#### Without Statistics Bureaucracy Would Wither Away
+###### Without Statistics Bureaucracy Would Wither Away
 
 It is true, of course, that even deprived of all statistical knowledge of the nation’s affairs, the government could still try to intervene, to tax and subsidize, to regulate and control. It could try to subsidize the aged even without having the slightest idea of how many aged there are and where they are located; it could try to regulate an industry without even knowing how many firms there are or any other basic facts of the industry; it could try to regulate the business cycle without even knowing whether prices or business activity are going up or down. It could try, but it would not get very far. The utter chaos would be too patent and too evident even for the bureaucracy, and certainly for the citizens. And this is especially true since one of the major reasons put forth for government intervention is that it “corrects” the market, and makes the market and the economy more rational. Obviously, if the government were deprived of all knowledge whatever of economic affairs, there could not even be a pretense of rationality in government intervention. Surely, the absence of statistics would absolutely and immediately wreck any attempt at socialistic planning. It is difficult to see what, for example, the central planners at the Kremlin could do to plan the lives of Soviet citizens if the planners were deprived of all information, of all statistical data, about these citizens. The government would not even know to whom to give orders, much less how to try to plan an intricate economy.
 
@@ -1095,7 +1095,7 @@ Another striking example of a regional shift is the clothing industry, which was
 
 Logically, the “infant-industry” argument must apply to interlocal and regional as well as national trade, and failure to apply it to those areas is one of the reasons for the persistence of this point of view. Logically extended, the argument would imply that it is difficult or impossible for any firm to exist and grow against the competition of existing firms in the industry, wherever located. Illustrations of this growth, and of decay of old firms, however, are innumerable, particularly in the United States. That, in many instances, a firm with almost no capital can successfully outcompete a firm with existing “entrenched” capital need only be demonstrated by the case of the lowly peddler, who is legally banned or restricted at the instance of his rivals throughout the world.
 
-#### Historical Appendix
+###### Historical Appendix
 
 It is ironic that the American cotton textile industry provides a major example of the growth of an unprotected infant industry, for the infant-industry argument first came into prominence precisely in connection with this industry. Although the infant-industry argument has been traced back to mid-seventeenth-century England,[^41] it was first widely used after the War of 1812 in America. During the war, when foreign trade had practically ceased, American capital turned to investment in domestic manufactures, particularly cotton textiles in New England and the Mid-Atlantic states. After 1815, these new firms had to compete with established English and East Indian competition. The protectionists first appeared in force upon the American scene, urging that the new industry must be protected in its infant stages. Mathew Carey, Philadelphia printer, brought the argument into prominence, and he exerted great influence on young Friedrich List, who was later to become the infant-industry argument’s best-known advocate.[^42]
 
@@ -1206,7 +1206,7 @@ These are but a few of the many grave consequences and dam­ages that would flow
 
 But why is this plan so grand? So vitally important that our pain and hardships should be treated as nothing? Here the reformers offer little argument. Basically, their reasons boil down to two: their tax system would be simple (you could calculate your tax on a post­card), and above all, it would be fair.
 
-#### The Argument for Simplicity
+###### The Argument for Simplicity
 
 Making out your taxes, the reformers claim, would be simplicity itself. No more back-breaking work trying to figure out what’s going on, no more hiring tax lawyers or accountants. But the sweet sim­plicity of the argument can be disposed of very quickly. In the first place, anyone who wants simplicity can have it now, by using the short E-Z form, and two-thirds of Americans do so at the present time. So then the question to ask is: why do one-third of us choose complexity by spending many painful hours over the complex form, and why do we hire expensive lawyers and accountants to aid us? Surely, not because we love complexity and expense for their own sakes, but because we believe that there are things in life worse than complexity, and one of them is paying more taxes! We are willing to suffer some complexity in order to lower some of our monstrous tax burden. And by eliminat­ing our deductions, exemptions, shelters, and so on, the reformers are imposing compulsory simplicity against our wishes. They are truly what the great nineteenth century Swiss historian Jacob Burckhardt said of the statist intellectuals of his day, “terrible simplifiers.”
 
@@ -1220,13 +1220,13 @@ And there is the problem of the corporation. Corporations are entities. Should t
 
 None of these arguments is simple, but it’s instructive that in each and every case, the reformers have come down fiercely on the side of including all these incomes or assets in the taxation category. Their bias in favor of tax, tax, and more tax should be clear by now.
 
-#### The Argument for Fairness
+###### The Argument for Fairness
 
 The major argument of the flat taxers is that it is “fairness” that demands a swift forced march toward their ideal. “Fairness” is worth almost any cost. But it is strange that this ethical argument comes from a profession (academic economists) who have made a career of loudly proclaiming that all of their doctrines are “value-free sci­ence” that have nothing to do with ethics. So when did they become expert ethicists? Indeed, the fairness argument is generally and blithely assumed to be true, after which the reformers can gleefully denounce every resister to higher or broader taxes as embodiments of sinister “special” interests.
 
 One argument holds that fairness demands that everyone pay his or her equal share of the “services” of government. Let us set aside for a moment the surely important point that these “services” are often dubious, are inordinately expensive, and sometimes mean that the taxpayer is forced to pay for his own surveillance and oppression. Since when does “fairness” demand that everyone pay the same proportion of his income for a good or service? Mixed in with the argument for fairness is the view that government should do nothing to penalize one industry or occupation, or subsidize another. This neutral-to-the-market argument puts the flat taxers in the guise of militant adherents of free enterprise. This sounds admirable, but why does it imply that every­one should pay the same proportion of his income? When David Rockefeller and I buy a loaf of Wonder Bread at the supermarket, each of us pays the same price; no one is there to inspect our annual incomes and levy a proportionate fine. No one forces Rockefeller to pay \$1,000 for a loaf of Wonder Bread, just because his income is a thousand times that of the next man. The free market tends toward uniform and equal pricing for each product; one price for everyone, whatever that person’s race, creed, class, color, or income. Why should it suddenly be different for taxes? In short, a quiet but highly important change has here been made in the concept of “equal,” from equal and uniform price for all on the free market, to equal proportion to income in the hands of the flat taxers.
 
-#### “Subsidy” True and False
+###### “Subsidy” True and False
 
 At the heart of the fairness and neutral-to-the-market assumptions of the flat taxers is their express desire to eliminate subsidies, which are assumed to be both evil and non-neutral to the free market. The prob­lem here is an equivocation on the term “subsidy.” It’s certainly true that our tax and budget system is riddled with subsidies, properly defined as taxing one group of people to line the pockets of another, or robbing Peter to pay Paul. If you or I are taxed to subsidize tobacco growers, or highway builders, or contractors, or welfare recipients, then these are indeed subsidies, cases where productive people are being robbed by the government to support groups who function, in effect, as parasites upon the producers. These are subsidies that should be elimi­nated forthwith. But what about, say, deductions for payment of interest on mortgages, tax credits for investment, or deductions for payment of state and local taxes? In what sense are they “subsidies”? Instead, what is really happening here is that some people—homeowners, investors, or state and local taxpayers—are graciously allowed by the government to keep more of their own money than they would have otherwise. I submit that being allowed to keep more of your hard-earned money is not a subsidy in any true sense; it simply means that you are being fleeced less intensely than you would have been. If a robber assaults you on the highway, and is about to run off with all of your funds, and you persuade him to let you keep some bus fare, is he “subsidizing” you? Surely not. Being allowed to keep your own money can scarcely be called a subsidy.
 
@@ -1236,7 +1236,7 @@ By focusing on defenders of their property and rights as alleged subsidy-seekers
 
 The flat taxers like to proclaim their plan to be “revenue-neutral,” that is, the overall tax burden will not change. The lowering of some taxes on upper income groups, then, must be offset by “broadening the base,” or by extending the tax burden to more people and sources of income. But who is to guarantee that once the base is broadened, and more income sources are brought under government’s sway, it will not follow its natural proclivities and once again raise taxes for everyone?
 
-#### What Is a Loophole?
+###### What Is a Loophole?
 
 It is ironic that the slogan “close the loopholes,” which used to be a hallmark of left-liberalism, has now been adopted by the Reagan administration and by the flat taxers. The great free-market economist Ludwig von Mises once rose up in a conference on taxation that devoted much energy to the closing of tax loopholes, and asked the crucial question: “What is a loophole?” He answered that the as­sumption of the loophole theorists seemed to be that all of every­one’s income really belongs to the government, and that if the government fails to tax all of it away, it is thereby leaving a “loop­hole” that must be closed. The same charge applies to the deduc­tions, exemptions, credits, and all the other loopholes out of a flat tax so condemned by our tax reformers.
 
@@ -1244,7 +1244,7 @@ Let us now consider the vexed question of ending deductibility of state and loca
 
 The Reagan administration supporters of ending deductibility offer a pragmatic or strategic argument in reply. If you tax New Yorkers higher up by eliminating deductions, then they will rise up and roll back New York state and city taxes to the lower Iowan level. This is the old the-worse-the-better argument that unfortunately, in addition to being strategic rather than moral, never seems to work. One of the main arguments for bringing in the income tax in the early twentieth century was that now, in contrast to the indirect tariff, everyone would directly feel such a tax, and therefore the public would rise up to keep taxes low. Obviously it didn’t work that way. Instead, we kept and increased tariffs, and we exploited a new tax source and raised it to gigantic and crippling proportions.
 
-#### “Fairness”: Equal Slavery
+###### “Fairness”: Equal Slavery
 
 One dramatic way of looking at our tax system in relation to the question of subsidy or fairness is to assume for a moment that this is 1850, and that the question arises in the North as to what should be done with slaves who had managed to escape from the South. Let us assume that both sides of a growing debate are ardently in favor of freedom and are opposed to slavery. Group A hails the slaves’ escape and advocates setting them free. But Group B argues as follows:
 
@@ -1252,13 +1252,13 @@ One dramatic way of looking at our tax system in relation to the question of sub
 
 What would we think of such an argument? To call it specious would be a kindly understatement. But I submit that believers in the free market are arguing in precisely the same way when they say that all taxes must be uniform, and that all specific tax deductions or exemp­tions must be canceled until such time as everyone’s taxes can be reduced uniformly. In both cases, the egalitarians are arguing not for equal freedom but for equal slavery or equal robbery in the name of “fairness.” In both cases, the rebuttal holds that the enslavement or plunder of one group can in no way justify the enslavement or plunder of another, be it in the name of fairness, equity, or whatever.
 
-#### The Argument for Misallocation of Resources
+###### The Argument for Misallocation of Resources
 
 The most sophisticated argument of the flat tax reformers is that deduc­tions, exemptions, and loopholes distort the allocation of resources from what it would be on the free market, and therefore should be abolished. This is an integral part of the neutrality-to-the-market argument, and is particularly insidious, because it makes the reform­ers appear to be knowledgeable and dedicated adherents of the free market. Let us take, for example, two credits or deductions: an investment tax credit, and an energy credit. The reformers argue that the result of the “subsidy” of tax credits is that more resources are now going into investment or energy, and less are going into other areas, than would on the free market, and that therefore these credits should be eliminated.
 
 It is true that more resources are now going into investment, energy, and a slew of other areas, than would have in a purely free market system. But the reformers leave out a crucial point: what is the alternative? If investment, energy, or other credits or deductions are abolished, resources will not automatically go into more produc­tive areas; instead, they go into government, via higher taxes. In short, the alternatives to energy credits are not merely Energy or All Other Consumption and Investment. They are threefold: Energy, Other Forms of Expenditure, and Government. And a higher tax will simply be wasted, thrown down the rathole of unproductive and profligate government spending. In short, there is no waste—no misallocation—like government; anything else would be an im­provement.
 
-#### The Way Out of the Mess
+###### The Way Out of the Mess
 
 The policy conclusions that flow from our analysis are diametrically opposed to those of the flat taxers. In looking at the history of reform and at the arguments of the flat taxers, one can almost sympathize with Richard L. Doernberg, professor of law at Emory University, who throws up his hands and concludes that “We have a lousy system; let’s leave it alone or it will get worse.” Doernberg urges that the current tax code, as bad as it is, should remain precisely the way it is forever, so that at least people will know the score and be able to plan around its provisions.
 
@@ -1288,7 +1288,7 @@ The money-commodity becomes one term in every single one of the innumerable exch
 
 Many useful goods have been chosen as moneys in human societies. Salt in Africa, sugar in the Caribbean, fish in colonial New England, tobacco in the colonial Chesapeake Bay region, cowrie shells, iron hoes, and many other commodities have been used as moneys. Not only do these moneys serve as media of exchange; they enable individuals and business firms to engage in the “calculation” necessary to any advanced economy. Moneys are traded and reckoned in terms of a currency unit, almost always units of weight. Tobacco, for example, was reckoned in pound weights. Prices of other goods and services could be figured in terms of pounds of tobacco; a certain horse might be worth eighty pounds on the market. A business firm could then calculate its profit or loss for the previous month; it could figure that its income for the past month was 1,000 pounds and its expenditures 800 pounds, netting it a 200 pound profit.
 
-#### Gold or Government Paper
+###### Gold or Government Paper
 
 Throughout history, two commodities have been able to outcompete all other goods and be chosen on the market as money—two precious metals, gold and silver (with copper coming in when one of the other precious metals was not available). Gold and silver abounded in what we can call “moneyable” qualities, qualities that rendered them superior to all other commodities. They are in rare enough supply that their value will be stable, and of high value per unit weight; hence pieces of gold or silver will be easily portable, and usable in day-to-day transactions; they are rare enough too, so that there is little likelihood of sudden discoveries or increases in supply. They are durable so that they can last virtually forever, and so they provide a safe “store of value” for the future. And gold and silver are divisible, so that they can be divided into small pieces without losing their value; unlike diamonds, for example, they are homogeneous, so that one ounce of gold will be of equal value to any other.
 
@@ -1306,7 +1306,7 @@ But if government manages to establish paper tickets or bank credit as money, as
 
 The natural tendency of government, once in charge of money, is to inflate and to destroy the value of the currency. To understand this truth, we must examine the nature of government and of the creation of money. Throughout history, governments have been chronically short of revenue. The reason should be clear: unlike you and me, governments do not produce useful goods and services that they can sell on the market; governments, rather than producing and selling services, live parasitically off the market and off society. Unlike every other person and institution in society, government obtains its revenue from coercion, from taxation. In older and saner times, indeed, the king was able to obtain sufficient revenue from the products of his own private lands and forests, as well as through highway tolls. For the State to achieve regularized, peacetime taxation was a struggle of centuries. And even after taxation was established, the kings realized that they could not easily impose new taxes or higher rates on old levies; if they did so, revolution was very apt to break out.
 
-#### Controlling the Money Supply
+###### Controlling the Money Supply
 
 If taxation is permanently short of the style of expenditures desired by the State, how can it make up the difference? By getting control of the money supply, or, to put it bluntly, by counterfeiting. On the market economy, we can only obtain good money by selling a good or service in exchange for gold, or by receiving a gift; the only other way to get money is to engage in the costly process of digging gold out of the ground. The counterfeiter, on the other hand, is a thief who attempts to profit by forgery, e.g., by painting a piece of brass to look like a gold coin. If his counterfeit is detected immediately, he does no real harm, but to the extent his counterfeit goes undetected, the counterfeiter is able to steal not only from the producers whose goods he buys. For the counterfeiter, by introducing fake money into the economy, is able to steal from everyone by robbing every person of the value of his currency. By diluting the value of each ounce or dollar of genuine money, the counterfeiter’s theft is more sinister and more truly subversive than that of the highwayman; for he robs everyone in society, and the robbery is stealthy and hidden, so that the cause-and-effect relation is camouflaged.
 
@@ -1522,7 +1522,7 @@ The Kondratieffists there fell back on 1984 as the preferred date of the beginni
 
 ## Chapter 23: Mercantilism
 
-#### Mercantilism as the Economic Aspect of Absolutism
+###### Mercantilism as the Economic Aspect of Absolutism
 
 By the beginning of the seventeenth century, royal absolutism had emerged victorious all over Europe. But a king (or, in the case of the Italian city-states, some lesser prince or ruler) cannot rule all by himself. He must rule through a hierarchical bureaucracy. And so the rule of absolutism was created through a series of alliances between the king, his nobles (who were mainly large feudal or post-feudal landlords), and various segments of large-scale merchants or traders. “Mercantilism” is the name given by late-nineteenth-century historians to the politico-economic system of the absolute state from approximately the sixteenth to the eighteenth centuries. Mercantilism has been called by various historians or observers a “system of Power or State-building” (Eli Heckscher), a system of systematic state privilege, particularly in restricting imports or subsi­dizing exports (Adam Smith), or a faulty set of economic theories, including protectionism and the alleged necessity for piling up bullion in a country. In fact, mercantilism was all of these things; it was a comprehensive system of state­building, state privilege, and what might be called “state monopoly capitalism.”
 
@@ -1798,7 +1798,7 @@ Although these two financial blocs usually clashed with each other, they were as
 
 ## Chapter 31:  Property and Exchange
 
-#### The Nonaggression Axiom
+###### The Nonaggression Axiom
 
 The libertarian creed rests upon one central axiom: that no man or group of men may aggress against the person or property of anyone else. This may be called the “nonaggression axiom.” “Aggression” is defined as the initiation of the use or threat of physical violence against the person or property of anyone else. Aggression is therefore synonymous with invasion.
 
@@ -1816,7 +1816,7 @@ The libertarian therefore considers one of his prime educational tasks is to spr
 
 Take, for example, the institution of taxation, which statists have claimed is in some sense really “voluntary.” Anyone who truly believes in the “voluntary” nature of taxation is invited to refuse to pay taxes and to see what then happens to him. If we analyze taxation, we find that, among all the persons and institutions in society, only the government acquires its revenues through coercive violence. Everyone else in society acquires income _either_ through voluntary gift (lodge, charitable society, chess club) _or_ through the sale of goods or services voluntarily purchased by consumers. If anyone _but_ the government proceeded to “tax,” this would clearly be considered coercion and thinly disguised banditry. Yet the mystical trappings of “sovereignty” have so veiled the process that only libertarians are prepared to call taxation what it is: legalized and organized theft on a grand scale.
 
-#### Property Rights
+###### Property Rights
 
 If the central axiom of the libertarian creed is nonaggression against anyone’s person and property, how is this axiom arrived at? What is its groundwork or support? Here, libertarians, past and present, have differed considerably. Roughly, there are three broad types of foundation for the libertarian axiom, corresponding to three kinds of ethical philosophy: the emotivist, the utilitarian, and the natural rights viewpoint. The emotivists assert that they take liberty or nonaggression as their premise purely on subjective, emotional grounds. While their own intense emotion might seem a valid basis for their own political philosophy, this can scarcely serve to convince anyone else. By ultimately taking themselves outside the realm of rational discourse, the emotivists thereby insure the lack of general success of their own cherished doctrine.
 
@@ -1975,13 +1975,13 @@ For the first two days and nights of the war, I, like many other people, stayed 
 
 Several astute critics, notably Leslie Gelb in the _New York Times_ and Howard Rosenberg in the _Los Angeles Times_ , have pointed out that this first “television war” is not in any sense bringing us _the war_ , but only a highly censored, sanitized high-tech computer Nintendo game, with US missiles going off, gallant Patriot (whichever PR man thought up _that_ name should be getting a million bucks a year) missiles intercepting evil Scud (ditto for _that_ PR man) missiles. It’s a TV-high-tech phony war that the average Americano can really get behind, sending the Bush approval rating up to—what is it?—110 percent?
 
-#### Civilian Casualties?
+###### Civilian Casualties?
 
 And yet, every once in a great while, some bit of truth manages to peek through the facade: Iraqi refugees in Jordan note that blood is running in the streets in residential neighborhoods in Baghdad; and Ramsey Clark reports that in the major Southern Iraqi city of Basra civilians are being targeted and killed in great numbers. Concerned that more of these reports might shake the “Nobody Dies” theme, the Pentagon has issued a preemptive strike against such revelations by assuring us that we never, ever, target civilians, that our pilots have gone out of their way and even sacrificed themselves to avoid hitting civilians, but that sometimes—even with “smart” precision bombs—there is unavoidable “collateral damage” (sort of like “side effect” in medicine?) to civilians, and anyway it’s all that evil Saddam Hussein’s fault for putting military targets near civilian areas. Oh. Like at Hiroshima and Nagasaki, right?
 
 Even when a smart bomb killed 400 civilians, it was all Saddam’s fault.
 
-#### What Happened to the Mavens?
+###### What Happened to the Mavens?
 
 Another curious aspect of the war is: what in blazes happened to the mavens, to all those military and strategic experts upon whom we all rely for sober judgment on world affairs? Before January 16, most of the mavens sounded pretty good: they warned sternly that launching a war would be decidedly inadvisable, and that a ground war would be even worse. Then, Bush blows the whistle on the Night of January 16, and the mavens totally flipflop. From then on, it’s: Hey, hey, high-tech! Missiles! B-52s! Pounding! No living person can stand up to it! We’ll win the war in ten days, two weeks at the outside!
 
@@ -1989,7 +1989,7 @@ There were two parts to this total switcheroo of the mavens. Partly it was the v
 
 Also, what happened to that fascinating pre-war session on _Crossfire_ when former Secretary of the Navy James Webb and the military expert from the _Chicago Tribune_ , slated to debate the possibility of a draft, stunned both Pat Buchanan and Michael Kinsley by agreeing that the US Army and Air Force were not equipped to fight a Gulf war for longer than four weeks. After gaining a brief news flash, this item was dropped and never referred to again. What do these two say now? Inquiring minds would like to know.
 
-#### Grinding It Out
+###### Grinding It Out
 
 It occurs to me that US military strategy, ever since U.S. Grant, has been dogged, plonky, and unimaginative. Mencken once wrote that the Americans love to boast about US military victories, but that we make sure, before launching any war, that we outnumber the enemy by at least five to one. And then, in every war, we amass the men and firepower, and just slog it out, wearing the enemy down—something like the hated New York Giants in football. With a few exceptions such as General Patton, brilliant surprises and strategy are left to the opposition.
 
@@ -1997,7 +1997,7 @@ In this war, so far all the surprises again have come from Saddam, who despite b
 
 But we have an all-too-effective PR reply to any surprises that Saddam can pull. The endless litany: “We’re right on schedule. Everything’s on schedule.”
 
-#### Dramatic Non-Events of the War
+###### Dramatic Non-Events of the War
 
 1\. Gas Attacks. With all the fuss and feathers about gas masks, issuing of gas masks, practicing in sealed rooms, constant agitation in Israel and in Saudi Arabia, _not one_ gas attack has yet occurred. How about waiting until something happens before featuring it everywhere? Or is that asking too much of our Nintendo war?
 
@@ -2007,15 +2007,15 @@ And in all the hot air and prattling about “Iraqi terrorism,” there has not 
 
 Besides, do you realize that they _never caught_ those once-famous “bearded Libyan hit men,” who supposedly snuck onto our shores to get President Reagan? Where are they now?
 
-#### And Whatever Happened to the “Drug War”?
+###### And Whatever Happened to the “Drug War”?
 
 Answer: Who needs more than one war at a time?
 
-#### One Small Plea
+###### One Small Plea
 
 Please, please, won’t someone, somewhere, do something, to get the ubiquitous man with the improbable name of “Wolf Blitzer” off the air? I know that it’s a small thing to ask amidst the grand follies and tragedies of this war, but it would be so ... blissful.
 
-#### Red-Baiting the Anti-war Movement
+###### Red-Baiting the Anti-war Movement
 
 The conservative movement (apart from the paleos) reminds me of a punch-drunk boxer who has been in the ring several fights too many. When he hears the bell, all he can do is to look around wildly, swing aimlessly, and red-bait. _Human Events_ recently tried to do this by pointing out darkly, and correctly, that Ramsey Clark’s anti-war Coalition is dominated by the Workers’ World Party, a Marxist-Leninist group. It darkly pointed out that the Coalition failed to condemn the invasion of Kuwait. It then tried to draw an analogy to the Marxist-Leninists who opposed the Vietnam War, hoping to bring about a Marxist-Leninist Asia, and eventually a Marxist-Leninist world.
 
@@ -2025,17 +2025,17 @@ Furthermore, a careful analysis of the left’s reaction to this war cuts totall
 
 So what does that tell you where Marxists-Leninists stand? In contrast, it should now be clear, if it ever was murky, that such staunch anti-war leftists as Erwin Knoll, editor of the _Progressive_ , or Ramsey Clark, should never have been red-baited, and are truly independent persons.
 
-#### Yellow Ribbon Conspiracy?
+###### Yellow Ribbon Conspiracy?
 
 Surely, one of the main beneficiaries of the war so far has been the yellow ribbon industry. Has any intrepid journalist looked into this question: who are the major yellow-ribbon manufacturers? Do they have any ties with the Trilateralists? The Bilderbergers? With Neil Bush or any of the other little Bushes? And how did this yellow stuff start anyway?
 
 Color scientists: is there any color, on the color spectrum, that may be considered _anti_ -yellow?
 
-#### The Right to a Speedy Trial
+###### The Right to a Speedy Trial
 
 And when, Oh when is General Manuel Noriega (remember him? He was last year’s “Hitler”) going to get his constitutional right to a public, speedy trial?
 
-#### The War Hero as Permanent Problem
+###### The War Hero as Permanent Problem
 
 Among the baleful consequences of nearly every American military victory has been the War Hero who emerges from the war and then plagues us for years as president. The American Revolution brought us High Federalism and George Washington, the Mexican War gave us President General Zachary Taylor, the Civil War the rotten regime of President U.S. Grant, and World War II brought us Ike Eisenhower, who fastened the New-Fair Deal upon the nation at a time when there was a good chance of getting rid of it. (World War I gave us no military heroes, but it did elevate Herbert Hoover to political fame and eventually his disastrous presidency. Hoover was the aptly-named Food Czar during the collectivized economy of World War I.)
 
@@ -2043,7 +2043,7 @@ If the US wins a short, casualty-free Glorious Victory in this war (or if just a
 
 George Bush, thank God, is too old, unless of course, the neocon political theorists manage to get rid of the anti-Third Term Amendment and he can be elected President for Life. General Kelly has too raspy a voice (being short in the intellect department is no longer a bar to the Highest Office). General Schwarzkopf is too fat and thuggish looking. Brent Scowcroft is too old, and besides, he lacks charisma. We are left with: Dick Cheney, who I am sure is willing to shoulder the burden, and General Colin Powell, who could be our first Affirmative Action President, an event that would send the entire Cultural Left, from left-liberals to neocons to left-libertarians, into ecstasy. What, you ask, are _his_ views on anything? Surely you jest; no one ever asked that question of any of the other War Heroes. We know that he wears his uniform smartly and comes across well on television; what else would anyone want?
 
-#### A Nightmare Scenario for 1996
+###### A Nightmare Scenario for 1996
 
 In case no one is worried about more proximate problems, here’s a lulu for 1996: who should become George Bush’s heir apparent, to run all of our lives from January 1997 to January 2005: Dan Quayle or General Colin Powell? Sorry: None of the Above is not a permitted option in our Glorious Democracy.
 
@@ -2075,7 +2075,7 @@ A final _caveat_ : the anarchist is always at a disadvantage in attempting to fo
 
 One important point to make here is that the advance of modern technology makes anarchistic arrangements increasingly feasible. Take, for example, the case of lighthouses, where it is often charged that it is unfeasible for private lighthouse operators to row out to each ship to charge it for use of the light. Apart from the fact that this argument ignores the successful existence of private lighthouses in earlier days, e.g., in England in the eighteenth century, another vital consideration is that modern electronic technology makes charging each ship for the light far more feasible. Thus, the ship would have to have paid for an electronically controlled beam which could then be automatically turned on for those ships which had paid for the service.
 
-#### II
+###### II
 
 Let us now turn to the problem of how disputes—in particular, disputes over alleged violations of person and property—would be resolved in an anarchist society. First, it should be noted that all disputes involve two parties: the plaintiff, the alleged victim of the crime or tort, and the defendant, the alleged aggressor. In many cases of broken contract, of course, each of the two parties alleging that the other is the culprit is at the same time a plaintiff and a defendant.
 

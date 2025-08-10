@@ -1102,7 +1102,7 @@ For the past thirteen years the poet Ned O’Gorman has been operating a success
 
 The example of day care demonstrates an important truth about the market: if there seems to be a shortage of supply to meet an evident demand, then look to government as the cause of the problem. Give the market its head, and there will be no shortages of day-care centers, just as there are no shortages of motels, of washing machines, of TV sets, or of any of the other accoutrements of daily living.
 
-####
+######
 
 [^81]: The Statistical Abstract of the United States, in its various annual editions, has the basic data for the nation For the local figures and some earlier analysis, see Henry Hazlitt, Man vs the Welfare State (New Rochelle, N Y Arlington House, 1969), pp 59-60
 [^82]: See Roger A Freeman, “The Wayward Welfare State,” Modern Age (Fall, 1971), pp 401-02 In a detailed state-by-state study, Professors Brehm and Saving estimated that over 60% of the number of welfare clients in each state in 1951 could be accounted for by the level of welfare payments in that state, by the end of the ‘50s, the percentage had increased to over 80% C T Brehm and T R Saving, “The Demand for General Assistance Payments,” American Economic Review (December 1964), pp 1002-1018
@@ -2083,7 +2083,7 @@ One of the most moving portrayals of the change in American life wrought by Worl
 >
 > We learned. There are things we learned to do but we have not learned, in spite of the Constitution and the Declaration of Independence and the great debates at Richmond and Philadelphia how to put power over the lives of men into the hands of one man and to make him use it wisely.[^193]
 
-####
+######
 
 [^187]: For more on a libertarian theory of foreign policy, see Murray N. Rothbard, “War, Peace and the State,” in Egalitarianism As A Revolt Against Nature and other Essays (Washington, D.C.: Libertarian Review Press, 1974), pp. 70-80.
 [^188]: Numerous revisionist historians have recently developed this interpretation of twentieth-century American history. In particular, see the works of, among others, Gabriel Kolko, James Weinstein, Robert Wiebe, Robert D. Cuff, William E. Leuchtenburg, Ellis D. Hawley, Melvin I. Urofsky, Joan Hoff Wilson, Ronald Radosh, Jerry Israel, David Eakins, and Paul Conkin — again, as in foreign policy revisionism, under the inspiration of William Appleman Williams. A series of essays using this approach may be found in Ronald Radosh and Murray N. Rothbard, eds., A New History of Leviathan (New York: Dutton, 1972).

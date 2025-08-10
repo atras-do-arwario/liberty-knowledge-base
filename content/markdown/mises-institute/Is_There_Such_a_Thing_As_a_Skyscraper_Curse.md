@@ -17,7 +17,7 @@ Elizabeth Boyle, Lucas Engelhardt, and Mark Thornton[^1]
 
 ###### JEL CLASSIFICATION: B53, E32, E37, R11
 
-#### INTRODUCTION
+###### INTRODUCTION
 
 On March 28, 2015, the _Economist_ magazine published an article that is the title of this paper. They came to the conclusion that there should be great doubt about the existence of the skyscraper curse. “In other words, you cannot accurately forecast a recession or financial panic by looking at either the announcement or the completion dates of the world’s tallest building.” The _Economist_ article is just the latest installment of the increasing fascination of the financial and news media with the skyscraper curse.
 
@@ -25,7 +25,7 @@ There has also been an increasing attraction of economists to the relationship b
 
 In contrast, another thread in this literature is based on the idea that skyscraper building is rational and that skyscraper construction does not cause economic crises. In particular, Barr et al. (2015) present extensive empirical evidence that skyscraper construction is rational and that skyscraper construction does not cause changes in GDP. The argument presented here is that _all_ the empirical evidence in this literature actually confirms the same thing: the existence of the skyscraper curse. This in turn provides for a more complete understanding of just what the skyscraper curse means, as well as its cause.
 
-#### HISTORY AND DEBATE
+###### HISTORY AND DEBATE
 
 Lawrence (1999) bases his correlation on an examination of the record-breaking skyscrapers that occurred over the previous 100 years. He begins with the Singer Building and the Metropolitan Life Building, which were completed in 1908 and 1909 respectively. These new records occurred concurrently with the Panic of 1907. He notes that there is a remarkably accurate relation between the two variables over the next century, with the exception of the Woolworth Building which was completed in 1913.
 
@@ -65,7 +65,7 @@ Engelhardt uses these findings to demonstrate that higher wages from lower inter
 
 In looking at the various papers and research, there appears to be considerable uncertainty and doubt regarding the Skyscraper Curse. Some papers seem to conclude that record-setting skyscrapers are indeed a curse. Several papers offer evidence of a variety of causes of the curse including monetary policy, various supply and demand factors, as well as psychological factors such as overvaluation, builder competition and ego. There is also a suggestion that the Skyscraper Curse, like other stock market indicators, is a figment of our imagination and the result of happenstance. In the next section we show there is much less disagreement than it appears.
 
-#### THEORY AND HARMONY
+###### THEORY AND HARMONY
 
 When considered together, current research seems to conform to the theoretical description provided by Thornton (2005). Clearly there is a coincidence of economic expansion, higher stock prices, psychological changes and skyscraper construction prior to an economic crisis. If all of these phenomena share a common cause, then it should be no surprise to find that they are empirically connected. As Thornton (2005) establishes, lower interest rates serve as that common cause. So, while there is a Skyscraper Curse—in that skyscrapers are an omen of sorts—the skyscrapers do not cause the financial collapse that often follows. They are simply a very visible manifestation of the business cycle phenomenon brought about by artificially low interest rates.
 
@@ -111,7 +111,7 @@ Numbers in parentheses are t-statistics from the regression. So, while the econo
 
 Once we set aside demands for a precise statistical relationship, however, we can see a great deal of agreement between the papers dealing with the Skyscraper Curse. This relationship can even be found by loosening the relationship that is being considered. For the most part, skyscraper building can be understood as profit-maximizing—and the profit-maximizing height increases during economic booms. This does not deny the possibility that economic booms may induce psychological motives other than profit—like ego and height competition—to increase the height of buildings.
 
-#### CONCLUSION
+###### CONCLUSION
 
 The debate surrounding the Skyscraper Curse has raged around two issues. First, there is substantial theoretical disagreement regarding the underlying causes of the Curse which reflect the underlying theory of construction. Some (Lawrence (1999), Thornton (2005), Engelhardt (2015), Barr et al. (2015)) present skyscraper construction as being primarily a profit-maximizing enterprise. Thus, the Skyscraper Curse would arise if economic conditions arose which simultaneously made skyscraper construction profitable and sowed the seeds of an unsustainable boom. Others (Loeffler [2011], Barr [2012, 2013]) allow more room for psychological factors in skyscraper construction. In this case, the Skyscraper Curse would arise if the same psychological factors that lead to overvaluation in asset markets also lead to skyscraper construction.
 
@@ -119,7 +119,7 @@ Second, there is the question whether something like the Skyscraper Curse exists
 
 The debates surrounding the Skyscraper Curse draws out an important fundamental point: forecasting turns in the business cycle is—and will continue to be—art as much as science. There will always be a role for entrepreneurial judgment. However, having an understanding of the underlying theory allows one to interpret the signs that surround us. Included among these signs: skyscrapers, which serve all at once as a monument to the successes of the past and as a harbinger of the suffering that is to come.
 
-#### REFERENCES
+###### REFERENCES
 
 Ali, Mir M. and Kyoung Sun Moon. 2007. “Structural Developments in Tall Buildings: Current Trends and Future Prospects,” _Architectural Science Review_ 50, no. 3: 205–223.
 

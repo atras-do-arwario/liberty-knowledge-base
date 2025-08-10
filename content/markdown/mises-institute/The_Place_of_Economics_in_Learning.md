@@ -4,7 +4,7 @@
 
 **Ludwig von Mises, “The Place of Economics in Learning,” in _Human Action_ (Auburn, Ala.: Mises Institute, 1998), chap. 38, pp. 863–876.**
 
-#### 1\. The Study of Economics
+###### 1\. The Study of Economics
 
 The natural sciences are ultimately based on facts as established by laboratory experiment. Physical and biological theories are confronted with these facts, and are rejected when in conflict with them. The perfection of these theories no less than the improvement of technological and therapeutical procedures requires more and better laboratory research. These experimental ventures absorb time, painstaking effort of specialists, and costly expenditure of material. Research can no longer be conducted by isolated and penniless scientists, however ingenious. The seat of experimentation today is in the huge laboratories supported by governments, universities, endowments, and big business. Work in these institutions has developed into professional routine. The majority of those employed in it are technicians recording those facts which the pioneers, of whom some are themselves experimenters, will one day use as building stones for their theories. As far as the progress of scientific theories is concerned, the achievements of the rank-and-file researcher are only ancillary. But very often his discoveries have immediate practical results in improving the methods of therapeutics and of business.
 
@@ -20,7 +20,7 @@ Even the most faithful examination of a chapter of economic history, though it b
 
 There is no conflict between economic history and economics. Every branch of knowledge has its own merits and its own rights. Economists have never tried to belittle or deny the significance of economic history. Neither do real historians object to the study of economics. The antagonism was intentionally called into being by the socialists and interventionists who could not refute the objections raised against their doctrines by the economists. The Historical School and the Institutionalists tried to displace economics and to substitute “empirical” studies for it precisely because they wanted to silence the economists. Economic history, as they planned it, was a means of destroying the prestige of economics and of propagandizing for interventionism.
 
-#### 2\. Economics as a Profession
+###### 2\. Economics as a Profession
 
 The early economists devoted themselves to the study of the problems of economics. In lecturing and writing books they were eager to communicate to their fellow citizens the results of their thinking. They tried to influence public opinion in order to make sound policies prevail in the conduct of civic affairs. They never conceived of economics as a profession.
 
@@ -34,7 +34,7 @@ The public looks askance upon the lobbyists and blames them for the dismal featu
 
 Many people complain today about the lack of creative statesmanship. However, under the predominance of interventionist ideas, a political career is open only to men who identify themselves with the interests of a pressure group. The mentality of a union leader or of a secretary of farmers; associations is not what is required for a far-sighted statesman. Service to the short-run interests of a pressure group is not conducive to the development of those qualities which make a great statesman. Statesmanship is invariably long-run policy; but pressure groups do not bother about the long run. The lamentable failure of the German Weimar system and of the Third Republic in France was primarily due to the fact that their politicians were merely experts in pressure group interests.
 
-#### 3\. Forecasting as a Profession
+###### 3\. Forecasting as a Profession
 
 When the businessmen finally learned that the boom created by credit expansion cannot last and must necessarily lead to a slump, they realized that it was important for them to know in time the date of the break. They turned to economists for advice.
 
@@ -52,7 +52,7 @@ In fact reasonable businessmen are fully aware of the uncertainty of the future.
 
 Business forecasting fails in the vain attempts to make the uncertainty of the future disappear and to deprive entrepreneurship of its inherent speculative character. But it renders some services in assembling and interpreting the available data about economic trends and developments of the recent past.
 
-#### 4\. Economics and the Universities
+###### 4\. Economics and the Universities
 
 Tax-supported universities are under the sway of the party in power. The authorities try to appoint only professors who are ready to advance ideas of which they themselves approve. As all nonsocialist governments are today firmly committed to interventionism, they appoint only interventionists. In their opinion, the first duty of the university is to sell the official social philosophy to the rising generation.[^2] They have no use for economists.
 
@@ -78,7 +78,7 @@ But there are many young men who are keen enough to see through the fallacies of
 
 However, what has made many of the present-day universities by and large nurseries of socialism is not so much the conditions prevailing in the departments of economics as the teachings handed down in other departments. In the departments of economics there can still be found some economists, and even the other teachers may be familiar with some of the objections raised against the practicability of socialism. The case is different with many of the teachers of philosophy, history, literature, sociology, and political science. They interpret history on the ground of a garbled vulgarization of dialectical materialism. Even many of those who passionately attack Marxism on account of its materialism and atheism are under the sway of the ideas developed in the _Communist Manifesto_ and in the program of the Communist International. They explain depressions, mass unemployment, inflation, war and poverty as evils necessarily inherent in capitalism and intimate that these phenomena can disappear only with the passing of capitalism.
 
-#### 5\. General Education and Economics
+###### 5\. General Education and Economics
 
 In countries which are not harassed by struggles between various linguistic groups public education can work if it is limited to reading, writing, and arithmetic. With bright children it is even possible to add elementary notions of geometry, the natural sciences, and the valid laws of the country. But as soon as one wants to go farther, serious difficulties appear. Teaching at the elementary level necessarily turns into indoctrination. It is not feasible to represent to adolescents all the aspects of a problem and to let them choose between dissenting views. It is no less impossible to find teachers who could hand down opinions of which they themselves disapprove in such a way as to satisfy those who hold these opinions. The party that operates the schools is in a position to propagandize its tenets and to disparage those of other parties.
 
@@ -94,7 +94,7 @@ On the high school level and even on the college level the handing down of histo
 
 If public education were more efficient than it really is, the political parties would urgently aim at the domination of the school system in order to determine the mode in which these subjects are to be taught. However, general education plays only a minor role in the formation of the political, social, and economic ideas of the rising generation. The impact of the press, the radio, and environmental conditions is much more powerful than that of teachers and textbooks. The propaganda of the churches, the political parties, and the pressure groups outstrips the influence of the schools, whatever they may teach. What is learned in school is often very soon forgotten and cannot carry on against the continuous hammering of the social milieu in which a man moves.
 
-#### 6\. Economics and the Citizen
+###### 6\. Economics and the Citizen
 
 Economics must not be relegated to classrooms and statistical offices and must not be left to esoteric circles. It is the philosophy of human life and action and concerns everybody and everything. It is the pith of civilization and of man’s human existence.
 
@@ -110,7 +110,7 @@ Very few are capable of contributing any consequential idea to the body of econo
 
 Whether we like it or not, it is a fact that economics cannot remain an esoteric branch of knowledge accessible only to small groups of scholars and specialists. Economics deals with society’s fundamental problems; it concerns everyone and belongs to all. It is the main and proper study of every citizen.
 
-#### 7\. Economics and Freedom
+###### 7\. Economics and Freedom
 
 The paramount role that economic ideas play in the determination of civic affairs explains why governments, political parties, and pressure groups are intent upon restricting the freedom of economic thought. They are anxious to propagandize the “good” doctrine and to silence the voice of the “bad” doctrines. As they see it, truth has no inherent power which could make it ultimately prevail solely by virtue of its being true. In order to carry on, truth needs to be backed by violent action on the part of the police or other armed troops. In this view, the criterion of a doctrine’s truth is the fact that its supporters succeeded in defeating by force of arms the champions of dissenting views. It is implied that God or some mythical agency directing the course of human affairs always bestows victory upon those fighting for the good cause. Government is from God and has the sacred duty of exterminating the heretic.
 

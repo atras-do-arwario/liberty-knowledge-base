@@ -4,7 +4,7 @@
 
 [_The Quarterly Journal of Austrian __Economics_ 19, no. 4 (Winter 2016)](https://cdn.mises.org/QJAE%2019%20no.%204%20%28Winter%202016%29.pdf)
 
-#### The Interest Rate and the Length of Production: A Comment
+###### The Interest Rate and the Length of Production: A Comment
 
 by David Howden
 
@@ -23,7 +23,7 @@ David Howden (dhowden@slu.edu) is professor of economics at Saint Louis Universi
 Vol. 19 | No. 4 | 345–358
 Winter 2016
 
-## The Interest Rate and the Length of Production: A Comment
+#### The Interest Rate and the Length of Production: A Comment
 
 David Howden
 
@@ -129,7 +129,7 @@ Machaj abstracts from the output mix in his examples, and thus we cannot be sure
 
 ## References
 
-#### REFERENCES
+###### REFERENCES
 
 Böhm-Bawerk, Eugen von. 1889. _Capital and Interest_ , _Vol. II: Positive Theory of Capital_. George D. Huncke, trans. South Holland, Ill: Libertarian Press, 1959.
 

@@ -128,9 +128,9 @@ Grove City College
 
 ## Chapter 1  Human Action
 
-##  _**Epistemological Problems of Economics**_[^15]
+####  _**Epistemological Problems of Economics**_[^15]
 
-#### _1\. The Basic Concept of Action and its Categorial Conditions_
+###### _1\. The Basic Concept of Action and its Categorial Conditions_
 
 The starting point of our reasoning is not behavior, but action, or, as it is redundantly designated, rational action. Human action is conscious behavior on the part of a human being. Conceptually it can be sharply and clearly distinguished from unconscious activity, even though in some cases it is perhaps not easy to determine whether given behavior is to be assigned to one or the other category.
 
@@ -144,7 +144,7 @@ Whether the exchange of economic goods (in the broadest sense, which also includ
 
 These considerations enable us to assess critically the thesis that all or most of the doctrines of economics hold only for a limited period of history and that, consequently, theorems whose validity is thus limited historically or geographically should replace, or at least supplement, those of the universally valid theory. All the propositions established by the universally valid theory hold to the extent that the conditions that they presuppose and precisely delimit are given. Where these conditions are present, the propositions hold without exception. This means that these propositions concern action as such; that is, that they presuppose only the existence of a state of dissatisfaction, on the one hand, and the recognized possibility, on the other, of relieving this dissatisfaction by conscious behavior, and that, therefore, the elementary laws of value are valid without exception for all human action. When an isolated person acts, his action occurs in accordance with the laws of value. Where, in addition, goods of higher order are introduced into action, all the laws of the theory of imputation are valid. Where indirect exchange takes place, all the laws of monetary theory are valid. Where fiduciary media are created, all the laws of the theory of fiduciary media (the theory of credit) are valid. There would be no point in expressing this fact by saying that the doctrines of the theory of money are true only in those periods of history in which indirect exchange takes place. ...
 
-#### _4\. The Distinction Between Means and Ends: The “Irrational”_
+###### _4\. The Distinction Between Means and Ends: The “Irrational”_
 
 Most of the objections raised against the science of action stem from a misconception of the distinction between means and ends. In the strict sense, the end is always the removal of a dissatisfaction. However, we can doubtless also designate as an end the attainment of that condition of the external world which brings about our state of satisfaction either directly or indirectly, or which enables us to perform, without further difficulties, the act through which satisfaction is to be obtained. If the removal of the feeling of hunger is the end sought, the procuring of food and its preparation for eating can also be considered as ends; if one seeks the removal of the feeling of cold as an end, the heating of one’s quarters can just as well be called an end. If additional measures are needed for the removal of dissatisfaction, then the attainment of any particular step along the way toward the desired final condition is also designated as an end. In this sense the acquisition of money in the market economy and, proximately, the division of labor are designated as ends of action; in this sense too the attainment of all things that indirectly promote the end of want-satisfaction appear as proximate or intermediate ends.
 
@@ -162,9 +162,9 @@ These considerations have an evident bearing on the widespread tendency of the p
 
 Action is, by definition, always rational. One is unwarranted in calling goals of action irrational simply because they are not worth striving for from the point of view of one’s own valuations. Such a mode of expressions leads to gross misunderstandings. Instead of saying that irrationality plays a role in action, one should accustom oneself to saying merely: There are people who aim at different ends from those that I aim at, and people who employ different means from those I would employ in their situation.
 
-##  _Human Action_[^18]
+####  _Human Action_[^18]
 
-#### _1\. Purposeful Action and Animal Reaction_
+###### _1\. Purposeful Action and Animal Reaction_
 
 Human action is purposeful behavior. Or we may say: Action is will put into operation and transformed into an agency, is aiming at ends and goals, is the ego’s meaningful response to stimuli and to the conditions of its environment, is a person’s conscious adjustment to the state of the universe that determines his life. Such paraphrases may clarify the definition given and prevent possible misinterpretations. But the definition itself is adequate and does not need complement or commentary.
 
@@ -191,9 +191,9 @@ We may say that action is the manifestation of a man’s will. But this would no
 
 ## Chapter 2  Action and Value
 
-## _**Human Action[^19] **_
+#### _**Human Action[^19] **_
 
-#### _1\. Ends and Means_
+###### _1\. Ends and Means_
 
 The result sought by an action is called its end, goal, or aim. One uses these terms in ordinary speech also to signify intermediate ends, goals, or aims; these are points which acting man wants to attain only because he believes that he will reach his ultimate end, goal, or aim in passing beyond them. Strictly speaking the end, goal, or aim of any action is always the relief from a felt uneasiness.
 
@@ -215,7 +215,7 @@ It is therefore not necessary actually to arrange producers’ goods in various 
 
 An economic good does not necessarily have to be embodied in a tangible thing. Nonmaterial economic goods are called services.
 
-#### _2\. The Scale of Value_
+###### _2\. The Scale of Value_
 
 Acting man chooses between various opportunities offered for choice. He prefers one alternative to others.
 
@@ -233,7 +233,7 @@ Value is not intrinsic, it is not in things. It is within us; it is the way in w
 
 Neither is value in words and in doctrines. It is reflected in human conduct. It is not what a man or groups of men say about value that counts, but how they act. The bombastic oratory of moralists and the inflated pompousness of party programs are significant as such. But they influence the course of human events only as far as they really determine the actions of men.
 
-#### _3\. The Scale of Needs_
+###### _3\. The Scale of Needs_
 
 Notwithstanding all declarations to the contrary, the immense majority of men aim first of all at an improvement of the material conditions of well-being. They want more and better food, better homes and clothes, and a thousand other amenities. They strive after abundance and health. Taking these goals as given, applied physiology tries to determine what means are best suited to provide as much satisfaction as possible. It distinguishes, from this point of view, between man’s “real” needs and imaginary and spurious appetites. It teaches people how they should act and what they should aim at as a means.
 
@@ -241,9 +241,9 @@ The importance of such doctrines is obvious. From his point of view the physiolo
 
 There is no room left in the field of economics for a scale of needs different from the scale of values as reflected in man’s actual behavior. Economics deals with real man, weak and subject to error as he is, not with ideal beings, omniscient and perfect as only gods could be.
 
-##  _Theory and History[^20] _
+####  _Theory and History[^20] _
 
-#### _1\. Judgments of Value and Propositions of Existence_
+###### _1\. Judgments of Value and Propositions of Existence_
 
 Propositions asserting existence (affirmative existential propositions) or nonexistence (negative existential propositions) are descriptive. They assert something about the state of the whole universe or of parts of the universe. With regard to them questions of truth and falsity are significant. They must not be confounded with judgments of value.
 
@@ -251,7 +251,7 @@ Judgments of value are voluntaristic. They express feelings, tastes, or preferen
 
 Judgments of value are mental acts of the individual concerned. As such they must be sharply distinguished from the sentences by means of which an individual tries to inform other people about the content of his judgments of value. A man may have some reason to lie about his valuations. We may describe this state of affairs in the following way: Every judgment of value is in itself also a fact of the actual state of the universe and as such may be the topic of existential propositions. The sentence “I prefer Beethoven to Lehar” refers to a judgment of value. If looked upon as an existential proposition, it is true if I really prefer Beethoven and act accordingly and false if I in fact prefer Lehar and for some reasons lie about my real feelings, taste, or preferences. In an analogous way the existential proposition “Paul prefers Beethoven to Lehar” may be true or false. In declaring that with regard to a judgment of value there cannot be any question of truth or falsity, we refer to the judgment as such and not to the sentences communicating the content of such a judgment of value to other people.
 
-#### _2\. Valuation and Action_
+###### _2\. Valuation and Action_
 
 A judgment of value is purely academic if it does not impel the man who utters it to any action. There are judgments which must remain academic because it is beyond the power of the individual to embark upon any action directed by them. A man may prefer a starry sky to the starless sky, but he cannot attempt to substitute the former state which he likes better for the latter he likes less.
 
@@ -263,7 +263,7 @@ It is a task of history, for example, to trace back the origin of India’s cast
 
 It is a fact that hardly any historian has fully avoided passing judgments of value. But such judgments are always merely incidental to the genuine tasks of history. In uttering them the author speaks as an individual judging from the point of view of his personal valuations, not as a historian.
 
-#### _3\. The Subjectivity of Valuation_
+###### _3\. The Subjectivity of Valuation_
 
 All judgments of value are personal and subjective. There are no judgments of value other than those asserting _I_ prefer, _I_ like better, _I_ wish.
 
@@ -273,7 +273,7 @@ This does not mean that every individual draws his valuations from his own mind.
 
 What the theorem of the subjectivity of valuation means is that there is no standard available which would enable us to reject any ultimate judgment of value as wrong, false, or erroneous in the way we can reject an existential proposition as manifestly false. It is vain to argue about ultimate judgments of value as we argue about the truth or falsity of an existential proposition. As soon as we start to refute by arguments an ultimate judgment of value, we look upon it as a means to attain definite ends. But then we merely shift the discussion to another plane. We no longer view the principle concerned as an ultimate value but as a means to attain an ultimate value, and we are again faced with the same problem. We may, for instance, try to show a Buddhist that to act in conformity with the teachings of his creed results in effects which we consider disastrous. But we are silenced if he replies that these effects are in his opinion lesser evils or no evils at all compared to what would result from nonobservance of his rules of conduct. His ideas about the supreme good, happiness, and eternal bliss are different from ours. He does not care for those values his critics are concerned with, and seeks for satisfaction in other things than they do.
 
-#### _4\. The Logical and Syntactical Structure of Judgments of Value_
+###### _4\. The Logical and Syntactical Structure of Judgments of Value_
 
 A judgment of value looks upon things from the point of view of the man who utters it. It does not assert anything about things as they are. It manifests a man’s affective response to definite conditions of the universe as compared with other definite conditions.
 
@@ -294,9 +294,9 @@ Whenever man is faced with the necessity of choosing between two things or state
 
 ## Chapter 3  Action in Time
 
-## _Human Action[^21] _
+#### _Human Action[^21] _
 
-#### **_1\. The Temporal Character of Praxeology_**
+###### **_1\. The Temporal Character of Praxeology_**
 
 The notion of change implies the notion of temporal sequence. A rigid, eternally immutable universe would be out of time, but it would be dead. The concepts of change and of time are inseparably linked together. Action aims at change and is therefore in the temporal order. Human reason is even incapable of conceiving the ideas of timeless existence and of timeless action.
 
@@ -306,7 +306,7 @@ Logic and mathematics deal with an ideal system of thought. The relations and im
 
 What distinguishes epistemologically the praxeological system from the logical system epistemologically is precisely that it implies the categories both of time and of causality. The praxeological system too is aprioristic and deductive. As a system it is out of time. But change is one of its elements. The notions of sooner and later and of cause and effect are among its constituents. Anteriority and consequence are essential concepts of praxeological reasoning. So is the irreversibility of events. In the frame of the praxeological system any reference to functional correspondence is no less metaphorical and misleading than is the reference to anteriority and consequence in the frame of the logical system.[^22]
 
-#### **_2\. Past, Present, and Future_**
+###### **_2\. Past, Present, and Future_**
 
 It is acting that provides man with the notion of time and makes him aware of the flux of time. The idea of time is a praxeological category.
 Action is always directed toward the future; it is essentially and necessarily always a planning and acting for a better future. Its aim is always to render future conditions more satisfactory than they would be without the interference of action. The uneasiness that impels a man to act is caused by a dissatisfaction with expected future conditions as they would probably develop if nothing were done to alter them. In any case action can influence only the future, never the present that with every infinitesimal fraction of a second sinks down into the past. Man becomes conscious of time when he plans to convert a less satisfactory present state into a more satisfactory future state.
@@ -319,7 +319,7 @@ The present qua duration is the continuation of the conditions and opportunities
 
 As the future is uncertain it always remains undecided and vague how much of it we can consider as _now_ and present. If a man had said in 1913: At present — now — in Europe freedom of thought is undisputed, he would have not foreseen that this present would very soon be a past.
 
-#### **_3\. The Economization of Time_**
+###### **_3\. The Economization of Time_**
 
 Man is subject to the passing of time. He comes into existence, grows, becomes old, and passes away. His time is scarce. He must economize it as he does other scarce factors.
 
@@ -327,7 +327,7 @@ The economization of time has a peculiar character because of the uniqueness and
 
 Only one fact must be stressed at this point. The economization of time is independent of the economization of economic goods and services. Even in the land of Cockaigne man would be forced to economize time, provided he were not immortal and not endowed with eternal youth and indestructible health and vigor. Although all his appetites could be satisfied immediately without any expenditure of labor, he would have to arrange his time schedule, as there are states of satisfaction which are incompatible and cannot be consummated at the same time. For this man, too, time would be scarce and subject to the aspect of _sooner_ and _later_.
 
-#### **_4\. The Temporal Relation Between Actions_**
+###### **_4\. The Temporal Relation Between Actions_**
 
 Two actions of an individual are never synchronous; their temporal relation is that of sooner and later. Actions of various individuals can be considered as synchronous only in the light of the physical methods for the measurement of time. Synchronism is a praxeological notion only with regard to the concerted efforts of various acting men.[^26]
 
@@ -349,7 +349,7 @@ When the speculator goes to the stock exchange, he may sketch a definite plan fo
 
 However one twists things, one will never succeed in formulating the notion of “irrational” action whose “irrationality” is not founded upon an arbitrary judgment of value. Let us suppose that somebody has chosen to act inconstantly for no other purpose than for the sake of refuting the praxeological assertion that there is no irrational action. What happens here is that a man aims at a peculiar goal, viz., the refutation of a praxeological theorem, and that he accordingly acts differently from what he would have done otherwise. He has chosen an unsuitable means for the refutation of praxeology, that is all. ...
 
-####
+######
 **_1\. Uncertainty and Acting[^30] _**
 
 The uncertainty of the future is already implied in the very notion of action. That man acts and that the future is uncertain are by no means two independent matters. They are only two different modes of establishing one thing.
@@ -364,7 +364,7 @@ It is not the task of praxeology to investigate whether or not it is permissible
 
 The problems of truth and certainty concern the general theory of human knowledge. The problem of probability, on the other hand, is a primary concern of praxeology.
 
-#### _2\. The Meaning of Probability_
+###### _2\. The Meaning of Probability_
 
 The treatment of probability has been confused by the mathematicians. From the beginning there was an ambiguity in dealing with the calculus of probability. When the Chevalier de Méré consulted Pascal on the problems involved in the games of dice, the great mathematician should have frankly told his friend the truth, namely, that mathematics cannot be of any use to the gambler in a game of pure chance. Instead he wrapped his answer in the symbolic language of mathematics. What could easily be explained in a few sentences of mundane speech was expressed in a terminology which is unfamiliar to the immense majority and therefore regarded with reverential awe. People suspected that the puzzling formulas contain some important revelations, hidden to the uninitiated; they got the impression that a scientific method of gambling exists and that the esoteric teachings of mathematics provide a key for winning. The heavenly mystic Pascal unintentionally became the patron saint of gambling. The textbooks of the calculus of probability gratuitously propagandize for the gambling casinos precisely because they are sealed books to the layman.
 
@@ -378,7 +378,7 @@ A statement is probable if our knowledge concerning its content is deficient. We
 
 There are two entirely different instances of probability; we may call them class probability (or frequency probability) and case probability (or the specific understanding of the sciences of human action). The field for the application of the former is the field of the natural sciences, entirely ruled by causality; the field for the application of the latter is the field of the sciences of human action, entirely ruled by teleology.
 
-#### _3\. Class Probability_
+###### _3\. Class Probability_
 
 Class probability means: We know or assume to know, with regard to the problem concerned, everything about the behavior of a whole class of events or phenomena; but about the actual singular events or phenomena we know nothing but that they are elements of this class.
 
@@ -403,7 +403,7 @@ The characteristic mark of insurance is that it deals with the whole class of ev
 
 Neither is there any specific risk in the business of the keeper of a gambling bank or in the enterprise of a lottery. From the point of view of the lottery enterprise the outcome is predictable, provided that all tickets have been sold. If some tickets remain unsold, the enterpriser is in the same position with regard to them as every buyer of a ticket is with regard to the tickets he bought.
 
-#### _4\. Case Probability_
+###### _4\. Case Probability_
 
 Case probability means: We know, with regard to a particular event, some of the factors which determine its outcome; but there are other determining factors about which we know nothing.
 
@@ -456,9 +456,9 @@ In the real world acting man is faced with the fact that there are fellow men ac
 
 ## Chapter 4  Society, Exchange, and the Division of Labor
 
-## _Human Action[^33] _
+#### _Human Action[^33] _
 
-#### _1\. Autistic Exchange and Interpersonal Exchange_
+###### _1\. Autistic Exchange and Interpersonal Exchange_
 
 Action always is essentially the exchange of one state of affairs for another state of affairs. If the action is performed by an individual without any reference to cooperation with other individuals, we may call it autistic exchange. An instance: the isolated hunter who kills an animal for his own consumption; he exchanges leisure and a cartridge for food.
 
@@ -470,7 +470,7 @@ Hostile aggression was a practice common to man’s nonhuman forebears. Consciou
 
 It is the essential characteristic of the categories of human action that they are apodictic and absolute and do not admit of any gradation. There is action or nonaction, there is exchange or nonexchange; everything which applies to action and exchange as such is given or not given in every individual instance according to whether there is or there is not action and exchange. In the same way the boundaries between autistic exchange and interpersonal exchange are sharply distinct. Making one-sided presents without the aim of being rewarded by any conduct on the part of the receiver or of third persons is autistic exchange. The donor acquires the satisfaction which the better condition of the receiver gives to him. The receiver gets the present as a God-sent gift. But if presents are given in order to influence some people’s conduct, they are no longer one-sided, but a variety of interpersonal exchange between the donor and the man whose conduct they are designed to influence. Although the emergence of interpersonal exchange was the result of a long evolution, no gradual transition is conceivable between autistic and interpersonal exchange. There were no intermediary modes of exchange between them. The step which leads from autistic to interpersonal exchange was no less a jump into something entirely new and essentially different than was the step from automatic reaction of the cells and nerves to conscious and purposeful behavior, to action.
 
-#### _2\. Contractual Bonds and Hegemonic Bonds_
+###### _2\. Contractual Bonds and Hegemonic Bonds_
 
 There are two different kinds of social cooperation: cooperation by virtue of contract and coordination, and cooperation by virtue of command and subordination or hegemony.
 
@@ -489,10 +489,10 @@ Any kind of human cooperation and social mutuality is essentially an order of pe
 
 The contractual order of society is an order of right and law. It is a government under the rule of law (_Rechtsstaat_) as differentiated from the welfare state (_Wohlfahrtsstaat_) or paternal state. Right or law is the complex of rules determining the orbit in which individuals are free to act. No such orbit is left to wards of a hegemonic society. In the hegemonic state there is neither right nor law; there are only directives and regulations which the director may change daily and apply with what discrimination he pleases and which the wards must obey. The wards have one freedom only: to obey without asking questions.
 
-##
+####
 _Socialism[^39] _
 
-#### 1\. The Nature of Society
+###### 1\. The Nature of Society
 
 The idea of human destiny dominates all the more ancient views of social existence. Society progresses towards a goal fore-ordained by the deity. Whoever thinks in this way is logically correct if, in speaking of progress and retrogression, of revolution and counterrevolution, of action and reaction he lays on these concepts the emphasis adopted by so many historians and politicians. History is judged according as it brings mankind nearer to the goal or carries it farther away.
 
@@ -510,7 +510,7 @@ Society is co-operation; it is community in action.
 
 To say that Society is an organism, means that society is division of labour.[^45] To do justice to this idea we must take into account all the aims which men set themselves and the means by which these are to be attained. It includes every inter-relation of thinking and willing man. Modern man is a social being, not only as one whose material needs could not be supplied in isolation, but also as one who has achieved a development of reason and of the perceptive faculty that would have been impossible except within society. Man is inconceivable as an isolated being, for humanity exists only as a social phenomenon and mankind transcended the stage of animality only in so far as co-operation evolved the social relationships between the individuals. Evolution from the human animal to the human being was made possible by and achieved by means of social cooperation and by that alone. And therein lies the interpretation of Aristotle’s dictum that man is the **ζvονπsλιτιχον** (the living body politic).
 
-#### _2\. The Division of Labour as the Principle of Social Development_
+###### _2\. The Division of Labour as the Principle of Social Development_
 
 We are still far from understanding the ultimate and most profound secret of life, the principle of the origin of organisms. Who knows whether we shall ever discover it? All we know today is that when organisms are formed, something which did not exist before is created out of individuals. Vegetable and animal organisms are more than conglomerations of single cells, and society is more than the sum of the individuals of which it is composed. We have not yet grasped the whole significance of this fact. Our thoughts are still limited by the mechanical theory of the conservation of energy and of matter, which is never able to tell us how one can become two. Here again, if we are to extend our knowledge of the nature of life, understanding of the social organization will have to precede that of the biological.
 
@@ -524,7 +524,7 @@ The theory of the international division of labour is one of the most important 
 
 The greater productivity of work under the division of labour is a unifying influence. It leads men to regard each other as comrades in a joint struggle for welfare, rather than as competitors in a struggle for existence. It makes friends out of enemies, peace out of war, society out of individuals.[^49]
 
-#### _3\. Organism and Organization_
+###### _3\. Organism and Organization_
 
 Organism and organization are as different from each other as life is from a machine, as a flower which is natural from one which is artificial. In the natural plant each cell lives its own life for itself while functioning reciprocally with the others. What we call living is just this self-existence and self-maintenance. In the artificial plant the separate parts are members of the whole only as far as the will of him, who united them, has been effective. Only to the extent to which this will is effective are the parts within the organization inter-related. Each part occupies only the place given to it, and leaves that place, so to speak, only on instructions. Within this framework the parts can live, that is, exist for themselves, only in so far as the creator has put them alive into his creation. The horse which the driver has harnessed to the cart lives as a horse. In the organization, the “team,” the horse is just as foreign to the vehicle as is an engine to the car it drives. The parts may use their life in opposition to the organization, as, for instance, when the horse runs away with the carriage or the tissue out of which the artificial flower is made disintegrates under chemical action. Human organization is no different. Like society it is a result of will. But in this case the will no more produces a living social organism than the flower-maker produces a living rose. The organization holds together as long as the creating will is effective, no longer. The parts which compose the organization merge into the whole only so far as the will of the creator can impose itself upon them and their life can be fixed in the organization. In the battalion on parade there is one will, the will of the commander. Everything else so far as it functions within the organization is lifeless machinery. In this destruction of the will, or that portion of it which does not serve the purpose of the body of troops, lies the essence of military drill. The soldier in the phalangial order, fighting in line, in which the body of troops must be nothing more than an organization — is drilled. Within the mass there is no life. Whatever life the individual lives is by the side of, or outside the body of troops — against it perhaps, but never in it. Modern warfare, based on the skirmisher’s personal enterprise, has to make use of the individual soldier, of his thought and his will. So the army no longer simply drills the soldier. It seeks to educate him.
 
@@ -536,7 +536,7 @@ To seek to organize society is just as crazy as it would be to tear a living pla
 
 Organizations are possible only as long as they are not directed against the organic or do it any injury. All attempts to coerce the living will of human beings into the service of something they do not want must fail. An organization cannot flourish unless it is founded on the will of those organized and serves their purposes.
 
-#### _4\. The Individual and Society_
+###### _4\. The Individual and Society_
 
 Society is not mere reciprocity. There is reciprocity amongst animals, for example when the wolf eats the lamb or when the wolf and she-wolf mate. Yet we do not speak of animal societies or of a society of wolves. Wolf and lamb, wolf and she-wolf, are indeed members of an organism — the organism of Nature. But this organism lacks the specific characteristic of the social organism: it is beyond the reach of will and action. For the same reason, the relation between the sexes is not, as such, a social relation. When a man and a woman come together they follow the law which assigns to them their place in Nature. Thus far they are ruled by instinct. Society exists only where willing becomes a co-willing and action co-action. To strive jointly towards aims which alone individuals could not reach at all, or not with equal effectiveness — that is society.[^50]
 
@@ -546,7 +546,7 @@ The principle of the division of labour revealed the nature of the growth of soc
 
 Once it has been perceived that the division of labour is the essence of society, nothing remains of the antithesis between individual and society. The contradiction between individual principle and social principle disappears.
 
-#### _5\. The Development of the Division of Labour_
+###### _5\. The Development of the Division of Labour_
 
 In so far as the individual becomes a social being under the influence of blind instinct, before thought and will are fully conscious, the formation of society cannot be the subject of sociological inquiry. But this does not mean that Sociology must shift the task of explaining the origins of society on to another science, accepting the social web of mankind as a given fact. For if we decide — and this is the immediate consequence of equating society and division of labour — that the structure of society was incomplete at the appearance of the thinking and willing human being and that the constructive process is continuous throughout history, then we must seek a principle which makes this evolution intelligible to us. The economic theory of the division of labour gives us this principle. It has been said that the happy accident which made possible the birth of civilization was the fact that divided labour is more productive than labour without division. The division of labour extends by the spread of the realization that the more labour is divided the more productive it is. In this sense the extension of the division of labour is economic progress: it brings production nearer to its goal — the greatest possible satisfaction of wants, and this progress is sociological progress also, for it involves the intensification of the social relation.
 
@@ -564,7 +564,7 @@ Ferguson showed that the development of technique depends on social conditions, 
 
 To trace the origin of everything concerned with society in the development of the division of labour has nothing in common with the gross and naive materialism of the technological and other materialistic theories of history. Nor does it by any means signify, as disciples of the idealistic philosophy are apt to maintain, an inadmissible limitation of the concept of social relations. Neither does it restrict society to the specifically material. That part of social life which lies beyond the economic is indeed the ultimate aim, but the ways which lead to it are governed by the law of all rational action; wherever they come into question there is economic action.
 
-#### _6\. Changes in the Individual in Society_
+###### _6\. Changes in the Individual in Society_
 
 The most important effect of the division of labour is that it turns the independent individual into a dependent social being. Under the division of labour social man changes, like the cell which adapts itself to be part of an organism. He adapts himself to new ways of life, permits some energies and organs to atrophy and develops others. He becomes one-sided. The whole tribe of romantics, the unbending  _laudatores temporis acti_ (praisers of time past), have deplored this fact. For them the man of the past who developed his powers “harmoniously” is the ideal: an ideal which alas no longer inspires our degenerate age. They recommend retrogression in the division of labour, hence their praise of agricultural labour, by which they always mean the almost self-sufficing peasant.[^61]
 
@@ -611,7 +611,7 @@ It is futile to look for the harmoniously developed man at the outset of economi
 
 ## Chapter 5  Capitalism: The Market Economy
 
-## _Economic Policy: Thoughts for Tomorrow and Today[^65] _
+#### _Economic Policy: Thoughts for Tomorrow and Today[^65] _
 
 **“Capitalism”**
 
@@ -696,9 +696,9 @@ But you have to remember that, in economic policies, there are no miracles. You 
 
 ## Chapter 6  Economic Calculation
 
-## Economic Calculation in the Socialist Commonwealth[^66]
+#### Economic Calculation in the Socialist Commonwealth[^66]
 
-#### _2\. The Nature of Economic Calculation_
+###### _2\. The Nature of Economic Calculation_
 
 Every man who, in the course of economic life, takes a choice between the satisfaction of one need as against another, _eo ipso_ makes a judgment of value. Such judgments of value at once include only the very satisfaction of the need itself; and from this they reflect back upon the goods of a lower, and then further upon goods of a higher order. As a rule, the man who knows his own mind is in a position to value goods of a lower order. Under simple conditions it is also possible for him without much ado to form some judgment of the significance to him of goods of a higher order. But where the state of affairs is more involved and their interconnections not so easily discernible, subtler means must be employed to accomplish a correct[^67] valuation of the means of production. It would not be difficult for a farmer in economic isolation to come by a distinction between the expansion of pasture-farming and the development of activity in the hunting field. In such a case the processes of production involved are relatively short and the expense and income entailed can be easily gauged. But it is quite a different matter when the choice lies between the utilization of a water-course for the manufacture of electricity or the extension of a coal mine or the drawing up of plans for the better employment of the energies latent in raw coal. Here the roundabout processes of production are many and each is very lengthy; here the conditions necessary for the success of the enterprises which are to be initiated are diverse, so that one cannot apply merely vague valuations, but requires rather more exact estimates and some judgment of the economic issues actually involved.
 
@@ -748,10 +748,10 @@ The static state can dispense with economic calculation. For here the same event
 
 Thus in the socialist commonwealth every economic change becomes an undertaking whose success can be neither appraised in advance nor later retrospectively determined. There is only groping in the dark. Socialism is the abolition of rational economy.
 
-##
+####
 _Human Action[^73] _
 
-#### _1\. Monetary Calculation as a Method of Thinking_
+###### _1\. Monetary Calculation as a Method of Thinking_
 
 Monetary calculation is the guiding star of action under the social system of division of labor. It is the compass of the man embarking upon production. He calculates in order to distinguish the remunerative lines of production from the unprofitable ones, those of which the sovereign consumers are likely to approve from those of which they are likely to disapprove. Every single step of entrepreneurial activities is subject to scrutiny by monetary calculation. The premeditation of planned action becomes commercial precalculation of expected costs and expected proceeds. The retrospective establishment of the outcome of past action becomes accounting of profit and loss.
 
@@ -767,7 +767,7 @@ There are people to whom monetary calculation is repulsive. They do not want to 
 
 Our civilization is inseparably linked with our methods of economic calculation. It would perish if we were to abandon this most precious intellectual tool of acting. Goethe was right in calling bookkeeping by double entry “one of the finest inventions of the human mind.”[^75]
 
-#### _2\. Economic Calculation and the Science of Human Action_
+###### _2\. Economic Calculation and the Science of Human Action_
 
 The evolution of capitalist economic calculation was the necessary condition for the establishment of a systematic and logically coherent science of human action. Praxeology and economics have a definite place in the evolution of human history and in the process of scientific research. They could only emerge when acting man had succeeded in creating methods of thinking that made it possible to calculate his actions. The science of human action was at the beginning merely a discipline dealing with those actions which can be tested by monetary calculation. It dealt exclusively with what we may call the orbit of economics in the narrower sense, that is, with those actions which within a market society are transacted by the intermediary of money. The first steps on the way to its elaboration were odd investigations concerning currency, moneylending, and the prices of various goods. The knowledge conveyed by Gresham’s Law, the first crude formulations of the quantity theory of money — such as those of Bodin and Davanzati — and the Law of Gregory King mark the first dawn of the cognition that regularity of phenomena and inevitable necessity prevail in the field of action. The first comprehensive system of economic theory, that brilliant achievement of the classical economists, was essentially a theory of calculated action. It drew implicitly the borderline between what is to be considered economic and what extra-economic along the line which separates action calculated in monetary terms from other action. Starting from this basis the economists were bound to widen step by step the field of their studies until they finally developed a system dealing with all human choices, a general theory of action.
 
@@ -784,11 +784,11 @@ The evolution of capitalist economic calculation was the necessary condition for
 
 ## Chapter 7  Profit and Loss
 
-##  _Planning for Freedom and Other Essays and Addresses[^76] _
+####  _Planning for Freedom and Other Essays and Addresses[^76] _
 
 **“Profit and Loss”**
 
-####  _1\. The Emergence of Profit and Loss_
+######  _1\. The Emergence of Profit and Loss_
 
 In the capitalist system of society’s economic organization the entrepreneurs determine the course of production. In the performance of this function they are unconditionally and totally subject to the sovereignty of the buying public, the consumers. If they fail to produce in the cheapest and best possible way those commodities which the consumers are asking for most urgently, they suffer losses and are finally eliminated from their entrepreneurial position. Other men who know better how to serve the consumers replace them.
 
@@ -798,7 +798,7 @@ On the other hand, the entrepreneur who misjudges the future prices of the produ
 
 Thus profit and loss are generated by success or failure in adjusting the course of production activities to the most urgent demand of the consumers. Once this adjustment is achieved, they disappear. The prices of the complementary factors of production reach a height at which total costs of production coincide with the price of the product. Profit and loss are ever-present features only on account of the fact that ceaseless change in the economic data makes again and again new discrepancies, and consequently the need for new adjustments originate.
 
-#### _2\. The Distinction Between Profits and Other Proceeds_
+###### _2\. The Distinction Between Profits and Other Proceeds_
 
 Many errors concerning the nature of profit and loss were caused by the practice of applying the term profit to the totality of the residual proceeds of an entrepreneur.
 
@@ -818,7 +818,7 @@ Now nobody ever contended that one could produce without working. But neither is
 
 There is a simple rule of thumb to tell entrepreneurs from non-entrepreneurs. The entrepreneurs are those on whom the incidence of losses on the capital employed falls. Amateur-economists may confuse profits with other kinds of intakes. But it is impossible to fail to recognize losses on the capital employed.
 
-#### _3\. Non-Profit Conduct of Affairs_
+###### _3\. Non-Profit Conduct of Affairs_
 
 What has been called the democracy of the market manifests itself in the fact that profit-seeking business is unconditionally subject to the supremacy of the buying public.
 
@@ -828,7 +828,7 @@ A special case is that of the conduct of government affairs, the administration 
 
 Bureaucratic management is the only alternative available where there is no profit and loss management.
 
-#### _4\. The Ballot of the Market_
+###### _4\. The Ballot of the Market_
 
 The consumers by their buying and abstention from buying elect the entrepreneurs in a daily repeated plebiscite as it were. They determine who should own and who not, and how much each owner should own.
 
@@ -868,7 +868,7 @@ But in buying a commodity or abstaining from its purchase there is nothing else 
 
 An entrepreneur earns profit by serving the consumers, the people, as they are and not as they should be according to the fancies of some grumbler or potential dictator.
 
-#### _5\. The Social Function of Profit and Loss_
+###### _5\. The Social Function of Profit and Loss_
 
 Profits are never normal. They appear only where there is a maladjustment, a divergence between actual production and production as it should be in order to utilize the available material and mental resources for the best possible satisfaction of the wishes of the public. They are the prize of those who remove this maladjustment; they disappear as soon as the maladjustment is entirely removed. In the imaginary construction of an evenly rotating economy there are no profits. There the sum of the prices of the complementary factors of production, due allowance being made for time preference, coincides with the price of the product.
 
@@ -896,7 +896,7 @@ Now one of the main functions of profits is to shift the control of capital to t
 
 The jealousy of the common man looks upon the profits of the entrepreneurs as if they were totally used for consumption. A part of them is, of course, consumed. But only those entrepreneurs attain wealth and influence in the realm of business who consume merely a fraction of their proceeds and plough back the much greater part into their enterprises. What makes small business develop into big business is not spending, but saving and capital accumulation.
 
-#### _6\. Profit and Loss in the Progressing and in the Retrogressing Economy_
+###### _6\. Profit and Loss in the Progressing and in the Retrogressing Economy_
 
 We call a stationary economy an economy in which the per head quota of the income and wealth of the individuals remains unchanged. In such an economy what the consumers spend more for the purchase of some articles must be equal to what they spend less for other articles. The total amount of the profits earned by one part of the entrepreneurs equals the total amount of losses suffered by other entrepreneurs.
 
@@ -908,7 +908,7 @@ Let us for the sake of argument resort to the concept of national income as empl
 
 A retrogressing economy is an economy in which the per head quota of capital invested is decreasing. In such an economy the total amount of losses incurred by entrepreneurs exceeds the total amount of profits earned by other entrepreneurs.
 
-#### _7\. The Competition of Profit and Loss_
+###### _7\. The Competition of Profit and Loss_
 
 The originary praxeological categories of profit and loss are psychic qualities and not reducible to any interpersonal description in quantitative terms. They are intensive magnitudes. The difference between the value of the end attained and that of the means applied for its attainment is profit if it is positive and loss if it is negative.
 
@@ -928,7 +928,7 @@ Failure to grasp the effects of inflation upon the customary methods of computin
 
 Even if we neglect for the sake of argument any reference to the phenomenon of merely inflation-induced illusory profits, it is obvious that the epithet profiteer is the expression of an arbitrary judgment of value. There is no other standard available for the distinction between profiteering and earning fair profits than that provided by the censor’s personal envy and resentment. ...
 
-####  _2\. The Consequences of the Abolition of Profit[^77] _
+######  _2\. The Consequences of the Abolition of Profit[^77] _
 
 The idea to abolish profit for the advantage of the consumers involves that the entrepreneur should be forced to sell the products at prices not exceeding the costs of production expended. As such prices are, for all articles the sale of which would have brought profit, below the potential market price, the available supply is not sufficient to make it possible for all those who want to buy at these prices to acquire the articles. The market is paralyzed by the maximum price decree. It can no longer allocate the products to the consumers. A system of rationing must be adopted.
 
@@ -949,7 +949,7 @@ The joint effect of the application of these policies is already today rising ch
 
 ## Chapter 8  The Nature of Money
 
-## Money, Method, and the Market Process[^78]
+#### Money, Method, and the Market Process[^78]
 
 **“The Position of Money among Economic Goods”**
 
@@ -959,7 +959,7 @@ But it is also necessary to note that the special role of money among economic g
 
 Roscher’s often quoted remark, “[that] the wrong definitions of money can be divided into two main groups: Those which think of it as more and those which think of it as less than the most saleable good,”[^80] applies not only to the question of the definition of money. Even a number of those who consider the theory of money a part of catallactics go too far in emphasizing its special position. This branch of our science offers plenty of difficulties and it is not necessary to construct artificial problems; the existing ones provide enough challenge.
 
-#### _1\. Monetary Services and the Value of Money_
+###### _1\. Monetary Services and the Value of Money_
 
 It is clear that the naive conception of the layman that things have value in themselves, i.e., intrinsic value, necessarily leads to a position which draws the dividing line between money and money substitutes differently from the position according to which the value of a thing is derived from its usefulness. Those who conceive of value as the result of properties inherent in things must necessarily make a distinction between physically valuable money and means of exchange which provide monetary services but are without material value. This approach inescapably leads to a contrasting of normal money with bad and abnormal money, which, in reality, is not money at all.
 
@@ -987,7 +987,7 @@ But an even cruder materialism was the view which wanted to deny monetary servic
 
 All of those who denied the ability of the services of money to determine its exchange value failed to recognize that the only decisive element is demand. The fact that there exists a demand for money — the most marketable (most saleable) good, for which the owners of other goods are prepared to exchange — means that the monetary function is capable of creating value.
 
-#### _2\. Money Supply and Money Demand: The “Velocity of Circulation” of Money_
+###### _2\. Money Supply and Money Demand: The “Velocity of Circulation” of Money_
 
 The most disastrous of the unjustified deviations of monetary theory from the theory of direct exchange was the failure to base the analysis of the fundamental problem of the theory of the value of money on the relation between the stock of money and the demand for it by the individual economic units, or between the demand for money and the supply of money on the market. Rather, the analysis began with the objective usefulness of the monetary unit for the aggregate economy, which was expressed as the velocity of money relative to the money stock and which was then compared to the sum of transactions.
 
@@ -1003,7 +1003,7 @@ The service of money is not confined to transactions. It fulfills its task not o
 
 It is an arbitrary procedure to divide the money stock into two parts: that which is designated to perform money services proper and that which serves as a money hoard. Of course, no damage will be done if, on the one hand, the demand for money is separated into a demand for hoarding and a demand to perform the monetary service proper. But a formula which portrays and solves only an arbitrarily delineated part of the problem must be rejected if we are able to show another one which will deal with and solve the whole problem in a uniform fashion.
 
-#### _3\. Fluctuations in the Value of Money_
+###### _3\. Fluctuations in the Value of Money_
 
 One of the most peculiar phenomena in the history of monetary theory is the stubborn resistance encountered by the quantity theory. The imperfect formulation given to it by many of its advocates inevitably ran into opposition, with many — as, for example, Benjamin Anderson[^87] — ascribing to the concept a meaning quite different from that commonly accepted. As a result, what they call the quantity theory, and oppose as such, is not the theory itself but only a variation of it. This is not particularly astonishing. But what is quite surprising is that an attempt was made and sometimes is still made today to deny that changes in the relation between money supply and money demand will modify the purchasing power of the monetary unit. It is not sufficient to base an explanation on the special interests of inflationists, statists and socialists, of civil servants and politicians who would be harmed by a spreading of knowledge concerning monetary policy. We will never arrive at an answer by following the path of the Historical-Realistic School, which (following the Marxian example) explains all ideas by ideologies. It had never been a problem to explain why a particular ideology is developed and advocated by certain classes who believe they can benefit from it directly (even if this direct advantage is more than outweighed by indirect disadvantages). What has to be explained, however, is rather how incorrect theories come about and find followers. How does it come about that many people, without justification, come to assume that a certain policy benefits either the entire society or many groups in that society?
 
@@ -1013,7 +1013,7 @@ As is the case with so many theories, the advocates of the quantity theory have 
 
 Nowhere has the practice of working with formulas modeled after mechanics, instead of paying attention to the problem of the influence of market factors, taken a greater toll than in this case. Economists wanted to operate with the equation of exchange without noticing that the changes in the volume of money and the demand for money can come about in only one way: at first, the evaluations and with them the actions of only a few economic subjects will be influenced, with the resulting changes in the purchasing power of the monetary unit only spreading through the economy in a step-by-step pattern. In other words, the problem of changes in the value of money have been treated with the method of “statics,” although there should never have been any doubt concerning the dynamic character of the problem.
 
-#### _4\. Money Substitutes_
+###### _4\. Money Substitutes_
 
 The most difficult and most important special problem of monetary theory is that of money substitutes. The fact that money services can also be rendered by secure money claims redeemable on demand, presents considerable difficulties to the monetary theorists’ attempt to define the supply of money and the demand for money. This difficulty could not be overcome as long as money substitutes were not clearly defined and separated into money certificates and fiduciary media, in order to treat the granting of credit through the issue of fiduciary media separately from all other types of credit.
 
@@ -1034,7 +1034,7 @@ Everything depends on the clear separation of money from money substitutes and w
 
 ## Chapter 9  Monetary Theory and Policy
 
-## _Selected Writings of Ludwig von Mises[^88] _
+#### _Selected Writings of Ludwig von Mises[^88] _
 
 **“The Main Issues in Present-Day Monetary Controversies”**
 
@@ -1042,7 +1042,7 @@ Everything depends on the clear separation of money from money substitutes and w
 
 This is not a systematic presentation of the problems of money and credit. Neither is it a complete exposition of the theories and doctrines dealt with. The aim of this paper is merely to enumerate certain topics that should not be neglected in a discussion of money and credit.
 
-#### I. The Purchasing Power Controversy
+###### I. The Purchasing Power Controversy
 
  _A. Is Money “Neutral”?_
 
@@ -1082,7 +1082,7 @@ The gold standard is not perfect. No human institution is.
 
 The main argument in favor of the gold standard is that it renders the formation of the monetary unit’s purchasing power independent of arbitrary action on the part of governments, political parties, and pressure groups. It places a check upon inflationary policies, and is the only standard which can possibly become an international, a world standard.
 
-#### II. The Credit Controversy
+###### II. The Credit Controversy
 
  _A. The Banking Principle_
 
@@ -1142,7 +1142,7 @@ Such ideas are very popular with many successful businessmen. The Belgian Ernest
 The present-day variety of this old superstition is embodied in the doctrine of unbalanced budgets and government spending. As far as the government procures the means required for spending by taxing the citizens and by borrowing from the public, its spending curtails individuals’ capacity to invest to the same extent that it increases that of the government. As far as the government borrows from the commercial banks or issues additional paper money, it embarks upon credit expansion and inflation.
 In the early stages of every instance of credit expansion and inflation, there is always optimism. People do not want to pay attention to the warning voices of economists. They stubbornly insist that their present situation has nothing in common with the boom periods of the past, and that the theorists are wrong in predicting the breakdown of the “prosperity.” But when the crisis comes, people become desperate; then they impeach not the faulty monetary and credit policies but the capitalist system as such.
 
-#### III. The Foreign Exchange Controversy
+###### III. The Foreign Exchange Controversy
 
  _A. Purchasing Power Parity Theory_
 
@@ -1168,11 +1168,11 @@ _C. The Requirements of Foreign Exchange Stability_
 
 There is but one means to keep a nation’s domestic currency at par with gold and the sound currency of other countries: to abstain from credit expansion and inflation.
 
-##
+####
 
-##  _Money, Method, and the Money Process[^90] _
+####  _Money, Method, and the Money Process[^90] _
 
-#### “The Non-Neutrality of Money”
+###### “The Non-Neutrality of Money”
 
 The monetary economists of the sixteenth and seventeenth centuries succeeded in dissipating the popular fallacies concerning an alleged stability of money. The old error disappeared, but a new one originated, the illusion of money’s neutrality.
 
@@ -1226,10 +1226,10 @@ But the most important value of the theory of money’s dynamism is its use for 
 
 I do not wish to infringe more upon your time and so I wish only to add some remarks on the treatment of the problem by certain younger economists. I myself am not responsible for the term “neutral money.” I have developed a theory of the changes in purchasing power and its social consequences. I have demonstrated that money acts as a dynamic agent and that the assumption that the changes in purchasing power are inversely proportional to the changes in the relation of demand for to the supply of money is fallacious. The term “neutral money” was coined by later authors. I do not wish to consider the question of whether it was a happy choice. But in any case I must protest against the belief that it has to be a goal of monetary policy to make money neutral and that it is the duty of the economists to determine a method of doing so. I wish to emphasize that in a living and changing world, in a world of action, there is no room left for a neutral money. Money is non-neutral or it does not exist.
 
-##
+####
 _Economic Policy: Thoughts for Tomorrow and Today[^91] _
 
-#### “Inflation”
+###### “Inflation”
 
 If the supply of caviar were as plentiful as the supply of potatoes, the price of caviar — that is, the exchange ratio between caviar and money or caviar and other commodities — would change considerably. In that case, one could obtain caviar at a much smaller sacrifice than is required today. Likewise, if the quantity of money is increased, the purchasing power of the monetary unit decreases, and the quantity of goods that can be obtained for one unit of this money decreases also.
 
@@ -1366,9 +1366,9 @@ We must remember that, in the long run, we may all be dead and certainly will be
 
 ## Chapter 10  Time and Time Preference
 
-## _Human Action[^92] _
+#### _Human Action[^92] _
 
-#### _1\. Perspective in the Valuation of Time Periods_
+###### _1\. Perspective in the Valuation of Time Periods_
 
 Acting man distinguishes the time before satisfaction of a want is attained and the time for which the satisfaction continues.
 
@@ -1407,7 +1407,7 @@ This fact is already implied in the statement stressed in the opening of this ch
 
 The mere fact that goods with a longer duration of serviceableness are valued more highly than those with a shorter duration does not yet in itself imply a consideration of time. A roof that can protect a house against the weather during a period of ten years is more valuable than a roof which renders this service only for a period of five years. The quantity of service rendered is different in both cases. But the question which we have to deal with is whether or not an actor in making his choices attaches to a service to be available in a later period of the future the same value he attaches to a service available at an earlier period.
 
-#### _2\. Time Preference as an Essential Requisite of Action_
+###### _2\. Time Preference as an Essential Requisite of Action_
 
 The answer to this question is that acting man does not appraise time periods merely with regard to their dimension. His choices regarding the removal of future uneasiness are directed by the categories _sooner_ and _later_. Time for man is not a homogeneous substance of which only length counts. It is not a _more_ or a _less_ in dimension. It is an irreversible flux the fractions of which appear in different perspective according to whether they are nearer to or remoter from the instant of valuation and decision. Satisfaction of a want in the nearer future is, other things being equal, preferred to that in the farther distant future. Present goods are more valuable than future goods.
 
@@ -1443,9 +1443,9 @@ Even in a hypothetical world in which nature provides every man with the means f
 
 ## Chapter 11 The Interest Rate
 
-## _Human Action_[^97]
+#### _Human Action_[^97]
 
-#### 1\. The Phenomenon of Interest
+###### 1\. The Phenomenon of Interest
 
 It has been shown that time preference is a category inherent in every human action. Time preference manifests itself in the phenomenon of originary interest, i.e., the discount of future goods as against present goods.
 
@@ -1461,7 +1461,7 @@ The owners of the material factors of production — as distinct from the pure e
 
 Interest is a homogeneous phenomenon. There are no different sources of interest. Interest on durable goods and interest on consumption-credit are like other kinds of interest an outgrowth of the higher valuation of present goods as against future goods.
 
-#### 2\. Originary Interest
+###### 2\. Originary Interest
 
 Originary interest is the ratio of the value assigned to want-satisfaction in the immediate future and the value assigned to want-satisfaction in remoter periods of the future. It manifests itself in the market economy in the discount of future goods as against present goods. It is a ratio of commodity prices, not a price in itself. There prevails a tendency toward the equalization of this ratio for all commodities. In the imaginary construction of the evenly rotating economy the rate of originary interest is the same for all commodities.
 
@@ -1507,9 +1507,9 @@ Therefore there cannot be any question of abolishing interest by any institution
 
 ## Chapter 12  The Business Cycle
 
-## Interventionism: An Economic Analysis[^102]
+#### Interventionism: An Economic Analysis[^102]
 
-#### 2\. Credit Expansion
+###### 2\. Credit Expansion
 
 It is a fundamental fact of human behavior that people value present goods higher than future goods. An apple available for immediate consumption is valued higher than an apple which will be available next year. And an apple which will be available in a year is in turn valued higher than an apple which will become available in five years. This difference in valuation appears in the market economy in the form of the discount, to which future goods are subject as compared to present goods. In money transactions this discount is called interest.
 
@@ -1547,12 +1547,12 @@ It has been asserted that the credit expansion is released by the rise in the ra
 
 One would have to ignore all facts of recent economic history were one to deny that measures to lower rates are considered desirable and that credit expansion is regarded as the most reliable means to achieve this aim. The fact that the smooth functioning and the development and steady progress of the economy is over and over again disturbed by artificial booms and ensuing depressions is not a necessary characteristic of the market economy. It is rather the inevitable consequence of repeated interventions which intend to create easy money by credit expansion.
 
-##
+####
 The Causes of the Economic Crisis and Other Essays Before and After the Great Depression[^107]
 
 **“Monetary Stabilization and Cyclical Policy”**
 
-#### 1\. The Banking School Fallacy
+###### 1\. The Banking School Fallacy
 
 If notes are issued by the banks, or if bank deposits subject to check or other claim are opened, in excess of the amount of money kept in the vaults as cover, the effect on prices is similar to that obtained by an increase in the quantity of money. Since these fiduciary media, as notes and bank deposits not backed by metal are called, render the service of money as safe and generally accepted, payable on demand monetary claims, they may be used as money in all transactions. On that account, they are genuine money substitutes. Since they are in excess of the given total quantity of money in the narrower sense, they represent an increase in the quantity of money in the broader sense.
 
@@ -1564,7 +1564,7 @@ One must be careful not to speak simply of the effects of credit in general on p
 
 If the banks grant circulation credit by discounting a three month bill of exchange, they exchange a future good — a claim payable in three months — for a present good that they produce out of nothing. It is not correct, therefore, to maintain that it is immaterial whether the bill of exchange is discounted by a bank of issue or whether it remains in circulation, passing from hand to hand. Whoever takes the bill of exchange in trade can do so only if he has the resources. But the bank of issue discounts by creating the necessary funds and putting them into circulation. To be sure, the fiduciary media flow back again to the bank at expiration of the note. If the bank does not give the fiduciary media out again, precisely the same consequences appear as those which come from a decrease in the quantity of money in its broader sense.
 
-#### 2\. Early Effects of Credit Expansion
+###### 2\. Early Effects of Credit Expansion
 
 The fact that in the regular course of banking operations the banks issue fiduciary media only as loans to producers and merchants means that they are not used directly for purposes of consumption. Rather, these fiduciary media are used first of all for production, that is to buy factors of production and pay wages. The first prices to rise, therefore, as a result of an increase of the quantity of money in the broader sense, caused by the issue of such fiduciary media, are those of raw materials, semimanufactured products, other goods of higher orders, and wage rates. Only later do the prices of goods of the first order [consumers’ goods] follow. Changes in the purchasing power of a monetary unit, brought about by the issue of fiduciary media, follow a different path and have different accompanying social side effects from those produced by a new discovery of precious metals or by the issue of paper money. Still in the last analysis, the effect on prices is similar in both instances.
 
@@ -1574,7 +1574,7 @@ If monetary depreciation is brought about by an issue of fiduciary media, and if
 
 Eventually, the issue of fiduciary media in such manner can also lead to increased capital accumulation within narrow limits and, hence, to a further reduction of the interest rate. In the beginning, however, an immediate and direct decrease in the loan rate appears with the issue of fiduciary media, but this immediate decrease in the loan rate is distinct in character and degree from the later reduction. The new funds offered on the money market by the banks must obviously bring pressure to bear on the rate of interest. The supply and demand for loan money were adjusted at the interest rate prevailing before the issue of any additional supply of fiduciary media. Additional loans can be placed only if the interest rate is lowered. Such loans are profitable for the banks because the increase in the supply of fiduciary media calls for no expenditure except for the mechanical costs of banking (i.e., printing the notes and bookkeeping). The banks can, therefore, undercut the interest rates which would otherwise appear on the loan market, in the absence of their intervention. Since competition from them compels other money lenders to lower their interest charges, the market interest rate must therefore decline. But can this reduction be maintained? _That_ is the problem.
 
-#### 3\. Inevitable Effects of Credit Expansion on Interest Rates
+###### 3\. Inevitable Effects of Credit Expansion on Interest Rates
 
 In conformity with Wicksell’s terminology, we shall use “natural interest rate” to describe that interest rate which would be established by supply and demand if real goods were loaned _in natura_ [directly, as in barter] without the intermediary of money. “Money rate of interest” will be used for that interest rate asked on loans made in money or money substitutes. Through continued expansion of fiduciary media, it is possible for the banks to force the money rate down to the actual cost of the banking operations, practically speaking that is almost to zero. As a result, several authors have concluded that interest could be completely abolished in this way. Whole schools of reformers have wanted to use banking policy to make credit gratuitous and thus to solve the “social question.” No reasoning person today, however, believes that interest can ever be abolished, nor doubts but what, if the “money interest rate” is depressed by the expansion of fiduciary media, it must sooner or later revert once again to the “natural interest rate.” The question is only how this inevitable adjustment takes place. The answer to this will explain at the same time the fluctuations of the business cycle.
 
@@ -1582,7 +1582,7 @@ The Currency Theory limited the problem too much. It only considered the situati
 
 That is the instant at which the business upswing, brought about by the availability of easy credit, is demonstrated to be illusory prosperity. An abrupt reaction sets in. The “money rate of interest” shoots up; enterprises from which credit is withdrawn collapse and sweep along with them the banks which are their creditors. A long persisting period of business stagnation now follows. The banks, warned by this experience into observing restraint, not only no longer underbid the “natural interest rate” but exercise extreme caution in granting credit.
 
-#### 4\. The Price Premium
+###### 4\. The Price Premium
 
 In order to complete this interpretation, we must, first of all, consider the price premium. As the banks start to expand the circulation credit, the anticipated upward movement of prices results in the appearance of a positive price premium. Even if the banks do not lower the actual interest rate any more, the gap widens between the “money interest rate” and the “natural interest rate” which would prevail in the absence of their intervention. Since loan money is now cheaper to acquire than circumstances warrant, entrepreneurial ambitions expand.
 
@@ -1590,7 +1590,7 @@ New businesses are started in the expectation that the necessary capital can be 
 
 So long as this situation prevails, the upswing continues. Inventories of goods are readily sold. Prices and profits rise. Business enterprises are overwhelmed with orders because everyone anticipates further price increases and workers find employment at increasing wage rates. However, this situation cannot last forever!
 
-#### 5\. Malinvestment of Available Capital Goods
+###### 5\. Malinvestment of Available Capital Goods
 
 The “natural interest rate” is established at that height which tends toward equilibrium on the market. The tendency is toward a condition where no capital goods are idle, no opportunities for starting profitable enterprises remain unexploited and the only projects not undertaken are those which no longer yield a profit at the prevailing “natural interest rate.” Assume, however, that the equilibrium, toward which the market is moving, is disturbed by the interference of the banks. Money may be obtained below the “natural interest rate.” As a result businesses may be started which weren’t profitable before, and which become profitable only through the lower than “natural interest rate” which appears with the expansion of circulation credit.
 
@@ -1611,23 +1611,23 @@ In a given economic situation, the opportunities for production, which may actua
 
 ## Chapter 13  Labor Productivity, Wages, and Unemployment
 
-## _Planning for Freedom and Sixteen Other Essays and Addresses_[^110]
+#### _Planning for Freedom and Sixteen Other Essays and Addresses_[^110]
 
 **“Wages, Unemployment and Inflation”**
 
 Our economic system — the market economy or capitalism — is a system of consumers’ supremacy. The customer is sovereign; he is, says a popular slogan, “always right.” Businessmen are under the necessity of turning out what the consumers ask for and they must sell their wares at prices which the consumers can afford and are prepared to pay. A business operation is a manifest failure if the proceeds from the sales do not reimburse the businessman for all he has expended in producing the article. Thus the consumers in buying at a definite price determine also the height of the wages that are paid to all those engaged in the industries.
 
-#### 1\. Wages Ultimately Paid By the Consumers
+###### 1\. Wages Ultimately Paid By the Consumers
 
 It follows that an employer cannot pay more to an employee than the equivalent of the value the latter’s work, _according to the judgment of the buying public_ , adds to the merchandise. (This is the reason why the movie star gets much more than the charwoman.) If he were to pay more, he would not recover his outlays from the purchasers; he would suffer losses and would finally go bankrupt. In paying wages, the employer acts as a mandatory of the consumers, as it were. It is upon the consumers that the incidence of the wage payments falls. As the immense majority of the goods produced are bought and consumed by people who are themselves receiving wages and salaries, it is obvious that in spending their earnings the wage earners and employees themselves are foremost in determining the height of the compensation they and those like them will get.
 
-#### 2\. What Makes Wages Rise
+###### 2\. What Makes Wages Rise
 
 The buyers do not pay for the toil and trouble the worker took nor for the length of time he spent in working. They pay for the products. The better the tools are which the worker uses in his job, the more he can perform in an hour, the higher is, consequently, his remuneration. What makes wages rise and renders the material conditions of the wage earners more satisfactory is improvement in the technological equipment. American wages are higher than wages in other countries because the capital invested per head of the worker is greater and the plants are thereby in the position to use the most efficient tools and machines. What is called the American way of life is the result of the fact that the United States has put fewer obstacles in the way of saving and capital accumulation than other nations. The economic backwardness of such countries as India consists precisely in the fact that their policies hinder both the accumulation of domestic capital and the investment of foreign capital. As the capital required is lacking, the Indian enterprises are prevented from employing sufficient quantities of modern equipment, are therefore producing much less per man-hour, and can only afford to pay wage rates which, compared with American wage rates, appear as shockingly low.
 
 There is only one way that leads to an improvement of the standard of living for the wage-earning masses, viz., the increase in the amount of capital invested. All other methods, however popular they may be, are not only futile, but are actually detrimental to the well-being of those they allegedly want to benefit.
 
-#### 3\. What Causes Unemployment
+###### 3\. What Causes Unemployment
 
 The fundamental question is: is it possible to raise wage rates _for all those eager to find jobs_ above the height they would have attained on an unhampered labor market?
 
@@ -1635,7 +1635,7 @@ Public opinion believes that the improvement in the conditions of the wage earne
 
 Yet this popular doctrine misconstrues every aspect of economic reality. The height of wage rates at which all those eager to get jobs can be employed depends on the marginal productivity of labor. The more capital — other things being equal — is invested, the higher wages climb on the free labor market, i.e., on the labor market not manipulated by the government and the unions. At these market wage rates all those eager to employ workers can hire as many as they want. At these market wage rates all those who want to be employed can get a job. There prevails on a free labor market a tendency toward full employment. In fact, the policy of letting the free market determine the height of wage rates is the only reasonable and successful full-employment policy. If wage rates, either by union pressure and compulsion or by government decree, are raised above this height, lasting unemployment of a part of the potential labor force develops.
 
-#### 4\. Credit Expansion No Substitute for Capital
+###### 4\. Credit Expansion No Substitute for Capital
 
 These opinions are passionately rejected by the union bosses and their followers among politicians and the self-styled intellectuals. The panacea they recommend to fight unemployment is credit expansion and inflation, euphemistically called “an easy money policy.”
 
@@ -1645,9 +1645,9 @@ Under the conditions of this boom, nominal wage rates which before the credit ex
 
 This is what happened in this country as well as in many other countries in the last years. The unions, supported by the government, forced the enterprises to agree to wage rates that went beyond the potential market rates, i.e., the rates which the public was prepared to refund to the employers in purchasing their products. This would have inevitably resulted in rising unemployment figures. But the government policies tried to prevent the emergence of serious unemployment by credit expansion, i.e., inflation. The outcome was rising prices, renewed demands for higher wages and reiterated credit expansion; in short, protracted inflation.
 
-## Human Action[^111]
+#### Human Action[^111]
 
-#### 4\. Catallactic Unemployment
+###### 4\. Catallactic Unemployment
 
 If a job-seeker cannot obtain the position he prefers, he must look for another kind of job. If he cannot find an employer ready to pay him as much as he would like to earn, he must abate his pretensions. If he refuses, he will not get any job. He remains unemployed.
 
@@ -1680,7 +1680,7 @@ Catallactic unemployment must not be confused with _institutional unemployment_.
 
 ## Chapter 14  The Hampered Market Economy
 
-## _Planning for Freedom and Sixteen Other Essays and Addresses_[^112]
+#### _Planning for Freedom and Sixteen Other Essays and Addresses_[^112]
 
 **“Middle-of-the-Road Policy Leads to Socialism”**
 
@@ -1688,11 +1688,11 @@ The fundamental dogma of all brands of socialism and communism is that the marke
 
 This doctrine was not the work of Karl Marx. It had been developed long before Marx entered the scene. Its most successful propagators were not the Marxian authors, but such men as Carlyle and Ruskin, the British Fabians, the German professors and the American Institutionalists. And it is a very significant fact that the correctness of this dogma was contested only by a few economists who were very soon silenced and barred from access to the universities, the press, the leadership of political parties and, first of all, public office. Public opinion by and large accepted the condemnation of capitalism without any reservation.
 
-#### 1\. Socialism
+###### 1\. Socialism
 
 But, of course, the practical political conclusions which people drew from this dogma were not uniform. One group declared that there is but one way to wipe out these evils, namely to abolish capitalism entirely. They advocate the substitution of public control of the means of production for private control. They aim at the establishment of what is called socialism, communism, planning, or state capitalism. All these terms signify the same thing. No longer should the consumers, by their buying and abstention from buying, determine what should be produced, in what quantity and of what quality. Henceforth a central authority alone should direct all production activities.
 
-#### 2\. Interventionism, Allegedly a Middle-of-the-Road Policy
+###### 2\. Interventionism, Allegedly a Middle-of-the-Road Policy
 
 A second group seems to be less radical. They reject socialism no less than capitalism. They recommend a third system, which, as they say, is as far from capitalism as it is from socialism, which as a third system of society’s economic organization, stands midway between the two other systems, and while retaining the advantages of both, avoids the disadvantages inherent in each. This third system is known as the system of interventionism. In the terminology of American politics it is often referred to as the middle-of-the-road policy.
 
@@ -1702,13 +1702,13 @@ Yet this mode of judging the issue is entirely fallacious. The antagonism betwee
 
 The conflict of the two principles is irreconcilable and does not allow for any compromise. Control is indivisible. Either the consumers’ demand as manifested on the market decides for what purposes and how the factors of production should be employed, or the government takes care of these matters. There is nothing that could mitigate the opposition between these two contradictory principles. They preclude each other. Interventionism is not a golden mean between capitalism and socialism. It is the design of a third system of society’s economic organization and must be appreciated as such.
 
-#### 3\. How Interventionism Works
+###### 3\. How Interventionism Works
 
 It is not the task of today’s discussion to raise any questions about the merits either of capitalism or of socialism. I am dealing today with interventionism alone. And I do not intend to enter into an arbitrary evaluation of interventionism from any preconceived point of view. My only concern is to show how interventionism works and whether or not it can be considered as a pattern of a permanent system for society’s economic organization.
 
 The interventionists emphasize that they plan to retain private ownership of the means of production, entrepreneurship and market exchange. But, they go on to say, it is peremptory to prevent these capitalist institutions from spreading havoc and unfairly exploiting the majority of people. It is the duty of government to restrain, by orders and prohibitions, the greed of the propertied classes lest their acquisitiveness harm the poorer classes. Unhampered or laissez-faire capitalism is an evil. But in order to eliminate its evils, there is no need to abolish capitalism entirely. It is possible to improve the capitalist system by government interference with the actions of the capitalists and entrepreneurs. Such government regulation and regimentation of business is the only method to keep off totalitarian socialism and to salvage those features of capitalism which are worth preserving. On the ground of this philosophy, the interventionists advocate a galaxy of various measures. Let us pick out one of them, the very popular scheme of price control.
 
-#### 4\. How Price Control Leads to Socialism
+###### 4\. How Price Control Leads to Socialism
 
 The government believes that the price of a definite commodity, e.g., milk, is too high. It wants to make it possible for the poor to give their children more milk. Thus it resorts to a price ceiling and fixes the price of milk at a lower rate than that prevailing on the free market. The result is that the marginal producers of milk, those producing at the highest cost, now incur losses. As no individual farmer or businessman can go on producing at a loss, these marginal producers stop producing and selling milk on the market. They will use their cows and their skill for other more profitable purposes. They will, for example, produce butter, cheese or meat. There will be less milk available for the consumers, not more. This, or course, is contrary to the intentions of the government. It wanted to make it easier for some people to buy more milk. But, as an outcome of its interference, the supply available drops. The measure proves abortive from the very point of view of the government and the groups it was eager to favor. It brings about a state of affairs, which — again from the point of view of the government — is even less desirable than the previous state of affairs which it was designed to improve.
 
@@ -1716,11 +1716,11 @@ Now, the government is faced with an alternative. It can abrogate its decree and
 
 But when this state of all-around control of business is attained, there can no longer be any question of a market economy. No longer do the citizens by their buying and abstention from buying determine what should be produced and how. The power to decide these matters has devolved upon the government. This is no longer capitalism; it is all-around planning by the government, it is socialism.
 
-#### 5\. The Zwangswirtschaft Type of Socialism
+###### 5\. The Zwangswirtschaft Type of Socialism
 
 It is, of course, true that this type of socialism preserves some of the labels and the outward appearance of capitalism. It maintains, seemingly and nominally, private ownership of the means of production, prices, wages, interest rates and profits. In fact, however, nothing counts but the government’s unrestricted autocracy. The government tells the entrepreneurs and capitalists what to produce and in what quantity and quality, at what prices to buy and from whom, at what prices to sell and to whom. It decrees at what wages and where the workers must work. Market exchange is but a sham. All the prices, wages, and interest rates are determined by the authority. They are prices, wages, and interest rates in appearance only; in fact they are merely quantity relations in the government’s orders. The government, not the consumers, directs production. The government determines each citizen’s income, it assigns to everybody the position in which he has to work. This is socialism in the outward guise of capitalism. It is the Zwangswirtschaft of Hitler’s German Reich and the planned economy of Great Britain.
 
-#### 6\. German and British Experience
+###### 6\. German and British Experience
 
 For the scheme of social transformation which I have depicted is not merely a theoretical construction. It is a realistic portrayal of the succession of events that brought about socialism in Germany, in Great Britain and in some other countries.
 
@@ -1734,13 +1734,13 @@ It is noteworthy to remember that British socialism was not an achievement of Mr
 
 What we have to realize is that price ceilings affecting only a few commodities fail to attain the ends sought. On the contrary. They produce effects which from the point of view of the government are even worse than the previous state of affairs which the government wanted to alter. If the government, in order to eliminate these inevitable but unwelcome consequences, pursues its course further and further, it finally transforms the system of capitalism and free enterprise into socialism of the Hindenburg pattern.
 
-#### 7\. Crises and Unemployment
+###### 7\. Crises and Unemployment
 
 The same is true of all other types of meddling with the market phenomena. Minimum wage rates, whether decreed and enforced by the government or by labor union pressure and violence, result in mass unemployment prolonged year after year as soon as they try to raise wage rates above the height of the unhampered market. The attempts to lower interest rates by credit expansion generate, it is true, a period of booming business. But the prosperity thus created is only an artificial hot-house product and must inexorably lead to the slump and to the depression. People must pay heavily for the easy-money orgy of a few years of credit expansion and inflation.
 
 The recurrence of periods of depression and mass unemployment has discredited capitalism in the opinion of injudicious people. Yet these events are not the outcome of the operation of the free market. They are on the contrary the result of well-intentioned but ill-advised government interference with the market. There are no means by which the height of wage rates and the general standard of living can be raised other than by accelerating the increase of capital as compared with population. The only means to raise wage rates permanently for all those seeking jobs and eager to earn wages is to raise the productivity of the industrial effort by increasing the per-head quota of capital invested. What makes American wage rates by far exceed the wage rates of Europe and Asia is the fact that the American worker’s toil and trouble is aided by more and better tools. All that good government can do to improve the material well-being of the people is to establish and to preserve an institutional order in which there are no obstacles to the progressing accumulation of new capital required for the improvement of technological methods of production. This is what capitalism did achieve in the past and will achieve in the future too if not sabotaged by a bad policy.
 
-#### 8\. Two Roads to Socialism
+###### 8\. Two Roads to Socialism
 
 Interventionism cannot be considered as an economic system destined to stay. It is a method for the transformation of capitalism into socialism by a series of successive steps. It is as such different from the endeavors of the communists to bring about socialism at one stroke. The difference does not refer to the ultimate end of the political movement; it refers mainly to the tactics to be resorted to for the attainment of an end that both groups are aiming at.
 
@@ -1754,11 +1754,11 @@ What we must realize is that the antagonism between the interventionists and the
 
 There are two methods available for the transformation of capitalism into socialism. One is to expropriate all farms, plants, and shops and to operate them by a bureaucratic apparatus as departments of the government. The whole of society, says Lenin, becomes “one office and one factory, with equal work and equal pay,” the whole economy will be organized “like the postal system.” The second method is the method of the Hindenburg plan, the originally German pattern of the welfare state and of planning. It forces every firm and every individual to comply strictly with the orders issued by the government’s central board of production management. Such was the intention of the National Industrial Recovery Act of 1933 which the resistance of business frustrated and the Supreme Court declared unconstitutional. Such is the idea implied in the endeavors to substitute planning for private enterprise.
 
-#### 9\. Foreign Exchange Control
+###### 9\. Foreign Exchange Control
 
 The foremost vehicle for the realization of this second type of socialism in industrial countries like Germany and Great Britain is foreign exchange control. These countries cannot feed and clothe their people out of domestic resources. They must import large quantities of food and raw materials. In order to pay for these badly needed imports, they must export manufactures, most of them produced out of imported raw material. In such countries almost every business transaction directly or indirectly is conditioned either by exporting or importing or by both exporting and importing. Hence the government’s monopoly of buying and selling foreign exchange makes every kind of business activity depend on the discretion of the agency entrusted with foreign exchange control. In this country matters are different. The volume of foreign trade is rather small when compared with the total volume of the nation’s trade. Foreign exchange control would only slightly affect the much greater part of American business. This is the reason why in the schemes of our planners there is hardly any question of foreign exchange control. Their pursuits are directed toward the control of prices, wages, and interest rates, toward the control of investment and the limitation of profits and incomes.
 
-#### 10\. Progressive Taxation
+###### 10\. Progressive Taxation
 
 Looking backward on the evolution of income tax rates from the beginning of the Federal income tax in 1913 until the present day, one can hardly expect that the tax will not one day absorb 100 percent of all surplus above the income of the average voter. It is this that Marx and Engels had in mind when in the _Communist Manifesto_ they recommended “a heavy progressive or graduated income tax.”
 
@@ -1766,15 +1766,15 @@ Another of the suggestions of the _Communist Manifesto_ was “abolition of all 
 
 The philosophy underlying the system of progressive taxation is that the income and the wealth of the well-to-do classes can be freely tapped. What the advocates of these tax rates fail to realize is that the greater part of the income taxed away would not have been consumed but saved and invested. In fact, this fiscal policy does not only prevent the further accumulation of new capital. It brings about capital decumulation. This is certainly today the state of affairs in Great Britain.
 
-#### 11\. The Trend Toward Socialism
+###### 11\. The Trend Toward Socialism
 
 The course of events in the past thirty years shows a continuous, although sometimes interrupted progress toward the establishment in this country of socialism of the British and German pattern. The United States embarked later than these two other countries upon this decline and is today still farther away from its end. But if the trend of this policy will not change, the final result will only in accidental and negligible points differ from what happened in the England of Attlee and in the Germany of Hitler. The middle-of-the-road policy is not an economic system that can last. It is a method for the realization of socialism by installments.
 
-#### 12\. Loopholes Capitalism
+###### 12\. Loopholes Capitalism
 
 Many people object. They stress the fact that most of the laws which aim at planning or at expropriation by means of progressive taxation have left some loopholes which offer to private enterprise a margin within which it can go on. That such loopholes still exist and that thanks to them this country is still a free country is certainly true. But this “loopholes capitalism” is not a lasting system. It is a respite. Powerful forces are at work to close these loopholes. From day to day the field in which private enterprise is free to operate is narrowed down.
 
-#### 13\. The Coming of Socialism is Not Inevitable
+###### 13\. The Coming of Socialism is Not Inevitable
 
 Of course, this outcome is not inevitable. The trend can be reversed as was the case with many other trends in history. The Marxian dogma according to which socialism is bound to come “with the inexorability of a law of nature” is just an arbitrary surmise devoid of any proof.
 
@@ -1790,7 +1790,7 @@ What we need is neither anti-socialism nor anti-communism but an open positive e
 
 ## Chapter 15  Price Controls
 
-## _Economic Policy: Thoughts for Tomorrow and Today_[^113]
+#### _Economic Policy: Thoughts for Tomorrow and Today_[^113]
 
 **“Interventionism”**
 
@@ -1919,11 +1919,11 @@ The socialist nations have arrogated to themselves the term _democracy_. The Rus
 
 ## Chapter 16  Keynes and Keynesianism
 
-## _Planning for Freedom and Sixteen Other Essays and Addresses_[^115]
+#### _Planning for Freedom and Sixteen Other Essays and Addresses_[^115]
 
 **“Stones into Bread, The Keynesian Miracle”**
 
-#### I
+###### I
 
 The stock-in-trade of all Socialist authors is the idea that there is potential plenty and that the substitution of socialism for capitalism would make it possible to give to everybody “according to his needs.” Other authors want to bring about this paradise by a reform of the monetary and credit system. As they see it, all that is lacking is more money and credit. They consider that the rate of interest is a phenomenon artificially created by the man-made scarcity of the “means of payment.” In hundreds, even thousands, of books and pamphlets they passionately blame the “orthodox” economists for their reluctance to admit that inflationist and expansionist doctrines are sound. All evils, they repeat again and again, are caused by the erroneous teachings of the “dismal science” of economics and the “credit monopoly” of the bankers and usurers. To unchain money from the fetters of “restrictionism,” to create free money (_Freigeld_ , in the terminology of Silvio Gesell) and to grant cheap or even gratuitous credit, is the main plank in their political platform.
 
@@ -1931,7 +1931,7 @@ Such ideas appeal to the uninformed masses. And they are very popular with gover
 
 John Maynard Keynes, late economic adviser to the British government, is the new prophet of inflationism. The “Keynesian Revolution” consisted in the fact that he openly espoused the doctrines of Silvio Gesell. As the foremost of the British Gesellians, Lord Keynes adopted also the peculiar messianic jargon of inflationist literature and introduced it into official documents. Credit expansion, says the _Paper of the British Experts_ of April 8, 1943, performs the “miracle ... of turning a stone into bread.” The author of this document was, of course, Keynes. Great Britain has indeed traveled a long way to this statement from Hume’s and Mill’s views on miracles.
 
-#### II
+###### II
 
 Keynes entered the political scene in 1920 with his book, _The Economic Consequences of the Peace_. He tried to prove that the sums demanded for reparations were far in excess of what Germany could afford to pay and to “transfer.” The success of the book was overwhelming. The propaganda machine of the German nationalists, well entrenched in every country, was busily representing Keynes as the world’s most eminent economist and Great Britain’s wisest statesman.
 
@@ -1941,7 +1941,7 @@ A highly gifted French economist, Étienne Mantoux, has analyzed Keynes’s famo
 
 Étienne Mantoux, son of the famous historian Paul Mantoux, was the most distinguished of the younger French economists. He had already made valuable contributions to economic theory — among them a keen critique of Keynes’s _General Theory_ , published in 1937 in the _Revue d’Économie Politique_ — before he began his _The Carthaginian Peace or the Economic Consequences of Mr. Keynes_.[^117] He did not live to see his book published. As an officer in the French forces he was killed on active service during the last days of the war. His premature death was a heavy blow to France, which is today badly in need of sound and courageous economists.
 
-#### III
+###### III
 
 It would be a mistake, also, to blame Keynes for the faults and failures of contemporary British economic and financial policies. When he began to write, Britain had long since abandoned the principle of _laissez-faire_. That was the achievement of such men as Thomas Carlyle and John Ruskin and, especially, of the Fabians. Those born in the eighties of the nineteenth century and later were merely epigones of the university and parlor Socialists of the late Victorian period. They were no critics of the ruling system, as their predecessors had been, but apologists of government and pressure group policies whose inadequacy, futility and perniciousness became more and more evident.
 
@@ -1956,7 +1956,7 @@ But to be young was very heaven!
 
 Descending from the lofty heights of Parnassus into the prosaic valleys of quantitative science, Professor Samuelson provides us with exact information about the susceptibility of economists to the Keynesian gospel of 1936. Those under the age of 35 fully grasped its meaning after some time; those beyond 50 turned out to be quite immune, while economists in-between were divided. After thus serving us a warmed-over version of Mussolini’s _giovanezza_ theme, he offers more of the outworn slogans of fascism, e.g., the “wave of the future.” However, on this point another contributor, Mr. Paul M. Sweezy, disagrees. In his eyes Keynes, tainted by “the shortcomings of bourgeois thought” as he was, is not the savior of mankind, but only the forerunner whose historical mission it is to prepare the British mind for the acceptance of pure Marxism and to make Great Britain ideologically ripe for full socialism.
 
-#### IV
+###### IV
 
 In resorting to the method of innuendo and trying to make their adversaries suspect by referring to them in ambiguous terms allowing of various interpretations, the camp-followers of Lord Keynes are imitating their idol’s own procedures. For what many people have admiringly called Keynes’s “brilliance of style” and “mastery of language” were, in fact, cheap rhetorical tricks.
 
@@ -1970,7 +1970,7 @@ Fourteen years later there was another international conference. This time Keyne
 
 Those economists who were not in the service of one of the lamentably inept governments of 1933 and therefore were not delegates and did not attend the delightful ballet evening will remember the London Conference for other reasons. It marked the most spectacular failure in the history of international affairs of those policies of neo-Mercantilism which Keynes backed. Compared with this fiasco of 1933, the Paris Conference of 1919 appears to have been a highly successful affair. But Keynes did not publish any sarcastic comments on the coats, boots and gloves of the delegates of 1933.
 
-#### V
+###### V
 
 Although Keynes looked upon “the strange, unduly neglected prophet Silvio Gesell” as a forerunner, his own teachings differ considerably from those of Gesell. What Keynes borrowed from Gesell as well as from the host of other pro-inflation propagandists was not the content of their doctrine, but their practical conclusions and the tactics they applied to undermine their opponents’ prestige. These stratagems are:
 
@@ -1998,7 +1998,7 @@ It was at this moment that Keynes published his _General Theory_. What a comfort
 
 The policies which the _General Theory_ recommended were precisely those which the “monetary cranks” had advanced long before and which most governments had espoused in the depression of 1929 and the following years. Some people believe that Keynes’s earlier writings played an important part in the process which converted the world’s most powerful governments to the doctrines of reckless spending, credit expansion and inflation. We may leave this minor issue undecided. At any rate it cannot be denied that the governments and peoples did not wait for the _General Theory_ to embark upon these “Keynesian” — or more correctly, Gesellian policies.
 
-#### VI
+###### VI
 
 Keynes’s _General Theory_ of 1936 did not inaugurate a new age of economic policies; rather, it marked the end of a period. The policies which Keynes recommended were already then very close to the time when their inevitable consequences would be apparent and their continuation would be impossible. Even the most fanatical Keynesians do not dare to say that present-day England’s distress is an effect of too much saving and insufficient spending. The essence of the much glorified “progressive” economic policies of the last decades was to expropriate ever-increasing parts of the higher incomes and to employ the funds thus raised for financing public waste and for subsidizing the members of the most powerful pressure groups. In the eyes of the “unorthodox,” every kind of policy, however manifest its inadequacy may have been, was justified as a means of bringing about more equality. Now this process has reached its end. With the present tax rates and the methods applied in the control of prices, profits and interest rates, the system has liquidated itself. Even the confiscation of every penny earned above 1,000 pounds a year will not provide any perceptible increase to Great Britain’s public revenue. The most bigoted Fabians cannot fail to realize that henceforth funds for public spending must be taken from the same people who are supposed to profit from it. Great Britain has reached the limit both of monetary expansionism and of spending.
 
@@ -2010,9 +2010,9 @@ There are still teachers who tell their students that “an economy can lift its
 
 There is no use in arguing with people who are driven by “an almost religious fervor” and believe that their master “had the Revelation.” It is one of the tasks of economics to analyze carefully each of the inflationist plans, those of Keynes and Gesell no less than those of their innumerable predecessors from John Law down to Major Douglas. Yet no one should expect that any logical argument or any experience could ever shake the almost religious fervor of those who believe in salvation through spending and credit expansion.
 
-## Human Action[^120]
+#### Human Action[^120]
 
-#### _The Chimera of Contracyclical Policies_
+###### _The Chimera of Contracyclical Policies_
 
 An essential element of the “unorthodox” doctrines, advanced both by all socialists and by all interventionists, is that the recurrence of depressions is a phenomenon inherent in the very operation, of the market economy. But while the socialists contend that only the substitution of socialism for capitalism can eradicate the evil, the interventionists ascribe to the government the power to correct the operation of the market economy in such a way as to bring about what they call “economic stability.” These interventionists would be right if their antidepression plans were to aim at a radical abandonment of credit expansion policies. However, they reject this idea in advance. What they want is to expand credit more and more and to prevent depressions by the adoption of special “contracyclical” measures.
 
@@ -2041,7 +2041,7 @@ All this talk about contracyclical government activities aims at one goal only, 
 
 ## Chapter 17  Economic Progress
 
-## Economic Policy: Thoughts for Tomorrow and Today[^123]
+#### Economic Policy: Thoughts for Tomorrow and Today[^123]
 
 **“Foreign Investment”**
 
@@ -2155,9 +2155,9 @@ Around 1840, in the western part of Germany — in Swabia and Würtemberg, which
 
 In the center of Europe, there is a small country, Switzerland, which nature has endowed very poorly. It has no coal mines, no minerals, and no natural resources. But its people, over the centuries, have continually pursued a capitalistic policy. They have developed the highest standard of living in continental Europe, and their country ranks as one of the world’s great centers of civilization. I do not see why a country such as Argentina — which is much larger than Switzerland both in population and in size — should not attain the same high standard of living after some years of good policies. But — as I pointed out — the policies must be good.
 
-##  _Human Action_[^124]
+####  _Human Action_[^124]
 
-#### 9\. Entrepreneurial Profits and Losses in a Progressing Economy
+###### 9\. Entrepreneurial Profits and Losses in a Progressing Economy
 
 In the imaginary construction of a stationary economy the total sum of all entrepreneurs’ profits equals the total sum of all entrepreneurs’ losses. What one entrepreneur profits is in the total economic system counterbalanced by another entrepreneur’s loss. The surplus which all the consumers together expend for the acquisition of a certain commodity is counterbalanced by the reduction in their expenditure for the acquisition of other commodities.[^125]
 
@@ -2205,9 +2205,9 @@ If those self-styled moralists were not blinded by their envy, they would not de
 
 ## Chapter 18  The Importance of Liberty
 
-## _Liberty and Property_[^126]
+#### _Liberty and Property_[^126]
 
-#### I
+###### I
 
 At the end of the eighteenth century there prevailed two notions of liberty, each of them very different from what we have in mind today referring to liberty and freedom.
 
@@ -2217,7 +2217,7 @@ The second notion of liberty was no less oligarchic, although it was not inspire
 
 We must not condemn as hypocrites the men who in those ages praised liberty, while they preserved the legal disabilities of the many, even serfdom and slavery. They were faced with a problem which they did not know how to solve satisfactorily. The traditional system of production was too narrow for a continually rising population. The number of people for whom there was, in a full sense of the term, no room left by the pre-capitalistic methods of agriculture and artisanship was increasing. These supernumeraries were starving paupers. They were a menace to the preservation of the existing order of society and, for a long time, nobody could think of another order, a state of affairs, that would feed all of these poor wretches. There could not be any question of granting them full civil rights, still less of giving them a share of the conduct of affairs of state. The only expedient the rulers knew was to keep them quiet by resorting to force.
 
-#### II
+###### II
 
 The pre-capitalistic system of product was restrictive. Its historical basis was military conquest. The victorious kings had given the land to their paladins. These aristocrats were lords in the literal meaning of the word, as they did not depend on the patronage of consumers buying or abstaining from buying on a market. On the other hand, they themselves were the main customers of the processing industries which, under the guild system, were organized on a corporative scheme. This scheme was opposed to innovation. It forbade deviation from the traditional methods of production. The number of people for whom there were jobs even in agriculture or in the arts and crafts was limited. Under these conditions, many a man, to use the words of Malthus, had to discover that “at nature’s mighty feast there is no vacant cover for him” and that “she tells him to be gone.”[^127] But some of these outcasts nevertheless managed to survive, begot children, and made the number of destitute grow hopelessly more and more.
 
@@ -2235,7 +2235,7 @@ It has been observed by eminent economists, I think first by the late Frank A. F
 
 There is a second important difference. In the political sphere, there is no means for an individual or a small group of individuals to disobey the will of the majority. But in the intellectual field private property makes rebellion possible. The rebel has to pay a price for his independence; there are in this universe no prizes that can be won without sacrifices. But if a man is willing to pay the price, he is free to deviate from the ruling orthodoxy or neo-orthodoxy. What would conditions have been in the socialist commonwealth for heretics like Kierkegaard, Schopenauer, Veblen, or Freud? For Monet, Courbet, Walt Whitman, Rilke, or Kafka? In all ages, pioneers of new ways of thinking and acting could work only because private property made contempt of the majority’s ways possible. Only a few of these separatists were themselves economically independent enough to defy the government into the opinions of the majority. But they found in the climate of the free economy among the public people prepared to aid and support them. What would Marx have done without his patron, the manufacturer Friedrich Engels?
 
-#### III
+###### III
 
 What vitiates entirely the socialists’ economic critique of capitalism is their failure to grasp the sovereignty of the consumers in the market economy. They see only hierarchical organization of the various enterprises and plans, and are at a loss to realize that the profit system forces business to serve the consumers. In their dealings with their employers, the unions proceed as if only malice and greed were to prevent what they call management from paying higher wage rates. Their shortsightedness does not see anything beyond the doors of the factory. They and their henchmen talk about the concentration of economic power, and do not realize that economic power is ultimately vested in the hands of the buying public of which the employees themselves form the immense majority. Their inability to comprehend things as they are is reflected in such inappropriate metaphors as industrial kingdom and dukedoms. They are too dull to see the difference between a sovereign king or duke who could be dispossessed only by a more powerful conqueror and a “chocolate king” who forfeits his “kingdom” as soon as the customers prefer to patronize another supplier.
 
@@ -2243,7 +2243,7 @@ This distortion is at the bottom of all socialist plans. If any of the socialist
 
 The socialists have engineered a semantic revolution in converting the meaning of terms into their opposite. In the vocabulary of their “Newspeak,” as George Orwell called it, there is a term “the one-party principle.” Now etymologically party is derived from the noun part. The brotherless part is no longer different from its antonym, the whole; it is identical with it. A brotherless party is not a party, and the one party principle is in fact a no-party principle. It is a suppression of any kind of opposition. Freedom implies the right to choose between assent and dissent. But in Newspeak it means the duty to assent unconditionally and strict interdiction of dissent. This reversal of the traditional connotation of all words of the political terminology is not merely a peculiarity of the language of the Russian Communists and their Fascist and Nazi disciples. The social order that in abolishing private property deprives the consumers of their autonomy and independence, and thereby subjects every man to the arbitrary discretion of the central planning board, could not win the support of the masses if they were not to camouflage its main character. The socialists would have never duped the voters if they had openly told them that their ultimate end is to cast them into bondage. For exoteric use they were forced to pay lip-service to the traditional appreciation of liberty.
 
-#### IV
+###### IV
 
 It was different in the esoteric discussions among the inner circles of the great conspiracy. There the initiated did not dissemble their intentions concerning liberty. Liberty was, in their opinion, certainly a good feature in the past in the frame of bourgeois society because it provided them with the opportunity to embark on their schemes. But once socialism has triumphed, there is no longer any need for free thought and autonomous action on the part of individuals. Any further change can only be a deviation from the perfect state that mankind has attained in reaching the bliss of socialism. Under such conditions, it would be simply lunacy to tolerate dissent.
 
@@ -2255,7 +2255,7 @@ It is true, a man of average intellectual abilities has no chance to rise to the
 
 The admirers of the Soviet system tell us again and again that freedom is not the supreme good. It is “not worth having,” if it implies poverty. To sacrifice it in order to attain wealth for the masses, is in their eyes fully justified. But for a few unruly individualists who cannot adjust themselves to the ways of regular fellows, all people in Russia are perfectly happy. We may leave it undecided whether this happiness was also shared by the millions of Ukrainian peasants who died from starvation, by the inmates of the forced labor camps, and by the Marxian leaders who were purged. But we cannot pass over the fact that the standard of living was incomparably higher in the free countries of the West than in the communist East. In giving away liberty as the price to be paid for the acquisition of prosperity, the Russians made a poor bargain. They now have neither the one nor the other.
 
-#### V
+###### V
 
 Romantic philosophy labored under the illusion that in the early ages of history the individual was free and that the course of historical evolution deprived him of his primordial liberty. As Jean Jacques Rousseau saw it, nature accorded men freedom and society enslaved him. In fact, primeval man was at the mercy of every fellow who was stronger and therefore could snatch away from him the scarce means of subsistence. There is in nature nothing to which the name of liberty could be given. The concept of freedom always refers to social relations between men. True, society cannot realize the illusory concept of the individual’s absolute independence. Within society everyone depends on what other people are prepared to contribute to his well-being in return for his own contribution to their well-being. Society is essentially the mutual exchange of services. As far as individuals have the opportunity to choose, they are free; if they are forced by violence or threat of violence to surrender to the terms of an exchange, no matter how they feel about it, they lack freedom. This slave is unfree precisely because the master assigns him his tasks and determines what he has to receive if he fulfills it.
 
@@ -2279,11 +2279,11 @@ Capitalistic business is not perseverance in the once attained state of producti
 
 Private property of the material factors of production is not a restriction of the freedom of all other people to choose what suits them best. It is, on the contrary, the means that assigns to the common man, in his capacity as a buyer, supremacy in all economic affairs. It is the means to stimulate a nation’s most enterprising men to exert themselves to the best of their abilities in the service of all of the people.
 
-#### VI
+###### VI
 
 However, one does not exhaustively describe the sweeping changes that capitalism brought about in the conditions of the common man if one merely deals with the supremacy he enjoys on the market as a consumer and in the affairs of state as a voter and with the unprecedented improvement of his standard of living. No less important is the fact that capitalism has made it possible for him to save, to accumulate capital and to invest it. The gulf that in the pre-capitalistic status and caste society separated the owners of property from the penniless poor has been narrowed down. In older ages the journeyman had such a low pay that he could hardly lay by something and, if he nevertheless did so, he could only keep his savings by hoarding and hiding a few coins. Under capitalism his competence makes saving possible, and there are institutions that enable him to invest his funds in business. A not inconsiderable amount of the capital employed in American industries is the counterpart of the savings of employees. In acquiring savings deposits, insurance policies, bonds and also common stock, wage earners and salaried people are themselves earning interest and dividends and thereby, in the terminology of Marxism, are exploiters. The common man is directly interested in the flowering of business not only as a consumer and as an employee, but also as an investor. There prevails a tendency to efface to some extent the once sharp difference between those who own factors of production and those who do not. But, of course, this trend can only develop where the market economy is not sabotaged by allegedly social policies. The welfare state with its methods of easy money, credit expansion and undisguised inflation continually takes bites out of all claims payable in units of the nation’s legal tender. The self-styled champions of the common man are still guided by the obsolete idea that a policy that favors the debtors at the expense of the creditors is very beneficial to the majority of the people. Their inability to comprehend the essential characteristics of the market economy manifests itself also in their failure to see the obvious fact that those whom they feign to aid are creditors in their capacity as savers, policy holders, and owners of bonds.
 
-#### VII
+###### VII
 
 The distinctive principle of Western social philosophy is individualism. It aims at the creation of a sphere in which the individual is free to think, to choose, and to act without being restrained by the interference of the social apparatus of coercion and oppression, the State. All the spiritual and material achievements of Western civilization were the result of the operation of this idea of liberty.
 
@@ -2310,11 +2310,11 @@ We are inaugurating tonight the ninth meeting of the Mont Pelerin Society. It is
 
 ## Chapter 19  Economic Method
 
-## _Money, Method, and The Market Process_[^136]
+#### _Money, Method, and The Market Process_[^136]
 
 **“Social Science and Natural Science”**
 
-#### I
+###### I
 
 The foundations of the modern social sciences were laid in the eighteenth century. Up to this time we find history only. Of course, the writings of the historians are full of implications which purport to be valid for all human action irrespective of time and milieu, and even when they do not explicitly set forth such theses they necessarily base their grasp of the facts and their interpretation on assumptions of this type. But no attempt was made to clarify these tacit suppositions by special analysis.
 
@@ -2324,7 +2324,7 @@ Then in the eighteenth century came a radical change. The founders of Political 
 
 Since the days of Cantillon, Hume, the Physiocrats and Adam Smith, economic theory has made continuous — although not steady — progress. In the course of this development it has become much more than a theory of market operations within the frame of a society based on private ownership of the means of production. It has for some time been a general theory of human action, of human choice and preference.
 
-#### II
+###### II
 
 The elements of social cognition are abstract and not reducible to any concrete images that might be apprehended by the senses. To make them easier to visualize one likes to have recourse to metaphorical language. For some time the biological metaphors were very popular. There were writers who overworked this metaphor to ridiculous extremes. It will suffice to cite the name of Lilienfeld.[^137]
 
@@ -2358,7 +2358,7 @@ The case is similar with the use of curves. We may represent the price of a comm
 
 The mathematical economist is prone to consider the price either as a measurement of value or as equivalent to the commodity. To this we have to say that prices are not measured in money but that they are the amount of money exchanged for a commodity. The price is not equivalent to the commodity. A purchase takes place only when the buyer values the commodity higher than the price, and the seller values it lower than the price. Nobody has the right to abstract from this fact and to assume an equivalence where there is a difference in valuation. When either one of the parties considers the price as the equivalent of the commodity no transaction takes place. In this sense we may say every transaction is for both parties a “bargain.”
 
-#### III
+###### III
 
 Physicists consider the objects of their study from without. They have no knowledge of what is going on in the interior, in the “soul,” of a falling stone. But they have the opportunity to observe the falling of the stone in experiments and thereby to discover what they call the laws of falling. From the results of such experimental knowledge they build up their theories proceeding from the special to the more general, from the concrete to the more abstract.
 
@@ -2390,7 +2390,7 @@ To the obvious question, how a purely logical deduction from aprioristic princip
 
 The relation between historical experience — for every economic experience is historical in the sense that it is the experience of something past — and economic theory is therefore different from that generally assumed. Economic theory is not derived from experience. It is on the contrary the indispensable tool for the grasp of economic history. Economic history can neither prove nor disprove the teachings of economic theory. It is on the contrary economic theory which makes it possible for us to conceive the economic facts of the past.
 
-#### IV
+###### IV
 
 But to orient ourselves in the world of human actions we need to do more than merely conceive the meaning of human action. Both the acting man and the purely observing historian have not only to conceive the categories of action as economic theory does; they have besides to understand (_verstehen_) the meaning of human choice.
 
@@ -2404,7 +2404,7 @@ It is not the task of history to reproduce the past. An attempt to do so would b
 
 The type-concepts of the historical or moral sciences (_Geisteswissenschaften_) are not statistical averages. Most of the features used for classification are not subject to numerical determination, and this alone renders it impossible to construct them as statistical averages. These type-concepts (in German one uses the term _Ideal-Typus_ in order to distinguish them from the type-concepts of other sciences, especially of the biological ones) ought not to be confused with the praxeological concepts used for the conceiving of the categories of human action. For instance: the concept “entrepreneur” is used in economic theory to signify a specific function, that is the provision for an uncertain future. In this respect everybody has to some extent to be considered as an entrepreneur. Of course, it is not the task of this classification in economic theory to distinguish men, but to distinguish functions and to explain sources of profit or loss. Entrepreneur in this sense is the personification of the function which results in profit or loss. In economic history and in dealing with current economic problems the term “entrepreneur” signifies a class of men who are engaged in business but who may in many other respects differ so much that the general term entrepreneur seems to be meaningless and is used only with a special qualification, for instance big (medium-sized, small) business, “Wall Street,” armaments business, German business, etc. The type entrepreneur as used in history and politics can never have the conceptual exactitude which the praxeological concept entrepreneur has. You never meet in life men who are nothing else than the personification of one function only.[^138]
 
-#### V
+###### V
 
 The preceding remarks justify the conclusion that there is a radical difference between the methods of the social sciences and those of the natural sciences. The social sciences owe their progress to the use of their particular methods and have to go further along the lines which the special character of their object require. They do not have to adopt the methods of the natural sciences.
 
@@ -2418,9 +2418,9 @@ The reformers who wish to improve the social sciences by adopting the methods of
 
 ## Chapter 20  Appreciations
 
-## Economic Freedom and Interventionism[^139]
+#### Economic Freedom and Interventionism[^139]
 
-#### “ _Man, Economy, and State_ ”
+###### “ _Man, Economy, and State_ ”
 
 Most of what goes today under the label of the social sciences is poorly disguised apologetics for the policies of governments. What the philosopher George Santayana (1863–1952) once said about a teacher of philosophy of the, then Royal Prussian, University of Berlin, that it seemed to this man “that a professor’s business was to trudge along a governmental towpath with a legal cargo,” is today everywhere true for the majority of those appointed to teach economics. As these doctors see it, all the evils that plague mankind are caused by the acquisitiveness of greedy exploiters, speculators and monopolists, who are supreme in the conduct of affairs in the market economy. The foremost task of good government is to curb these scoundrels by suppressing their “economic freedom” and subjecting all affairs to the decisions of the central authority. Full government control of everybody’s activities — whether called planning, socialism, communism, or any other name — is praised as the panacea.
 
@@ -2450,7 +2450,7 @@ It is a fateful error on the part of our most valuable contemporaries to believe
 
 Now such a book as _Man, Economy, and State_ offers to every intelligent man an opportunity to obtain reliable information concerning the great controversies and conflicts of our age. It is certainly not easy reading and asks for the utmost exertion of one’s attention. But there are no shortcuts to wisdom.
 
-#### “The Economist Eugen v. Böhm-Bawerk: on the Occasion of the Tenth Anniversary of His Death”[^140]
+###### “The Economist Eugen v. Böhm-Bawerk: on the Occasion of the Tenth Anniversary of His Death”[^140]
 
 Eugen v. Böhm-Bawerk will remain unforgotten for all those who have known him. The students, who enjoyed the fortune of attending his seminars, will never lose what the acquaintance with such a strong mind has given them. For the politicians, who have met him as a statesman, the integrity of his ethos and his altruistic commitment to duty will continue to be exemplary. And no citizen of this country shall forget the minister of finance, the last Austrian minister of finance, who, in spite of all obstacles, earnestly aimed at balancing the public budget and preventing the upcoming financial catastrophe. But even when the lives of all those, who had known him personally, have come to an end, his scientific _oeuvre_ shall live on and bear fruit.
 
@@ -2468,7 +2468,7 @@ These were the last words that Böhm-Bawerk has addressed to Austria’s financi
 
 ## Bibliography
 
-#### Works Cited
+###### Works Cited
 
 Chamberlain, John. _My Years with Ludwig von Mises_. _The Freeman_ , February, 27, no. 2, 1977.
 

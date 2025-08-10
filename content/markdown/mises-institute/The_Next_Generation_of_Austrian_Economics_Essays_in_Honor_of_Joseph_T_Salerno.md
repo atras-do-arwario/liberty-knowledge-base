@@ -22,7 +22,7 @@ The contributors to the present volume come from the ranks of PhD students, post
 
 The present book is divided into three sections: money, policy and what we can refer to as mundane economics, the study of the basic, yet vital topics of the science. Each section represents an important area of Professor Salerno’s own research and his imprint on each chapter should be apparent to the reader. Suffice to say, a brief overview of his contributions will assist the reader in seeing his impact on the development of these young Austrian scholars in particular, and on Austrian economics in general.
 
-#### Influence on Mundane Economics
+###### Influence on Mundane Economics
 
 Professor Salerno is one of the leading contemporary theorists in the Austrian tradition. A former colleague of Murray Rothbard’s, Professor Salerno has made his unfading mark on the theoretical Austrian literature through several influential as well as highly provocative articles. He has also changed the landscape for Austrian theorizing and the self-perception of Austrians.
 
@@ -32,7 +32,7 @@ While only one of many influential contributions, the “dehomogenized” articl
 
 Salerno’s work has strengthened the Austrian theoretical tradition and helped identify precursors and “proto-Austrians.” His work stretches beyond publishing in specifically Austrian journals and discussing exclusively Austrian theorists. Much thanks to Professor Salerno’s work, we are able to trace the philosophical origins of Austrian thought centuries if not millennia back in time and can identify kinship with other traditions. To exemplify, Professor Salerno has pursued illuminating commentary on the legacies of Carl Menger (Salerno 2004; 2010a), Eugen von Böhm-Bawerk (Salerno 2008), Ludwig von Mises (Salerno 1995a; 1999; 2012), Murray N. Rothbard (Salerno 2006), as well as of the French Liberal school’s Jean-Baptiste Say and Frédéric Bastiat (Salerno 1978; 1985; 1988; 1998; 2001), and has addressed the theoretical origins and shortcomings of opponents and competing traditions (Salerno 1992). Professor Salerno has also addressed traditions in monetary theory (Salerno 1991), but this work has come to be overshadowed by his important theoretical advances related to macroeconomics and money, especially monetary policy, business cycle theory (Salerno 1989; 2012b), and the calculation problem (Salerno 1990b; 1994b; 1996a).
 
-#### Money and Policy
+###### Money and Policy
 
 Besides his work on the more mundane aspects of economics, Professor Salerno has pushed forward the development of the one topic, besides method, that most separates neoclassical from Austrian economists: business cycle theory. This focus stems from the fact that the
 
@@ -52,13 +52,13 @@ Professor Salerno has been instrumental in demonstrating that Ludwig von Mises�
 
 Never content to rest on the laurels of his forebears, he has striven to improve upon the great works they have achieved. Salerno (1987) provides a better measure of the “true” money supply. Unsatisfied with the existing “M”s expounded with near unanimity by the rest of the profession, Professor Salerno builds off Rothbard (1963, pp. 83–86; 1978; 1983, pp. 254–62) to provide a better answer to a seemingly simple question: how much money is floating around out there? Not only is the exercise admirable for its clarity, it also shows a dedication to truth seeking and an undogmatic approach to economic analysis. Though clearly following in the footsteps of Rothbard, Professor Salerno does not hesitate to correct the dean of the Austrian school in his previous attempts to define the money supply.
 
-#### To the Next Generation
+###### To the Next Generation
 
 The contributions to economic science discussed above, although formidable, will not be Professor Salerno’s greatest professional achievement. The thirteen contributors to the present volume have all learned from him, and there can be no doubt as to the influence he has had on their intellectual development. Just as Professor Salerno very clearly is influenced by the Menger-Mises-Rothbard tradition of the Austrian school, each of these thirteen authors (as well as the other summer fellows under his tutelage, and the thousands of people who have listened to his lectures and read his works) can be considered an intellectual descendant of his. To introduce the adjective, we are all “Salernians” in some way.
 
 Professor Salerno was not only present for the rebirth and revival of Austrian economics in the mid-1960s, he has been an important focal point of its continual growth over the ensuing decades. With this book, we present to him the evidence that the discipline is in good hands, and that his reach and influence has not only been wide, but also strong, ensuring its promulgation for another generation. It is with this contribution that his most lasting influence has been made, and continues to grow with each passing year. Thanks, Joe.
 
-#### References
+###### References
 
 Eisenhower Study Group. 2011. “Cost of Iraq, Afghanistan, and Anti-Terrorism Operations.” Watson Institute for International Studies, Brown University. Accessed 27 August 2014.
 
@@ -146,7 +146,7 @@ In this article I[^1] would like to continue in the tradition of Mises, Rothbard
 
 While the quality of a monetary system or regime is perceived subjectively by actors, there are several objective characteristics that tend to influence this perception. In a trial and error process actors normally do not base their perceptions of their institutional framework on poor whims, as they suffer the consequences of poor judgment. Guided by the objective qualities of monetary systems, actors tend to benefit as they can hedge against depreciation or gain from appreciation of the currency. They can protect their monetary wealth more efficiently. In this article we will analyze these objective qualities of “good” monetary systems.
 
-#### Connection Between the Quality of Monetary Regimes and Money’s Purchasing Power
+###### Connection Between the Quality of Monetary Regimes and Money’s Purchasing Power
 
 The quality of monetary systems has been neglected in the literature.[^2] Comparative analyses of monetary systems from an institutional perspective are rare.[^3] Neither do textbooks delve into the qualities of monetary systems, an exception being White (1999). Rather, monetary policies within the setting of our current fiat money systems are analyzed, sometimes enriched by a narrative of the evolution of some historical monetary regimes, yet without providing a comparison of them. The neglect of a comparison might be caused by the belief that we have found the best monetary system. Fiat monetary systems are controlled by a central bank and can be manipulated to provide a supposedly perfect money fulfilling its functions as a medium of exchange, store of value, and unit of account. Moreover, qualities of monetary regimes are hardly measurable or usable in econometric analysis which makes the question unattractive for modern econometric research. Recently, the financial crisis has led to doubts about the set up of the financial system and the monetary system in particular, which makes a comparative analysis of the monetary system timely.
 
@@ -154,7 +154,7 @@ The quality of monetary systems influences the demand for money and, thereby, mo
 
 Changes in monetary systems may lead to sudden changes in money’s quality and purchasing power. More specifically, a change in the monetary regime may lead to a pronounced change in the valuation of money in relation to other goods. Imagine that actors regard the new monetary system as a worse provider of a medium of exchange, store of wealth, and accounting unit than the preceding system. Actors value money less intensely with respect to other goods. This may be illustrated by an example of an individual’s value scale before and after the regime changes.
 
-##### Value scale before regime change
+###### Value scale before regime change
 
 .
 .
@@ -169,7 +169,7 @@ Changes in monetary systems may lead to sudden changes in money’s quality and 
 
 In our example our person having seven \$10 bills in his pocket would not buy wine priced at \$10. However, she would give up one \$10 bill for a cheeseburger that she values higher than the 7th bill she owns. She would also spend the 6th bill for the hamburger meal valued higher. Let us look at the value scale of the regime change by which the perception of money’s quality falls. The new monetary regime is in the eyes of actors providing a worse medium of exchange, store of value, and unit of account than the preceding regime.
 
-##### Value scale after regime change
+###### Value scale after regime change
 
 .
 .
@@ -184,7 +184,7 @@ In our example our person having seven \$10 bills in his pocket would not buy wi
 
 We see that goods tend now to be ranked higher on the value scale relative to money units than before.[^4] After the change, the person would give \$10 for a bottle of white wine. She would also buy red wine, cheeseburger, or a hamburger meal with \$10. The prices of these good would tend to increase. Without any increase in the quantity of money, money is valued less in comparison to goods due to the qualitative deterioration of the monetary regime. Money’s purchasing power decreases. Brisk changes in purchasing power may be caused by a change in monetary regime. This gives us reason to analyze the quality of different monetary regimes and how changes to them influence their quality.
 
-#### Qualities of Monetary Regimes
+###### Qualities of Monetary Regimes
 
 Monetary regimes provide a framework within which money fulfills its functions. As the unit of account function is fulfilled by nearly all monetary systems equally well and it is impaired only in extreme situations, we will concentrate of the characteristics of good medium of exchange and store of value.[^5]
 
@@ -200,7 +200,7 @@ For the quality of the monetary regime the stability of the financial system it 
 
 The probability of demonetization is a related factor influencing money’s quality. Some monetary systems are more prone to demonetization than others. Systems that come along with an instable financial sector may lead to collapse or public bailouts that endanger the confidence in the monetary unit. Another factor that affects money as a store of value is the potential for general manipulation by the government. Interventions by the government often decrease the quality of money in its own favor by increases in money’s quantity or through a deterioration in the reserves backing it. A government could, for instance, confiscate the gold reserves of its fiat currency to pay for expenditures thereby decreasing the quality of money. Some systems are less prone to government intervention than others where the government has a stronger foothold in the system.[^7] The more independent a monetary regime is from the government, the higher is the quality of the currency. A switch to a monetary system more dependent or open to interventions by a government means a deterioration of money’s quality.
 
-#### A 100 Percent and Free Gold Standard
+###### A 100 Percent and Free Gold Standard
 
 I will now analyze the quality of money in different monetary regimes.[^8] I will start with the highest quality monetary regime and work my way downward to systems of lower quality. In a 100 percent gold standard, only gold (or 100 percent backed gold certificates) is money and banks hold 100 percent reserves for their demand deposits. The following analysis applies _mutatis mutandis_ to other 100 percent commodity standards such as a 100 percent silver standard.[^9] I picked the example of gold out for two reasons: the historic importance of the gold standard and its unique qualities.
 
@@ -212,7 +212,7 @@ In a free 100 percent gold standard there exists also monetary competition. No o
 
 Lastly, the monetary system tends to be stable. 100 percent reserves on demand deposits ensure that no bank runs on demand deposits will lead to a banking crisis. Moreover, there are harsh limits to other types of maturity mismatching, i.e., borrowing short and lending long (Bagus 2010; Bagus and Howden 2010). Borrowing short and lending long is a very risky business. Competitors, by assuming short-term debts and not rolling over the debt, might drive banks into bankruptcy. Speculators may also short bank stocks and try to instigate a run on the short-term liabilities of banks. Customers will attend those banks that limit this risky behavior. In short, in a free market maturity mismatching is strictly limited and there is no reason why banks would systematically err about the amount of short-term renewable savings. More importantly, the promoters of excessive maturity mismatching such as government guarantees for banks are limited, or absent, as there is no central bank that could roll over short-term debts nor credit expansion increasing constantly the money supply making a roll-over of short-term debts easier. The financial system in a 100 percent gold standard is, therefore, very stable. The chance that governments will be tempted to bailout the financial system diluting the value of money or the monetary regime is reduced.
 
-#### Fractional Gold Standards
+###### Fractional Gold Standards
 
 I will now analyze fractional reserve gold standards with different properties. I will not explore every theoretical possibility but will concentrate on the historical monetary regimes. The first fractional reserve standard is a gold coin standard.[^12] In a gold coin standard banks hold fractional reserves and gold coins are in circulation. A gold coin standard contains the same properties in regard to its functions as a medium of exchange as a 100 percent gold standard. Gold is not perishable, homogeneous, has a great value in a small bulk, etc.
 
@@ -222,7 +222,7 @@ Moreover, credit expansion serves as a promoter of maturity mismatching, i.e., b
 
 Furthermore, an important difference of a fractional gold standard and a 100 percent gold standard is the effect of increases in the quantity of money on its quality. When in a 100 percent gold standard new gold is mined, this gold naturally is of the same quality as the old money. The quality does not deteriorate. Yet, when in a fractional gold standard, the amount of fiduciary media, i.e., paper money, increases, the quality of the currency decreases, as there are less gold reserves per monetary unit. The reserve ratio shrinks and the average backing of the currency deteriorates.
 
-#### Gold Bullion Standard
+###### Gold Bullion Standard
 
 The gold bullion standard tends to emerge from a gold coin standard. When in a gold coin standard, credit expansion creates recurrent banking crisis, and banks tend to press for the installation of a lender of last resort, the central bank. At the same time, banks are interested in a reduction of coins in circulation which is realized in a gold bullion standard, where the government does not mint coins. Typically, the gold reserves are centralized in a central bank. The currency is backed by gold bullion and the reserves centralized in a central bank. The currency can be exchanged against bullion at a fixed rate. Gold coins likely disappear from circulation.
 
@@ -230,7 +230,7 @@ In such a system the quality of money is reduced vis-à-vis a gold coin standard
 
 As there is a lower amount of gold in the hands of the public it is easier for the government to suspend redemption altogether without leading to a double standard and facing the resistance of people to hand over their gold. Thus, the government can manipulate the money and deteriorate the money standard easier.
 
-#### Gold Exchange Standard
+###### Gold Exchange Standard
 
 The next step down in the quality of monetary standards is a gold exchange standard. A gold exchange standard is a fixed exchange rate system like the Bretton Woods system. Currencies are pegged at a fixed rate with a main currency that can be redeemed into gold bullion. Only central banks can redeem one currency into gold bullion through the main central bank which was the case during the Bretton Woods era with the Federal Reserve System.
 
@@ -242,7 +242,7 @@ It should be pointed out that becoming the main currency in a gold exchange stan
 
 Within these fractional reserve standards we may distinguish between systems where the unit of account and medium of exchange are separated and those where they coincide. In systems where unit of account and medium of exchange are separated, people calculate in a currency such as gold but pay also with another medium of exchange such as bank notes or deposits. These notes and deposits may have a discount in relation to payments in specie. Therefore, a credit expansion may lead to a higher discount leaving unharmed the integrity of the gold currency. Prices denominated in bank notes increase but not denominated in specie. If, on the other hand, bank notes and deposits have to be accepted at par due to legal tender laws, the quality of the system decreases. Credit expansion in this case cannot lead to a discount anymore but deteriorates the quality of specie as prices denominated in gold increase.
 
-#### Fiat Paper Money Standard
+###### Fiat Paper Money Standard
 
 A brisk change in the quality of the monetary regime occurs when redemption is finally suspended altogether leading to a fiat paper currency. In a fiat paper money standard as the world has been on since 1971, not even central banks are able to redeem the currency against bullion. There is no guarantee anymore to receive any specific amount of gold for the currency. Hence, the quality of the money has declined.[^13]
 
@@ -256,7 +256,7 @@ Production costs of new paper money are very low, increasing the likelihood of i
 
 As a central bank can print an unlimited amount of money and bail out banks, moral hazard ensues. Maturity mismatching increases and reserve ratios are reduced. Credit expansion leads to more volatile business cycles harming the economy. The monetization of government debts by using the printing press has become easier. The financial system becomes even more fragile than before. Government bailouts become more likely and deteriorate the quality of money. As a consequence, money practically loses its function as a good store of wealth. Price inflation becomes a feature of everyday life. As people become accustomed to increasing prices, they start to incur more debt. Both the indebtedness and fragility of the economy increase. Thus, at the instant the monetary system is deteriorated to fiat paper money system, the quality of money declines sharply.
 
-#### Switching Monetary Regimes and Money’s Purchasing Power
+###### Switching Monetary Regimes and Money’s Purchasing Power
 
 Changes in the quality of money can be made within a certain monetary regime and by changing the monetary regime. Any move up the qualitative ladder explained above from the bottom to the top, i.e., from a fiat paper money, to a gold exchange standard, to a gold bullion standard, to a gold coin standard to a 100 percent free gold standard implies a substantial improvement in quality. Any move down the qualitative ladder implies a deterioration of the quality of money and a tendency for price inflation. Downward movements have been more common in history. Especially in preparation of or during war efforts, monetary regimes were often changed for the worse (Rittershausen 1962, p. 366).
 
@@ -264,13 +264,13 @@ Improvements in monetary regimes have occurred in history. For instance, resumpt
 
 In general, however, the evolution has been downward from gold standards of a higher quality to gold standards of a lower quality and finally to fiat money standards. In fact, once we step down from a 100 percent gold standard, the seeds are sown for a progressive deterioration of the money regime. Government gets a foothold in the monetary system. Credit expansion by the central bank lead to excessive maturity mismatching, overindebtedness, and financial instability. In the crisis caused by these monetary regimes, bailouts tend to occur leading to higher government debts which are later monetized. In theses crises the regime is also often denigrated. For instance, redemption of specie payments may be suspended in a banking crisis.
 
-#### Conclusion
+###### Conclusion
 
 Beside money’s quantity also its quality influences its purchasing power. In this paper we have analyzed the quality of monetary regimes which consists in providing an institutional framework for a good medium of exchange, store of value and medium of account. Changes in monetary regimes may lead to substantial changes in money’s quality and thereby affect money’s demand and purchasing power. The highest quality regime contains a 100 percent gold standard. Fractional-reserve gold standards contain the seeds of their own deterioration, leading via credit expansion to economic and banking crisis. Via progressive government intervention and centralization of reserves a gold coin standard deteriorates into a gold bullion standard and a gold exchange standard.
 
 The switch from a gold exchange standard to a fiat paper standard is a watershed. There is no non-monetary demand for the money unit anymore. Its value is solely maintained by trust and confidence while the insurance of an ample non-monetary demand has vanished. Government and central banking control monetary affairs totally. Recurrent recessions and bailouts of the financial system become likely, deteriorating the quality of money. Future research may focus more on the qualities of different monetary regimes and how their switch affects the quality of money and also economic growth. A switch to a higher quality regime of money in a recession may positively affect confidence and economic growth.
 
-#### References
+###### References
 
 Anderson, Benjamin M. [1917] 1999. _The Value of Money_. Repr. Grove City, Pa.: Libertarian Press.
 
@@ -351,13 +351,13 @@ The insight that there can be an equilibrium with different prices between physi
 
 In what follows, I develop the argument from the previous paragraph. I first review the insights of Mises and Salerno on the subjectivist theory of the purchasing power of money and then look at how these insights apply in the setting of two currency areas with a floating foreign exchange rate. In conclusion, I formulate the underlying subjectivist theory of foreign exchange rates.
 
-#### Subjective Valuation Differentiates Purchasing Power of Money Across Space
+###### Subjective Valuation Differentiates Purchasing Power of Money Across Space
 
 In the section on “Alleged Local Differences in the Cost of Living,” Mises (1953, pp. 175–78) stresses the importance of the position of goods in space when considering the valuation of those goods and their relative prices. He illustrates how important the location of goods is by comparing the prices in Karlsbad, a desired spa destination, and prices in other cities. While the same type of good costs more in Karlsbad than in other cities, the price difference is justified because goods in Karlsbad are perceived as different types of goods. In other words, “[i]f [person] has to pay more in Karlsbad for the same quantity of satisfactions, this is due to the fact that by paying for them he is also paying the price of being able to enjoy them in the immediate neighborhood of the medicinal springs” (Mises 1953, pp. 176–77).
 
 To generalize the previous example, one can say that the position of a good in space matters — geographic location is an important characteristic of an economic good that can change one’s perception of this good, and consequently its value and price. Physically identical goods in different locations can then be priced differently even in equilibrium (Mises 1953, pp. 177–78; Salerno 1994b, pp. 251–52).
 
-#### Arbitrage Does Not Equalize Purchasing Power of Money Across Space
+###### Arbitrage Does Not Equalize Purchasing Power of Money Across Space
 
 One can object that while the demand for goods might differ by location, the difference at least does not apply in the case of tradable goods, which can be easily transported from one place to another. The demand for apples in the city of Meadville in Northwestern Pennsylvania, for example, might be lower than the demand for apples in Manhattan, incentivizing suppliers to distribute apples accordingly and eventually equalize the prices of apples in both places. If the existing relative supply of apples in these two places results in lower relative price of apples in Meadville, this incentivizes entrepreneurs to ship apples from Meadville to Manhattan to equalize the profits from selling apples in the two different places. Assuming perfect competition and zero transportation costs, one might say that profits equalize when the price of apples in Meadville is the same as the price of apples in Manhattan.
 
@@ -365,7 +365,7 @@ However, since tradable goods are usually bundled with non-tradable complements 
 
 To generalize the example, one can say that tradable goods often need to be bundled with non-tradable complements when sold in specific geographic locations. Since these complements might be subjectively valued and priced differently across locations, opportunities to arbitrage price differentials across space are limited. This limitation might then lead to price differentials between physically identical goods sold in different geographic locations.
 
-#### Subjective Valuation Differentiates Purchasing Power of Money also Across Currency Areas
+###### Subjective Valuation Differentiates Purchasing Power of Money also Across Currency Areas
 
 The conclusion that physically identical goods can vary in equilibrium prices between different locations also applies to the case of two separate currency areas. This application suggests that foreign exchange rates do not necessarily correspond to the absolute purchasing power parity of the respective currencies. To illustrate this point, I will use a modified version of the previous section’s apple parable.
 
@@ -375,17 +375,17 @@ However, the subjectivist insight proposed by Mises (1953) and emphasized by Sal
 
 Purchasing power of money is therefore unequal across currency areas in the same way it is unequal across different geographic locations within the same currency area. Goods with identical physical characteristics but different locations are different economic goods (Salerno 1994a, p. 107). In equilibrium, such goods can have different prices when their respective prices are converted into the same currency unit. As a result, equilibrium foreign exchange rate does not have to equalize the prices of goods across currency areas and therefore does not have to adhere to the absolute purchasing power parity condition.
 
-#### Foreign Currency is Valued Subjectively as a Means Toward Goods in Its Currency Area/p>
+###### Foreign Currency is Valued Subjectively as a Means Toward Goods in Its Currency Area/p>
 
 If absolute purchasing power parity is not the equilibrium condition for the foreign exchange rate between two currencies, what are the equilibrium conditions? It is important to realize in this regard that people demand money because it is medium of exchange (Mises 1953, pp. 30ff.) — a medium of directly purchasing goods in its corresponding currency area. Assuming that money does not have non-monetary uses, people value different currencies against each other depending on the economic goods they can procure with those respective currencies (Mises 1953, pp. 180–81).
 
 The foreign exchange rate of a currency thus depends on the prices that people expect to pay for goods using the currency. If expected prices increase in one currency, demand for that currency drops at the foreign exchange market and its exchange rate becomes less favorable; if the expected prices decrease, the demand for the currency increases and its exchange rate becomes more favorable. In contrast to the absolute purchasing power parity theory, however, the relationship between the foreign exchange rate between two currencies and the prices of goods that people using each currency can buy is qualitative and does not follow a pre-determined mechanical formula. The numerical imprecision of the law explaining determinants of foreign exchange rates is a necessary consequence of the fact that most of the goods that people buy with each currency are different economic goods that people value subjectively. People’s subjective valuations therefore act as a filter for every price change of a good expressed in that currency: people ultimately decide to what extent the price change has an effect on their demand for the currency in question.
 
-#### Conclusion: Subjectivism and International Economics
+###### Conclusion: Subjectivism and International Economics
 
 In his 1994a and 1994b articles, Salerno restored attention regarding Mises’s subjectivist approach to monetary theory and international economics. This approach helps us to understand why economists have been struggling to empirically confirm the absolute version of the purchasing power parity theory. They have been unsuccessful because the theory assumes the law of one price for goods that have identical physical characteristics but which differ in location. Because the difference in location means that these goods are in reality different economic goods, the law of one price does not have to hold and the absolute purchasing power parity can be violated even in equilibrium. The subjectivist approach to international economics thereby gives us yet another illustration of the importance of subjectivism in economics that was emphasized by Hayek (1952, p. 31).
 
-#### References
+###### References
 
 Haberler, Gottfried. 1950. _The Theory of International Trade_. William Hodge & Company.
 
@@ -421,7 +421,7 @@ Due to good luck endued in him by his parents, Joe Salerno is of the age necessa
 
 In this chapter I will revisit the use of this simple mnemonic to underscore what money is. I will then use these insights to augment Salerno’s (1987) work on the “true money supply.”
 
-#### Money is as Money Does
+###### Money is as Money Does
 
 In an unsettling way, the old adage that “money is as money does” has a ring of truth to it. When defined, as it commonly is in introductory economics textbooks, as “the generally accepted medium of exchange,” money can be a variety of goods, provided they meet three criteria: (1) that the good is used to settle exchanges, (2) that the good is the final means of settlement, i.e., not credit, and (3) that the economic community _generally_ accepts such a good to settle exchanges. Economists then move on to a discussion of whether a “good” is a candidate for inclusion in the definition of _the_ money supply when it satisfies all three of these conditions. The result is any of the common “M” measures of money.
 
@@ -455,7 +455,7 @@ In a superficial sense, money is demanded because it is highly liquid. Yet this 
 
 More to the point, money is demanded because of its uniqueness. Money is the only asset that is able to combine both features — par value and on demand availability — into one package. It is this combination that makes money such an exceptional, and also essential, part of a portfolio of financial assets.
 
-#### Money as Medium of Exchange and Unit of Account, Present and Future
+###### Money as Medium of Exchange and Unit of Account, Present and Future
 
 Thus far I have been able to establish some characteristics of money without making reference to its specific functions. Actually, the causality runs the other way ‘round. There are some specific roles needed to be filled in the economy, and money (broadly defined for the moment) is the good that emerges to serve these roles. To understand why, consider two of the common functions of money in our introductory mnemonic. To jog the younger reader’s mind (as well as Joe’s): “Money is a matter of functions four: a medium, a unit, a standard, a store.”
 
@@ -489,7 +489,7 @@ The standard of deferred payments functions as the reverse side of the unit of a
 
 When using the term “money,” what economists have in mind is actually any of the four specific roles performed by money. In this way, one reason that monetary economics has become so confused is that the very adjective in its title is ill-defined. Furthermore, with the exception of select works in the now well-aged “New Monetary Economics” literature (Black 1970; Hall 1982a, b; Greenfield and Yeager 1983), very few serious attempts have been made to look at money’s individual roles in isolation of their shared embodiment in a single good. General equilibrium models are at a loss to incorporate money since they have no scope for a medium of exchange. It has been difficult to integrate money into basic utility analysis since money confers no direct utility, unlike other goods. (And since utility analysis forms the bedrock of microeconomics, the economics profession has long grappled unsuccessfully at providing “microfoundations” for monetary economics.) In short, much has been lost by using one word — money — to describe four different functions.
 
-#### Multiple or a Unique “Monetary” Good?
+###### Multiple or a Unique “Monetary” Good?
 
 The source of the muddled state of present monetary economics stems, at least in part, from the simple fact that for the better part of a century, one good has served all four monetary roles. This is understandable given that the enforcement of legal tender laws effectively forces one good (i.e., the legal tender) to serve all roles simultaneously. Before the passage of such laws in the mid-nineteenth century, an American could purchase a home with a mortgage denominated in ounces of gold and furnish it with goods priced in U.S. dollars. Neither dollars nor gold would be needed to pay for either transaction, as silver could be exchanged at the market rate. With the advent of legal tender laws, prices could still be struck in any good, but the payer would always be able to use U.S. dollars in settlement. As a result, U.S. dollars became the dominant pricing unit, both for current and long-dated contracts.
 
@@ -513,7 +513,7 @@ Historically, a similar condition was used liberally on fractional-reserve depos
 
 Thus, deposits held in fractional-reserve bank deposits are a tenuous component of the money supply. Provided that the issuing bank can maintain on demand and par value redemption, there is no significant problem. Changing either of these aspects effectively removes the asset from the upper-left quadrant in Figure 1, and relegates the former “money” to some other financial role.
 
-#### (Re)defining the Money Supply
+###### (Re)defining the Money Supply
 
 Defining the money supply is tricky business. This is so not least because of what criteria define monetary assets, but also because some of those assets are not capable of performing their jobs without serious caveats. I will close with some brief and sundry comments on Salerno’s (1987) definition of the “true money supply.”
 
@@ -535,7 +535,7 @@ This approach to defining the money supply gives rise to several distinct quanti
 
 One implication of, and benefit from, using several “money” supplies is that it allows for an alternative method to look at how the purchasing power of the medium of exchange fluctuates over time. If, e.g., _M_ x < _M_ p, the value of the medium of exchange must rise to clear the market. Since some of the prices that comprise the supply of pricing units of money, _M_ p, are fixed at a pre-defined value (e.g., those resulting from a previous debt contract), either the prices of goods contained in _M_ p will fall, or the real value of the supply of the medium of exchange, _M_ x, will rise. Of course, these implications are just two sides of the same coin.
 
-#### References
+###### References
 
 Bagus, Philipp, and David Howden. 2013. “Some Ethical Dilemmas of Modern Banking.” _Business Ethics: A European Review_ 22(3): 235–45.
 
@@ -624,7 +624,7 @@ Answering the above questions requires a careful analysis of the consequences of
 
 The remainder of the chapter is structured as follows. First, high-frequency trading is described and is shown to be merely the exploitation of the lag between the time trades are agreed upon and the time they are settled. Its fundamental difference with other (“usual”) trading activities is also highlighted. Then, the distinction between spot and future transactions is refined. Trades on financial markets where settlement is delayed are shown to be meaningfully understood as futures. Finally, I define the conditions under which certain legal treatments of high-frequency trades as spot or as future transactions may lead to the over-issuance of property rights, thus give rise to liquidity risk in payment and settlement systems.
 
-#### High-Frequency Trading as the Exploitation of Delayed Settlement
+###### High-Frequency Trading as the Exploitation of Delayed Settlement
 
 I shall start by examining the nature of high-frequency trading and the conditions under which it arises. High-frequency trading on an exchange platform consists of trades usually performed by computer algorithms so as to benefit from private information regarding the order flow or from small price variations over short horizons (ranging from a few milliseconds to a few hours). The major characteristic of high-frequency trading algorithms is that they ensure a virtually zero net open exposure at the end of each trading day, so that no cash or securities have to be physically delivered. High-frequency trading has recently become a sizeable phenomenon on financial markets, as it represents up to 70 percent of all trades on some organized stock exchanges (see Swinburne 2010).
 
@@ -640,7 +640,7 @@ On the contrary, high-frequency buy-and-sell operations do not imply, at any tim
 
 It must be clear at this stage that the latter feature — the absence of any physical payment or delivery — exists only because of the delayed settlement of all trades. If trades were to be cleared and settled in real time, or in approximately real time, then high-frequency trading would essentially disappear as it would become impossible to trade without virtually any cash or securities initial endowment. What would remain would eventually be buy-and-sell trades that are executed “quickly,” but not high-frequency trades. In order to further understand high-frequency trading, the legal consequences of delayed settlement have to be clearly grasped.
 
-#### Spot vs. Futures and the Status of Financial Trades
+###### Spot vs. Futures and the Status of Financial Trades
 
 Given delayed settlement, can trades on financial markets be regarded as _spot_ transactions? A clear understanding of the distinction between spot and future transactions is of utmost importance for my purposes, as each of these transactions implies different consequences regarding the property rights at stake. What is usually referred to as a spot transaction is a transaction where both (i) the agreement between two parties on prices and quantities and (ii) the payment on one side, the delivery of the agreed-upon goods on the other side (or clearing and settlement) occur virtually at the same time, meaning that the time span between steps (i) and (ii) is insignificant for human action and for economic theory. One can see that what is crucial to the definition of a spot transaction is whether settlement is delayed or not.
 
@@ -656,7 +656,7 @@ The whole picture changes with technological improvements when high-frequency tr
 
 If it is clear that high-frequency trades are to be considered as futures, what about trading positions that are kept open until the settlement date, i.e., transactions that will indeed be paid for and delivered? An important issue to highlight is that nothing makes it possible to distinguish _ex ante_ a high-frequency trade from any other trade. When a buy or sell order is executed on the market (“execution” here referring not to the fact that a trade is paid for and delivered, but merely to the fact that a buyer is matched with a seller, i.e., that an agreement on prices and quantities is reached), nothing makes it possible to identify trades of two different types as there cannot exist prescience, at least for an external observer, about whether the position will be liquidated or not before the settlement date. All trades are potentially high-frequency trades _ex ante_. When there is no real-time settlement, _all_ trades must therefore be regarded as futures in the first place, so as to account for the institutional lag between the time of order execution and the time of clearing and settlement. Indeed, the possibility that a particular trade be high-frequency always exists before the settlement time. In this context, trading positions that are left open over at least one settlement date can be considered similar to future contracts that are kept until maturity, whereas trading positions that are liquidated before settlement date are akin to future contracts that are never delivered.
 
-#### Legal Treatment and Consequences for Property Rights
+###### Legal Treatment and Consequences for Property Rights
 
 All transactions that are usually regarded as spot in economic analysis have been shown to be better understood as futures. Moreover, I explained how different are the implications of spot and future transactions in terms of property rights. Following the above analysis, one needs now to investigate how various legal or contractual arrangements may result or not in the over-issuance of property rights or in the _ex nihilo_ creation of fiat money. Can one think of cases where such over-issuances from high-frequency trades exist because of the lag between the time trades are agreed and the time they are cleared and settled?
 
@@ -666,7 +666,7 @@ Alternative theoretical cases shall nevertheless be considered. Up to now, I hav
 
 In this case, a high-frequency trader buying a security during the day (to be delivered at the end of the trading day) could possibly engage in other operations involving property rights on a present security — not only claims on property rights on future securities — for example by pledging this security as collateral. Until either the settlement date or the date the position is liquidated, there would be two seemingly legitimate owners of the exact same security. This case would clearly result in an over-issuance of property rights that are not backed by actual physical securities. This is reminiscent of “circulation credit” or “inflation” in Mises’s sense (Mises 1981; Salerno 2000). Similarly, assume that a seller is able to use intraday the cash he is supposed to be delivered only at the settlement date — for example to repay a maturing debt — then such cash must be considered as ex nihilo created fiat money, as no one renounced yet to this quantity of money in the present. Once again, this would merely be an over-issuance of fiat money, which may have serious implications for liquidity risk in payment and settlement systems in a stressed environment.
 
-#### Conclusion
+###### Conclusion
 
 This chapter provided a theoretical examination of high-frequency trading, focusing on whether it creates either additional property rights that are not backed by physical securities or _ex nihilo_ created money. This is likely to occur as high-frequency traders can buy and sell large amounts of securities without virtually any cash or securities endowment in the first place. One key feature for a theoretical understanding of high-frequency trading is that it exploits the lag between the time trades are agreed and the time they are paid for and settled. In turn, high-frequency trading as it is currently practiced would essentially disappear if clearing and settlement were to be implemented in real time.
 
@@ -726,7 +726,7 @@ I do not try, in this chapter, to overturn this negative judgment. However, I wo
 
 The present chapter starts, in section 2, with a short presentation of how Menger, in 1888, changed his point of view on capital, and continues, in section 3, with the demonstration that Menger, in adopting the new and different view, made a step toward the Historical school. Section 4 traces this historical point of view on capital in Ludwig von Mises’s writings. It cannot be said that section 5 demonstrates, once and for all, that Mises implicitly admitted that economics is, in some sense, a historical science. But it tries to indicate the difference he made between praxeology and economics. The former he calls the _general_ theory of human action, but the latter he does not consider to be entirely free from historical preconditions. Finally, section 6 contains a short discussion of Albert Schäffle’s analysis of economic calculation as a central institution of capitalism. Apparently, Mises argument against the feasibility of socialism was at least foreshadowed by a member of the often ridiculed Historical school.
 
-#### Carl Menger on Capital
+###### Carl Menger on Capital
 
 Carl Menger changed his point of view on capital theory considerably between 1871 and 1888 (Schumpeter 1997, p. 187; Braun 2014). He did not discuss capital very deeply in his _Principles_ (Stigler 1937, p. 248), but to the extent he did, he advocated a capital theory that is concerned with production. His capital theory was connected to his vision of the production process as divided into several successive stages, where consumer goods result from the successive processing of combinations of higher-order goods to lower-order goods. Menger (1871, p. 155) says that one possesses _capital_ if one “already has command of quantities of economic goods of higher order … in the present for future periods of time.” By adding this aspect to production theory and associating it with capital theory, he laid the groundwork for Austrian capital theory as developed by Böhm-Bawerk (1930), Friedrich von Hayek (1941), and Ludwig Lachmann (1978).
 
@@ -742,7 +742,7 @@ He hastens to add that capital only embraces sums of money that are _dedicated t
 
 Menger thus switched sides in a debate that seems to be as old as economics itself. Does the term “capital” refer to a _production factor_ or does it refer to the organization of the market economy by calculating entrepreneurs who maximize the monetary yield on their _financial capital_? At a first glance, the distinction between these two viewpoints does not seem to create a great problem. To give an example, even Mises (1949, p. 260 ff.) contains traces of _both_ concepts of capital. He reserved the plain term “capital” for the economic calculation of entrepreneurs but, for lack of a better term, he referred to the produced goods of higher orders as “capital goods.” The next section will demonstrate, however, that the two sides of the term capital do not fit together harmoniously; rather they roughly correspond to the two sides of the _Methodenstreit_ between the Austrian and the Historical school of economics. Menger’s earlier concept was elaborated to Austrian capital theory, whereas his concept of 1888 turns out to be the one endorsed by the Historical school.
 
-#### The Historical School as the Source of Menger’s Later Viewpoint on Capital
+###### The Historical School as the Source of Menger’s Later Viewpoint on Capital
 
 The first thing that must be mentioned is that Gustav Schmoller, Menger’s principal opponent in the _Methodenstreit_ , was quite happy with Menger’s later standpoint on capital theory. In his _Grundriß der allgemeinen Volks-wirtschaftslehre_ , Schmoller (1904, p. 180; emphasis added) appreciated Menger’s step toward the common parlance concept of capital:
 
@@ -760,7 +760,7 @@ That Carl Menger adopted the viewpoint of the Historical school becomes even mor
 
 Second, Hildebrand’s positive view of the common parlance concept unsurprisingly coincides with Menger’s. He (1883, p. 74, n. 35) states that “capital indeed can only be thought of or imagined as a certain sum of money,” and, like Menger, he immediately adds that capital also comprises real assets in so far as they have or represent monetary value.
 
-#### Ludwig von Mises on Capital
+###### Ludwig von Mises on Capital
 
 As opposed to nearly all other Austrian economists to the present day, Ludwig von Mises did not follow Menger’s discussion of capital as contained in the latter’s _Principles_ , but was oriented toward the 1888 article on capital theory. This shines through, for the first time, in his treatise on _Socialism_ where he explicitly refers to Menger (1888) and states:
 
@@ -772,7 +772,7 @@ In his _Human Action_ , Mises went a step further and not only stuck to the mone
 
 So in fact, without admitting it though, Mises adhered to the capital concept developed and called for by the Historical school of economics. He did not follow the early Menger or Böhm-Bawerk, who had assigned capital theory to the analysis of the production process; he rather built upon Menger’s later article which was, as shown above, a concession to the Historical school.
 
-#### The Historical Character of Economics — According to Ludwig von Mises
+###### The Historical Character of Economics — According to Ludwig von Mises
 
 Why did Mises rely on the _historical-legal_ capital concept? After all, Mises argued that economics is a part of the more universal science praxeology, and that praxeology is the science of _every_ kind of human action (Mises 1949, p. 3). According to this classification, no historical relativity is involved in economics, and therefore the real capital concept, which can easily be reconciled with every individual human action like it is done in Crusoe economics, seems to suggest itself. However, it is often overlooked that economics is not identical with praxeology, even in Mises’s own thinking.
 
@@ -786,7 +786,7 @@ In short, economics itself does not deal with _all_ human actions in _all_ kind 
 
 It should be remembered that Mises’s (1951) famous argument according to which a collectively planned society is not feasible is also based on _historical_ institutions. Without exchange between money and producers’ goods, he argued, prices of these goods cannot be determined and consequently economic calculation becomes impossible in socialism. This argument is not based on praxeology alone, but it presupposes, for the market economy which serves as benchmark, the existence of money, monetary calculation, and property rights to the means of production. It was this aspect of capitalism that Mises focused on, and from this perspective it becomes clear why he adhered to the _historical-legal_ capital concept. This kind of capital does not exist in socialism, and therefore it could help to distinguish capitalism from any other economic system.
 
-#### The Economic Calculation Argument as Found in Albert Schäffle’s Work
+###### The Economic Calculation Argument as Found in Albert Schäffle’s Work
 
 That Mises’s use of the capital concept endorsed by the Historical school is no coincidence is apparent when reading the approach of earlier members of this school to the question of economic calculation. In this regard, especially Menger’s predecessor on the chair of economics in Vienna, Albert Schäffle (1823 — 1903), must be mentioned. It has been noted before that Schäffle at least hinted at the difficulties a socialist society would face when allocating the available resources to the myriads of different uses. Schäffle is cited for having argued, in Hodgson’s (2010, p. 300) words,
 
@@ -816,11 +816,11 @@ How deep Schäffle actually analyzed the whole question of economic calculation 
 
 At this place it suffices to register that Albert Schäffle, a member of the Historical school, came close to seeing the problem of economic calculation under socialism. Whether he analyzed it satisfactorily is not top priority. One must not forget that, unlike Mises and Hayek, Schäffle wrote decades before the Bolshevik Revolution and had no real-world example of socialism to consider. Furthermore, he mainly wrote before the neoclassical revolution, thus lacking the apparatus necessary for the dismantling of Marxist theory (Hodgson 2010, p. 306). At any rate, Schäffle and the Historical school can be shown to have points of contact with Austrian Economics, whatever the methodological differences may be. Whether these links are worth a closer inspection and whether modern Austrians can profit from it cannot be foretold. For my part, I believe that the comprehensive rejection of a whole school of thought will rarely be justified.
 
-#### Conclusion
+###### Conclusion
 
 Streissler (1990, p. 31) has called it a myth that the early members of the Austrian school elaborated their novel insights independently of and in contrast to German economics of their day. I would not go so far as to maintain that the fundamental opposition between the Austrian and the Historical school is also a myth. At any rate, I tried to show in this chapter that at least some caveats must be made. Although he did not stress this point, even Ludwig von Mises, the father of the _general_ theory of human action, in some of his theoretical arguments presupposes the existence of _historical_ conditions and institutions. The connection to the Historical school can best be seen in the fact that both Menger and Mises employed its capital concept. Mises’s argument on the impossibility of economic calculation under socialism is based on it, and it even seems that the argument naturally flows from it. At least one member of the Historical school, Albert Schäffle, was led to similar, though less elaborated and precise views concerning the role of economic calculation in capitalism and socialism.
 
-#### References
+###### References
 
 Böhm-Bawerk, Eugen von. 1930. _The Positive Theory of Capital_ , translated with a preface and analysis by W. Smart. New York: G. E. Stechert.
 
@@ -882,7 +882,7 @@ In contrast, Austrians emphasize the causal processes in the economy and therefo
 
 This distinctly Austrian perspective on the market as a process _of production_ is the subject for this chapter, with specific emphasis on how changes to the economy’s production apparatus or capital structure are brought about. The aim is to elaborate on the implications of the market’s capital and production structure and thereby illustrate a specific theoretical problem that is conspicuously missing in the Austrian analysis. I draft a solution to this problem by addressing potential remedies made available by market actors exercising productive entrepreneurship. In this sense, the essay elucidates a realm for entrepreneurship within production and capital theory.
 
-#### Production and Capital Structure
+###### Production and Capital Structure
 
 Capital goods can be defined as “the produced goods that must be combined still further with other factors in order to provide the consumers’ good” (Rothbard 2004 [1962], p. 299). These intermediate or “produced” goods that can only indirectly satisfy consumer wants are “ _a necessary way station to increased consumption_ ” (Rothbard 2004 [1962], p. 966; emphasis in original). Seen as a whole, they compose “an intricate, delicate, interweaving structure of capital goods” (Rothbard 2004 [1962], p. 967; Lachmann 1978 [1956]), _a production_ structure that in its current length and form is configured to satisfy wants already anticipated by entrepreneurs.
 
@@ -890,7 +890,7 @@ A production structure is composed of specific capital goods, themselves a combi
 
 Time, therefore, is both a limitation and a factor of production: due to its irreversibility, it “puts the future services of certain resources beyond our reach in the present and so makes it impossible to anticipate their use” (Hayek 1941, p. 52). In other words, we cannot conceive of specialized production without capital. Even acknowledging that there is a capital structure supporting production in multiple stages ultimately appears insufficient for us to fully understand the production process. For this reason, a theory of production is of limited use without a capital theory that also includes action and so explains the structure’s _dynamic_ : how and why the production structure has taken a certain shape and how and why the structure changes over time. As we will see, the Austrian conception of production subject to the heterogeneous structure of productive capital indicates a problem related to the structure of tasks in an economy’s production apparatus. This problem does not exist for Robinson Crusoe but is potentially crippling in a specialized market, and it requires entrepreneurship and integration to be solved.
 
-#### Roundabout Production Without Existing Capital
+###### Roundabout Production Without Existing Capital
 
 Imagine that a person P, in a world without existent capital, decides to manufacture a product A with the intention of making it available for consumers in the open market. To the extent the production process requires (or is more productive with) capital, these capital goods must first be produced. Regardless of the complexity of the specific production process, the only possible way of realizing production of A is to first produce the necessary intermediate goods such as tools and machinery, and then, at a later time and using the intermediate goods, produce A. To make this happen, P therefore accumulates the resources necessary, gets busy creating the means to carry out the production process, and then produces the end product.
 
@@ -900,7 +900,7 @@ The value of this better use of original factors is measured by the subjective v
 
 The temporal sequence of actions within the production process is then exactly the opposite of how its value is derived. Production begins with the extraction of the highest-order goods from their natural state and the production of intermediate or capital goods, and continues through the stages to eventually produce the lowest-order good offered to consumers. Upon consumers’ decision to purchase the lowest-order good at a certain price, the market value of capital goods is established by imputation “upstream” through the higher orders to the highest order and original factors (Menger 2007 [1871]). There can be no capital that is not preceded by production, and there can be no specialized, roundabout production without the existence of capital.
 
-#### Roundabout Production In the Specialized Market
+###### Roundabout Production In the Specialized Market
 
 Let us now turn to analyzing a specialized market economy with existing advanced production structures, as does e.g. Rothbard (2004 [1962]) and Coase (1937). We assume a market with highly specialized production with a capital structure that is well configured to satisfy consumer wants. As capital is heterogeneous, by which is meant that it “is not an amorphous mass but possesses a definite structure [and] is organised in a definite way” (Hayek 1941, p. 6), the capital structure entails both productivity gains and high costs of adjustment. As the market data change, the existing capital structure will be misaligned to real consumer wants. In this sense, the specialized market place is very fragile to (unanticipated) changes.
 
@@ -918,7 +918,7 @@ Entrepreneurs, eager for profit, will bid for capital and labor factors that the
 
 The truthfulness of the temporally dependent order in Mises’s claim can easily be shown, as we shall see in the next section.
 
-#### The Specialization Deadlock
+###### The Specialization Deadlock
 
 Consider the specialized market in the previous section. Assuming the market is minimally regulated and therefore without artificial barriers of entry, we can assume with Rothbard (2004 [1962], p. 369, fig. 41) that the rate of interest income for capitalist investments in each production stage will be approximately the same. Entrepreneurial arbitrage will see to it that this holds true within one production process as well as across parallel, competing processes. Alert entrepreneurs will discover and correct through arbitrage any “errors” revealed by above-normal returns in any process or stage. Profitable (successful) undertakings tend to be imitated and loss-generating (unsuccessful) are abandoned by entrepreneurs eager to earn profits, which suggests an equilibrating process consisting of continuous adjustment through correction (Shane 2003). This, in turn, suggests that markets are effectively created for specific capital goods utilized in production processes as entrepreneurs set out to imitate and emulate processes that earn profits (Stigler 1951; Bylund 2015). The economy in this sense functions as a continuous “discovery process” where competition for profit is the driving force toward better alignment between the totality of the production structure and consumer wants (Hayek 1978).
 
@@ -940,7 +940,7 @@ This leaves the type of _disruptive_ specializing that suggests a new production
 
 Further advances in productivity requires the adoption of a more intensive division of labor — the further splitting of existent tasks — and the use of (new) capital to replace labor with automatic execution of newly identified and separated “minute tasks.” The market, in other words, finds a state of rest in the sense of a highly restricting inertia — if not impossibility — of adopting further productivity-increasing measures. Specialization cannot go further through incremental adoption of better utilizations of labor. Whether or not market actors have exhausted all opportunities for further incremental improvements to production processes, the market is in a specialization deadlock.
 
-#### Breaking Free From the Specialization Deadlock
+###### Breaking Free From the Specialization Deadlock
 
 So far we have considered production in the market: while not all actions necessarily take place independently and under the price mechanism, we noted how markets are generated as new production structures are imitated by competitors (Stigler 1951; Bylund 2011; forthcoming). For all tasks carried out in an economy’s production apparatus, therefore, there is semi-standardization within the limits of substitutability where the price mechanism is applicable. In other words, there is a tendency toward standardization of best practices through competition as improvements are all but universally implemented through profit-induced imitation in the open market.
 
@@ -952,7 +952,7 @@ Consider the case of the tractor noted above. In order to provide a tractor in t
 
 It is not within the scope of this chapter’s discussion to specify the exact nature of implementing such improvements to the production structure. This has been done elsewhere (Bylund 2011; 2015; forthcoming), so it should therefore be sufficient to point out that this is the role of the innovative and imaginative entrepreneur. But it should also be noted that there can be no blueprint for the implementation (realization) of such novel production processes that introduce a radically intensified division of labor since their functioning is strictly unknowable — detailed information about the intricate workings of a previously unseen sub-process is revealed only through its implementation process. For this reason, the entrepreneur can only guide the project and must rely on the decentralized problem-solving or proxy-entrepreneurship of employed workers (Foss, Foss and Klein 2007). This appears to require an integrated production structure, which is commonly referred to as a firm.
 
-#### Implications for Economic Theory
+###### Implications for Economic Theory
 
 What has been drafted above suggests that production theory is incomplete without both capital theory and entrepreneurship. This may appear obvious to Austrians, but the entrepreneurship aspect appears often missing or lacking in discussions on capital theory. Rothbard’s discussion on production theory in _Man, Economy and State_ can serve as an illustrative example.
 
@@ -972,7 +972,7 @@ In this sense, we have drafted a scope for entrepreneurship with the help of cap
 
 In fact, it appears Rothbard in _Man, Economy and State_ fails to recognize the great importance of the division of labor for production and capital theory as well as for the evolution of society. This chapter attempts to show, in line with Mises’s view (Mises 1998 [1949]; Salerno 1990) as well as Rothbard’s later and more astute understanding (Rothbard 1991), how the importance of the division of labor hardly can be exaggerated, but that it in fact can be used to explain the process of capital creation.
 
-#### References
+###### References
 
 Alchian, Armen A., and Harold Demsetz. 1972. “Production, Information Costs and Economic Organization.” _American Economic Review_ 62(5): 777–95.
 
@@ -1054,13 +1054,13 @@ Some of these authors even explicitly claim that mathematization of economics is
 
 This paper acknowledges that mathematization has costs and benefits. At the same time, it admits that it is probably impossible to determine the range of levels of mathematization for which benefits outweigh costs. Given this limitation, the aim of this paper is thus rather modest: it merely attempts to show that the optimal level of mathematization is not zero. More specifically, this paper points out the benefits of mathematization that seem to have been overlooked by some Austrian authors and it shows that most of Austrian criticisms which supposedly challenge mathematization, in fact point to different issues.
 
-#### Benefits of Mathematization
+###### Benefits of Mathematization
 
 Mises (1996; 2003; 1977) and Rothbard (2004; 1997a; 1997b) claim that formalization adds nothing to our knowledge as it only involves translation of verbal statements into symbols.[^39] According to Rothbard (1997a, p. 61; 2004, p. 325), benefits of formalization are none, and therefore formalization should be cut through the principle of Occam’s razor.[^40] Mises (1996, p. 333) suggests that if there is any benefit to formalization at all, it is pedagogical: diagrammatic exposition can be helpful to students of economics. Mises thus indirectly admits that mathematics (in a diagrammatic form) contributes to clarity of exposition. But why restrict this benefit only to students? Should not economists always communicate with their colleagues in the clearest possible way, especially when presenting new ideas?
 
 Clarity of exposition achieved through diagrammatic representation is but one (and perhaps even not the most important) benefit of the use of mathematics in economics. I propose that mathematics offers also the following three benefits: First, mathematics is nowadays a common language of most economists and other researchers across disciplines — it is thus necessary to communicate ideas; Second, mathematics is less ambiguous than verbal language as it forces one to define precisely the meanings of concepts; and Third, mathematics is generally more efficient than verbal language, both for “producers” and “consumers” of economic ideas. These three benefits of mathematization are now discussed in turn.
 
-#### _Mathematics as a Common Language_
+###### _Mathematics as a Common Language_
 
 If the great majority of economists use mathematics, it pays for each individual economist to use mathematics too; this is simply a coordination problem. The use of verbal language may lead to misunderstanding by the rest of the profession. When an Austrian and another economist speak of marginal utility or time preference, for example, do they in fact mean the same things?[^41]
 
@@ -1076,7 +1076,7 @@ Mathematization is of course not the only way of dealing with the “language-co
 
 Another possibility of approaching the “language-coordination problem” is to stick to verbal language with the proselytizing aim of persuading the rest of the profession to use it, too. In other words, one may be trying to change the language convention, and achieve a switch from a “mathematized equilibrium” to a “verbal equilibrium” of the “language coordination game.” Nevertheless, success of such an attempt seems unlikely, all the more for the fact that the “mathematized equilibrium” is — as I argue below — superior.
 
-#### _Mathematics as a More Precise Language_
+###### _Mathematics as a More Precise Language_
 
 One of the benefits of mathematization is that it forces us to formulate our ideas precisely (e.g., Klein 1954; Tinbergen 1954; Chiang 1984; Clower 1995). It is sometimes correctly argued that verbal language can be made as precise as the language of mathematics (e.g., Menger 1973; Beed and Kane 1991). In reality, however, this opportunity very often goes unexploited: unless one is forced to express ideas formally, one is perhaps not even aware that the language is ambiguous. Perhaps the best example of increased clarity due to formalization is the creation of the supply and demand model. As Schumpeter (1994, p. 602) points out:
 
@@ -1090,7 +1090,7 @@ Interestingly, Rothbard sees the ambiguity of the verbal language as an advantag
 
 This argument is unpersuasive on several grounds: First, it is not at all clear why researchers should use imprecise language just because their researched subjects are imprecise; one can (and, indeed, should) talk precisely even about imprecision. Second, Leoni and Frola’s argument seems to imply that economists should not describe human behavior by concepts which are not used by the acting individuals themselves. However, this requirement imposes unnecessary constraint on economic theories. For instance, economists would be barred from referring to the law of marginal utility merely because people are generally unaware of this law. Finally, Leoni and Frola neglect the fact that economics mostly deals with an order which emerges as an unintended consequence of human actions (Hudík 2011b) where their argument is inapplicable. Consider, for example, activities of speculators which inadvertently contribute to efficient allocation of resources. I assume that we want to be able to describe these consequences even though speculators themselves are unaware of them.
 
-#### _Mathematics as a More Efficient Language_
+###### _Mathematics as a More Efficient Language_
 
 Mathematics is often more efficient than verbal language for both “producers” and “consumers” of economic ideas. From the perspective of the “producers”, mathematics economizes on effort: laborious thought processes are “embodied” in simple rules for manipulation of mathematical symbols (Whitehead 1911, p. 41). In this context Duesenberry (1954) understands mathematics as a “capital good” increasing productivity of economist’s “labor.” On the one hand, Duesenberry admits that it may be true that one cannot do anything with mathematics which cannot be done with verbal language; on the other hand, however, he claims that verbal language is much less efficient; according to his analogy, “[o]ne probably cannot do anything with power shovels that cannot be done with picks and hand shovels” (Duesenberry 1954, p. 361). Analogously, Chiang (1984, p. 5) thinks of mathematics as a “mode of transportation.”[^45]
 
@@ -1098,7 +1098,7 @@ Chiang (1984, p. 4) mentions another aspect of the efficiency of mathematization
 
 As for “consumers” of economic ideas, mathematics often allows them to economize on their time and attention: as Klein (1954, p. 360) puts it, “[t]here is a real merit in condensing wordy volumes or manuscripts into a few understandable pages.” Nash may again be used as an example here: his famous dissertation thesis that earned him the Nobel Prize has only twenty seven pages; his paper on the existence of Nash equilibrium takes up only one page (Nash 1950a), while his ground-breaking paper on the bargaining problem is eight pages long (Nash 1950b). It is safe to assume that without formalization Nash’s papers would have to be considerably longer.[^47]
 
-#### Costs of Mathematization
+###### Costs of Mathematization
 
 Mathematization does, naturally, have its costs. As pointed out by Morgenstern (1963, p. 2), when evaluating costs of mathematization, one has to distinguish among (i) criticism of inappropriate use of mathematics, (ii) criticism of the underlying economic model which happens to be analyzed mathematically, and (iii) criticism of mathematization.
 
@@ -1108,7 +1108,7 @@ Type (ii) criticisms are also not arguments against mathematization. They includ
 
 Actual costs of mathematization are identified by type (iii) criticisms. What are these costs? I identify three: first, tendency to downplay factors which are difficult to formalize; second, tendency to lose touch with reality; third, decrease of intelligibility for lay people. Note, that the first two costs are not inherent to mathematization per se; they are rather incidental to it and can perhaps be avoided. More importantly, though, none of these costs constitutes by its nature an argument for avoiding the use of mathematics altogether.
 
-#### _Downplaying Factors Not Amenable To Formalization_
+###### _Downplaying Factors Not Amenable To Formalization_
 
 A tendency to neglect everything that cannot be easily formalized is a drawback of mathematization acknowledged by mathematical economists themselves (e.g., Debreu 1986). For instance, Krugman (1996; quoted in Backhouse 1998) argues that economists ignored important models for spatial economics just because these models could not be formalized.
 
@@ -1122,21 +1122,21 @@ Other phenomena that are difficult to treat mathematically and are often mention
 
 I suggest that the way to deal with the phenomena which are currently difficult to mathematize is not only a careful use of known mathematic tools but also development of new tools. For example, before von Neumann and Morgenstern (1953) mathematical economics (and, as a matter of fact, _any_ branch of economics) was unable to deal with strategic decision problems. Hence, von Neumann and Morgenstern constructed a completely new branch of mathematics to deal with strategic issues. As this example illustrates, the limits of mathematization are not given but constantly evolve.
 
-#### _Losing Touch with Reality_
+###### _Losing Touch with Reality_
 
 It is often argued that mathematization leads to a loss of contact with reality (e.g., Boulding 1948; Champernowne 1954; Novick 1954; Šímová and Šíma 2012).[^50] This can have several reasons: In Debreu’s (1986, p. 1268) view, the power of mathematics is such that the “seductiveness of [mathematical] form becomes almost irresistible” and researchers thus tend to forget economic content. Still, Debreu argues that separation of models and reality can sometimes be an advantage. For instance, it is said to bring economics closer to the ideology-free ideal (see Düppe 2010).[^51]
 
 According to Duesenberry (1954, p. 362), loss of touch with the real world is simply given by the job description of an economic theorist: the aim of the theorist is not to explain a particular set of observations but to show general consequences of a set of premises. To this argument we may add that a theorist also aims at universalization: she also attempts to show that two or several seemingly separate theories are merely different manifestations of the same principle. Hence, theoretical research is necessarily often disconnected from reality as it focuses on logical consistency of theories. From this perspective, criticism of the separation of mathematical models from reality could be interpreted as a criticism of theoretical research as such and as a plea for focusing on applied research. I hasten to add that the debate on optimal allocation of resources between theoretical and applied research is extremely important (see e.g., Šťastný 2010); yet, it is a different debate than the one on costs and benefits of mathematization.
 
-#### _Intelligibility_
+###### _Intelligibility_
 
 It is probably true that the more formalized a model is, the less intelligible it is to lay people. Should economists worry about this trade-off? On the affirmative side stands the consideration that economic literacy is low which in turn has substantial negative externalities as citizens and voters are called upon to form opinions on many economic issues (e.g., Becker 2000; Šťastný 2010). On the other side stands the argument that, as in any other science, researchers should write primarily for other researchers and educating lay people should be left to popularizers: as individual economists differ in their skills and talents, there are benefits from specialization.[^52] Trading off benefits of formalization for intelligibility of academic writing to the general public thus seems inefficient. A different question is whether economists have sufficient incentives to be popularizers; but that is again for another debate.
 
-#### Conclusion
+###### Conclusion
 
 Examination of benefits and costs of mathematization suggests that the issue is not whether to use mathematics in economics or not; instead, the issue is what kind of mathematics is appropriate and how it should be used (cf. Backhouse 2000; Rosser 2003). It should be stressed that mathematization by no means is in conflict with the Austrian methodology, although some aspects of Austrian economics may be difficult to formalize at the present state of knowledge. This limitation, however, does not imply that we should give up on pushing the limits of mathematization further. Given that spreading ideas among the bulk of modern economists requires the use of mathematical language, one may only hope to see more and more mathematized Austrian economics in the future. For as they say: _b(m)_ \- _c(m)_ > 0, for some _m_ > 0.
 
-#### References
+###### References
 
 Backhouse, Roger E. 1998. “If Mathematics Is Informal, Then Perhaps We Should Accept That Economics Must Be Informal Too.” _The Economic Journal_ 108(451): 1848–58.
 
@@ -1355,7 +1355,7 @@ Then I explain how, on the other hand, the ambiguous treatment of the inelastici
 
 Finally, the main theory and policy implications of our findings are stressed: if there can be monopoly prices without inelastic demand schedules above free market prices, the price distortion potential of monopolistic privileges is more important than what Rothbard envisages. It becomes then all the more urgent to refrain from granting them if one wants to spare the bulk of consumers from the effects of factor misallocation.
 
-#### Re-Thinking the Limits to Monopoly Pricing: Rothbard’s Contribution
+###### Re-Thinking the Limits to Monopoly Pricing: Rothbard’s Contribution
 
 In relation to Mises’s exposition of monopoly price theory, Rothbard’s central contribution is to show that the dichotomy between a competitive and a monopoly price is illusory in a free market framework. The movement from a competitive price to a monopoly price and the movement from a sub-competitive price to a competitive price are indistinguishable, for instance. The most fundamental reason is that the seller is in the same position _vis-à-vis_ the demand schedule, whatever case one considers. All that we know based on Mises’s praxeology is that, nonmonetary factors aside, the seller will try to obtain a price above which the demand schedule is elastic. This is true when he can obtain a monopoly price. But this is true as well as when he can only charge a competitive price. Otherwise, he would charge a higher price. In other words, both prices appear to be distinguishable only if one arbitrarily postulates that a certain price is competitive so that a higher price can be considered as a monopoly price if the seller can increase his monetary income or net revenue by selling the good at this higher price. Absent an independent criterion to conceive of this competitive price, the whole dichotomy fades away (Rothbard 1962, pp. 687–98). If one cannot distinguish between two things, they are essentially the same.[^55]
 
@@ -1367,13 +1367,13 @@ In other words, one can conceive of a monopoly price, as compared to a free mark
 
 Now, these simple yet profound insights mean the following, in relation to the question of the limits to monopoly pricing. If Mises and all the writers who have claimed that monopoly prices could arise in a free market framework have been mistaken here about their nature, they have underestimated the limits to monopoly pricing in society. Rothbard’s contribution — recasting the theory of monopoly price as part of a theory of interventionism — implies the claim that the scope for monopoly prices is narrower than what Mises thought.[^57]
 
-#### The Overlooked Case of Monopoly Prices with Elastic Demand Schedules
+###### The Overlooked Case of Monopoly Prices with Elastic Demand Schedules
 
 Even if one endorses Rothbard’s contribution, one might nevertheless argue that there is more room for monopoly prices than he thought. To understand this, one must focus on some condition required for a monopoly price to emerge that both Rothbard and Mises have repeatedly stressed in their writings on the topic. The above quote displays this condition. The demand schedule that the holder of a monopolistic privilege faces must be such that above the free market price (or the competitive price, for Mises), one or several prices bring in more revenue. This is the “inelasticity of demand” criterion. The implication is that monopoly pricing in society is limited to the extent that demand schedules are elastic in the relevant ranges. For Rothbard then, the less goods there are for which people are eager to increase their expenses on above their free market prices, the less room there is for monopoly pricing, no matter how effective the grants of privilege are at hampering competition.
 
 There can be no quarrel with this as long as one takes an immediate run perspective in which the goods to be sold or withheld from the market are readily available. Matters are different however once one focuses on the production decision points, when people try to maximize net income and not necessarily gross income. Increasing one’s net income by restricting one’s production of a good is possible even if one faces an elastic demand schedule above the free market price, provided that one’s average production expenses fall at a high enough pace (or rise slowly enough). All that is really required is that total expenses fall more than total income. The decisive consideration is not inelasticity of demand. If it remains of course a factor of emergence of monopoly prices, it is not a necessary criterion anymore. The limits to monopoly pricing are not as narrow as what Rothbard suggests.
 
-#### Mises and Rothbard’s Conflation of the Immediate Run and the Long Run
+###### Mises and Rothbard’s Conflation of the Immediate Run and the Long Run
 
 Now the reader familiar with Mises and Rothbard’s writings might ponder. These authors did not forget to take production expenses into account in their discussions of monopoly prices, did they? To be sure, they did not. The point is however that Mises (1944), Mises (1949) and Rothbard (1962) never explicitly recognize that the inelasticity of demand criterion needs to be qualified once production is taken into account. In these expositions, they tend to jump from an immediate run to a long run perspective and vice versa without saying so. As a consequence, inelasticity of demand for the product appears to be a required criterion even when the analysis focuses on the production decision point.
 
@@ -1407,7 +1407,7 @@ Rothbard too implicitly recognizes the case of a monopoly price with an elastic 
 
 To avoid conflation, one can explicitly refer to the two decisions points and thereby disentangle the two required criteria. Kirzner’s exposition comes closer to this than Mises’ and Rothbard’s (Kirzner 1963, pp. 265–96) and is arguably superior in this regard. Another is to call the immediate run and the long run monopoly prices differently. This is, as Salerno (2003, p. 31) notices, what Fetter (1915, pp. 80–81) does, writing of a “crude monopoly price” when the sale of an already produced stock of a good is considered, and of a mere “monopoly price” for a good when its production is considered. Then it can be easily grasped that a crude monopoly price requires an inelastic demand schedule above the free market price, whereas a mere monopoly price does not.
 
-#### The Trouble with Rothbard’s Falling Costs Proviso
+###### The Trouble with Rothbard’s Falling Costs Proviso
 
 The lack of a clear-cut explicit distinction in Mises and Rothbard’s analysis between the immediate run and the long run can lead to some further confusion. If one ignores the case of a monopoly price with an elastic demand, it is difficult to make sense of Rothbard’s _proviso_ , according to which a monopoly price will arise when one is striving for maximum net proceeds, “whatever the actual configuration of money costs, unless, indeed, average money costs are falling rapidly enough in this region to make the “competitive point” the most remunerative after all” (Rothbard 1962, p. 674).
 
@@ -1415,7 +1415,7 @@ The reason is the following. For the “competitive point”[^60] to yield a hig
 
 The _proviso_ makes sense only once one recognizes the possibility of a monopoly price with an elastic demand. In general, the higher the average expenses become as production expands, the more likely it is that cutting production below the free market level pays. Hence the case of a monopoly price with an elastic demand, provided that average expenses become low enough when one reduces production below the free market level (“low enough” meaning that total expenses fall at a faster pace than total receipts in order for net proceeds to rise). In other words, the more they rise instead, or fall at a slow pace, the less likely it is that net proceeds will be higher at a lower level of production, the more chances there are that the free market level of production is the most remunerative. But this possibility arises only when the demand is elastic above the free market price. When doing less brings in more gross revenue, restriction in the monopolized industry always pays. Any other conclusion unduly narrows down the limits to monopoly pricing.
 
-#### The Current Textbook Treatment as a Superior Alternative?
+###### The Current Textbook Treatment as a Superior Alternative?
 
 It could be argued that the orthodox take on monopoly as found in Arnold (pp. 223–58) or any microeconomics textbook is superior to Mises and Rothbard’s in at least one respect: there is no risk of the sort of conflation we have pointed out here because there is no immediate run analysis to conflate with a long run perspective in its treatment of the issue. In that neoclassical approach, the sellers are producers too, even in the short run. There is no question of what to do with an available stock of a good. There is no reason then for inelasticity of demand to be a distinguishing criterion since monetary profit maximization — and therefore money costs — are relevant considerations in all cases.
 
@@ -1429,7 +1429,7 @@ Turning toward this approach as an apparently more rigorous alternative brings i
 
 It should be kept in mind that the older monopoly price theory does not depend on the benchmark of “pure and perfect competition,” which explains why Mises and Rothbard found something of value in it whereas they entirely dismissed the newer view (Mises 1949, pp. 356–57; Rothbard 1962, pp. 720–38).
 
-#### Conclusion: Theory and Policy
+###### Conclusion: Theory and Policy
 
 Is there more to say about the maximum limits to monopoly pricing than the fact that in the immediate run, elastic demand schedules deprive monopolistic privilege holders of opportunities to charge “crude” monopoly prices? Or that demand schedules which are too elastic in relation to average production expenses deprive monopolistic privilege holders of opportunities to charge monopoly prices for their products? According to Rothbard (1962, p. 681), in the aforementioned “A World of Monopoly Prices?” section of _Man, Economy, and State_ , “monopoly prices could not be established in more than approximately half of the economy’s industries,” among other reasons because it is impossible for every industry to face an inelastic demand schedule since buyers cannot spend more in every industry.
 
@@ -1437,7 +1437,7 @@ Now, as explained above, the inelasticity of demand criterion is only required i
 
 The implications are straightforward. As far as pure theory is concerned, Rothbard underestimated the impact of granting monopoly privileges on price formation. If monopoly prices can arise without inelastic demand schedules, factor allocation is correspondingly altered to the detriment of the bulk of consumers, beyond the already recognized alteration occurring under the condition of inelastic demand schedules. As far as policy is concerned, it becomes all the more urgent to abolish monopoly privileges, or to refrain from enacting them in the first place, if one wants to minimize factor misallocation.
 
-#### References
+###### References
 
 Armentano, Dominick T. 1978. “Critique of Neoclassical and Austrian Theory.” In Louis M. Spadaro, ed.,_New Directions in Austrian Economics_ , pp. 94–110. Kansas City, Mo.: Sheed Andrews and McMeel.
 
@@ -1494,7 +1494,7 @@ In[^61] recent decades we have witnessed several debates on the legacy of Friedr
 
 We would like to shed some light on the Hayekian analysis of different monetary institutions. Specifically, we want to clarify what the economic consequences of such institutions: fractional and one-hundred percent reserve banking; and various monetary policy norms of central banks.[^64] Special attention will be given to the differences between constructs of pure money and business cycle theories as opposed to policy prescriptions. The first section discusses the relation between fractional-reserve banking and the business cycle. It also deals with Hayek’s opinions on one hundred percent reserve banking. In the second section we debate the claim of Hayek endorsing the monetary policy of stabilizing the level of nominal spending. Several concluding remarks are offered in the last section.
 
-#### Fractional and One-Hundred Percent Reserve Banking
+###### Fractional and One-Hundred Percent Reserve Banking
 
 In Hayek’s view the contemporary organization of the banking sector was responsible for the cyclical fluctuations of the economy. He devoted the whole chapter of the _Monetary Theory and the Trade Cycle_ to show that the expansion of credit by fractional-reserve banks must necessarily lead to unsustainable boom even if there is no central bank.[^65]
 
@@ -1520,7 +1520,7 @@ Hayek returned to the idea of one hundred percent reserve banking in 1937 in the
 
 This analysis does not mention any economic deficiencies connected with the system of one hundred percent reserve banking. The obstacle is of a practical nature — whether we will be able to stop the creation of new money substitutes that will take the place of bank notes and deposits.[^75] We may conclude here that Hayek saw the merits of advocating for an end of fractional-reserve banking — a seed of the business cycle in the contemporary economy — but never fully endorsed the program of one hundred percent reserve banking, pointing to problems of both a theoretical and practical nature.
 
-#### Central Bank’s Policy Prescriptions
+###### Central Bank’s Policy Prescriptions
 
 The greatest controversies regarding Hayek’s stance on monetary theory arise from the central bank’s policy norms that Hayek allegedly proposed. Since we live (as Hayek did as well) in a world of central banks managing the fractional-reserve banking system, we may ask if there is something the monetary authorities can do to mitigate the business cycle.[^76] Recently Lawrence White stated:
 
@@ -1562,7 +1562,7 @@ A proponent of stabilizing the prices of the factors of production could argue t
 
 There is also another “Hayekian” problem connected with advocating QE: can the central bank actually gather and process all the information needed to fight the shrinking money expenditures in the same manner as private banks would do.[^95]
 
-#### Conclusions
+###### Conclusions
 
 Friedrich von Hayek rarely stated clearly his monetary policy proposals. He was mostly interested in the field of pure monetary theory (at least in the 1930s). It seems to us that his theories of money and business cycle can give good arguments for people advocating one hundred percent reserve banking. When it comes to monetary policy of the central bank Hayek briefly proposed the idea of stabilizing the prices of factors of production, but did not elaborate on why this should be the best policy.
 
@@ -1574,7 +1574,7 @@ In a lecture from October 1977 Hayek stated:
 
 This call for a competition in the field of money seems to me the best example of a truly Hayekian monetary policy.
 
-#### References
+###### References
 
 Block Walter, Kenneth M. Garschina. 1996. “Hayek, Business Cycles and Fractional Reserve Banking: Continuing the De-Homogenization Process.” _Review of Austrian Economics_ 9(1): 77–94.
 
@@ -1668,7 +1668,7 @@ Scholars[^100] of the Austrian tradition are particularly known for their import
 
 This chapter is structured as follows. Section 2 gives an overview about the nature of money to understand the dynamics of fiat money. Section 3 outlines why the introduction of a fiat money regime potentially increases the accumulation of public debt. Section 4 outlines the econometric model to account for the effects of different monetary regimes on public debt. Furthermore, potential lines of research are provided to improve the explanatory power and robustness of the model. Section 5 concludes.
 
-#### Monetary Mechanisms and Monetary Policy
+###### Monetary Mechanisms and Monetary Policy
 
 As Mises repeatedly stresses, money is the fruit of indirect exchange (Mises 1980, p. 45). Thus, the emergence of money is spontaneous and becomes necessary as the division of labor increases and wants become more refined (Mises 1980, p. 5). Individuals only choose to have recourse to indirect exchange when the goods they can acquire are more marketable than those which they surrender.
 
@@ -1688,7 +1688,7 @@ To recapitulate, money evolved spontaneously in the market. Historically, gold a
 
 The drawbacks of this business model must be resolved by some external institution that guarantees the liquidity of banks. This is the role of central banks (Bagus 2012). Central banks are lenders of last resort for commercial banks. Banks can now refinance their debt through short-term credits and liquidity problems can be limited as the production of money is coordinated by the central bank. However, under the gold standard, even coordinated money expansion was limited by the fear of redemption in a crisis. By the 1970s the burden of the gold standard was removed and the doors were further opened for the lucrative business of money creation.
 
-#### Monetary Policy Since the 1970s in the United States
+###### Monetary Policy Since the 1970s in the United States
 
 The abolition of the gold standard on August 15, 1971, led to the establishment of a regime of paper monies for most of the national currencies. Before this date all national currencies were linked to the gold standard via the US dollar. As the US decided to go off gold altogether, the fractional-reserve gold certificates basically became paper money (Hülsmann 2008, p. 223). The new fiat money standard magnified moral hazard at a large scale. Fiat money allows producers of money to “create _ex nihilo_ virtually any amount of money” (Hülsmann 2006, p. 10). The growth of the money supply increased significantly after the decision to go off the gold window. The M3 monetary aggregate grew by 12.42 percent in 1972 in the US, although the average growth rate was about 6.76 percent in the decade before.
 
@@ -1702,7 +1702,7 @@ By February 1995, Greenspan announced that his policy of increasing rates is ove
 
 To summarize, ever since the fight on inflation of the early 1980s under Volcker, interest rates have been declining. The most substantial reductions happened in the post-era of the dotcom bubble and as a response to the terrorist attacks of 2001. Likewise, federal funds rate have been lowered to an all-time low to fight the current recession. Monetary policy of the last thirty years substantially reduced the cost of debt and consequently eased the issuance of debt securities in the financial market.
 
-#### Fiat Money and Public Debt
+###### Fiat Money and Public Debt
 
 Fiat money and legal privileges reduce the natural barriers to the creation of credits. Debts are an easy way to increase the expenses of governments. Furthermore, debts are by far more popular than the alternative, i.e., taxes. However, governments are special debtors as they can have recourse to means of financial repression: “Financial repression occurs when governments implement policies to channel to themselves funds that in a deregulated market environment would go elsewhere” Reinhart, Kirkegaard, and Sbrancia (2011).
 
@@ -1710,7 +1710,7 @@ There are several measures that increase artificially the demand of sovereign bo
 
 ![](http://cdn.mises.org/Gabriel figure 2 500.png)
 
-#### Empirical Implications
+###### Empirical Implications
 
 Building upon the theoretical arguments of this paper, it is manifest to test whether public debt and government deficits have, _ceteris paribus_ , significantly increased under a full fiat money standard.
 
@@ -1724,17 +1724,17 @@ Figure 4 suggest that wars played a major role for the accumulation of debt. As 
 
 There might be a potential endogeneity bias for the decision to adopt (or leave) the gold standard or a fiat money standard, which could likely lead to spurious results for our analysis. Basically, this would mean that some underlying factor accounted for both the choice of the monetary regime and the differences in the level of public debt. For example, war times and a suspended gold standard have been highly correlated in history for obvious reasons. However, as Bernanke (2004, p. 16) outlines, those decisions are highly influenced by internal and external political factors so that it is very unlikely to be an issue for our analysis.
 
-#### Empirical Strategy
+###### Empirical Strategy
 
 One potential empirical strategy has been outlined in Gabriel (2014). As outlined above, there is conflicting evidence about the stationarity of public debt. To overcome this problem, I analyze GDP deficits as the dependent variable for the sample period from 1800 to 2012 (Bohn 2008). In this paper, I use a VAR(2) model which controls for several factors such as military spending to capture the war periods or interest charges to capture the cost of debt.[^105] The model allows us to make interesting forecasts of how the dependent variable should have evolved during the period of the full fiat money standard (1971 to the present) after controlling for the outlined variables. Figure 4 summarizes the findings of Gabriel (2014).
 
 The red line describes actual data on GDP deficits for the specified period. As described before, the VAR(2) model is applied to the dataset from 1800–1970 to generate a forecast of the how the values should have evolved based on the specified framework. This is the blue line. Finally, the green area corresponds to the confidence interval for the forecast of the VAR(2) model. This graph shows that actual deficits are in general higher (except for the year 2000) than they should be. Thus, the interpretation of this period by Yoon (2012) as a result of the Cold war is not supported by this analysis. The noteworthy GDP deficit figures must be explained otherwise. The theoretical arguments in this chapter make a case that the dynamics of fiat money are a plausible explanation for this observation.
 
-#### Conclusion
+###### Conclusion
 
 Austrian scholars in monetary economics are not tired of pointing out the dynamics of fiat money and their impact on the economy. This chapter attempted to complement their theoretical arguments by providing a short historical overview of monetary policy in the United States. A preliminary empirical assessment provides evidence that the switch to the current monetary regime possibly explains higher GDP deficits after controlling for other factors such as military expenses or interest charges. A more detailed analysis on this issue is left for future research.
 
-#### References
+###### References
 
 Bagus, Philipp. 2012. “Austrian business cycle theory: are 100 percent reserves sufficient to prevent a business cycle?” _Procesos de mercado: revista europea de economia politica_ 9(1): 389–410.
 
@@ -1797,7 +1797,7 @@ The same approach to heterogeneity applies for different types of “knowledge.�
 
 Here we offer our (arbitrary) classification of knowledge, which, though not very rigorous, helps to navigate through the usages of the term in the calculation debate. It is important to keep in mind that we don’t want to completely classify various types of knowledge, but to envision how it relates to the socialist puzzle.
 
-#### Objective “Technological” Knowledge[^108]
+###### Objective “Technological” Knowledge[^108]
 
 The word “objective” seems suitable, because the main feature lies in the interpersonal aspect of this knowledge, which can be simply transmitted from one person to another. It is knowledge which is coded in textbooks and countless publications.[^109] Due to its specific “objectivity” it can be communicated between the people with the use of alphabet, algebra and other symbols. Without those symbols there would be no abstract thinking, and consequently man would still live in caves (Cassirer 1944, pp. 46–47). Objectivity is here to be understood as the possibility to be (potentially) universally recognized by any intelligent being, no matter what place and time one lives in. Due to language and objectivity of those statements knowledge can be transmitted (sometimes through the painful process of learning) between all intelligent (and sufficiently capable) individuals.
 
@@ -1805,7 +1805,7 @@ Such knowledge can include statements from all developed sciences be they empiri
 
 The important fact is that none of those statements has to do with distinct characteristics of the particular being who is proposing them. They are as general as possible and can be presented by a male teenager in Africa, a female doctor in Germany, or retired astronaut in the Moon. Also they are conditioned by the concept of Wertfreiheit. They are value-free. Their most important feature is correctness or incorrectness, no matter the values, opinions and views of the person proposing them. During the socialist calculation debate such knowledge was seen as easily obtainable and possessed by socialist bureaucrats.
 
-#### Hayekian Knowledge
+###### Hayekian Knowledge
 
 Human knowledge does not end with such universal and communicative observations. Not all the data can be effortlessly gathered in objectified and interpersonal form. Some information is hard or costly to transfer, so perhaps it seems sensible to use the name “transfer problem.” There exist two main reasons causing the transfer problem to arise. The first one is a subjective nature of individually “witnessed” data, which become a part of “tacit knowing.” Hayekian knowledge is perceived by an individual. At the same time it is being used by the individual even though she or he cannot formulate it explicitly and communicate it to another person. Tacit information is beyond textbooks and often beyond personal recognition of it (Polanyi 1966, p. xviii). Since personal boundaries are difficult to overcome such knowledge remains hidden behind individual barriers of the mind (Huerta de Soto 2010, pp. 27–28).
 
@@ -1813,7 +1813,7 @@ The second reason for the transfer problem is decentralized nature of Hayekian k
 
 The examples of that knowledge could be “John knows unspoken local customs,” “Jack is the only one who knows how to talk to Mary,” “Martin knows how to start that machine,” etc.
 
-#### Misesian Knowledge
+###### Misesian Knowledge
 
 An important question that arises with the title of the section is: why make a difference between “Hayekian” and “Misesian” knowledge? We are inclined to do so, because Mises emphasized the _role of prices_ in the economy, whereas Hayek attempted to go further and focus on something underneath prices: _production functions_. For the former, prices per se were of interest. For the latter something more substantial had to be hidden behind those prices. Hence local conditions and knowledge about them was named by us as “Hayekian.” In the case of Mises, all aspects associated with calculation and prices will be seen by us as “Misesian” knowledge.
 
@@ -1833,7 +1833,7 @@ All knowledge associated with various past and present instances of monetary cal
 
 Three distinctive examples of Misesian knowledge could be: (1) “Lemons sold for 3 dollars per kilogram yesterday,” (2) “This flat is for sale for a million dollars,” (3) “Martin decided to produce 30 uniquely designed cars and price them at \$3 million per car.”
 
-#### “Full” Economic Knowledge
+###### “Full” Economic Knowledge
 
 Complete economic knowledge is not anything “real,” but it is one of the assumptions in the possible “mathematical” solution to the calculation problem (which was never consequently defended by anyone). It boils down to knowledge of all possible “production functions” available to human beings. Hayek had this type of knowledge in mind when he theorized about allocation problems after postulating many _ifs_ ; if we possess all relevant information, all preferences, all knowledge of available means, then the problem of allocation is “purely one of logic” (Hayek 1945, p. 519).
 
@@ -1847,7 +1847,7 @@ The last few sentences seem too trivial and obvious to be mentioned, but there i
 
 As we see, full economic knowledge is unachievable because of the “complexity” and “indeterminacy” of what we sometimes call “production functions.” Indeterminacy problems were to be avoided only if man could turn into a sort of “Laplace’s demon” — entity capable of gaining knowledge about “everything,” _meta_ -knowledge, which would allow the possessor of it to project reality in any way he or she wanted. Fortunately we deal in this article with humans, not gods; henceforth we can set such issues aside for philosophers and theologians. The theoretical economic system can never be “complete” in such sense.
 
-#### Knowing, Guessing and the Market Process
+###### Knowing, Guessing and the Market Process
 
 Perfect Laplacian knowledge leads to perfect forecast. All-knowing man possessing features of the Laplacian “demon” could notice and understand the position of any molecule (even a social “molecule”) in the (social) universe. Such recognition would allow for the planning of every future step ahead and effectively adjust actions to any desirable and possible state of affairs. No mistakes would be committed and the equilibrated Utopian dream could be realized. Any step away from such perfect knowledge results in uncertainty. In order to cope with uncertainty people try to forecast future events.
 
@@ -1873,11 +1873,11 @@ The crucial side of the competitive process is its legal aspect. The mechanism o
 
 In the economic analysis of socialism we can assume many things. If we assume that planners have “full knowledge,” then we “solve” the problem with an unrealistic assumption. In the real world planners can only gain other types of knowledge. They can possess all the necessary technological knowledge, and even the more specific Hayekian knowledge of time and place. We can even add that planners could possess scatters of Misesian knowledge: they could accurately know past prices and price offers right before the imposition of the socialist order. Yet even this knowledge does not solve the main socialist deficiency: the central owner does not know what are, or would be, the allocations of private owners. He cannot substitute them, or even hire them as bureaucrats, because tangible entrepreneurial skills are manifested in the realms of praxeological boundaries conditioned by asset ownership. When the central owner nationalizes the resources, all entrepreneurial skills are outlawed and simply lost.[^122] They cannot be recovered by any bureaucratic structure, because there is no real world competition set in the property regime.
 
-#### Conclusions
+###### Conclusions
 
 As we have seen, in economics “knowledge” can have many different meanings. In assessing economic systems one has to be careful in making particular assumptions about “knowledge,” because any discussion may turn out to be blurred by definitional barriers. Depending on what we exactly mean by the term “knowledge” various conclusions about its possession or non-possession can be reached. It all comes down to what exactly we understand by this term.
 
-#### References
+###### References
 
 Alchian, Armen A. 1950. “Uncertainty, Evolution, and Economic Theory.” _Journal of Political Economy_ 58(3).
 
@@ -1949,7 +1949,7 @@ One controversial problem that remains to be thoroughly examined is the relation
 
 Given that Austrian economists are often critical of the various economic arguments in support of regulation, it should not come as a surprise that an entrepreneurial theory linking intervention to welfare losses would be readily accepted. However, I argue that the view of entrepreneurship advanced by Professor Kirzner faces serious difficulties when it tries to explain the effects of public policy on entrepreneurship. I suggest that more satisfactory answers to questions of policy can be found by considering intervention through the framework of entrepreneurial calculation and judgment. This approach was pioneered mainly by Ludwig von Mises, especially in his famous dispute over the feasibility of socialism. Mises’s work has in turn been expanded and elaborated by later economists, especially Joseph Salerno, whose contributions to our knowledge of the entrepreneur’s distinct role cannot be overstated (1990a, 1990b, 1993, 2008). The work of economists like Mises and Salerno clearly demonstrates that the calculation-judgment theory is applicable to a wide range of policy problems, and firmly establishes the dangers of economic intervention for the market process.
 
-#### Entrepreneurial Incentives and Economic Policy
+###### Entrepreneurial Incentives and Economic Policy
 
 This section explores the relation between alertness theory and economic policy. The framework for Kirzner’s policy analysis is found in his theory of “entrepreneurial incentives,” developed primarily in his book _Discovery and the Capitalist Process_ (1985).[^124] Entrepreneurial incentives are a way to explain the roots of alertness and their role in promoting opportunity discovery. This is necessary because for Kirzner discovery falls outside the conventional economic presentation of incentives, as I will now explain. A consistent theme in Kirzner’s writings is the contrast between what he calls “Robbinsian maximizing” and entrepreneurial alertness. Robbinsian maximizing is a textbook description of how individuals engage in the weighing of alternatives, perform cost-benefit analysis, and maximize utility.[^125] In other words, Robbinsian maximizing involves individuals perceiving and reacting to incentives in the usual economic sense. However, “ordinary” incentives cannot be used to explain entrepreneurs’ discovery of opportunities, Kirzner argues, because incentives must be known to an actor in order to be incorporated into standard utility calculus. But pure profit opportunities are _unknown_ ; they are waiting to be discovered, and therefore cannot consciously play into the cost-benefit analysis of individuals. Alertness to opportunities must therefore be explained by factors other than conventional economic incentives.
 
@@ -1989,7 +1989,7 @@ There is then a difficulty in explaining how entrepreneurial alertness differs i
 
 As mentioned above, Kirzner recognizes the problem involved in not explaining opportunity causation, yet still draws theoretical and policy conclusions as if the paradox had been resolved. It is difficult to escape the feeling that Kirzner accepts it as a matter of course that the market process produces beneficial welfare outcomes, and further, that this is the direct result of entrepreneurs tending to discover profitable opportunities. As he himself puts it, “there can be no doubt that such inspiration [i.e., entrepreneurial alertness] has been of enormous importance throughout recorded human history” (1985, p. 109). But this is a conclusion to be reached by careful reasoning, not a fundamental assumption. And until we clarify these assumptions and more clearly explain the foundations of entrepreneurial theory, economic policy is bound to remain a controversial subject. While this is far from an exhaustive discussion, I hope it is sufficient to demonstrate the need for careful scrutiny of the alertness hypothesis in economic policy, and moreover, to spark economists’ interest in alternative theories of entrepreneurship that more easily explain the effects of regulation on entrepreneurial behavior.
 
-#### Entrepreneurial Calculation and Judgment
+###### Entrepreneurial Calculation and Judgment
 
 The problems of the alertness approach do not mean that entrepreneurial theory must give up any hope of policy relevance. However, they do require us to more carefully consider the basic elements of theory, and how they relate to real-world human behavior. To this end, I suggest that instead of a theory of entrepreneurial _alertness_ , what is needed is a theory of entrepreneurial _judgment_. The judgment approach to entrepreneurship has a long history within the Austrian school, and can be traced back at least as far as Menger’s writings. Menger did not write extensively on the entrepreneur, but he did describe a number of different ways entrepreneurship can occur (1994, pp. 159–61). Two forms of entrepreneurship that are relevant for judgment are “the _act of will_ by which goods of higher order … are assigned to a particular production process” and the “ _supervision_ of the particular production process” (Menger 1994, p. 160; emphases in original). Both of these aspects of entrepreneurship point to the idea of a capital-owning, decision-making entrepreneur (Salerno 2008).
 
@@ -2005,17 +2005,17 @@ Calculation therefore provides the “indispensable mental tool for choosing the
 
 The distinct traits of calculation and judgment are all absent in the alertness view. This is a necessary result of Kirzner’s distinction between Robbinsian maximizing and entrepreneurial discovery, which excludes capital ownership, uncertainty bearing, and monetary losses from the start. Yet this exclusion is precisely why alertness theory stumbles when it confronts policy analysis. Because Kirzner cannot incorporate ordinary economic decision making into entrepreneurship, he instead explains it by appealing to variables outside the sphere of action, i.e., the existence of pure profit opportunities, which in turn leads to the problems discussed above. However, a capital-owning, uncertainty-bearing entrepreneur who earns monetary profits or losses can play an integral role in policy analysis.
 
-#### The Policy Implications of Entrepreneurship
+###### The Policy Implications of Entrepreneurship
 
 With the ideas of entrepreneurial calculation and judgment in mind, we can now make sense of the link between public policy and entrepreneurial theory. One distinct advantage of the calculation-judgment theory is that it is easily integrated into policy analysis; the causal connections between policy and entrepreneurship are not metaphorical or paradoxical, but can be analyzed using fairly straightforward economic tools. What is more, by showing how policy interventions interfere with the process of economic calculation and judgment, we can more clearly determine the welfare implications of such interference.
 
-#### _Ownership and Political Entrepreneurship_
+###### _Ownership and Political Entrepreneurship_
 
 The application of judgment theory begins with the idea of ultimate or residual control over an enterprise. By determining where the locus of control and decision making lies, we can determine the scope and extent of entrepreneurial calculation, and also see how it might be hampered. More importantly, by discovering which individuals ultimately own and allocate resources, we can see how entrepreneurial behavior is different across institutional and policy contexts. The most obvious examples to contrast are entrepreneurial behavior in the market and in the political realm.
 
 We have already said something about entrepreneurial calculation in the market. In sharp contrast is the element of “entrepreneurship” that occurs within government. Although decision making within government is often complex, it is clear that within any given state there is some form of ultimate authority over resource allocation. The exercise of this control may be termed “political entrepreneurship” (McCaffrey and Salerno 2011). Political entrepreneurship is distinct from market entrepreneurship in at least two important ways: first, it occurs outside the sphere of economic calculation, and second, it is financed through coercive redistribution as opposed to voluntary exchange.[^129] The non-voluntary nature of public finance means that no matter how decisions are made, they will conflict with the current preferences of the public at large, while the absence of calculation means decisions lack rational direction. Political entrepreneurship — i.e., government decisions about the allocation of resources—therefore diverts the stream of spending away from the path it would have taken in an unregulated market, and also distorts the structure of production (Rothbard 2004, pp. 1151–55, 1167–68; McCaffrey 2011). Political entrepreneurship cannot therefore produce the same welfare-enhancing effects as market entrepreneurship, and the absence of entrepreneurial calculation within government means that it never could.
 
-#### _Entrepreneurship and the Institutional Framework_
+###### _Entrepreneurship and the Institutional Framework_
 
 The judgment approach also allows us to see how policy shifts the entrepreneurial function from one individual or group to another, and how this shift affects welfare outcomes. Changes in the entrepreneurial function are most relevant in a system of economic intervention. Under interventionism, ownership is systematically shared between government and private individuals, or in other words, there is a forcible separation of the ownership and control of the means of production. One way to describe this situation is “ _institutionalised_ uninvited co-ownership” (Hülsmann 2006; emphasis in original). For instance, when a government nationalizes an auto manufacturer or even the auto industry, entrepreneurs in these firms surrender their decision making ability, and the entrepreneurial function is shifted from the market to the political sphere. Even if entrepreneurs nominally retain ownership of the firm, they are little more than the managers of the enterprise — they can ultimately be replaced by the political entrepreneurs, who retain residual control. A system of government intervention, because it alters the pattern of ownership of the factors, also involves a systematic transfer of decision-making authority over them. Intervention therefore changes the pattern of entrepreneurship in society, by shifting the entrepreneurial function from some individuals to other more favored groups, be they rent-seeking firms or political entrepreneurs themselves.
 
@@ -2029,7 +2029,7 @@ One result is that regime uncertainty undermines judgment by threatening its _ra
 
 This is one way the conventional effects of regime uncertainty can be expressed in entrepreneurial terms. We can also imagine the reverse of regime uncertainty, when entrepreneurs believe returns will be _guaranteed_ no matter the quality of their judgment. Of course, guarantees of profitability and security are not found in the market; they are, however, often made by government in its negotiations with rent-seeking firms. When guarantees are made, profit-seeking activities increase because entrepreneurs believe they will be protected (e.g., through grants of monopoly privilege or bailouts), whether their investments are wise or not. Entrepreneurs are more likely to engage in risky and unprofitable production when convinced they will not ultimately bear the uncertainty of their decisions. This again hints at moral hazard.
 
-#### Conclusion
+###### Conclusion
 
 The theory of the entrepreneur is one of the most important components of economic science. But although it is vital for economists to understand the driving force of the market, it is equally important know how public policy hampers this force. The most obvious obstacle to economic progress is government intervention in the market economy, which inevitably involves interference with the decisions of the entrepreneur. Yet how we think of the entrepreneurial function matters greatly for our conclusions about exactly how economic policy changes the entrepreneurial process and the welfare outcomes of the market economy. If, following Kirzner, we view the entrepreneur as a resource-less and inactive agent awaiting the serendipitous discovery of profit opportunities, policy analysis becomes effectively impossible. Because the existence of profit opportunities does not explain a tendency toward entrepreneurial success, it likewise does not show how changes to the policy environment tend negatively to impact discovery and the welfare of market participants. The alertness theory does not then provide a substantial foundation on which to build a distinctly entrepreneurial approach to policy analysis.
 
@@ -2039,7 +2039,7 @@ Judgment, through its connections to economic calculation, provides a concrete r
 
 As a final thought, let me add that while the future is bright, so too is the past; in other words, it is vital to recognize that many of the most important advances in Austrian economics have emerged from careful reflection on the foundations laid by the giants of the tradition, whose insights must never be taken for granted. As our thinking on entrepreneurship moves forward, it too should be mindful of its roots in the Austrian school, and always take care to appreciate the contributions of previous generations. With that in mind, it is safe to say that as this tradition grows and thrives in the coming years, it will owe no small debt to Joseph Salerno.
 
-#### References
+###### References
 
 Bylund, Per L, and Matthew McCaffrey. “Entrepreneurs and Regime Uncertainty: A New Institutional Approach.” Unpublished Manuscript.
 
@@ -2116,7 +2116,7 @@ Notably, there does not exist an absence of political science research by Austri
 
 This chapter proceeds by outlining the evolution of international relations theory over the past two decades with specific attention to the progression of theoretical development toward a greater focus on human action. While most research is heavily positivist in its construction, theoretical development over the course of the past two decades has led, steadily, away from the abstractions of traditional neorealist (Waltz 1979) and liberal institutionalist (Keohane and Martin 1995) paradigms that have dominated international relations research. New theoretical approaches that offer greater recognition to human agency, as well as new methodological challenges in qualitative research, provide an opportunity for Austrian engagement. Following a discussion of these theoretical approaches, I conclude with suggested strategies for continued expansion of Austrian ideas to the social sciences outside economics.
 
-#### The Current State of the International Relations Literature
+###### The Current State of the International Relations Literature
 
 I first introduce through a simple illustration the relative position of the dominant international relations theoretical perspectives in the context of two fundamental criteria in Figure 1. The theories are organized according to their assumptions concerning the effect of anarchy on preferences, and thereby behaviors (y-axis), and the assumed level of analysis determining the type of actor under study (x-axis). Organizing each perspective by their nuanced conceptualizations on these two particular subjects provides an effective means of discussing their unique attributes within the context of their overarching similarities. (See Figure 1 on the following page.[^135] )
 
@@ -2142,29 +2142,29 @@ Liberalism in international relations theory is not the only path that has evolv
 
 Perhaps neoclassical realism and liberalism constitute different roads leading to the same destination. Both take seriously the need to incorporate greater complexity into our theories to better account for political phenomenon. Encouraging for practitioners of international relations, and the potential for interdisciplinary engagement with the Austrian school, is the drifting of paradigms not further apart, but closer together. These two latest iterations of realism and liberalism are perhaps more theoretically compatible than ever before in the past, constituting, in Lakatosian terms, progress in the field. In conjunction with rising methodological interest in deductive theory development and qualitative analysis (see Goertz 2005), a fruitful cross discipline dialogue incorporating the Austrian school as a next necessary step to this theoretical evolution in international relations is now possible.
 
-#### Strategies for Future Interdisciplinary Engagement
+###### Strategies for Future Interdisciplinary Engagement
 
 In order for such a debate to both occur and be fruitful, not only must the theoretical components be compatible and international relations researchers amenable to an Austrian turn, as I argue they now are, but the presentation of the ideas must be done in a thoughtful and effective manner. Just as in the presentation of any argument or position, the negative aspects of the method by which it is presented, or the individual doing the presenting, affect audience receptivity. For this reason, it is necessary for those engaging mainstream IR theory in advocacy of an Austrian perspective to be somewhat strategic, or at least minimally thoughtful, in the method and context of that interaction. While international relations as a field may be ready for interdisciplinary engagement, there are, in my opinion, three broad strategic impediments currently limiting the persuasiveness of the Austrian school to the social sciences (and the general public) that must first be addressed.
 
-#### _Strategy 1: Comprehension Before Engagement_
+###### _Strategy 1: Comprehension Before Engagement_
 
 One great pitfall to any interdisciplinary engagement is a failing to fully understand the core theories, methods, and even discipline specific jargon of the field you seek to engage.[^141] Comprehension is a necessary condition to effective engagement, and in its absence, attempts at an intellectual exchange may be dismissed or misunderstood, harming future discourse. As one example, there is a frequent and unfortunately persistent mischaracterization in Austrian circles of democratic peace theory, often inappropriately conflated with neoconservative foreign policy prescriptions. As but one example, a recent discussion by Hans Hoppe (2013) on the democratic peace grossly mischaracterizes the theory as including the claims “In order to create lasting peace, the entire world must be made democratic” and “war must be waged on those states to convert them to democracy and thus create lasting peace.” Such a claim about democratic peace is a complete invention, as there is not a single piece of democratic peace research in international relations that states either. Indeed, the original conceptualization of the democratic peace in modern political science empirical research was labelled the “libertarian peace” and focused on libertarian normative values (Rummel 1983). Such claims are completely absent in both the normative (Dixon 1994) and institutionalist (Bueno de Mesquita et al. 1999) explanations of the empirical finding, which has been described as “the closest thing we have to an empirical law in the study of international relations” (Levy 1989, p. 88). Indeed, the empirical record even suggests that newly created, unstable democracies are the most violent states in the system (see Mansfield and Snyder 2002). Dr. Hoppe appears to confuse the democratic peace, which originates as a deductive theory about domestic influence on the polity by Immanuel Kant ([1795] 1991, p. 113) and/or the rise of capitalist preferences by Joseph Schumpeter (1950; 1955), with neoconservative foreign policy recommendations (e.g., Kagan 2012) and the idealist policy prescriptions of Woodrow Wilson.[^142]
 
 While the criticism of such neoconservative policies that follows in Hoppe’s analysis is well crafted and would be predominantly shared by most democratic peace theorists, the failure to properly engage the enormous extant literature and demonstrate a basic knowledge of the theory as it currently exists in international relations fosters and supports divisions between the two social science fields rather than providing interesting political science insights from an Austrian perspective. Research in coercive hierarchical power relationships and the dissemination of democracy (Organski 1968; Rasler and Thompson 1994), the causal development of clear individual preferences within democratic (and non-democratic) institutional frameworks (Mousseau 2003; Peceny and Butler 2004; Gartzke 2007), and the relationship of foreign policy behaviors to institutional coercive strength (Rhamey 2012) all go ignored through this failing to engage international relations scholarship. Such a dialogue between these systemic and liberal approaches with Austrian scholarship has enormous potential for better understanding human action in the political context.[^143]
 
-#### _Strategy 2: Engage and Incorporate Mathematics_
+###### _Strategy 2: Engage and Incorporate Mathematics_
 
 If a priori science is a valuable approach, and we cannot knowingly observe the underlying motivations of actors, then generalizable and observable patterns of behavior should no doubt be present throughout a cadre of relevant historical events. While exploration of a single event may require a potentially dangerous divination of motivation in order to sensibly explain an historical episode, as well as any relevance to praxeological theories, econometric large-N analysis possesses the virtue of mathematically organizing possible relationships between events to uncover generally present correlations. A relationship between observable phenomena that are generalizably present in coincidence with an outcome of interest should correspond with any reasonably developed praxeologically deduced theorem, and certain types of statistical analysis may heavily complement Austrian research.[^144] While the idiosyncrasies of a single case may make for difficult historical illustration, laws of human behavior capable of explaining real world occurrences, in a Mengerian sense, should be observably evident in a statistically significant fashion across a relevant population in a properly specified model.[^145] While the failure to demonstrate expected empirical relationships that can be deduced from a praxeological approach does not, by definition, disprove the theory, it can serve the quite important purpose of highlighting deficiencies or logical fallacies within a deduced theorem. Theories are not apodictically true simply by labeling themselves a priorist, and a failing to observe generally present historical relationships that should coincide with the theory in a properly constructed econometric model is _potentially_ an indication of a failing in the theory’s initial deductive logic. Furthermore, formal modeling, such as that often employed in applications of selectorate theory (see Bueno de Mesquita et al. 2008), can be a helpful means of organizing information regarding causal processes arrived at through clearly deduced theories.
 
 Austrians often criticize econometric analysis as promulgating poorly developed or even illogical theories through the manipulation of algorithms to provide corroborating mathematical relationships. However, such a cautionary note surrounding statistical analysis is made by any serious approach to the social sciences, even in the most positivist corners, and an emphasis on theory prior to econometric testing is taught in every mainstream graduate research design course.[^146] This attack on econometrics, then, is something of a straw man caricature of econometric research as such inductive, hyper-positivist work is not the standard in mainstream social science. Instead, the hostility toward mathematics is more likely an indication of mathematical ignorance of underlying statistical algorithms, a confusion regarding statistical claims surrounding causality, or simply an attempt to promulgate a bad, illogical theory when confronted with a lack of, or even contradictory, empirical evidence. While properly developed social science theory is not dependent on empirical “proof,” an absence of such is typically a sound indication that something in the theory’s logic has gone awry. This is not to suggest that historical method of careful logical argumentation on a case by case basis is without merit (e.g., Rothbard 2002b). However, such qualitative approaches, while interesting, may not provide the most effective social science illustrations regarding generalizable theories. Econometric knowledge is neither the foundation nor the end goal of social science research, but if done well, it is an important tool in the arsenal of the social scientist and should be embraced.
 
-#### _Strategy 3: Focus on Academic Engagement_
+###### _Strategy 3: Focus on Academic Engagement_
 
 The ideas of the Austrian school have the potential to contribute greatly to the social sciences, but perceptions of those ideas, and thereby their dissemination, may be marred, however unfairly, by an unclear union between the intellectual development of theory building and libertarian political activism. As such, scholars should promote a clear distinction between Austrian research and political activism, not allowing scholarly work to be shrouded by irrelevant, and sometimes counterproductive or contradictory, agendas. This strategic concern is particularly applicable to interdisciplinary expansion to political science and international relations, fields already highly sensitive to the politicizing of social science research. In these fields, new research programs viewed as pandering to particular ideological perspectives or political groups, regardless of whether they are left, right, or libertarian, are likely to be quickly dismissed. For this reason, the community of Austrian scholars should promote a clear distinction between Austrian research and political activism.
 
 In part due to the efforts of scholars such as Dr. Salerno, the Austrian school has grown in prominence and exposure by leaps and bounds in the academic community, both within economics and beyond. However, the growth of the Austrian school as a heterodox approach may also tend to attract elements that seek to exploit rising interest for personal profit, or those attracted to the community not necessarily by its ideas, but its distinctiveness from the existing status quo. Such groups may include racists, fear-mongers, or simply those advocating apophenic views contradictory to empirical reality. Clearly, as an intellectual enterprise that not only values the development of thoughtful theoretical and empirical research, but also one with a deep dedication to principles of human liberty, the scholarly community must act to quickly condemn any such groups that may attempt to associate themselves with the Austrian school for no other reason than its rising popularity. Organizations or individuals whose mission is contrary to that of advancing sound social scientific thought and human liberty central to the Austrian school should be immediately and quickly dismissed. Obviously most Austrian scholars are quick to condemn these types of groups or individuals, but a more active, vocal, and immediate stance is necessary within the scholarly community in opposition to such detrimental associations to prevent negative perceptions by broader academe and to preserve the school’s intellectual integrity. In addition to being clearly opposed to principles of human liberty and Austrian thought, such negative associations would also be highly detrimental to the advancement of interdisciplinary opportunities across the social sciences.
 
-#### References
+###### References
 
 Axelrod, Robert, and Robert O. Keohane. 1985. “Achieving Cooperation under Anarchy: Strategies and Institutions.” _World Politics_ 38(1): 226–54.
 
@@ -2341,7 +2341,7 @@ I met Joe Salerno in 1989 at an early edition of the Mises Institute summer inst
 
 Joe took over for Guido Hülsmann as director of the Mises Summer Fellows Program in 2004, and it has been a joy to watch him embrace the role of mentor for dozens of younger scholars, many of whom have contributed to the present volume. Besides having a huge influence on his contemporaries, Joe has become the leader of the Austrian movement to its younger practitioners. Speaking for my fellow Austrians, I can say, with pleasure, that we are all Salernians now.
 
-#### References
+###### References
 
 Foss, Nicolai J., and Peter G. Klein. 2012. _Organizing Entrepreneurial Judgment: A New Approach to the Firm_. Cambridge: Cambridge University Press.
 

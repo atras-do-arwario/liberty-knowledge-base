@@ -68,7 +68,7 @@ In the selections from both Epictetus and Marcus we have retained the same “Bo
 
 ### Of a Happy Life
 
-#### OF A HAPPY LIVE
+###### OF A HAPPY LIVE
 
 There is not anything in this world, perhaps, that is more talked of, and less understood, than the business of a happy life. It is every man’s wish and design; and yet not one of a thousand that knows wherein that happiness consists. We live, however, in a blind and eager pursuit of it; and the more haste we make in a wrong way, the further we are from our journey’s end.
 
@@ -96,7 +96,7 @@ The pleasures of the vulgar are ungrounded, thin, and superficial; but the other
 
 This consummated state of felicity is only a submission to the dictate of right nature. The foundation of it is wisdom and virtue; the knowledge of what we ought to do, and the conformity of the will to that knowledge.
 
-#### Happiness Founded Upon Wisdom
+###### Happiness Founded Upon Wisdom
 
 Taking for granted that human happiness is founded upon wisdom and virtue, we shall treat of these two points in order as they lie: and, first, of wisdom; not in the latitude of its various opera­tions, but as it has only a regard to a good life, and the happiness of mankind.
 
@@ -132,7 +132,7 @@ In civil and domestic affairs, a wise man may stand in need of counsel, as of a 
 
 If there were nothing else in it, a man would apply himself of wisdom, because it settles him in a perpetual tranquillity of mind.
 
-#### Happiness Founded Upon Virtue
+###### Happiness Founded Upon Virtue
 
 Virtue is that perfect good, which is the complement of a happy life; the only immortal thing that belongs to mortality; it is the knowledge both of others and itself; it is an invincible greatness of mind, not to be elevated nor dejected with good or ill fortune. It is sociable and gentle, free, steady, and fearless; content within itself; full of inexhaustible delights; and it is valued for itself.
 
@@ -204,7 +204,7 @@ Wealth, honor, and favor may come upon a man by chance; nay, they may even be ca
 
 A good man is happy within himself, and indepen­dent of fortune, kind to his friend, temperate to his enemy, religiously just, indefatigibly laborious; and he discharges all duties with a constancy and congru­ity of actions.
 
-#### Philosophy the Guide of Life
+###### Philosophy the Guide of Life
 
 Socrates places all philosophy in morals, and wisdom in the distinguishing of good and evil.
 
@@ -258,7 +258,7 @@ We are sick and ulcerous, and must be lanced and scarified, and every man has as
 
 Misfortunes, in fine, cannot be avoided; but they may be sweetened, if not overcome; and our lives may be made happy by philosophy.
 
-#### The Force of Precepts
+###### The Force of Precepts
 
 There seems to be so near an affinity betwixt wisdom, philosophy, and good counsels, that it is rather matter of curiosity than of profit to divide them; philosophy being only a limited wisdom; and good counsels a communication of that wisdom, for the good of others as well as of ourselves, and to posterity, as well as to the present.
 
@@ -312,7 +312,7 @@ He that pretends to a happy life must first lay a foundation of virtue, as a bon
 
 He that would be truly happy, must think his own lot best, and so live with men as considering that God sees him, and so speak to God as if men heard him.
 
-#### No Felicity Like Peace of Conscience
+###### No Felicity Like Peace of Conscience
 
 A good conscience is the testimony of a good life, and the reward of it. This is it that forti­fies the mind against fortune, when a man has gotten the mastery of his passions, placed his treasure and his security within himself, learned to be content with his condition, and that death is no evil in itself, but only the end of man.
 
@@ -344,7 +344,7 @@ It is a great comfort that we are only condemned to the same fate with the unive
 
 We are born to lose and to perish, to hope and to fear, to vex ourselves and others; and there is no antidote against a common calamity but virtue; for the foundation of true joy is in the conscience.
 
-#### A Good Man Can Never Be Miserable
+###### A Good Man Can Never Be Miserable
 
 There is not in the scale of nature a more inseparable connection of cause and effect than in the case of happiness and virtue: nor anything that more naturally produces the one, or more necessarily presupposes the other. For what is it to be happy, but for a man to content himself with his lot, in a quiet and cheerful resignation to the appointments of God?
 
@@ -372,7 +372,7 @@ In brief, it is the conscience that pronounces upon the man whether he be happy 
 
 Let wickedness escape as it may at the bar, it never fails of doing justice upon itself. For every guilty person is his own hangman.
 
-#### Providence the Cure of Misfortunes
+###### Providence the Cure of Misfortunes
 
 It is not possible for us to comprehend what the Power is which has made all things. Some few sparks of that Divinity are discovered, but infinitely the greater part of it lies hid. We are all of us, however, thus far agreed, first, in the acknowledge­ment and belief of that almighty Being; and, second­ly, that we are to ascribe to it all majesty and goodness.
 
@@ -402,7 +402,7 @@ No man can be happy that does not stand firm against all contingencies, and say 
 
 The more we struggle with our necessities, we draw that knot the harder, and the worse it is with us. And the more the bird flaps and flutters in the snare, the surer she is caught. So that the best way is to submit and lie still, under this double consid­eration, that the proceedings of God are unquestion­able, and his decrees are not to be resisted.
 
-#### Of Levity of Mind
+###### Of Levity of Mind
 
 We have showed what happiness is, and wherein it consists; that it is founded upon wisdom and virtue, for we must first know what we ought to do, and then live according to that knowledge. We have also discoursed the helps of philosophy and precept toward a happy life, the blessing of a good conscience, that a good man can never be miserable nor a wicked man happy, nor any man unfortunate that cheerfully submits to Providence.
 
@@ -440,7 +440,7 @@ There are some things we would be thought to desire, which we are so far from de
 
 One sovereign remedy against all misfortunes is constancy of mind. The changing of parties and countenances looks as if a man were driven with the wind. Nothing can be above him that is above for­tune.
 
-#### A Wise Man Proof Against Calamities
+###### A Wise Man Proof Against Calamities
 
 It is not violence, reproach, contempt, or whatever else from without that can make a wise man quit his ground, but he is proof against calamities, both great and small. Only our error is, that what we cannot do ourselves, we think nobody else can; so that we judge of the wise by the measures of the weak.
 
@@ -450,13 +450,13 @@ It is no great matter to trample upon those things that are most coveted or fear
 
 To secure ourselves in this world, first, we must aim at nothing that men count worth the wrangl­ing for. Secondly, we must not value the possession of anything that even a common thief would think worth the stealing. A man’s body is no booty. Let the way be never so dangerous for robberies, the poor and the naked pass quietly.
 
-#### Of Sincerity of Manners
+###### Of Sincerity of Manners
 
 A plain dealing sincerity of manners makes a man’s life happy, even in despite of scorn and contempt, which is every clear man’s fate. But we had better yet be contemned for simplicity than lie perpetually upon the torture of a counterfeit, provided that care be taken not to confound simplic­ity with negligence. And it is, moreover, an uneasy life, that of a disguise, for a man to seem to be what he is not, to keep a perpetual guard upon himself, and to live in fear of a discovery.
 
 Of all others, a studious life is the least tiresome. It makes us easy to ourselves and to others, and gains us both friends and reputation.
 
-#### Happiness Can Never Depend Upon Fortune
+###### Happiness Can Never Depend Upon Fortune
 
 Never pronounce any man happy that depends upon fortune for his happiness; for nothing can be more preposterous than to place the good of a reasonable creature in unreasonable things.
 
@@ -478,7 +478,7 @@ That which fortune gives us this hour she may take away the next; and he that tr
 
 But the best of it is, if a man cannot mend his fortune, he may yet mend his manners, and put himself so far out of fortune’s reach that whether she gives or takes it shall be all one to us; for we are neither the greater for one, nor the less for the other.
 
-#### What Befalls One May Befall All
+###### What Befalls One May Befall All
 
 We call this a dark room, or that a light one; when it is in itself neither the one nor the other, but only as the day and the night render it. And so it is in riches, strength of body, beauty, honor, command; and likewise in sickness, pain, banishment, death, which are in themselves middle and indifferent things, and only good or bad as they are influenced by virtue.
 
@@ -488,7 +488,7 @@ When we see any man banished, beggared, tortur­ed, we are to account that thoug
 
 The things that are often contemned by the inconsiderate, and always by the wise, are in them­selves neither good nor evil: as, pleasure and pains, prosperity and adversity, which can only operate upon our outward condition, without any proper and neces­sary effect upon the mind.
 
-#### A Sensual Life is a Miserable Life
+###### A Sensual Life is a Miserable Life
 
 What if a body might have all the pleasures in the world for the asking; who would so much unman himself as by accepting of them to desert his soul, and become a perpetual slave to his senses?
 
@@ -504,7 +504,7 @@ It is a brutal entertainment, and unworthy of a man, to place his felicity in th
 
 Deliver me from the superstition of taking those things which are light and vain for felicities.
 
-#### Of Avarice and Ambition
+###### Of Avarice and Ambition
 
 There is no avarice without some punishment, over and above that which it is to itself. How miserable is it in the desirel How miserable even in the attaining of our ends! For money is a greater torment in the possession than it is in the pursuit. The fear of losing it is a great trouble, the loss of it a greater, and it is made a greater yet by opin­ion.
 
@@ -518,7 +518,7 @@ I will never envy those that the people call great and happy. A sound mind is no
 
 Nay, in the very moment of our despising ser­vants, we may be made so ourselves.
 
-#### The Blessings of Temperance and Moderation
+###### The Blessings of Temperance and Moderation
 
 There is not anything that is necessary to us but we have it either cheap or gratis. And this is the provision that our heavenly Father has made for us, whose bounty was never wanting to our needs.
 
@@ -534,7 +534,7 @@ The end of eating and of drinking is satiety. Now what matters it though one eat
 
 It is the practice of the multitude to bark at eminent men, as little dogs do at strangers, for they look upon other men’s virtues as the upbraiding of their own wickedness. We should do well to commend those that are good; if not, let us pass them over.
 
-#### The Blessings of Friendship
+###### The Blessings of Friendship
 
 Of all felicities, the most charming is that of a firm and gentle friendship. It sweetens all our cares, dispels our sorrows, and counsels us in all extremities. Nay, if there were no other comfort in it than the bare exercise of so generous a virtue, even for that single reason a man would not be without it. Besides that, it is a sovereign antidote against all calamities, even against the fear of death itself.
 
@@ -544,7 +544,7 @@ My conversation lies among my books, but yet in the letters of a friend, methink
 
 He that is a friend to himself is also a friend to mankind. Even in my very studies, the greatest delight I take in what I learn is the teaching of it to others. For there is no relish, methinks, in the possession of anything without a partner. Nay, if wisdom itself were offered me upon condition only of keeping it to myself, I should undoubtedly refuse it.
 
-#### Consolations Against Death
+###### Consolations Against Death
 
 This life is only a prelude to eternity, where we are to expect another original, and another state of things. We have no prospect of heaven here but at a distance; let us therefore expect our last hour with courage.
 
@@ -564,7 +564,7 @@ The future is uncertain; and I had rather beg of myself not to desire anything, 
 
 ### Of Benefits
 
-#### OF BENEFITS
+###### OF BENEFITS
 
 A benefit is a good office, done with intention and judgment; that is to say, with a due regard to all the circumstances of what, how, why, when, where, to whom, how much, and the like. Or, otherwise, it is a voluntary and benevolent action, that delights the giver in the comfort it brings to the receiver. The very meditation of it breeds good blood and generous thoughts, and instructs us in all the parts of honor, humanity, friendship, piety, gratitude, prudence and justice.
 
@@ -572,7 +572,7 @@ In short, the art and skill of conferring benefits is, of all human duties, the 
 
 He that does good to another man does good also to himself; not only in the consequence, but in the very act of doing it; for the conscience of well­doing is an ample reward.
 
-#### Of Intentions and Effects
+###### Of Intentions and Effects
 
 The good-will of the benefactor is the fountain of all benefits; Nay, it is the benefit itself, or at least the stamp that makes it valuable and current. The obligation rests in the mind, not in the matter; and all those advantages which we see, handle, or hold in actual possession by the courtesy of another are but several modes or ways of explaining and putting the good-will in execution.
 
@@ -588,7 +588,7 @@ In fine, the conscience alone is the judge, both of benefits and injuries.
 
 And so it is with the good we receive, either without, or beside, or contrary to intention. It is the mind, and not the event, that distinguishes from an injury.
 
-#### Of Judgment in the Bestowal of Benefits
+###### Of Judgment in the Bestowal of Benefits
 
 We are to give by choice, and not by hazard. My inclination bids me oblige one man; I am bound in duty and justice to serve another. Here it is a charity, there it is pity; and elsewhere, perhaps, encouragement.
 
@@ -606,7 +606,7 @@ But what shall I do, you will say, to know whether a man will be grateful or not
 
 Nay, if I knew a man to be incurably thankless, I would yet be so kind as to put him in his way, or let him light a candle at mine, or draw water at my well; which may stand him perhaps in great stead, and yet not be reckoned as a benefit from me; for I do it carelessly and not for his sake but my own, as an office of humanity, without any choice or kindness.
 
-#### Of the Matter of Obligations
+###### Of the Matter of Obligations
 
 Alexander bestowed a city upon one of his favorites who, modestly excusing himself, “That it was too much for him to receive.” “Well, but,” says Alexander, “it is not too much for me to give.” A haughty certainly and an imprudent speech; for that which was not fit for the one to take could not be fit for the other to give.
 
@@ -622,7 +622,7 @@ I will no more undo a man with his will, than forbear saving him against it. It 
 
 He that lends a man money to carry to a bawdy­house, or a weapon for his revenge, makes himself a partaker of his crime.
 
-#### The Manner of Obliging
+###### The Manner of Obliging
 
 In the first place, whatsoever we give, let us do it frankly. A kind benefactor makes a man happy as soon as he can, and as much as he can. There should be no delay in a benefit but the modesty of the receiver. If we cannot foresee the request, let us, however, immediately grant it, and by no means suffer the repeating of it. It is so grievous a thing to say, I BEG. The very word puts a man out of countenance. And it is a double kindness to do the thing, and save an honest man the confusion of a blush. It comes too late that comes for the asking; for nothing costs us so dear as that we purchase with our prayers. It is all we give, even for heaven itself; and even there too, where our petitions are at the fairest, we choose rather to present them in secret ejaculations than by word of mouth. That is the lasting and the acceptable benefit that meets the receiver half-way.
 
@@ -636,7 +636,7 @@ Many benefits are great in show, but little or nothing in effect when they come 
 
 He must be a wise, a friendly, and a well-bred man that perfectly acquits himself in the art and duty of obliging; for all his actions must be squared according to the measures of civility, good-nature, and discretion.
 
-#### Of Requital
+###### Of Requital
 
 Diogenes walked naked and unconcerned through the middle of Alexander’s treasures and was, as well
 
@@ -644,7 +644,7 @@ in other men’ s opinions as in his own, even above Alexander himself, who at t
 
 Nor is it to be said that “I cannot requite such a benefactor because I am poor, and have it not.” I can give good counsel, a conversation wherein he may take both delight and profit, freedom of discourse without flattery, kind attention, where he deliber­ates, and faith inviolable where he trusts. I may bring him to a love and knowledge of truth, deliver him from the errors of his credulity, and teach him to distinguish betwixt friends and parasites.
 
-#### Of How the Receiver Should Act
+###### Of How the Receiver Should Act
 
 There are certain rules in common betwixt the giver and the receiver. We must do both cheerfully, that the giver may receive the fruit of his benefit in the very act of bestowing it. The more glorious part, in appearance, is that of the giver; but the receiver has undoubtedly the harder game to play in many regards.
 
@@ -664,7 +664,7 @@ But whatever we do, let us be sure always to keep a grateful mind. It is not eno
 
 For my own part , when I come to cast up my account, and know what I owe and to whom, though I make my return sooner to some, and later to others, as occasion or fortune will give me leave, yet I will be just to all. I will be grateful to God, to man, to those that have obliged me; nay, even to those that have obliged my friends. I am bound in honor and in conscience to be thankful for what I have received; and if it be not yet full, it is some pleasure still that I may hope for more. For the requital of a favor there must be virtue, occasion, means, and fortune.
 
-#### Of Ingratitude
+###### Of Ingratitude
 
 The principal causes of ingratitude are pride and self-conceit, avarice, envy, etc. It is a familiar exclamation, “It is true he did this or that for me, but it came so late, and it was so little, I had even as good have been without it. If he had not given it to me, he must have given it to somebody else; it was nothing out of his own pocket.” Nay, we are so ungrateful that he that gives us all we have, if he leaves anything to himself, we reckon that he does us an injury.
 
@@ -674,7 +674,7 @@ But what is all this to those who are so made, as to dispute even the goodness o
 
 Without the exercise and the commerce of mutual offices we can be neither happy nor safe, for it is only society that secures us. Take us one by one, a prey even to brutes as well as to one another. Nature has brought us into the world naked and unarmed. We have not the teeth or the paws of lions or bears to make ourselves terrible. But by the two blessings of reason and union we secure and defend ourselves against violence and fortune. This it is that makes man the master of all other creatures, who otherwise were scarce a match for the weakest of them. This it is that comforts us in sickness, in age, in misery, in pains, and in the worst of calami­ties. Take away this combination, and mankind is dissociated and falls to pieces.
 
-#### Of Anger
+###### Of Anger
 
 Anger is not only a vice, but a vice point-blank against nature, for it divides instead of joining, and, in some measure, frustrates the end of Providence in human society. One man was born to help another. Anger makes us destroy one another. The one unites, the other separates. The one is beneficial to us, the other mischievous. The one succors even strang­ers, the other destroys even the most intimate friends. The one ventures all to save another, the other ruins himself to undo another. Nature is bountiful, but anger is pernicious; for it is not fear, but mutual love that binds up mankind.
 
@@ -682,7 +682,7 @@ The bravest man in the world may look pale when he puts on his armor, his knees 
 
 As fear flies, so anger assaults. And it is not possible to resolve either upon violence or caution, without the concurrence of the will.
 
-#### Suppressing Anger
+###### Suppressing Anger
 
 It is an idle thing to pretend that we cannot govern our anger: for some things that we do are much harder than others that we ought to do. The wildest affections may be tamed by discipline, and there is hardly anything which the mind wills to do but it may do.
 
@@ -694,7 +694,7 @@ ambassadors, told him that they would take it for a great obligation if he would
 
 This wonderful patience under contumelies was a great means of Philip’s security.
 
-#### Anger a Short Madness
+###### Anger a Short Madness
 
 He was much in the right, whoever he was, that first called anger a short madness; for they have both of them the same symptoms. And there is so wonderful a resemblance betwixt the transports of choler and those of frenzy, that it is a hard matter to know one from the other.
 
@@ -704,7 +704,7 @@ Now, if the outward appearance of anger be so foul and hideous, how deformed mus
 
 Anger, alas, is but a wild impetuous blast, an empty tumor, the very infirmity of women and child­ren; a brawling, clamorous evil. And the more noise the less courage, as we find it commonly that the boldest tongues have the faintest hearts.
 
-#### The Effect of Anger
+###### The Effect of Anger
 
 “It is a sad thing,” we cry, “to put up with these injuries, and we are not able to bear them.” As if any man that can bear anger could not bear an injury, which is much more supportable.
 
@@ -734,9 +734,9 @@ And, to wind up all in one word, the great lesson of mankind, as well in this as
 
 ### Epistles
 
-#### EPISTLES
+###### EPISTLES
 
-#### Of Writing and Speaking
+###### Of Writing and Speaking
 
 No man takes satisfaction in a flux of words without choice, where the noise is more than the value. Nay, let a man have words never so much at will, he will no more speak fast than he will run, for fear his tongue should get before his wit.
 
@@ -782,7 +782,7 @@ How miserable, as well as short, is their life, that compass with great labor wh
 
 But we are governed in all things by opinion, and everything is to us as we believe it.
 
-#### The Knowledge of Virtue
+###### The Knowledge of Virtue
 
 Be true to yourself, and examine yourself whether you be of the same mind to-day that you were yesterday; for that is a sign of perfect wisdom.
 

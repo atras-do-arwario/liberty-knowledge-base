@@ -9,7 +9,7 @@ Fall 2016
 
 Book Review
 
-## Private Governance: Creating Order in Economic and Social Life
+#### Private Governance: Creating Order in Economic and Social Life
 
 Edward P. Stringham
 Oxford: Oxford University Press, 2015, 296 pp.
@@ -34,7 +34,7 @@ In a much larger sense, there are also ways in which Stringham fails to answer p
 
 These cavils aside, Stringham is to be commended for his bold and wonderfully-argued thesis, and for the research that he has done in supporting his claims. Kudos to him, in particular, for wading into 2008’s troubled waters and showing how the market was trying to correct itself by means of credit default swaps and other innovative financial instruments, only to be stymied by the eternally ham-fisted intervention of governmental agencies like the Securities and Exchange Commission. (The SEC conducted no fewer than eight investigations of Bernie Madoff’s pyramid scheme, for instance, but did nothing, while other investors caught on to what Madoff was up to and shut him out of the fair-play club—just as Stringham and Hayek would have predicted they would. [pp. 182ff]) This book is a delight to read, is packed with accessible and fascinating information, is confident enough to tweak the noses of the Left (even if Stringham tweaks a bit much in some places), and is a recommended—required—read for anyone interested in the beauty of spontaneous order, far removed from the shadow of the state.
 
-#### REFERENCES
+###### REFERENCES
 
 Najita, Tetsuo. 2009. _Ordinary Economies in Japan: A Historical Perspective, 1750–1950_. Berkeley: University of California Press.
 
