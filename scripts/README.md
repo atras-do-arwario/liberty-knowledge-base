@@ -20,4 +20,4 @@ It's configured to read from `./mises_books/`, convert and save them into `./mis
 ```bash
 pip install beautifulsoup4 html2text
 python mises-institute-html-to-markdown.py
-```bash
+```
