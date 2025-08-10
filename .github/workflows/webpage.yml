@@ -13,7 +13,6 @@ jobs:
 
             - name: Prepare publish
               run: |
-                apt install jq -y
                 mkdir -p publish
                 find . -name "*.md" -not -path "./.git/*" -not -name "README.md" | sed 's|^\./||' > md_files.txt
                 jq -R -s -c 'split("\n") | map(select(. != ""))' md_files.txt > publish/files.json
