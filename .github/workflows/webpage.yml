@@ -7,17 +7,17 @@ jobs:
     build:
         runs-on: ubuntu-latest
         permissions:
-          contents: write
+            contents: write
         steps:
             - uses: actions/checkout@v4
 
             - name: Prepare publish
               run: |
-                mkdir -p publish
-                find . -name "*.md" -not -path "./.git/*" -not -name "README.md" | sed 's|^\./||' > md_files.txt
-                jq -R -s -c 'split("\n") | map(select(. != ""))' md_files.txt > publish/files.json
-                rm md_files.txt
-                mv public/index.html publish/
+                  mkdir -p publish
+                  find . -name "*.md" -not -path "./.git/*" -not -name "README.md" | sed 's|^\./||' > md_files.txt
+                  jq -R -s -c 'split("\n") | map(select(. != ""))' md_files.txt > publish/files.json
+                  rm md_files.txt
+                  mv public/* publish/
 
             # Publish
             - name: Publish Website
