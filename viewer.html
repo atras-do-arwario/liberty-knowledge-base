@@ -1,0 +1,75 @@
+<!-- viewer.html -->
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Markdown Viewer - Document</title>
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        />
+        <link rel="stylesheet" href="styles.css" />
+        <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+        <script src="https://cdn.jsdelivr.net/npm/marked@14.0.0/marked.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/highlight.min.js"></script>
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.7.0/styles/github.min.css"
+        />
+    </head>
+    <body>
+        <header class="container">
+            <h1 id="file-title"></h1>
+            <nav>
+                <ul>
+                    <li>
+                        <a href="index.html" role="button">Back to File List</a>
+                    </li>
+                    <li>
+                        <a id="download-link" download role="button"
+                            >Download Markdown</a
+                        >
+                    </li>
+                    <li><button id="toggle-view">View Full HTML</button></li>
+                </ul>
+            </nav>
+            <input
+                type="search"
+                id="content-search"
+                placeholder="Fuzzy search content..."
+                aria-label="Search document content"
+            />
+        </header>
+        <main class="container">
+            <section id="toc" aria-label="Table of Contents">
+                <h2>Table of Contents</h2>
+                <div id="toc-tree"></div>
+            </section>
+            <section
+                id="full-view"
+                style="display: none"
+                aria-label="Full Document View"
+            >
+                <div id="full-content" class="markdown-body"></div>
+            </section>
+            <section
+                id="search-results"
+                style="display: none"
+                aria-label="Search Results"
+            >
+                <h2>Search Results</h2>
+                <div id="results-list"></div>
+            </section>
+        </main>
+        <script src="viewer.js"></script>
+    </body>
+</html>
