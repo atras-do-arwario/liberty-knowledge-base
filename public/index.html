@@ -1,216 +1,38 @@
 <!-- index.html -->
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Markdown Viewer</title>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
-    <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
-    <script src="https://cdn.jsdelivr.net/npm/marked@14.0.0/marked.min.js"></script>
-    <style>
-        body { max-width: 1200px; margin: 0 auto; padding: 1rem; }
-        #file-list { list-style: none; padding: 0; }
-        #file-list li { cursor: pointer; padding: 0.5rem; border-bottom: 1px solid #ddd; }
-        #file-list li:hover { background: #f0f0f0; }
-        #viewer { display: none; }
-        #toc details { margin-left: 1rem; }
-        summary { cursor: pointer; display: flex; align-items: center; }
-        .copy-btn { margin-left: auto; font-size: 0.8rem; padding: 0.2rem 0.5rem; }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Markdown Files Viewer</h1>
-        <input type="search" id="search" placeholder="Fuzzy search file name..." aria-label="Search files">
-        <ul id="file-list"></ul>
-    </header>
-    <main id="viewer">
-        <h2 id="file-title"></h2>
-        <button id="copy-url">Copy Raw URL</button>
-        <a id="download-link" download>Download Markdown</a>
-        <section id="toc">
-            <h3>Table of Contents</h3>
-        </section>
-        <button id="back-to-list">Back to File List</button>
-    </main>
-
-    <script>
-        const repo = 'atras-do-arwario/liberty-knowledge-base'; // Replace with your GitHub username and repository name
-        const branch = 'main'; // Change if your branch is different
-        const baseRawUrl = `https://raw.githubusercontent.com/${repo}/${branch}/`;
-
-        let files = [];
-        let fuse;
-
-        async function loadFiles() {
-            try {
-                const response = await fetch('files.json');
-                if (!response.ok) throw new Error(`Failed to fetch files.json: ${response.status}`);
-                files = await response.json();
-                if (!Array.isArray(files)) throw new Error('files.json is not an array');
-                fuse = new Fuse(files, {
-                  includeScore: true,
-                  threshold: 0.6,
-                  ignoreLocation: true
-                });
-                displayFiles(files);
-            } catch (error) {
-                console.error('Error loading files:', error);
-                document.getElementById('file-list').innerHTML = '<li>Error loading files</li>'
-            }
-        }
-
-        function displayFiles(fileList) {
-            const ul = document.getElementById('file-list');
-            ul.innerHTML = '';
-            if (fileList.length === 0) {
-                ul.innerHTML = '<li>No files found</li>';
-                return;
-            }
-            fileList.forEach(file => {
-                const li = document.createElement('li');
-                // Handle both direct file paths and Fuse.js result objects
-                const filePath = typeof file === 'string' ? file : file.item;
-                li.textContent = filePath;
-                li.addEventListener('click', () => loadFile(filePath));
-                ul.appendChild(li);
-            });
-        }
-
-        document.getElementById('search').addEventListener('input', (e) => {
-            const query = e.target.value.trim();
-            try {
-                if (!query) {
-                    displayFiles(files);
-                    return;
-                }
-                const result = fuse.search(query);
-                displayFiles(result);
-            } catch (error) {
-                console.error('Search error:', error);
-                displayFiles(files); // Fallback to all files on error
-            }
-        });
-
-        async function loadFile(path) {
-            try {
-                const response = await fetch(baseRawUrl + path);
-                if (!response.ok) throw new Error(`Failed to fetch ${path}: ${response.status}`);
-                const md = await response.text();
-                const sections = buildSections(md);
-                document.getElementById('file-title').textContent = path;
-                const rawUrl = baseRawUrl + path;
-                document.getElementById('copy-url').onclick = () => {
-                    navigator.clipboard.writeText(rawUrl);
-                    alert('URL copied!');
-                };
-                const downloadLink = document.getElementById('download-link');
-                downloadLink.href = rawUrl;
-                downloadLink.download = path.split('/').pop();
-                renderTOC(sections, document.getElementById('toc'));
-                document.querySelector('header').style.display = 'none';
-                document.getElementById('viewer').style.display = 'block';
-            } catch (error) {
-                console.error('Error loading file:', error);
-                alert('Failed to load file');
-            }
-        }
-
-        document.getElementById('back-to-list').addEventListener('click', () => {
-            document.querySelector('header').style.display = 'block';
-            document.getElementById('viewer').style.display = 'none';
-            document.getElementById('toc').innerHTML = '<h3>Table of Contents</h3>';
-        });
-
-        function buildSections(md) {
-            const lines = md.split('\n');
-            const root = { children: [], level: 0 };
-            let stack = [root];
-            let buffer = [];
-            for (let line of lines) {
-                const match = line.match(/^(#{1,6})\s+(.*)/);
-                if (match) {
-                    const level = match[1].length;
-                    const title = match[2].trim();
-                    if (buffer.length) {
-                        stack[stack.length - 1].content = buffer.join('\n').trim();
-                        buffer = [];
-                    }
-                    while (stack.length > level) {
-                        stack.pop();
-                    }
-                    const newSec = { title, level, content: '', children: [], id: title.toLowerCase().replace(/[^a-z0-9]+/g, '-') };
-                    stack[stack.length - 1].children.push(newSec);
-                    stack.push(newSec);
-                } else {
-                    buffer.push(line);
-                }
-            }
-            if (buffer.length) {
-                stack[stack.length - 1].content = buffer.join('\n').trim();
-            }
-            return root.children;
-        }
-
-        function getSectionMarkdown(section) {
-            let md = '#'.repeat(section.level) + ' ' + section.title + '\n\n';
-            if (section.content) {
-                md += section.content + '\n\n';
-            }
-            for (let child of section.children) {
-                md += getSectionMarkdown(child);
-            }
-            return md.trim() + '\n';
-        }
-
-        function renderTOC(sections, container) {
-            container.innerHTML = '<h3>Table of Contents</h3>';
-            const tree = document.createElement('div');
-            buildTree(sections, tree);
-            container.appendChild(tree);
-        }
-
-        function buildTree(sections, parentElem) {
-            sections.forEach(section => {
-                const details = document.createElement('details');
-                const summary = document.createElement('summary');
-                summary.textContent = section.title;
-
-                const copyBtn = document.createElement('button');
-                copyBtn.textContent = 'Copy MD';
-                copyBtn.className = 'copy-btn';
-                copyBtn.addEventListener('click', (e) => {
-                    e.stopPropagation(); // Prevent toggling the details
-                    const mdContent = getSectionMarkdown(section);
-                    navigator.clipboard.writeText(mdContent).then(() => {
-                        alert('Markdown copied!');
-                    }).catch(err => {
-                        console.error('Copy error:', err);
-                        alert('Failed to copy');
-                    });
-                });
-                summary.appendChild(copyBtn);
-
-                details.appendChild(summary);
-                const contentDiv = document.createElement('div');
-                contentDiv.id = `content-${section.id}`;
-                details.appendChild(contentDiv);
-                if (section.children.length) {
-                    const childrenDiv = document.createElement('div');
-                    buildTree(section.children, childrenDiv);
-                    details.appendChild(childrenDiv);
-                }
-                details.addEventListener('toggle', (e) => {
-                    if (e.target.open && !contentDiv.innerHTML && section.content) {
-                        contentDiv.innerHTML = marked.parse(section.content);
-                    }
-                });
-                parentElem.appendChild(details);
-            });
-        }
-
-        loadFiles();
-    </script>
-</body>
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Markdown Viewer - File List</title>
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown.min.css"
+        />
+        <link
+            rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+        />
+        <link rel="stylesheet" href="styles.css" />
+        <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0"></script>
+    </head>
+    <body>
+        <header class="container">
+            <h1>Markdown Files Viewer</h1>
+            <input
+                type="search"
+                id="search"
+                placeholder="Fuzzy search file name..."
+                aria-label="Search files"
+            />
+        </header>
+        <main class="container">
+            <ul id="file-list" role="list"></ul>
+        </main>
+        <script src="index.js"></script>
+    </body>
 </html>
