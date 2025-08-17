@@ -5,6 +5,9 @@ from bs4 import BeautifulSoup, NavigableString
 import os
 import re
 
+INPUT_DIR = "../content/html/mises-institute"
+OUTPUT_DIR = "../content/markdown/mises-institute"
+
 
 def escape_mathjax_in_text_nodes(soup):
     """
@@ -169,14 +172,19 @@ def convert_html_to_markdown(html_content):
     return clean_markdown(md_output)
 
 
-def process_html_files(input_dir="./mises_books", output_dir="./mises_books/md"):
+def process_html_files(input_dir=INPUT_DIR, output_dir=OUTPUT_DIR):
     os.makedirs(output_dir, exist_ok=True)
 
     for filename in os.listdir(input_dir):
         if filename.endswith('.html'):
             input_path = os.path.join(input_dir, filename)
-            output_filename = os.path.splitext(filename)[0] + '.md'
+            filename = os.path.splitext(filename)[0]
+            output_filename = filename + '.md'
             output_path = os.path.join(output_dir, output_filename)
+
+            if (os.path.isfile(output_path)):
+                print(f"Markdown already converted for {filename}")
+                continue
 
             with open(input_path, 'r', encoding='utf-8') as file:
                 html_content = file.read()

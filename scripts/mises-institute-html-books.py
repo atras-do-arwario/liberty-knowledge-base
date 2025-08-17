@@ -10,7 +10,7 @@ from urllib.parse import urljoin
 # Base configuration
 BASE_URL = "https://mises.org/library/books?page={}"
 TOTAL_PAGES = 40  # From page=0 to page=39
-OUTPUT_DIR = "mises_books"
+OUTPUT_DIR = "../content/html/mises-institute"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 
 # Create output directory if it doesn't exist
@@ -114,6 +114,11 @@ def process_book_page(book_url):
         print(f"No printable HTML version found for {title}")
         return
 
+    filename = os.path.join(OUTPUT_DIR, sanitize_filename(title))
+    if (os.path.isfile(filename)):
+        print(f"HTML already downloaded for {title}")
+        return
+
     # Download the book
     download_book(printable_url, title)
     # Respectful delay
@@ -122,6 +127,11 @@ def process_book_page(book_url):
 
 def main():
     """Main function to crawl all book pages."""
+
+    print("Starting manual downloads...")
+    process_book_page("https://mises.org/library/book/man-economy-and-state-power-and-market")
+    print("Finished manual downloads...")
+
     for page in range(TOTAL_PAGES):
         print(f"Processing page {page}...")
         page_url = BASE_URL.format(page)
