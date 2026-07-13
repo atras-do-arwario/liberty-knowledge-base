@@ -39,6 +39,7 @@ content/markdown/mises-institute/The_Law.md
 content/markdown/mises-institute/A_Strange_Liberty_Politics_Drops_Its_Pretenses.md
 content/markdown/mises-institute/Review_of_Andrew_Carnegie_An_Economic_Biography_by_Samuel_Bostaph.md
 content/markdown/mises-institute/Breaking_Away_The_Case_for_Secession_Radical_Decentralization_and_Smaller_Polities.md
+content/markdown/mises-institute/Man_Economy_and_State_with_Power_and_Market.md
 content/markdown/mises-institute/The_Mystery_of_Banking.md
 content/markdown/mises-institute/Liberty_and_Property.md
 content/markdown/mises-institute/The_Progressive_Era.md
@@ -71,3 +72,4 @@ content/markdown/mises-institute/The_Skyscraper_Curse_And_How_Austrian_Economist
 content/markdown/mises-institute/The_Production_of_Security.md
 content/markdown/mises-institute/The_Interest_Rate_and_the_Length_of_Production_A_Comment.md
 content/markdown/mises-institute/Ludwig_von_Mises_as_a_Social_Rationalist.md
+content/manual/markdown/mises-institute/On_the_Proper_Study_of_Man.md
