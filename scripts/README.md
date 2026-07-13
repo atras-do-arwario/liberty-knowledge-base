@@ -4,7 +4,7 @@
 
 ### Download
 
-To search and download all html books from the Mises Institute, run the script `mises-institute-html-books.py`.
+To search and download all html books from the Mises Institute, run the script `mises-institute-html-epub-books.py`.
 It's configured to be slow and to download them into `../content/html/mises-institute/`.
 
 ```bash

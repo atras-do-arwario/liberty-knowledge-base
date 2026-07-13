@@ -1,21 +1,24 @@
-# written by Grok 3
+# written by Grok 4
 
-import requests
-from bs4 import BeautifulSoup
-import os
-import time
-import re
 from urllib.parse import urljoin
+import re
+import time
+import os
+from bs4 import BeautifulSoup
+import requests
 
 # Base configuration
 BASE_URL = "https://mises.org/library/books?page={}"
 TOTAL_PAGES = 40  # From page=0 to page=39
-OUTPUT_DIR = "../content/html/mises-institute"
+OUTPUT_DIR_HTML = "../content/html/mises-institute"
+OUTPUT_DIR_EPUB = "../content/epub/mises-institute"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 
-# Create output directory if it doesn't exist
-if not os.path.exists(OUTPUT_DIR):
-    os.makedirs(OUTPUT_DIR)
+# Create output directories if they don't exist
+if not os.path.exists(OUTPUT_DIR_HTML):
+    os.makedirs(OUTPUT_DIR_HTML)
+if not os.path.exists(OUTPUT_DIR_EPUB):
+    os.makedirs(OUTPUT_DIR_EPUB)
 
 
 def get_soup(url):
@@ -30,10 +33,10 @@ def get_soup(url):
         return None
 
 
-def sanitize_filename(title):
-    """Sanitize book title to create a valid filename."""
-    # Remove invalid characters and replace spaces
-    return re.sub(r'[^\w\s-]', '', title).strip().replace(' ', '_') + ".html"
+def sanitize_filename(title, extension=".html"):
+    """Sanitize book title to create a valid filename with extension."""
+    base = re.sub(r'[^\w\s-]', '', title).strip().replace(' ', '_')
+    return base + extension
 
 
 def download_book(html_url, title):
@@ -43,13 +46,14 @@ def download_book(html_url, title):
         if not soup:
             return False
 
-        filename = os.path.join(OUTPUT_DIR, sanitize_filename(title))
+        filename = os.path.join(
+            OUTPUT_DIR_HTML, sanitize_filename(title, ".html"))
         with open(filename, "w", encoding="utf-8") as f:
             f.write(str(soup))
-        print(f"Downloaded: {title} to {filename}")
+        print(f"Downloaded HTML: {title} to {filename}")
         return True
     except Exception as e:
-        print(f"Error downloading {title} from {html_url}: {e}")
+        print(f"Error downloading HTML {title} from {html_url}: {e}")
         return False
 
 
@@ -73,7 +77,7 @@ def get_printable_html_url(book_url):
 
 
 def process_book_page(book_url):
-    """Process a single book page to find and download its HTML version."""
+    """Process a single book page to find and download its HTML version, fallback to EPUB if HTML not available."""
     soup = get_soup(book_url)
     if not soup:
         return
@@ -91,45 +95,63 @@ def process_book_page(book_url):
         print(f"No downloads section found for {title}")
         return
 
-    # Check for HTML version link within the downloads section
-    html_link = downloads_section.find("a", class_="text-misesBlueDark")
-    if not html_link or "href" not in html_link.attrs:
-        print(f"No HTML version link found for {title}")
-        return
-
-    # Verify the link contains the "View HTML Version" text within a span
-    span = html_link.find("span", string="View HTML Version")
-    if not span:
-        print(f"No HTML version found for {title}")
-        return
-
-    online_book_url = urljoin(book_url, html_link["href"])
-    if not online_book_url.startswith("https://mises.org/online-book/"):
-        print(f"Invalid online book URL for {title}: {online_book_url}")
-        return
-
-    # Get the printable HTML URL
-    printable_url = get_printable_html_url(online_book_url)
-    if not printable_url:
-        print(f"No printable HTML version found for {title}")
-        return
-
-    filename = os.path.join(OUTPUT_DIR, sanitize_filename(title))
-    if (os.path.isfile(filename)):
+    # Check if HTML already downloaded
+    html_filename = os.path.join(
+        OUTPUT_DIR_HTML, sanitize_filename(title, ".html"))
+    if os.path.exists(html_filename):
         print(f"HTML already downloaded for {title}")
         return
 
-    # Download the book
-    download_book(printable_url, title)
-    # Respectful delay
-    time.sleep(1)
+    # Find HTML and EPUB links
+    online_book_url = None
+    epub_url = None
+    epub_filename_span = None
+    for a in downloads_section.find_all("a", class_="text-misesBlueDark"):
+        span = a.find("span", string=re.compile(
+            r"View HTML Version|.*\.epub$"))
+        if span:
+            if span.string == "View HTML Version":
+                online_book_url = urljoin(book_url, a["href"])
+            elif span.string.endswith(".epub"):
+                epub_url = a["href"]
+                epub_filename_span = span.string
+
+    # Try to download HTML if available
+    html_downloaded = False
+    if online_book_url and online_book_url.startswith("https://mises.org/online-book/"):
+        printable_url = get_printable_html_url(online_book_url)
+        if printable_url:
+            if download_book(printable_url, title):
+                html_downloaded = True
+                time.sleep(1)
+
+    # If HTML not downloaded, fallback to EPUB
+    if not html_downloaded:
+        if epub_url and epub_filename_span:
+            epub_filename = os.path.join(OUTPUT_DIR_EPUB, epub_filename_span)
+            if os.path.exists(epub_filename):
+                print(f"EPUB already downloaded for {title}")
+                return
+            try:
+                headers = {"User-Agent": USER_AGENT}
+                response = requests.get(epub_url, headers=headers, timeout=10)
+                response.raise_for_status()
+                with open(epub_filename, "wb") as f:
+                    f.write(response.content)
+                print(f"Downloaded EPUB: {title} to {epub_filename}")
+                time.sleep(1)
+            except Exception as e:
+                print(f"Error downloading EPUB {title} from {epub_url}: {e}")
+        else:
+            print(f"No EPUB version found for {title}")
 
 
 def main():
     """Main function to crawl all book pages."""
 
     print("Starting manual downloads...")
-    process_book_page("https://mises.org/library/book/man-economy-and-state-power-and-market")
+    process_book_page(
+        "https://mises.org/library/book/man-economy-and-state-power-and-market")
     print("Finished manual downloads...")
 
     for page in range(TOTAL_PAGES):
